@@ -11,13 +11,18 @@
 
 <h1>Citations Statistics of IR Researchers</h1>
 
-<div id="date">
+<div id="date"><small>Data scraped from Google Scholar: "name",
+"citations", "h-index", and "i10-index" are from author profile;
+"year" denotes year of first citation.</small>
 </div>
+
+<p/>
 
 <table id="stats" border="0" class="tablesorter" width="300">
 <thead> 
 <tr> 
     <th>name</th> 
+    <th>year</th> 
     <th>citations</th> 
     <th>h-index</th> 
     <th>i10-index</th> 
@@ -28,7 +33,9 @@
 <script>
 for (var i=0; i< data.length; i++) {
   var row = $('<tr/>');
-  row.append($('<td style="text-align: left"/>').html('<a href="' + data[i].url + '">' + data[i].name + '</a>'));
+  row.append($('<td style="text-align: left"/>')
+    .html('<a href="' + data[i].url + '">' + data[i].name + '</a>'));
+  row.append($('<td/>').html(data[i].year));
   row.append($('<td/>').html(data[i].stats.citations[0]));
   row.append($('<td/>').html(data[i].stats.hindex[0]));
   row.append($('<td/>').html(data[i].stats.i10index[0]));
@@ -37,8 +44,8 @@ for (var i=0; i< data.length; i++) {
 
 // http://tablesorter.com/docs/
 $(document).ready(function() { 
-  $("#date").append("<p>Scraped from Google Scholar on " + date + "</p>");
-  $("#stats").tablesorter({sortList: [[2,1], [1,1]]}); 
+  $("#date").append("<br/><small>Last updated: " + date + "</small>");
+  $("#stats").tablesorter({sortList: [[3,1], [2,1]]}); 
 }); 
 </script>
 
