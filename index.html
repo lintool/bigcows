@@ -1,0 +1,42 @@
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://tablesorter.com/__jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="stats.js"></script></script>
+</head>
+<body>
+
+<h2>Citations Statistics of IR Researchers</h2>
+
+<table id="stats" border="1" class="tablesorter">
+<thead> 
+<tr> 
+    <th>Name</th> 
+    <th>Citations</th> 
+    <th>H-index</th> 
+    <th>i10index</th> 
+</tr> 
+</thead> 
+</table>
+
+<script>
+for (var i=0; i< data.length; i++) {
+  console.log(data[i]);
+
+  var row = $('<tr/>');
+  row.append($('<td/>').html(data[i].name));
+  row.append($('<td/>').html(data[i].stats.citations[0]));
+  row.append($('<td/>').html(data[i].stats.hindex[0]));
+  row.append($('<td/>').html(data[i].stats.i10index[0]));
+  $("#stats").append(row);
+}
+
+$(document).ready(function() 
+    { 
+        $("#stats").tablesorter({sortList: [[2,1]]}); 
+    } 
+); 
+</script>
+
+</body>
+</html>
