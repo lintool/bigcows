@@ -31,9 +31,10 @@ for (var i=0; i< data.length; i++) {
   $("#stats").append(row);
 }
 
+// http://tablesorter.com/docs/
 $(document).ready(function() 
     { 
-        $("#stats").tablesorter({sortList: [[2,1]]}); 
+        $("#stats").tablesorter({sortList: [[2,1], [1,1]]}); 
     } 
 ); 
 </script>
