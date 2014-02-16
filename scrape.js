@@ -3,24 +3,28 @@
 var request = require('request');
 var cheerio = require('cheerio');
 
-pools = {
+people = {
   'Jimmy Lin' : 'http://scholar.google.com/citations?user=0EWw1z8AAAAJ&hl=en',
 }
 
-for (pool in pools) {
-  var url = pools[pool];
-  console.log(url);
+var data = [];
 
-  request(url, (function(pool) { return function(err, resp, body) {
+for (person in people) {
+  var url = people[person];
+
+  request(url, (function(person) { return function(err, resp, body) {
     $ = cheerio.load(body);
-    console.log(pool);
-    //console.log(body);
-    $('#stats tr').each(function(day) {
-      $(this).find('td').each(function() {
-        event = $(this).text()
-        console.log(event);
-      });
-    });
-  }})(pool));
-}
+    console.log(person);
 
+    var raw = $('#stats tr');
+    var stats = {
+      'citations' : [raw[1].children[1].children[0].data, raw[1].children[2].children[0].data],
+      'hindex' : [raw[2].children[1].children[0].data, raw[2].children[2].children[0].data],
+      'i10index' : [raw[3].children[1].children[0].data, raw[3].children[2].children[0].data]
+    };
+
+    console.log(stats);
+
+    data.push({ 'name' : person, 'stats' : stats});
+  }})(person));
+}
