@@ -4,7 +4,7 @@ body {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
 table.tablesorter {
 	background-color: #CDCDCD;
 	margin:10px 0pt 15px;
-	width: 625;
+	width: 750;
 	text-align: left;
 }
 table.tablesorter thead tr th, table.tablesorter tfoot tr th {
