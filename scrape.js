@@ -50,6 +50,7 @@ var people = {
   'Fernando Diaz': 'http://scholar.google.com/citations?user=212SLn0AAAAJ&hl=en',
   'Susan Dumais': 'http://scholar.google.com/citations?user=x8dED5cAAAAJ&hl=en',
   'Miles Efron': 'http://scholar.google.com/citations?user=onFS1L0AAAAJ&hl=en',
+  'Tamer Elsayed': 'http://scholar.google.com/citations?user=ekS-yPIAAAAJ&hl=en',
   'Dennis Fetterly': 'http://scholar.google.com/citations?user=uc4csvYAAAAJ&hl=en',
   'Edward Fox': 'http://scholar.google.com/citations?user=uDwy_JgAAAAJ&hl=en',
   'Norbert Fuhr': 'http://scholar.google.com/citations?user=p53Ht7UAAAAJ&hl=en',
