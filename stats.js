@@ -1,4 +1,4 @@
-var date = "Wed Apr 16 2014 14:28:44 GMT-0400 (EDT)"
+var date = "Wed Apr 16 2014 14:57:00 GMT-0400 (EDT)"
 var data = [
   {
     "name": "Eytan Adar",
@@ -97,6 +97,26 @@ var data = [
       "i10index": [
         "28",
         "13"
+      ]
+    }
+  },
+  {
+    "name": "Benczúr András",
+    "affiliation": "Institute for Computer Science and Control",
+    "url": "http://scholar.google.com/citations?user=bPbaq5UAAAAJ&hl=en",
+    "year": "1996",
+    "stats": {
+      "citations": [
+        "1252",
+        "849"
+      ],
+      "hindex": [
+        "19",
+        "16"
+      ],
+      "i10index": [
+        "31",
+        "21"
       ]
     }
   },
@@ -437,6 +457,26 @@ var data = [
       "i10index": [
         "67",
         "52"
+      ]
+    }
+  },
+  {
+    "name": "Mark Carman",
+    "affiliation": "Monash University",
+    "url": "http://scholar.google.com/citations?user=fcPONTQAAAAJ&hl=en",
+    "year": "2001",
+    "stats": {
+      "citations": [
+        "728",
+        "443"
+      ],
+      "hindex": [
+        "14",
+        "12"
+      ],
+      "i10index": [
+        "17",
+        "15"
       ]
     }
   },
@@ -1141,6 +1181,26 @@ var data = [
     }
   },
   {
+    "name": "Cathal Gurrin",
+    "affiliation": "School of Computing, Dublin City University &amp; CLARITY",
+    "url": "http://scholar.google.com/citations?user=NSm2hJMAAAAJ&hl=en",
+    "year": "1999",
+    "stats": {
+      "citations": [
+        "1204",
+        "731"
+      ],
+      "hindex": [
+        "20",
+        "15"
+      ],
+      "i10index": [
+        "39",
+        "24"
+      ]
+    }
+  },
+  {
     "name": "Zoltan Gyongyi",
     "affiliation": "Research Scientist, Google",
     "url": "http://scholar.google.com/citations?user=2u9wZH8AAAAJ&hl=en",
@@ -1157,6 +1217,26 @@ var data = [
       "i10index": [
         "12",
         "12"
+      ]
+    }
+  },
+  {
+    "name": "Allan Hanbury",
+    "affiliation": "Senior Researcher at the Vienna University of Technology",
+    "url": "http://scholar.google.com/citations?user=_hR4cSAAAAAJ&hl=en",
+    "year": "2001",
+    "stats": {
+      "citations": [
+        "1729",
+        "1155"
+      ],
+      "hindex": [
+        "22",
+        "19"
+      ],
+      "i10index": [
+        "40",
+        "31"
       ]
     }
   },
@@ -1217,6 +1297,26 @@ var data = [
       "i10index": [
         "22",
         "15"
+      ]
+    }
+  },
+  {
+    "name": "Jiyin He",
+    "affiliation": "University of Amsterdam",
+    "url": "http://scholar.google.com/citations?user=F-8qMNEAAAAJ&hl=en",
+    "year": "2005",
+    "stats": {
+      "citations": [
+        "703",
+        "547"
+      ],
+      "hindex": [
+        "10",
+        "9"
+      ],
+      "i10index": [
+        "10",
+        "9"
       ]
     }
   },
@@ -1317,6 +1417,26 @@ var data = [
       "i10index": [
         "14",
         "14"
+      ]
+    }
+  },
+  {
+    "name": "Katja Hofmann",
+    "affiliation": "Microsoft Research",
+    "url": "http://scholar.google.com/citations?user=bHsjbLwAAAAJ&hl=en",
+    "year": "2007",
+    "stats": {
+      "citations": [
+        "407",
+        "367"
+      ],
+      "hindex": [
+        "13",
+        "11"
+      ],
+      "i10index": [
+        "19",
+        "15"
       ]
     }
   },
@@ -1601,7 +1721,7 @@ var data = [
     }
   },
   {
-    "name": "noriko kando",
+    "name": "Noriko Kando",
     "affiliation": "Professor, National Institute of Informatics",
     "url": "http://scholar.google.com/citations?user=IKVCQG8AAAAJ&hl=en",
     "year": "1998",
@@ -1681,6 +1801,26 @@ var data = [
     }
   },
   {
+    "name": "Sarvnaz Karimi",
+    "affiliation": "Research Scientist at CSIRO",
+    "url": "http://scholar.google.com/citations?user=BRzka3AAAAAJ&hl=en",
+    "year": "2006",
+    "stats": {
+      "citations": [
+        "209",
+        "199"
+      ],
+      "hindex": [
+        "8",
+        "8"
+      ],
+      "i10index": [
+        "8",
+        "8"
+      ]
+    }
+  },
+  {
     "name": "Jussi Karlgren",
     "affiliation": "Gavagai",
     "url": "http://scholar.google.com/citations?user=o7cz97l31z8J&hl=en",
@@ -1697,6 +1837,26 @@ var data = [
       "i10index": [
         "42",
         "17"
+      ]
+    }
+  },
+  {
+    "name": "Gabriella Kazai",
+    "affiliation": "Research Consultant, Microsoft Research",
+    "url": "http://scholar.google.com/citations?user=0U23qOUAAAAJ&hl=en",
+    "year": "2002",
+    "stats": {
+      "citations": [
+        "1884",
+        "978"
+      ],
+      "hindex": [
+        "24",
+        "17"
+      ],
+      "i10index": [
+        "51",
+        "35"
       ]
     }
   },
@@ -1777,6 +1937,26 @@ var data = [
       "i10index": [
         "62",
         "30"
+      ]
+    }
+  },
+  {
+    "name": "Michal Laclavík",
+    "affiliation": "Institute of Informatics, Slovak Academy of Sciences",
+    "url": "http://scholar.google.com/citations?user=nFTwkE0AAAAJ&hl=en",
+    "year": "2002",
+    "stats": {
+      "citations": [
+        "653",
+        "419"
+      ],
+      "hindex": [
+        "12",
+        "10"
+      ],
+      "i10index": [
+        "22",
+        "10"
       ]
     }
   },
@@ -2061,6 +2241,26 @@ var data = [
     }
   },
   {
+    "name": "Massimo Melucci",
+    "affiliation": "Professor of Computer Science, University of Padua, Italy",
+    "url": "http://scholar.google.com/citations?user=VGGkN-QAAAAJ&hl=en",
+    "year": "1995",
+    "stats": {
+      "citations": [
+        "1084",
+        "457"
+      ],
+      "hindex": [
+        "18",
+        "10"
+      ],
+      "i10index": [
+        "32",
+        "10"
+      ]
+    }
+  },
+  {
     "name": "Donald Metzler",
     "affiliation": "Google",
     "url": "http://scholar.google.com/citations?user=bmXpOd8AAAAJ&hl=en",
@@ -2077,6 +2277,26 @@ var data = [
       "i10index": [
         "42",
         "38"
+      ]
+    }
+  },
+  {
+    "name": "Rada Mihalcea",
+    "affiliation": "Associate Professor of Computer Science, University of Michigan",
+    "url": "http://scholar.google.com/citations?user=UetM7FgAAAAJ&hl=en",
+    "year": "2000",
+    "stats": {
+      "citations": [
+        "8756",
+        "5865"
+      ],
+      "hindex": [
+        "46",
+        "38"
+      ],
+      "i10index": [
+        "110",
+        "97"
       ]
     }
   },
@@ -2116,6 +2336,26 @@ var data = [
       ],
       "i10index": [
         "26",
+        "22"
+      ]
+    }
+  },
+  {
+    "name": "Stefano Mizzaro",
+    "affiliation": "Associate professor of Computer Science and Information Technology",
+    "url": "http://scholar.google.com/citations?user=2wvJC6IAAAAJ&hl=en",
+    "year": "1996",
+    "stats": {
+      "citations": [
+        "1935",
+        "898"
+      ],
+      "hindex": [
+        "20",
+        "15"
+      ],
+      "i10index": [
+        "29",
         "22"
       ]
     }
@@ -2161,26 +2401,6 @@ var data = [
     }
   },
   {
-    "name": "Rada Mihalcea",
-    "affiliation": "Associate Professor of Computer Science, University of Michigan",
-    "url": "http://scholar.google.com/citations?user=UetM7FgAAAAJ&hl=en",
-    "year": "2000",
-    "stats": {
-      "citations": [
-        "8756",
-        "5865"
-      ],
-      "hindex": [
-        "46",
-        "38"
-      ],
-      "i10index": [
-        "110",
-        "97"
-      ]
-    }
-  },
-  {
     "name": "Alistair Moffat",
     "affiliation": "Professor, The University of Melbourne",
     "url": "http://scholar.google.com/citations?user=r3xSME0AAAAJ&hl=en",
@@ -2217,6 +2437,46 @@ var data = [
       "i10index": [
         "37",
         "23"
+      ]
+    }
+  },
+  {
+    "name": "Isabelle Moulinier",
+    "affiliation": "Thomson Reuters",
+    "url": "http://scholar.google.com/citations?user=SJeHyHAAAAAJ&hl=en",
+    "year": "1996",
+    "stats": {
+      "citations": [
+        "690",
+        "243"
+      ],
+      "hindex": [
+        "9",
+        "6"
+      ],
+      "i10index": [
+        "9",
+        "3"
+      ]
+    }
+  },
+  {
+    "name": "Edleno Silva de Moura",
+    "affiliation": "Universidade Federal do Amazonas",
+    "url": "http://scholar.google.com/citations?user=gMHGurgAAAAJ&hl=en",
+    "year": "1998",
+    "stats": {
+      "citations": [
+        "2387",
+        "1345"
+      ],
+      "hindex": [
+        "25",
+        "20"
+      ],
+      "i10index": [
+        "45",
+        "40"
       ]
     }
   },
@@ -2377,6 +2637,46 @@ var data = [
       "i10index": [
         "102",
         "79"
+      ]
+    }
+  },
+  {
+    "name": "Gabriella Pasi",
+    "affiliation": "Universit� degli Studi di Milano Bicocca",
+    "url": "http://scholar.google.com/citations?user=5KWMh6wAAAAJ&hl=en",
+    "year": "1994",
+    "stats": {
+      "citations": [
+        "3098",
+        "1475"
+      ],
+      "hindex": [
+        "25",
+        "17"
+      ],
+      "i10index": [
+        "67",
+        "36"
+      ]
+    }
+  },
+  {
+    "name": "Laurence A. F. Park",
+    "affiliation": "School of Computing, Engineering and Mathematics, University of Western Sydney",
+    "url": "http://scholar.google.com/citations?user=W9VGXw4AAAAJ&hl=en",
+    "year": "2002",
+    "stats": {
+      "citations": [
+        "363",
+        "278"
+      ],
+      "hindex": [
+        "12",
+        "10"
+      ],
+      "i10index": [
+        "16",
+        "11"
       ]
     }
   },
@@ -2801,6 +3101,26 @@ var data = [
     }
   },
   {
+    "name": "Laurianne Sitbon",
+    "affiliation": "Queensland University of Technology",
+    "url": "http://scholar.google.com/citations?user=69CB608AAAAJ&hl=en",
+    "year": "2004",
+    "stats": {
+      "citations": [
+        "348",
+        "255"
+      ],
+      "hindex": [
+        "10",
+        "8"
+      ],
+      "i10index": [
+        "11",
+        "7"
+      ]
+    }
+  },
+  {
     "name": "Alan F. Smeaton",
     "affiliation": "Professor of Computing, Director Insight DCU, Dublin City University",
     "url": "http://scholar.google.com/citations?user=o7xnW2MAAAAJ&hl=en",
@@ -2817,6 +3137,26 @@ var data = [
       "i10index": [
         "195",
         "114"
+      ]
+    }
+  },
+  {
+    "name": "Catherine L. Smith",
+    "affiliation": "Assistant Professor, Library and Information Science, Kent State University",
+    "url": "http://scholar.google.com/citations?user=nhSWGhkAAAAJ&hl=en",
+    "year": "2006",
+    "stats": {
+      "citations": [
+        "86",
+        "74"
+      ],
+      "hindex": [
+        "4",
+        "3"
+      ],
+      "i10index": [
+        "2",
+        "1"
       ]
     }
   },
@@ -3377,6 +3717,26 @@ var data = [
       "i10index": [
         "160",
         "106"
+      ]
+    }
+  },
+  {
+    "name": "Guido Zuccon",
+    "affiliation": "Queensland University of Technology",
+    "url": "http://scholar.google.com/citations?user=aEVHhC8AAAAJ&hl=en",
+    "year": "2009",
+    "stats": {
+      "citations": [
+        "252",
+        "252"
+      ],
+      "hindex": [
+        "7",
+        "7"
+      ],
+      "i10index": [
+        "5",
+        "5"
       ]
     }
   }
