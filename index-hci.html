@@ -1,0 +1,64 @@
+<html>
+<head>
+<link rel="stylesheet" href="tablesorter/style.css" type="text/css" media="print, projection, screen" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="tablesorter/jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="stats-hci.js"></script></script>
+</head>
+<body>
+
+<a href="https://github.com/lintool/scholar-scraper/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://github-camo.global.ssl.fastly.net/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"></a>
+
+<h1>Citations Statistics of HCI and Information Visualization Researchers</h1>
+
+<div id="date"><small>Data scraped from Google Scholar: "name",
+"citations", "h-index", and "i10-index" are from author profile;
+"year" denotes year of first citation.</small>
+</div>
+
+<p/>
+
+<table id="stats" border="0" class="tablesorter" width="300">
+<thead> 
+<tr> 
+    <th>name</th> 
+    <th>year</th> 
+    <th>citations</th> 
+    <th>/y</th> 
+    <th>h-index</th> 
+    <th>/y</th> 
+    <th>i10-index</th> 
+    <th>/y</th> 
+</tr> 
+</thead> 
+</table>
+
+<script>
+function round(n) {
+  return Math.round(n*10)/10;
+}
+
+for (var i=0; i< data.length; i++) {
+  var row = $('<tr/>');
+  var y = (2014 - data[i].year);
+  row.append($('<td style="text-align: left"/>')
+    .html('<a href="' + data[i].url + '">' + data[i].name + '</a>'));
+  row.append($('<td/>').html(data[i].year));
+  row.append($('<td/>').html(data[i].stats.citations[0]));
+  row.append($('<td/>').html(Math.round(data[i].stats.citations[0]/y)));
+  row.append($('<td/>').html(data[i].stats.hindex[0]));
+  row.append($('<td/>').html(round(data[i].stats.hindex[0]/y)));
+  row.append($('<td/>').html(data[i].stats.i10index[0]));
+  row.append($('<td/>').html(round(data[i].stats.i10index[0]/y)));
+  $("#stats").append(row);
+}
+
+// http://tablesorter.com/docs/
+$(document).ready(function() { 
+  $("#date").append("<br/><small>Last updated: " + date + "</small>");
+  $("#stats").tablesorter({sortList: [[4,1], [2,1]]}); 
+}); 
+</script>
+
+</body>
+</html>
