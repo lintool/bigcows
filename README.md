@@ -12,7 +12,7 @@ Assuming you have [node.js](http://nodejs.org/) installed, rerun the scraper as 
 
 ```
 $ npm install request cheerio async
-$ node scrape.js > stats.js
+$ node scrape.js ./people-ir.json > stats-ir.js
 ``` 
 
 Then open up `index.html` and it should display the new statistics.
