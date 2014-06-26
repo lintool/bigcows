@@ -12,24 +12,29 @@ var scrape = function(person, doneCallback) {
   request(url, function(err, resp, body) {
     $ = cheerio.load(body);
 
-    var raw = $('#stats tr');
-    var affiliation = $('span[id=cit-affiliation-display]')[0].children[0].data;
-    var graph = $('td[width=475]')[0].children[2].attribs['src'];
-    var year = graph.match(/0:\|(\d+)/)[1];
+    try {
+      var raw = $('#stats tr');
+      var affiliation = $('span[id=cit-affiliation-display]')[0].children[0].data;
+      var graph = $('td[width=475]')[0].children[2].attribs['src'];
+      var year = graph.match(/0:\|(\d+)/)[1];
 
-    var stats = {
-      'citations' : [raw[1].children[1].children[0].data, raw[1].children[2].children[0].data],
-      'hindex' : [raw[2].children[1].children[0].data, raw[2].children[2].children[0].data],
-      'i10index' : [raw[3].children[1].children[0].data, raw[3].children[2].children[0].data]
-    };
+      var stats = {
+        'citations' : [raw[1].children[1].children[0].data, raw[1].children[2].children[0].data],
+        'hindex' : [raw[2].children[1].children[0].data, raw[2].children[2].children[0].data],
+        'i10index' : [raw[3].children[1].children[0].data, raw[3].children[2].children[0].data]
+      };
 
-    data = { 
-      'name' : person, 
-      'affiliation' : affiliation,
-      'url': url, 
-      'year': year, 
-      'stats' : stats
-    };
+      data = {
+        'name' : person,
+        'affiliation' : affiliation,
+        'url': url,
+        'year': year,
+        'stats' : stats
+      };
+
+    } catch (ex) {
+      throw new Error(person);
+    }
 
     doneCallback(null, data);
   });
