@@ -14,6 +14,7 @@ Assuming you have [node.js](http://nodejs.org/) installed, rerun the scraper as 
 $ npm install request cheerio async
 $ node scrape.js ./people-ir.json > stats-ir.js
 $ node scrape.js ./people-hci.json > stats-hci.js
+$ node scrape.js ./people-stratosphere.json > stats-stratosphere.js
 ``` 
 
 Then open up `index.html` and it should display the new statistics.
