@@ -6,22 +6,24 @@ var async = require('async');
 var people = require(process.argv[2]);
 
 var scrape = function(person, doneCallback) {
-  var url = people[person];
+  var url = people[person][1];
+  var year = people[person][0];
   var data = {};
 
   request(url, function(err, resp, body) {
     $ = cheerio.load(body);
 
     try {
-      var raw = $('#stats tr');
-      var affiliation = $('span[id=cit-affiliation-display]')[0].children[0].data;
-      var graph = $('td[width=475]')[0].children[2].attribs['src'];
-      var year = graph.match(/0:\|(\d+)/)[1];
+      var affiliation = $('.gsc_prf_il', '#gsc_prf_i')[0].children[0].data;
 
+      var rawStats = $('#gsc_rsb_st');
       var stats = {
-        'citations' : [raw[1].children[1].children[0].data, raw[1].children[2].children[0].data],
-        'hindex' : [raw[2].children[1].children[0].data, raw[2].children[2].children[0].data],
-        'i10index' : [raw[3].children[1].children[0].data, raw[3].children[2].children[0].data]
+        'citations' : [ rawStats[0].children[1].children[1].children[0].data,
+                        rawStats[0].children[1].children[2].children[0].data],
+        'hindex' : [ rawStats[0].children[2].children[1].children[0].data,
+                     rawStats[0].children[2].children[2].children[0].data],
+        'i10index' : [ rawStats[0].children[3].children[1].children[0].data,
+                       rawStats[0].children[3].children[2].children[0].data]
       };
 
       data = {
