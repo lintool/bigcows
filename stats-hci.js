@@ -2521,26 +2521,6 @@ var data = [
     }
   },
   {
-    "name": "Jimmy Lin",
-    "affiliation": "University of Maryland",
-    "url": "http://scholar.google.com/citations?user=0EWw1z8AAAAJ",
-    "year": 2001,
-    "stats": {
-      "citations": [
-        "6482",
-        "4425"
-      ],
-      "hindex": [
-        "42",
-        "34"
-      ],
-      "i10index": [
-        "106",
-        "92"
-      ]
-    }
-  },
-  {
     "name": "Kwan-Liu Ma",
     "affiliation": "Professor of Computer Science, University of California at Davis",
     "url": "http://scholar.google.com/citations?user=LgL2HpkAAAAJ",
