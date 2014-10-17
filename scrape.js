@@ -5,9 +5,8 @@ var cheerio = require('cheerio');
 var async = require('async');
 var people = require(process.argv[2]);
 
-var scrape = function(person, doneCallback) {
-  var url = people[person][1];
-  var year = people[person][0];
+var scrapeEntry = function(person, doneCallback) {
+  var url = people[person];
   var data = {};
 
   request(url, function(err, resp, body) {
@@ -30,7 +29,6 @@ var scrape = function(person, doneCallback) {
         'name' : person,
         'affiliation' : affiliation,
         'url': url,
-        'year': year,
         'stats' : stats
       };
 
@@ -42,9 +40,29 @@ var scrape = function(person, doneCallback) {
   });
 };
 
+var scrapeYear = function(entry, doneCallback) {
+  var histUrl = entry['url'] + "&view_op=citations_histogram";
+
+  request(histUrl, function(err, resp, body) {
+    $ = cheerio.load(body);
+
+    try {
+      year = $('.gsc_g_t')[0].children[0].data;
+    } catch(ex) {
+      throw new Error(entry['url']);
+    }
+
+    entry['year'] = year;
+
+    doneCallback(null, entry);
+  });
+};
+
 // http://javascriptplayground.com/blog/2013/06/think-async/
-async.mapSeries(Object.keys(people), scrape, function (err, results) {
-  var date = new Date();
-  console.log('var date = "' + date + '"');
-  console.log('var data = ' + JSON.stringify(results, null, 2) + ';');
+async.mapSeries(Object.keys(people), scrapeEntry, function (err, results) {
+  async.mapSeries(results, scrapeYear, function (err, results) {
+    var date = new Date();
+    console.log('var date = "' + date + '"');
+    console.log('var data = ' + JSON.stringify(results, null, 2) + ';');
+  });
 });
