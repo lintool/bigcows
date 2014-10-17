@@ -1,14 +1,13 @@
-var date = "Sat Oct 11 2014 07:43:59 GMT-0400 (EDT)"
+var date = "Thu Oct 16 2014 23:27:41 GMT-0400 (EDT)"
 var data = [
   {
     "name": "Gregory D. Abowd",
     "affiliation": "Regents&#39; and Distinguished Professor, School of Interactive Computing, Georgia Institute of",
     "url": "http://scholar.google.com/citations?user=gb8sbdcAAAAJ",
-    "year": 1995,
     "stats": {
       "citations": [
-        "31948",
-        "13871"
+        "31969",
+        "13889"
       ],
       "hindex": [
         "66",
@@ -16,19 +15,19 @@ var data = [
       ],
       "i10index": [
         "192",
-        "138"
+        "139"
       ]
-    }
+    },
+    "year": "1995"
   },
   {
     "name": "Mark S. Ackerman",
     "affiliation": "University of Michigan, Ann Arbor",
     "url": "http://scholar.google.com/citations?user=qBTbnEQAAAAJ",
-    "year": 1991,
     "stats": {
       "citations": [
-        "9635",
-        "4620"
+        "9639",
+        "4624"
       ],
       "hindex": [
         "42",
@@ -38,17 +37,17 @@ var data = [
         "83",
         "63"
       ]
-    }
+    },
+    "year": "1991"
   },
   {
     "name": "Maneesh Agrawala",
     "affiliation": "University of California, Berkeley",
     "url": "http://scholar.google.com/citations?user=YPzKczYAAAAJ",
-    "year": 1998,
     "stats": {
       "citations": [
-        "7820",
-        "5608"
+        "7833",
+        "5619"
       ],
       "hindex": [
         "47",
@@ -58,17 +57,17 @@ var data = [
         "104",
         "93"
       ]
-    }
+    },
+    "year": "1998"
   },
   {
     "name": "Vincent Aleven",
     "affiliation": "Associate Professor of Human-Computer Interaction, Carnegie Mellon University",
     "url": "http://scholar.google.com/citations?user=ztkfnCsAAAAJ",
-    "year": 1993,
     "stats": {
       "citations": [
-        "5430",
-        "3510"
+        "5438",
+        "3518"
       ],
       "hindex": [
         "34",
@@ -78,57 +77,57 @@ var data = [
         "94",
         "75"
       ]
-    }
+    },
+    "year": "1993"
   },
   {
     "name": "Jason Alexander",
     "affiliation": "Lancaster University",
     "url": "http://scholar.google.com/citations?user=gxT8_4EAAAAJ",
-    "year": 2006,
     "stats": {
       "citations": [
-        "403",
-        "365"
+        "406",
+        "368"
       ],
       "hindex": [
-        "12",
-        "12"
+        "13",
+        "13"
       ],
       "i10index": [
         "14",
         "14"
       ]
-    }
+    },
+    "year": "2006"
   },
   {
     "name": "John Anderson",
     "affiliation": "Professor of Psychology, Carnegie Mellon University",
     "url": "http://scholar.google.com/citations?user=PGcc-RIAAAAJ",
-    "year": 1977,
     "stats": {
       "citations": [
-        "103522",
-        "33204"
+        "103986",
+        "33491"
       ],
       "hindex": [
         "124",
         "76"
       ],
       "i10index": [
-        "550",
-        "321"
+        "559",
+        "328"
       ]
-    }
+    },
+    "year": "1977"
   },
   {
     "name": "Natalia Andrienko",
     "affiliation": "Fraunhofer IAIS (lead scientist) &amp; City University London (professor)",
     "url": "http://scholar.google.com/citations?user=t8LK29QAAAAJ",
-    "year": 1999,
     "stats": {
       "citations": [
-        "5037",
-        "3501"
+        "5050",
+        "3514"
       ],
       "hindex": [
         "36",
@@ -136,15 +135,15 @@ var data = [
       ],
       "i10index": [
         "100",
-        "80"
+        "81"
       ]
-    }
+    },
+    "year": "1999"
   },
   {
     "name": "Lisa Anthony",
     "affiliation": "Assistant Professor, University of Florida",
     "url": "http://scholar.google.com/citations?user=GUucp2UAAAAJ",
-    "year": 2000,
     "stats": {
       "citations": [
         "401",
@@ -158,17 +157,17 @@ var data = [
         "13",
         "9"
       ]
-    }
+    },
+    "year": "2000"
   },
   {
     "name": "Caroline Appert",
     "affiliation": "CNRS &amp; Univ. Paris Sud",
     "url": "http://scholar.google.com/citations?user=6ltKVMwAAAAJ",
-    "year": 2004,
     "stats": {
       "citations": [
-        "545",
-        "450"
+        "546",
+        "451"
       ],
       "hindex": [
         "12",
@@ -178,17 +177,17 @@ var data = [
         "15",
         "13"
       ]
-    }
+    },
+    "year": "2004"
   },
   {
     "name": "Cecilia Aragon",
     "affiliation": "Associate Professor of Human Centered Design &amp; Engineering, University of Washington",
     "url": "http://scholar.google.com/citations?user=BM_qLgYAAAAJ",
-    "year": 1989,
     "stats": {
       "citations": [
-        "3637",
-        "1492"
+        "3638",
+        "1494"
       ],
       "hindex": [
         "18",
@@ -198,17 +197,17 @@ var data = [
         "31",
         "30"
       ]
-    }
+    },
+    "year": "1989"
   },
   {
     "name": "Daniel Archambault",
     "affiliation": "Swansea University",
     "url": "http://scholar.google.com/citations?user=DwSNWBoAAAAJ",
-    "year": 2006,
     "stats": {
       "citations": [
-        "592",
-        "542"
+        "595",
+        "545"
       ],
       "hindex": [
         "12",
@@ -218,37 +217,37 @@ var data = [
         "16",
         "15"
       ]
-    }
+    },
+    "year": "2006"
   },
   {
     "name": "Brian Bailey",
     "affiliation": "University of Illinois",
     "url": "http://scholar.google.com/citations?user=1AVOLzMAAAAJ",
-    "year": 2000,
     "stats": {
       "citations": [
-        "3576",
-        "2344"
+        "3583",
+        "2351"
       ],
       "hindex": [
         "31",
-        "26"
+        "27"
       ],
       "i10index": [
         "56",
         "46"
       ]
-    }
+    },
+    "year": "2000"
   },
   {
     "name": "Ravin Balakrishnan",
     "affiliation": "University of Toronto",
     "url": "http://scholar.google.com/citations?user=WtijM48AAAAJ",
-    "year": 1999,
     "stats": {
       "citations": [
-        "9717",
-        "6666"
+        "9722",
+        "6671"
       ],
       "hindex": [
         "57",
@@ -258,17 +257,17 @@ var data = [
         "112",
         "106"
       ]
-    }
+    },
+    "year": "1999"
   },
   {
     "name": "Jeffrey Bardzell",
     "affiliation": "Associate Professor of Human-Computer Interaction Design, Indiana University",
     "url": "http://scholar.google.com/citations?user=JjKNmggAAAAJ",
-    "year": 1999,
     "stats": {
       "citations": [
-        "768",
-        "667"
+        "769",
+        "668"
       ],
       "hindex": [
         "16",
@@ -278,17 +277,17 @@ var data = [
         "26",
         "24"
       ]
-    }
+    },
+    "year": "1999"
   },
   {
     "name": "Russell Beale",
     "affiliation": "Professor of Human-Computer Interaction &amp; Director, HCI Centre - University of Birmingham",
     "url": "http://scholar.google.com/citations?user=kr40Kd8AAAAJ",
-    "year": 1992,
     "stats": {
       "citations": [
-        "8296",
-        "3146"
+        "8305",
+        "3152"
       ],
       "hindex": [
         "25",
@@ -298,17 +297,17 @@ var data = [
         "55",
         "33"
       ]
-    }
+    },
+    "year": "1992"
   },
   {
     "name": "Benjamin B. Bederson",
     "affiliation": "Professor of Computer Science, University of Maryland",
     "url": "http://scholar.google.com/citations?user=IcW1vJEAAAAJ",
-    "year": 1994,
     "stats": {
       "citations": [
-        "13546",
-        "6359"
+        "13559",
+        "6370"
       ],
       "hindex": [
         "53",
@@ -318,17 +317,17 @@ var data = [
         "125",
         "97"
       ]
-    }
+    },
+    "year": "1994"
   },
   {
     "name": "Michael Bernstein",
     "affiliation": "Assistant Professor, Stanford University",
     "url": "http://scholar.google.com/citations?user=zkhHirIAAAAJ",
-    "year": 2006,
     "stats": {
       "citations": [
-        "1979",
-        "1887"
+        "1987",
+        "1895"
       ],
       "hindex": [
         "20",
@@ -338,17 +337,17 @@ var data = [
         "26",
         "24"
       ]
-    }
+    },
+    "year": "2006"
   },
   {
     "name": "Enrico Bertini",
     "affiliation": "NYU Polytechnic School of Engineering",
     "url": "http://scholar.google.com/citations?user=_jGHG0IAAAAJ",
-    "year": 2004,
     "stats": {
       "citations": [
-        "740",
-        "629"
+        "750",
+        "639"
       ],
       "hindex": [
         "16",
@@ -358,17 +357,17 @@ var data = [
         "27",
         "22"
       ]
-    }
+    },
+    "year": "2004"
   },
   {
     "name": "Timothy Bickmore",
     "affiliation": "Northeastern University",
     "url": "http://scholar.google.com/citations?user=x9kzObUAAAAJ",
-    "year": 1995,
     "stats": {
       "citations": [
-        "5970",
-        "3150"
+        "5972",
+        "3152"
       ],
       "hindex": [
         "34",
@@ -378,17 +377,17 @@ var data = [
         "63",
         "57"
       ]
-    }
+    },
+    "year": "1995"
   },
   {
     "name": "Jeffrey Bigham",
     "affiliation": "Associate Professor, CMU HCII",
     "url": "http://scholar.google.com/citations?user=DFqp8NkAAAAJ",
-    "year": 2004,
     "stats": {
       "citations": [
-        "1944",
-        "1744"
+        "1945",
+        "1745"
       ],
       "hindex": [
         "21",
@@ -398,17 +397,17 @@ var data = [
         "37",
         "36"
       ]
-    }
+    },
+    "year": "2004"
   },
   {
     "name": "Jeremy Birnholtz",
     "affiliation": "Northwestern University",
     "url": "http://scholar.google.com/citations?user=o-iIoUQAAAAJ",
-    "year": 2004,
     "stats": {
       "citations": [
-        "1078",
-        "859"
+        "1081",
+        "862"
       ],
       "hindex": [
         "18",
@@ -418,17 +417,17 @@ var data = [
         "24",
         "23"
       ]
-    }
+    },
+    "year": "2004"
   },
   {
     "name": "Ann Blandford",
     "affiliation": "Professor of Human�Computer Interaction, UCL",
     "url": "http://scholar.google.com/citations?user=-uXQUCwAAAAJ",
-    "year": 1993,
     "stats": {
       "citations": [
-        "4188",
-        "2241"
+        "4198",
+        "2251"
       ],
       "hindex": [
         "34",
@@ -438,17 +437,17 @@ var data = [
         "114",
         "67"
       ]
-    }
+    },
+    "year": "1993"
   },
   {
     "name": "Doug A. Bowman",
     "affiliation": "Professor of Computer Science, Virginia Tech",
     "url": "http://scholar.google.com/citations?user=KXCqonwAAAAJ",
-    "year": 1997,
     "stats": {
       "citations": [
-        "6492",
-        "3390"
+        "6502",
+        "3400"
       ],
       "hindex": [
         "36",
@@ -458,17 +457,17 @@ var data = [
         "83",
         "63"
       ]
-    }
+    },
+    "year": "1997"
   },
   {
     "name": "Amy Bruckman",
     "affiliation": "Professor, Interactive Computing, Georgia Institute of Technology",
     "url": "http://scholar.google.com/citations?user=IdWa_JkAAAAJ",
-    "year": 1994,
     "stats": {
       "citations": [
-        "5956",
-        "3105"
+        "5958",
+        "3108"
       ],
       "hindex": [
         "37",
@@ -478,17 +477,17 @@ var data = [
         "75",
         "55"
       ]
-    }
+    },
+    "year": "1994"
   },
   {
     "name": "Winslow Burleson",
     "affiliation": "Assistant Professor, Arizona State University",
     "url": "Http://scholar.google.com/citations?user=QMeWAwUAAAAJ",
-    "year": 2001,
     "stats": {
       "citations": [
-        "1850",
-        "1477"
+        "1853",
+        "1480"
       ],
       "hindex": [
         "21",
@@ -498,37 +497,37 @@ var data = [
         "30",
         "27"
       ]
-    }
+    },
+    "year": "2001"
   },
   {
     "name": "Stuart K. Card",
     "affiliation": "Consulting Professor, Computer Science Dept., Stanford",
     "url": "http://scholar.google.com/citations?user=ccCNF08AAAAJ",
-    "year": 1983,
     "stats": {
       "citations": [
-        "31561",
-        "10318"
+        "31597",
+        "10337"
       ],
       "hindex": [
-        "66",
+        "67",
         "44"
       ],
       "i10index": [
         "130",
         "100"
       ]
-    }
+    },
+    "year": "1983"
   },
   {
     "name": "Sheelagh Carpendale",
     "affiliation": "Professor of Computer Science, Univeristy of Calgary",
     "url": "http://scholar.google.com/citations?user=43LLX2kAAAAJ",
-    "year": 1996,
     "stats": {
       "citations": [
-        "6203",
-        "4477"
+        "6212",
+        "4485"
       ],
       "hindex": [
         "43",
@@ -538,37 +537,37 @@ var data = [
         "113",
         "94"
       ]
-    }
+    },
+    "year": "1996"
   },
   {
     "name": "John M. Carroll",
     "affiliation": "Distinguished Professor of Information Sciences and Technology, Pennsylvania State University",
     "url": "http://scholar.google.com/citations?user=7Mg8JZMAAAAJ",
-    "year": 1981,
     "stats": {
       "citations": [
-        "25785",
-        "8523"
+        "25829",
+        "8558"
       ],
       "hindex": [
         "73",
-        "44"
+        "43"
       ],
       "i10index": [
-        "291",
-        "164"
+        "292",
+        "166"
       ]
-    }
+    },
+    "year": "1981"
   },
   {
     "name": "Justine Cassell",
     "affiliation": "Carnegie Mellon University",
     "url": "http://scholar.google.com/citations?user=wkC9xHMAAAAJ",
-    "year": 1995,
     "stats": {
       "citations": [
-        "11955",
-        "4708"
+        "11957",
+        "4710"
       ],
       "hindex": [
         "53",
@@ -578,17 +577,17 @@ var data = [
         "104",
         "78"
       ]
-    }
+    },
+    "year": "1996"
   },
   {
     "name": "Remco Chang",
     "affiliation": "Assistant Professor of Computer Science, Tufts University",
     "url": "http://scholar.google.com/citations?user=Q29WmWwAAAAJ",
-    "year": 2008,
     "stats": {
       "citations": [
-        "773",
-        "723"
+        "775",
+        "724"
       ],
       "hindex": [
         "15",
@@ -598,17 +597,17 @@ var data = [
         "22",
         "21"
       ]
-    }
+    },
+    "year": "2008"
   },
   {
     "name": "Olivier Chapuis",
     "affiliation": "Univ Paris-Sud, CNRS &amp; INRIA",
     "url": "http://scholar.google.com/citations?user=1-5Y_fYAAAAJ",
-    "year": 1997,
     "stats": {
       "citations": [
-        "710",
-        "529"
+        "711",
+        "530"
       ],
       "hindex": [
         "15",
@@ -618,17 +617,17 @@ var data = [
         "22",
         "14"
       ]
-    }
+    },
+    "year": "1997"
   },
   {
     "name": "Chaomei Chen",
     "affiliation": "Professor of Informatics, College of Computing and Informatics, Drexel University",
     "url": "http://scholar.google.com/citations?user=IjN4HSRsdakC",
-    "year": 1997,
     "stats": {
       "citations": [
-        "8446",
-        "4663"
+        "8451",
+        "4665"
       ],
       "hindex": [
         "41",
@@ -638,17 +637,17 @@ var data = [
         "84",
         "61"
       ]
-    }
+    },
+    "year": "1997"
   },
   {
     "name": "Yunan Chen",
     "affiliation": "University of California Irvine",
     "url": "http://scholar.google.com/citations?user=QjbgoY8AAAAJ",
-    "year": 1998,
     "stats": {
       "citations": [
-        "367",
-        "349"
+        "368",
+        "350"
       ],
       "hindex": [
         "13",
@@ -658,17 +657,17 @@ var data = [
         "16",
         "16"
       ]
-    }
+    },
+    "year": "2005"
   },
   {
     "name": "Marshini Chetty",
     "affiliation": "University of Maryland, College Park",
     "url": "http://scholar.google.com/citations?user=eVJ6NTIAAAAJ",
-    "year": 2004,
     "stats": {
       "citations": [
-        "832",
-        "752"
+        "838",
+        "757"
       ],
       "hindex": [
         "15",
@@ -678,17 +677,17 @@ var data = [
         "19",
         "17"
       ]
-    }
+    },
+    "year": "2004"
   },
   {
     "name": "Ed Chi",
     "affiliation": "Staff Research Scientist, Google Research",
     "url": "http://scholar.google.com/citations?user=4MJdq3kAAAAJ",
-    "year": 1998,
     "stats": {
       "citations": [
-        "8188",
-        "5913"
+        "8197",
+        "5923"
       ],
       "hindex": [
         "48",
@@ -698,13 +697,13 @@ var data = [
         "90",
         "80"
       ]
-    }
+    },
+    "year": "1998"
   },
   {
     "name": "Luca Chittaro",
     "affiliation": "Full professor of Human-Computer Interaction, University of Udine, Italy",
     "url": "http://scholar.google.com/citations?user=arLCDBkAAAAJ",
-    "year": 1993,
     "stats": {
       "citations": [
         "3956",
@@ -718,37 +717,37 @@ var data = [
         "87",
         "65"
       ]
-    }
+    },
+    "year": "1993"
   },
   {
     "name": "Munmun De Choudhury",
     "affiliation": "Georgia Institute of Technology",
     "url": "http://scholar.google.com/citations?user=Z9Pfp6UAAAAJ",
-    "year": 2008,
     "stats": {
       "citations": [
-        "946",
-        "937"
+        "949",
+        "940"
       ],
       "hindex": [
         "18",
-        "17"
+        "18"
       ],
       "i10index": [
         "26",
         "26"
       ]
-    }
+    },
+    "year": "2008"
   },
   {
     "name": "Andy Cockburn",
     "affiliation": "Unknown affiliation",
     "url": "http://scholar.google.com/citations?user=eBdrkd0AAAAJ",
-    "year": 1996,
     "stats": {
       "citations": [
-        "4949",
-        "2653"
+        "4957",
+        "2661"
       ],
       "hindex": [
         "36",
@@ -758,17 +757,17 @@ var data = [
         "87",
         "60"
       ]
-    }
+    },
+    "year": "1996"
   },
   {
     "name": "Christopher Collins",
     "affiliation": "Professor of Computer Science, University of Ontario Institute of Technology",
     "url": "http://scholar.google.com/citations?user=yHRw4eMAAAAJ",
-    "year": 2006,
     "stats": {
       "citations": [
-        "849",
-        "789"
+        "851",
+        "790"
       ],
       "hindex": [
         "12",
@@ -778,17 +777,17 @@ var data = [
         "14",
         "13"
       ]
-    }
+    },
+    "year": "2006"
   },
   {
     "name": "Dan Cosley",
     "affiliation": "Cornell University Information Science",
     "url": "http://scholar.google.com/citations?user=_KNDS-kZ-nIJ",
-    "year": 2002,
     "stats": {
       "citations": [
-        "4164",
-        "3210"
+        "4162",
+        "3214"
       ],
       "hindex": [
         "27",
@@ -798,17 +797,17 @@ var data = [
         "41",
         "41"
       ]
-    }
+    },
+    "year": "2002"
   },
   {
     "name": "Mary Czerwinski",
     "affiliation": "Microsoft Research",
     "url": "http://scholar.google.com/citations?user=LHkrpqEAAAAJ",
-    "year": 1997,
     "stats": {
       "citations": [
-        "11978",
-        "6412"
+        "11996",
+        "6428"
       ],
       "hindex": [
         "60",
@@ -818,17 +817,17 @@ var data = [
         "140",
         "122"
       ]
-    }
+    },
+    "year": "1997"
   },
   {
     "name": "Laura Dabbish",
     "affiliation": "Associate Professor, Carnegie Mellon University",
     "url": "http://scholar.google.com/citations?user=DdNAgNwAAAAJ",
-    "year": 2002,
     "stats": {
       "citations": [
-        "3398",
-        "2676"
+        "3409",
+        "2686"
       ],
       "hindex": [
         "19",
@@ -838,37 +837,37 @@ var data = [
         "27",
         "23"
       ]
-    }
+    },
+    "year": "2002"
   },
   {
     "name": "Anind Dey",
     "affiliation": "Associate Professor, Human-Computer Interaction Institute, Carnegie Mellon University",
     "url": "http://scholar.google.com/citations?user=ydA8Q5AAAAAJ",
-    "year": 2000,
     "stats": {
       "citations": [
-        "21897",
-        "12261"
+        "21921",
+        "12281"
       ],
       "hindex": [
-        "48",
+        "49",
         "44"
       ],
       "i10index": [
         "114",
-        "99"
+        "100"
       ]
-    }
+    },
+    "year": "2000"
   },
   {
     "name": "Nicholas Diakopoulos",
     "affiliation": "University of Maryland",
     "url": "http://scholar.google.com/citations?user=7ip1Ih8AAAAJ",
-    "year": 2004,
     "stats": {
       "citations": [
-        "834",
-        "771"
+        "838",
+        "775"
       ],
       "hindex": [
         "15",
@@ -878,17 +877,17 @@ var data = [
         "17",
         "16"
       ]
-    }
+    },
+    "year": "2004"
   },
   {
     "name": "Stephan Diehl",
     "affiliation": "Professor of Computer Science, University of Trier",
     "url": "http://scholar.google.com/citations?user=3h8Dqg0AAAAJ",
-    "year": 1998,
     "stats": {
       "citations": [
-        "2840",
-        "1750"
+        "2844",
+        "1753"
       ],
       "hindex": [
         "23",
@@ -898,13 +897,13 @@ var data = [
         "48",
         "30"
       ]
-    }
+    },
+    "year": "1998"
   },
   {
     "name": "Betsy DiSalvo",
     "affiliation": "Assistant Professor, School of Interactive Computing, Georgia Tech",
     "url": "http://scholar.google.com/citations?user=BXEDBDUAAAAJ",
-    "year": 2008,
     "stats": {
       "citations": [
         "124",
@@ -918,17 +917,17 @@ var data = [
         "4",
         "4"
       ]
-    }
+    },
+    "year": "2008"
   },
   {
     "name": "Ellen Do",
     "affiliation": "Professor, Georgia Institute of Technology",
     "url": "http://scholar.google.com/citations?user=qDepoRUAAAAJ",
-    "year": 1995,
     "stats": {
       "citations": [
-        "2206",
-        "1017"
+        "2208",
+        "1019"
       ],
       "hindex": [
         "24",
@@ -938,17 +937,17 @@ var data = [
         "54",
         "31"
       ]
-    }
+    },
+    "year": "1995"
   },
   {
     "name": "Paul Dourish",
     "affiliation": "Professor of Informatics, University of California, Irvine",
     "url": "http://scholar.google.com/citations?user=wyCIJfQAAAAJ",
-    "year": 1993,
     "stats": {
       "citations": [
-        "20035",
-        "9700"
+        "20058",
+        "9723"
       ],
       "hindex": [
         "57",
@@ -958,17 +957,17 @@ var data = [
         "126",
         "104"
       ]
-    }
+    },
+    "year": "1993"
   },
   {
     "name": "Steven Dow",
     "affiliation": "Assistant Professor of Human-Computer Interaction, Carnegie Mellon University",
     "url": "http://scholar.google.com/citations?user=ywTbDsQAAAAJ",
-    "year": 2003,
     "stats": {
       "citations": [
-        "1158",
-        "842"
+        "1161",
+        "845"
       ],
       "hindex": [
         "18",
@@ -978,13 +977,13 @@ var data = [
         "24",
         "21"
       ]
-    }
+    },
+    "year": "2003"
   },
   {
     "name": "Pierre Dragicevic",
     "affiliation": "Research Scientist, INRIA",
     "url": "http://scholar.google.com/citations?user=hqyns68AAAAJ",
-    "year": 2003,
     "stats": {
       "citations": [
         "1374",
@@ -998,17 +997,17 @@ var data = [
         "29",
         "24"
       ]
-    }
+    },
+    "year": "2003"
   },
   {
     "name": "Allison Druin",
     "affiliation": "Chief Futurist, University of Maryland",
     "url": "http://scholar.google.com/citations?user=QpaGsuMAAAAJ",
-    "year": 1997,
     "stats": {
       "citations": [
-        "7762",
-        "3886"
+        "7772",
+        "3894"
       ],
       "hindex": [
         "42",
@@ -1018,17 +1017,17 @@ var data = [
         "90",
         "69"
       ]
-    }
+    },
+    "year": "1997"
   },
   {
     "name": "Susan Dumais",
     "affiliation": "Principal Researcher, Microsoft Research",
     "url": "http://scholar.google.com/citations?user=x8dED5cAAAAJ",
-    "year": 1991,
     "stats": {
       "citations": [
-        "39499",
-        "20043"
+        "39541",
+        "20073"
       ],
       "hindex": [
         "72",
@@ -1038,17 +1037,17 @@ var data = [
         "172",
         "151"
       ]
-    }
+    },
+    "year": "1991"
   },
   {
     "name": "David S. Ebert",
     "affiliation": "Silicon Valley Professor of ECE, Purdue University",
     "url": "http://scholar.google.com/citations?user=fD3JviYAAAAJ",
-    "year": 1995,
     "stats": {
       "citations": [
-        "5423",
-        "2757"
+        "5425",
+        "2760"
       ],
       "hindex": [
         "37",
@@ -1058,17 +1057,17 @@ var data = [
         "105",
         "76"
       ]
-    }
+    },
+    "year": "1995"
   },
   {
     "name": "W. Keith Edwards",
     "affiliation": "Professor, Georgia Tech",
     "url": "http://scholar.google.com/citations?user=QYqwwwcAAAAJ",
-    "year": 1994,
     "stats": {
       "citations": [
-        "8101",
-        "3914"
+        "8107",
+        "3920"
       ],
       "hindex": [
         "44",
@@ -1078,37 +1077,37 @@ var data = [
         "103",
         "82"
       ]
-    }
+    },
+    "year": "1994"
   },
   {
     "name": "Niklas Elmqvist",
     "affiliation": "Associate Professor of Information Studies, University of Maryland, College Park",
     "url": "http://scholar.google.com/citations?user=LoQXe24AAAAJ",
-    "year": 2003,
     "stats": {
       "citations": [
-        "1507",
-        "1374"
+        "1506",
+        "1372"
       ],
       "hindex": [
         "21",
         "20"
       ],
       "i10index": [
-        "42",
-        "35"
+        "41",
+        "34"
       ]
-    }
+    },
+    "year": "2003"
   },
   {
     "name": "Alex Endert",
     "affiliation": "Georgia Tech",
     "url": "http://scholar.google.com/citations?user=_ZIAy3cAAAAJ",
-    "year": 2009,
     "stats": {
       "citations": [
-        "376",
-        "375"
+        "377",
+        "376"
       ],
       "hindex": [
         "9",
@@ -1118,17 +1117,17 @@ var data = [
         "9",
         "9"
       ]
-    }
+    },
+    "year": "2009"
   },
   {
     "name": "Kayvon Fatahalian",
     "affiliation": "Assistant Professor of Computer Science, Carnegie Mellon University",
     "url": "http://scholar.google.com/citations?user=ZeG4wDgAAAAJ",
-    "year": 2004,
     "stats": {
       "citations": [
-        "2728",
-        "1819"
+        "2734",
+        "1824"
       ],
       "hindex": [
         "14",
@@ -1138,17 +1137,17 @@ var data = [
         "17",
         "17"
       ]
-    }
+    },
+    "year": "2004"
   },
   {
     "name": "Steven K. Feiner",
     "affiliation": "Professor of Computer Science, Columbia University",
     "url": "http://scholar.google.com/citations?user=PogsVkYAAAAJ",
-    "year": 1990,
     "stats": {
       "citations": [
-        "23614",
-        "7324"
+        "23642",
+        "7348"
       ],
       "hindex": [
         "62",
@@ -1158,17 +1157,17 @@ var data = [
         "152",
         "101"
       ]
-    }
+    },
+    "year": "1990"
   },
   {
     "name": "Jean-Daniel Fekete",
     "affiliation": "Senior Research Scientist, INRIA Saclay �le-de-France",
     "url": "http://scholar.google.com/citations?user=PMZ3h7sAAAAJ",
-    "year": 1999,
     "stats": {
       "citations": [
-        "4308",
-        "3145"
+        "4316",
+        "3151"
       ],
       "hindex": [
         "30",
@@ -1178,37 +1177,37 @@ var data = [
         "65",
         "52"
       ]
-    }
+    },
+    "year": "1999"
   },
   {
     "name": "Rebecca Fiebrink",
     "affiliation": "Assistant Professor of Computer Science, Princeton University",
     "url": "http://scholar.google.com/citations?user=fEMWXvkAAAAJ",
-    "year": 2005,
     "stats": {
       "citations": [
-        "476",
-        "403"
+        "479",
+        "406"
       ],
       "hindex": [
-        "13",
+        "14",
         "13"
       ],
       "i10index": [
         "15",
         "14"
       ]
-    }
+    },
+    "year": "2005"
   },
   {
     "name": "Leah Findlater",
     "affiliation": "Assistant Professor, University of Maryland, College Park",
     "url": "http://scholar.google.com/citations?user=NeDnx2EAAAAJ",
-    "year": 2004,
     "stats": {
       "citations": [
-        "1584",
-        "1379"
+        "1589",
+        "1384"
       ],
       "hindex": [
         "20",
@@ -1218,17 +1217,17 @@ var data = [
         "31",
         "28"
       ]
-    }
+    },
+    "year": "2004"
   },
   {
     "name": "Danyel Fisher",
     "affiliation": "Researcher",
     "url": "http://scholar.google.com/citations?user=8Wq9hTEAAAAJ",
-    "year": 2002,
     "stats": {
       "citations": [
-        "3099",
-        "2403"
+        "3103",
+        "2409"
       ],
       "hindex": [
         "25",
@@ -1238,17 +1237,17 @@ var data = [
         "50",
         "43"
       ]
-    }
+    },
+    "year": "2002"
   },
   {
     "name": "James Foley",
     "affiliation": "Professor of Computer Science, Georgia Institute of Technology",
     "url": "http://scholar.google.com/citations?user=GmcChLIAAAAJ",
-    "year": 1982,
     "stats": {
       "citations": [
-        "17190",
-        "2664"
+        "17200",
+        "2670"
       ],
       "hindex": [
         "33",
@@ -1258,37 +1257,37 @@ var data = [
         "68",
         "23"
       ]
-    }
+    },
+    "year": "1982"
   },
   {
     "name": "Kenneth D Forbus",
     "affiliation": "Professor of Computer Science, Northwestern University",
     "url": "http://scholar.google.com/citations?user=IdRYT-8AAAAJ",
-    "year": 1984,
     "stats": {
       "citations": [
-        "13111",
-        "3741"
+        "13119",
+        "3750"
       ],
       "hindex": [
         "50",
         "30"
       ],
       "i10index": [
-        "125",
-        "70"
+        "126",
+        "71"
       ]
-    }
+    },
+    "year": "1984"
   },
   {
     "name": "Jodi Forlizzi",
     "affiliation": "Professor, HCI and School of Design",
     "url": "http://scholar.google.com/citations?user=Hyhp_zUAAAAJ",
-    "year": 2002,
     "stats": {
       "citations": [
-        "6648",
-        "4889"
+        "6654",
+        "4895"
       ],
       "hindex": [
         "41",
@@ -1298,17 +1297,17 @@ var data = [
         "86",
         "78"
       ]
-    }
+    },
+    "year": "2002"
   },
   {
     "name": "Jon Froehlich",
     "affiliation": "Assistant Professor in Computer Science at the University of Maryland, College Park",
     "url": "http://scholar.google.com/citations?user=nExKrpsAAAAJ",
-    "year": 2005,
     "stats": {
       "citations": [
-        "3245",
-        "2937"
+        "3257",
+        "2949"
       ],
       "hindex": [
         "23",
@@ -1318,17 +1317,17 @@ var data = [
         "33",
         "33"
       ]
-    }
+    },
+    "year": "2005"
   },
   {
     "name": "Susan Fussell",
     "affiliation": "Cornell University",
     "url": "http://scholar.google.com/citations?user=QpG20J0AAAAJ&oi=ao",
-    "year": 1993,
     "stats": {
       "citations": [
-        "5874",
-        "2993"
+        "5878",
+        "2997"
       ],
       "hindex": [
         "38",
@@ -1338,17 +1337,17 @@ var data = [
         "71",
         "59"
       ]
-    }
+    },
+    "year": "1993"
   },
   {
     "name": "Krzysztof Gajos",
     "affiliation": "Harvard University",
     "url": "http://scholar.google.com/citations?user=g6noKX0AAAAJ",
-    "year": 2002,
     "stats": {
       "citations": [
-        "2165",
-        "1439"
+        "2166",
+        "1440"
       ],
       "hindex": [
         "23",
@@ -1358,17 +1357,17 @@ var data = [
         "36",
         "29"
       ]
-    }
+    },
+    "year": "2001"
   },
   {
     "name": "Geri Gay",
     "affiliation": "Professor of Information Science and Communication, Cornell University",
     "url": "http://scholar.google.com/citations?user=uJ4q1wcAAAAJ",
-    "year": 1994,
     "stats": {
       "citations": [
-        "6050",
-        "3999"
+        "6059",
+        "4008"
       ],
       "hindex": [
         "37",
@@ -1378,17 +1377,17 @@ var data = [
         "83",
         "60"
       ]
-    }
+    },
+    "year": "1994"
   },
   {
     "name": "Darren Gergle",
     "affiliation": "Associate Professor, Northwestern University",
     "url": "http://scholar.google.com/citations?user=T4Yo9gQAAAAJ",
-    "year": 2002,
     "stats": {
       "citations": [
-        "2667",
-        "1672"
+        "2673",
+        "1678"
       ],
       "hindex": [
         "23",
@@ -1398,17 +1397,17 @@ var data = [
         "37",
         "36"
       ]
-    }
+    },
+    "year": "2002"
   },
   {
     "name": "Eric Gilbert",
     "affiliation": "Assistant Professor, School of Interactive Computing, Georgia Tech",
     "url": "http://scholar.google.com/citations?user=71OktocAAAAJ",
-    "year": 2006,
     "stats": {
       "citations": [
-        "1179",
-        "1120"
+        "1183",
+        "1124"
       ],
       "hindex": [
         "15",
@@ -1418,13 +1417,13 @@ var data = [
         "19",
         "17"
       ]
-    }
+    },
+    "year": "2006"
   },
   {
     "name": "Juan E. Gilbert",
     "affiliation": "University of Florida",
     "url": "http://scholar.google.com/citations?user=FKbHXRUAAAAJ",
-    "year": 1999,
     "stats": {
       "citations": [
         "672",
@@ -1438,17 +1437,17 @@ var data = [
         "15",
         "9"
       ]
-    }
+    },
+    "year": "1999"
   },
   {
     "name": "Michael Gleicher",
     "affiliation": "Professor of Computer Sciences, University of Wisconsin - Madison",
     "url": "http://scholar.google.com/citations?user=kDkH9UkAAAAJ",
-    "year": 1992,
     "stats": {
       "citations": [
-        "8385",
-        "3994"
+        "8404",
+        "4011"
       ],
       "hindex": [
         "41",
@@ -1458,17 +1457,17 @@ var data = [
         "71",
         "56"
       ]
-    }
+    },
+    "year": "1992"
   },
   {
     "name": "Jennifer Golbeck",
     "affiliation": "University of Maryland, College Park",
     "url": "http://scholar.google.com/citations?user=WBOnL7sAAAAJ",
-    "year": 2003,
     "stats": {
       "citations": [
-        "6528",
-        "4883"
+        "6539",
+        "4895"
       ],
       "hindex": [
         "41",
@@ -1478,17 +1477,17 @@ var data = [
         "73",
         "68"
       ]
-    }
+    },
+    "year": "2003"
   },
   {
     "name": "Carsten Görg",
     "affiliation": "Instructor of Pharmacology, University of Colorado School of Medicine",
     "url": "http://scholar.google.com/citations?user=kQkwf5wAAAAJ",
-    "year": 2001,
     "stats": {
       "citations": [
-        "1466",
-        "1192"
+        "1469",
+        "1194"
       ],
       "hindex": [
         "19",
@@ -1498,37 +1497,37 @@ var data = [
         "27",
         "22"
       ]
-    }
+    },
+    "year": "2001"
   },
   {
     "name": "David Gotz",
     "affiliation": "University of North Carolina at Chapel Hill",
     "url": "http://scholar.google.com/citations?user=qybJ3GoAAAAJ",
-    "year": 2001,
     "stats": {
       "citations": [
-        "772",
-        "535"
+        "774",
+        "537"
       ],
       "hindex": [
         "14",
         "12"
       ],
       "i10index": [
-        "19",
-        "16"
+        "20",
+        "17"
       ]
-    }
+    },
+    "year": "2001"
   },
   {
     "name": "Saul Greenberg",
     "affiliation": "Professor, Computer Science, University of Calgary",
     "url": "http://scholar.google.com/citations?user=TthhUuoAAAAJ",
-    "year": 1991,
     "stats": {
       "citations": [
-        "19332",
-        "7433"
+        "19351",
+        "7451"
       ],
       "hindex": [
         "73",
@@ -1538,17 +1537,17 @@ var data = [
         "202",
         "150"
       ]
-    }
+    },
+    "year": "1991"
   },
   {
     "name": "Beki Grinter",
     "affiliation": "Professor of Interactive Computing, Georgia Institute of Technology",
     "url": "http://scholar.google.com/citations?user=PNalJ58AAAAJ",
-    "year": 1998,
     "stats": {
       "citations": [
-        "8342",
-        "4562"
+        "8347",
+        "4567"
       ],
       "hindex": [
         "43",
@@ -1558,17 +1557,17 @@ var data = [
         "89",
         "80"
       ]
-    }
+    },
+    "year": "1998"
   },
   {
     "name": "Francois Guimbretiere",
     "affiliation": "Associate Professor, Cornell University",
     "url": "http://scholar.google.com/citations?user=PxZT1sgAAAAJ",
-    "year": 2001,
     "stats": {
       "citations": [
-        "3030",
-        "1841"
+        "3037",
+        "1846"
       ],
       "hindex": [
         "26",
@@ -1578,17 +1577,17 @@ var data = [
         "34",
         "33"
       ]
-    }
+    },
+    "year": "2001"
   },
   {
     "name": "Gregory Hager",
     "affiliation": "Professor of Computer Science, Johns Hopkins University",
     "url": "http://scholar.google.com/citations?user=ivApfKcAAAAJ",
-    "year": 1994,
     "stats": {
       "citations": [
-        "13600",
-        "6568"
+        "13609",
+        "6577"
       ],
       "hindex": [
         "46",
@@ -1598,17 +1597,17 @@ var data = [
         "166",
         "109"
       ]
-    }
+    },
+    "year": "1994"
   },
   {
     "name": "Frank van Ham",
     "affiliation": "IBM Software Group",
     "url": "http://scholar.google.com/citations?user=fJc5go8AAAAJ",
-    "year": 2002,
     "stats": {
       "citations": [
-        "1964",
-        "1489"
+        "1970",
+        "1495"
       ],
       "hindex": [
         "19",
@@ -1618,13 +1617,13 @@ var data = [
         "22",
         "17"
       ]
-    }
+    },
+    "year": "2002"
   },
   {
     "name": "Tracy Anne Hammond",
     "affiliation": "Department of Computer Science and Engineering, Texas A&amp;M University",
     "url": "http://scholar.google.com/citations?user=wlp2c0IAAAAJ",
-    "year": 2002,
     "stats": {
       "citations": [
         "1276",
@@ -1638,17 +1637,17 @@ var data = [
         "26",
         "23"
       ]
-    }
+    },
+    "year": "2002"
   },
   {
     "name": "Charles Hansen",
     "affiliation": "University of Utah",
     "url": "http://scholar.google.com/citations?user=UqyaAQQAAAAJ",
-    "year": 1989,
     "stats": {
       "citations": [
-        "8447",
-        "3236"
+        "8448",
+        "3237"
       ],
       "hindex": [
         "47",
@@ -1658,17 +1657,17 @@ var data = [
         "109",
         "75"
       ]
-    }
+    },
+    "year": "1989"
   },
   {
     "name": "Chris Harrison",
     "affiliation": "Carnegie Mellon University",
     "url": "http://scholar.google.com/citations?user=36HRdqMAAAAJ",
-    "year": 2008,
     "stats": {
       "citations": [
-        "1488",
-        "1469"
+        "1496",
+        "1477"
       ],
       "hindex": [
         "17",
@@ -1678,17 +1677,17 @@ var data = [
         "29",
         "29"
       ]
-    }
+    },
+    "year": "2008"
   },
   {
     "name": "Steve Harrison",
     "affiliation": "Associate Professor of Practice, Virginia Tech",
     "url": "http://scholar.google.com/citations?user=r6k-SS4AAAAJ",
-    "year": 1993,
     "stats": {
       "citations": [
-        "4300",
-        "1837"
+        "4303",
+        "1840"
       ],
       "hindex": [
         "23",
@@ -1698,17 +1697,17 @@ var data = [
         "36",
         "24"
       ]
-    }
+    },
+    "year": "1993"
   },
   {
     "name": "Bjoern Hartmann",
     "affiliation": "Assistant Professor of Computer Science, University of California, Berkeley",
     "url": "http://scholar.google.com/citations?user=aZMY6_UAAAAJ",
-    "year": 2004,
     "stats": {
       "citations": [
-        "2503",
-        "2157"
+        "2508",
+        "2162"
       ],
       "hindex": [
         "24",
@@ -1718,13 +1717,13 @@ var data = [
         "40",
         "35"
       ]
-    }
+    },
+    "year": "2005"
   },
   {
     "name": "Gillian R Hayes",
     "affiliation": "Robert A. and Barbara L. Kleist Chair in Informatics, University of California, Irvine",
     "url": "http://scholar.google.com/citations?user=5mIkNyYAAAAJ",
-    "year": 2004,
     "stats": {
       "citations": [
         "1820",
@@ -1738,17 +1737,17 @@ var data = [
         "48",
         "43"
       ]
-    }
+    },
+    "year": "2004"
   },
   {
     "name": "Marti Hearst",
     "affiliation": "Professor, University of California, Berkeley",
     "url": "http://scholar.google.com/citations?user=Yy6xbCYAAAAJ",
-    "year": 1994,
     "stats": {
       "citations": [
-        "19790",
-        "9178"
+        "19822",
+        "9201"
       ],
       "hindex": [
         "58",
@@ -1758,17 +1757,17 @@ var data = [
         "108",
         "86"
       ]
-    }
+    },
+    "year": "1994"
   },
   {
     "name": "Brent Hecht",
     "affiliation": "Assistant Professor of Computer Science and Engineering, University of Minnesota",
     "url": "http://scholar.google.com/citations?user=6IinLVUAAAAJ",
-    "year": 2007,
     "stats": {
       "citations": [
-        "764",
-        "714"
+        "765",
+        "716"
       ],
       "hindex": [
         "14",
@@ -1778,17 +1777,17 @@ var data = [
         "16",
         "14"
       ]
-    }
+    },
+    "year": "2007"
   },
   {
     "name": "Jeffrey Heer",
     "affiliation": "University of Washington",
     "url": "http://scholar.google.com/citations?user=vlgs4G4AAAAJ",
-    "year": 2002,
     "stats": {
       "citations": [
-        "5644",
-        "4578"
+        "5655",
+        "4588"
       ],
       "hindex": [
         "34",
@@ -1798,17 +1797,17 @@ var data = [
         "66",
         "62"
       ]
-    }
+    },
+    "year": "2002"
   },
   {
     "name": "Susan C. Herring",
     "affiliation": "Professor of Information Science and Linguistics, Indiana University",
     "url": "http://scholar.google.com/citations?user=atKhRwEAAAAJ",
-    "year": 1996,
     "stats": {
       "citations": [
-        "12329",
-        "6870"
+        "12343",
+        "6888"
       ],
       "hindex": [
         "43",
@@ -1818,17 +1817,17 @@ var data = [
         "87",
         "74"
       ]
-    }
+    },
+    "year": "1996"
   },
   {
     "name": "Jason Hong",
     "affiliation": "Carnegie Mellon University",
     "url": "http://scholar.google.com/citations?user=MoFbcc0AAAAJ",
-    "year": 1999,
     "stats": {
       "citations": [
-        "10797",
-        "6631"
+        "10816",
+        "6650"
       ],
       "hindex": [
         "51",
@@ -1838,17 +1837,17 @@ var data = [
         "95",
         "85"
       ]
-    }
+    },
+    "year": "1999"
   },
   {
     "name": "Jeff Huang",
     "affiliation": "Brown University",
     "url": "http://scholar.google.com/citations?user=o8oJ6s4AAAAJ",
-    "year": 2007,
     "stats": {
       "citations": [
-        "620",
-        "613"
+        "625",
+        "618"
       ],
       "hindex": [
         "12",
@@ -1858,17 +1857,17 @@ var data = [
         "13",
         "13"
       ]
-    }
+    },
+    "year": "2007"
   },
   {
     "name": "Scott E. Hudson",
     "affiliation": "Professor of Human-Computer Interaction, Carnegie Mellon University",
     "url": "http://scholar.google.com/citations?user=6YU6_QoAAAAJ",
-    "year": 1988,
     "stats": {
       "citations": [
-        "8018",
-        "3443"
+        "8026",
+        "3451"
       ],
       "hindex": [
         "49",
@@ -1878,17 +1877,17 @@ var data = [
         "127",
         "82"
       ]
-    }
+    },
+    "year": "1988"
   },
   {
     "name": "Kori Inkpen",
     "affiliation": "Principal Researcher, Microsoft Research",
     "url": "http://scholar.google.com/citations?user=9aA5QTUAAAAJ",
-    "year": 1995,
     "stats": {
       "citations": [
-        "5112",
-        "2922"
+        "5116",
+        "2926"
       ],
       "hindex": [
         "39",
@@ -1898,17 +1897,17 @@ var data = [
         "86",
         "67"
       ]
-    }
+    },
+    "year": "1995"
   },
   {
     "name": "Pourang Irani",
     "affiliation": "Computer Science, University of Manitoba",
     "url": "http://scholar.google.com/citations?user=lPYUHkIAAAAJ",
-    "year": 2001,
     "stats": {
       "citations": [
-        "1263",
-        "1068"
+        "1264",
+        "1069"
       ],
       "hindex": [
         "20",
@@ -1918,17 +1917,17 @@ var data = [
         "33",
         "33"
       ]
-    }
+    },
+    "year": "2001"
   },
   {
     "name": "Petra Isenberg (Neumann)",
     "affiliation": "Research Scientist, INRIA",
     "url": "http://scholar.google.com/citations?user=mw0_aLoAAAAJ",
-    "year": 2005,
     "stats": {
       "citations": [
-        "1431",
-        "1299"
+        "1438",
+        "1306"
       ],
       "hindex": [
         "20",
@@ -1938,17 +1937,17 @@ var data = [
         "35",
         "35"
       ]
-    }
+    },
+    "year": "2005"
   },
   {
     "name": "Tobias Isenberg",
     "affiliation": "Senior Research Scientist, INRIA, Saclay �le-de-France",
     "url": "http://scholar.google.com/citations?user=e09cpQUAAAAJ",
-    "year": 2002,
     "stats": {
       "citations": [
-        "1398",
-        "896"
+        "1400",
+        "898"
       ],
       "hindex": [
         "19",
@@ -1958,17 +1957,17 @@ var data = [
         "37",
         "31"
       ]
-    }
+    },
+    "year": "2002"
   },
   {
     "name": "Melody Jackson",
     "affiliation": "Associate Professor of Computer Science, Georgia Tech",
     "url": "http://scholar.google.com/citations?user=83SAwBsAAAAJ",
-    "year": 2007,
     "stats": {
       "citations": [
-        "287",
-        "273"
+        "288",
+        "274"
       ],
       "hindex": [
         "7",
@@ -1978,13 +1977,13 @@ var data = [
         "4",
         "4"
       ]
-    }
+    },
+    "year": "2007"
   },
   {
     "name": "T.J. Jankun-Kelly",
     "affiliation": "Professor of Computer Science, Mississippi State University",
     "url": "http://scholar.google.com/citations?user=KKzGz-YAAAAJ",
-    "year": 2002,
     "stats": {
       "citations": [
         "880",
@@ -1998,37 +1997,37 @@ var data = [
         "21",
         "18"
       ]
-    }
+    },
+    "year": "2002"
   },
   {
     "name": "Andrew Johnson",
     "affiliation": "Associate Prof of Computer Science, Director of Research at Electronic Visualization Lab, UIC",
     "url": "http://scholar.google.com/citations?user=s8e4QnsAAAAJ",
-    "year": 1994,
     "stats": {
       "citations": [
-        "3534",
-        "1188"
+        "3539",
+        "1192"
       ],
       "hindex": [
-        "32",
+        "33",
         "18"
       ],
       "i10index": [
         "79",
         "36"
       ]
-    }
+    },
+    "year": "1979"
   },
   {
     "name": "Shaun Kane",
     "affiliation": "Assistant Professor, University of Colorado Boulder",
     "url": "http://scholar.google.com/citations?user=v564lDgAAAAJ",
-    "year": 2003,
     "stats": {
       "citations": [
-        "1032",
-        "959"
+        "1038",
+        "965"
       ],
       "hindex": [
         "16",
@@ -2038,17 +2037,17 @@ var data = [
         "18",
         "18"
       ]
-    }
+    },
+    "year": "2003"
   },
   {
     "name": "David Karger",
     "affiliation": "Professor of Computer Science, MIT",
     "url": "http://scholar.google.com/citations?user=2vQRGrYAAAAJ",
-    "year": 1996,
     "stats": {
       "citations": [
-        "44207",
-        "21272"
+        "44252",
+        "21310"
       ],
       "hindex": [
         "82",
@@ -2058,17 +2057,17 @@ var data = [
         "191",
         "159"
       ]
-    }
+    },
+    "year": "1996"
   },
   {
     "name": "Andrea Kavanaugh",
     "affiliation": "Senior Research Scientist, Human-Computer Interaction Center, Virginia Tech",
     "url": "http://scholar.google.com/citations?user=iIzHRdcAAAAJ",
-    "year": 1998,
     "stats": {
       "citations": [
-        "1596",
-        "893"
+        "1599",
+        "896"
       ],
       "hindex": [
         "16",
@@ -2078,33 +2077,33 @@ var data = [
         "25",
         "16"
       ]
-    }
+    },
+    "year": "1998"
   },
   {
     "name": "Daniel Keim",
     "affiliation": "Professor of Computer Science, Data Analysis and Visualization, University of Konstanz",
     "url": "http://scholar.google.com/citations?user=YJm9he0AAAAJ",
-    "year": 1995,
     "stats": {
       "citations": [
-        "16469",
-        "8607"
+        "16569",
+        "8639"
       ],
       "hindex": [
-        "52",
+        "53",
         "40"
       ],
       "i10index": [
-        "181",
-        "134"
+        "183",
+        "135"
       ]
-    }
+    },
+    "year": "1995"
   },
   {
     "name": "Jessie Kennedy",
     "affiliation": "Professor, Edinburgh Napier University",
     "url": "http://scholar.google.com/citations?user=pNGFmfAAAAAJ",
-    "year": 1993,
     "stats": {
       "citations": [
         "1936",
@@ -2118,17 +2117,17 @@ var data = [
         "43",
         "17"
       ]
-    }
+    },
+    "year": "1993"
   },
   {
     "name": "Andruid Kerne",
     "affiliation": "Assoc Professor, Dept. of Computer Science &amp; Engineering, Texas A&amp;M",
     "url": "http://scholar.google.com/citations?user=TD6dCG0AAAAJ",
-    "year": 1998,
     "stats": {
       "citations": [
-        "831",
-        "495"
+        "832",
+        "496"
       ],
       "hindex": [
         "18",
@@ -2138,36 +2137,36 @@ var data = [
         "30",
         "21"
       ]
-    }
+    },
+    "year": "1998"
   },
   {
     "name": "Andreas Kerren",
     "affiliation": "Professor of Computer Science, Linnaeus University, Sweden",
     "url": "http://scholar.google.com/citations?user=FJ0hneUAAAAJ",
-    "year": 2000,
     "stats": {
       "citations": [
-        "776",
-        "514"
+        "784",
+        "522"
       ],
       "hindex": [
-        "15",
+        "16",
         "13"
       ],
       "i10index": [
         "27",
         "18"
       ]
-    }
+    },
+    "year": "2000"
   },
   {
     "name": "Julie A. Kientz",
     "affiliation": "Assistant Professor, University of Washington",
     "url": "http://scholar.google.com/citations?user=GvpuYB4AAAAJ",
-    "year": 2003,
     "stats": {
       "citations": [
-        "1707",
+        "1709",
         "1295"
       ],
       "hindex": [
@@ -2178,17 +2177,17 @@ var data = [
         "26",
         "25"
       ]
-    }
+    },
+    "year": "2003"
   },
   {
     "name": "Sara Kiesler",
     "affiliation": "Professor of Human Computer Interaction, Carnegie Mellon",
     "url": "http://scholar.google.com/citations?user=8Qu_gAMAAAAJ",
-    "year": 1986,
     "stats": {
       "citations": [
-        "34876",
-        "13736"
+        "34908",
+        "13766"
       ],
       "hindex": [
         "72",
@@ -2198,17 +2197,17 @@ var data = [
         "150",
         "117"
       ]
-    }
+    },
+    "year": "1986"
   },
   {
     "name": "Aniket Kittur",
     "affiliation": "Assistant Professor, Carnegie Mellon University",
     "url": "http://scholar.google.com/citations?user=2vZ5zRQAAAAJ",
-    "year": 2006,
     "stats": {
       "citations": [
-        "3606",
-        "3388"
+        "3611",
+        "3396"
       ],
       "hindex": [
         "24",
@@ -2218,37 +2217,37 @@ var data = [
         "34",
         "33"
       ]
-    }
+    },
+    "year": "2006"
   },
   {
     "name": "Roberta Klatzky",
     "affiliation": "Charles J. Queenan Jr. Professor of Psychology, Carnegie Mellon University",
     "url": "http://scholar.google.com/citations?user=wUPKh58AAAAJ",
-    "year": 1978,
     "stats": {
       "citations": [
-        "14623",
-        "5837"
+        "14655",
+        "5867"
       ],
       "hindex": [
         "65",
         "40"
       ],
       "i10index": [
-        "188",
-        "123"
+        "189",
+        "125"
       ]
-    }
+    },
+    "year": "1978"
   },
   {
     "name": "Scott Klemmer",
     "affiliation": "Associate Professor, Cognitive Science and Computer Science &amp; Engineering, UC San Diego &amp; Stanford",
     "url": "http://scholar.google.com/citations?user=BEHcR-IAAAAJ",
-    "year": 2001,
     "stats": {
       "citations": [
-        "3735",
-        "2622"
+        "3743",
+        "2628"
       ],
       "hindex": [
         "31",
@@ -2258,17 +2257,17 @@ var data = [
         "52",
         "43"
       ]
-    }
+    },
+    "year": "2001"
   },
   {
     "name": "Andrew J. Ko",
     "affiliation": "University of Washington",
     "url": "http://scholar.google.com/citations?user=hCTbv4MAAAAJ",
-    "year": 2003,
     "stats": {
       "citations": [
-        "2835",
-        "2207"
+        "2841",
+        "2213"
       ],
       "hindex": [
         "23",
@@ -2278,17 +2277,17 @@ var data = [
         "43",
         "37"
       ]
-    }
+    },
+    "year": "2004"
   },
   {
     "name": "Alfred Kobsa",
     "affiliation": "Professor of Informatics and Computer Science, University of California, Irvine",
     "url": "http://scholar.google.com/citations?user=0nBysEcAAAAJ",
-    "year": 1988,
     "stats": {
       "citations": [
-        "7734",
-        "2953"
+        "7742",
+        "2959"
       ],
       "hindex": [
         "42",
@@ -2298,17 +2297,17 @@ var data = [
         "96",
         "63"
       ]
-    }
+    },
+    "year": "1988"
   },
   {
     "name": "Ken Koedinger",
     "affiliation": "Professor of Human-Computer Interaction and Psychology, Carnegie Mellon University",
     "url": "http://scholar.google.com/citations?user=_8DDVkAAAAAJ",
-    "year": 1996,
     "stats": {
       "citations": [
-        "13905",
-        "8057"
+        "13919",
+        "8069"
       ],
       "hindex": [
         "55",
@@ -2318,37 +2317,37 @@ var data = [
         "187",
         "147"
       ]
-    }
+    },
+    "year": "1995"
   },
   {
     "name": "Joseph A. Konstan",
     "affiliation": "Professor of Computer Science and Engineering, University of Minnestoa",
     "url": "http://scholar.google.com/citations?user=PH4mytYAAAAJ",
-    "year": 1998,
     "stats": {
       "citations": [
-        "29534",
-        "18183"
+        "29542",
+        "18197"
       ],
       "hindex": [
         "60",
-        "49"
+        "50"
       ],
       "i10index": [
         "109",
         "95"
       ]
-    }
+    },
+    "year": "1998"
   },
   {
     "name": "Robert Kosara",
     "affiliation": "Tableau Software",
     "url": "http://scholar.google.com/citations?user=7BS9z-kAAAAJ",
-    "year": 1999,
     "stats": {
       "citations": [
-        "1842",
-        "1155"
+        "1843",
+        "1156"
       ],
       "hindex": [
         "24",
@@ -2358,17 +2357,17 @@ var data = [
         "44",
         "30"
       ]
-    }
+    },
+    "year": "1999"
   },
   {
     "name": "Robert E. Kraut",
     "affiliation": "Human-Computer  Interaction Instititute, Carnegie Mellon University",
     "url": "http://scholar.google.com/citations?user=HKGYvu4AAAAJ",
-    "year": 1988,
     "stats": {
       "citations": [
-        "27413",
-        "12536"
+        "27436",
+        "12560"
       ],
       "hindex": [
         "84",
@@ -2378,17 +2377,17 @@ var data = [
         "176",
         "145"
       ]
-    }
+    },
+    "year": "1988"
   },
   {
     "name": "David H. Laidlaw",
     "affiliation": "Professor of Computer Science, Brown University",
     "url": "http://scholar.google.com/citations?user=GIle-VwAAAAJ",
-    "year": 1990,
     "stats": {
       "citations": [
-        "5441",
-        "2414"
+        "5454",
+        "2423"
       ],
       "hindex": [
         "38",
@@ -2398,17 +2397,17 @@ var data = [
         "86",
         "65"
       ]
-    }
+    },
+    "year": "1990"
   },
   {
     "name": "Cliff Lampe",
     "affiliation": "Associate Professor, School of Information University of Michigan",
     "url": "http://scholar.google.com/citations?user=aT8oqcoAAAAJ",
-    "year": 2006,
     "stats": {
       "citations": [
-        "8914",
-        "8198"
+        "8954",
+        "8239"
       ],
       "hindex": [
         "24",
@@ -2418,17 +2417,17 @@ var data = [
         "34",
         "33"
       ]
-    }
+    },
+    "year": "2006"
   },
   {
     "name": "James Landay",
-    "affiliation": "Professor of Computer Science &amp; Engineering, University of Washington",
+    "affiliation": "Professor of Computer Science, Stanford University",
     "url": "http://scholar.google.com/citations?user=oQsObk0AAAAJ",
-    "year": 1998,
     "stats": {
       "citations": [
-        "14309",
-        "7901"
+        "14315",
+        "7905"
       ],
       "hindex": [
         "59",
@@ -2438,17 +2437,17 @@ var data = [
         "128",
         "107"
       ]
-    }
+    },
+    "year": "1998"
   },
   {
     "name": "Robert S Laramee",
     "affiliation": "Associate Professor, Computer Science Dept., Swansea University",
     "url": "http://scholar.google.com/citations?user=NT6wx48AAAAJ",
-    "year": 2002,
     "stats": {
       "citations": [
-        "2359",
-        "1668"
+        "2361",
+        "1670"
       ],
       "hindex": [
         "22",
@@ -2458,17 +2457,17 @@ var data = [
         "43",
         "35"
       ]
-    }
+    },
+    "year": "2002"
   },
   {
     "name": "Bongshin Lee",
     "affiliation": "Microsoft Research",
     "url": "http://scholar.google.com/citations?user=IozWtK0AAAAJ",
-    "year": 2004,
     "stats": {
       "citations": [
-        "2209",
-        "1904"
+        "2212",
+        "1907"
       ],
       "hindex": [
         "25",
@@ -2478,17 +2477,17 @@ var data = [
         "45",
         "42"
       ]
-    }
+    },
+    "year": "2004"
   },
   {
     "name": "Clayton Lewis",
     "affiliation": "Professor of Computer Science, University of Colorado, Boulder",
     "url": "http://scholar.google.com/citations?user=eIYoeT4AAAAJ",
-    "year": 1984,
     "stats": {
       "citations": [
-        "8171",
-        "2438"
+        "8174",
+        "2444"
       ],
       "hindex": [
         "35",
@@ -2498,17 +2497,17 @@ var data = [
         "62",
         "31"
       ]
-    }
+    },
+    "year": "1984"
   },
   {
     "name": "Henry Lieberman",
     "affiliation": "Principal Research Scientist, Massachsuetts Institute of Technology",
     "url": "http://scholar.google.com/citations?user=NdV5hMYAAAAJ",
-    "year": 1984,
     "stats": {
       "citations": [
-        "11274",
-        "3750"
+        "11279",
+        "3753"
       ],
       "hindex": [
         "48",
@@ -2518,37 +2517,37 @@ var data = [
         "105",
         "60"
       ]
-    }
+    },
+    "year": "1984"
   },
   {
     "name": "Kwan-Liu Ma",
     "affiliation": "Professor of Computer Science, University of California at Davis",
     "url": "http://scholar.google.com/citations?user=LgL2HpkAAAAJ",
-    "year": 1994,
     "stats": {
       "citations": [
-        "8250",
-        "4685"
+        "8255",
+        "4689"
       ],
       "hindex": [
-        "47",
+        "48",
         "34"
       ],
       "i10index": [
         "184",
         "136"
       ]
-    }
+    },
+    "year": "1994"
   },
   {
     "name": "Alan M. MacEachren",
     "affiliation": "Professor of Geography &amp; Affiliate Professor of Information Sciences and Technology, Penn State",
     "url": "http://scholar.google.com/citations?user=6k3KfDcAAAAJ",
-    "year": 1992,
     "stats": {
       "citations": [
-        "10628",
-        "5087"
+        "10647",
+        "5106"
       ],
       "hindex": [
         "50",
@@ -2558,17 +2557,17 @@ var data = [
         "134",
         "98"
       ]
-    }
+    },
+    "year": "1992"
   },
   {
     "name": "Ross Maciejewski",
     "affiliation": "Arizona State University",
     "url": "http://scholar.google.com/citations?user=nChgOjEAAAAJ",
-    "year": 2006,
     "stats": {
       "citations": [
-        "565",
-        "530"
+        "566",
+        "531"
       ],
       "hindex": [
         "14",
@@ -2578,17 +2577,17 @@ var data = [
         "20",
         "18"
       ]
-    }
+    },
+    "year": "2006"
   },
   {
     "name": "Blair MacIntyre",
     "affiliation": "Professor, School of Interactive Computing, Georgia Tech",
     "url": "http://scholar.google.com/citations?user=UA3tyKwAAAAJ",
-    "year": 1995,
     "stats": {
       "citations": [
-        "7621",
-        "3315"
+        "7632",
+        "3326"
       ],
       "hindex": [
         "29",
@@ -2598,17 +2597,17 @@ var data = [
         "62",
         "45"
       ]
-    }
+    },
+    "year": "1995"
   },
   {
     "name": "Jock D. Mackinlay",
     "affiliation": "Vice President, Visual Analysis, Tableau Software",
     "url": "http://scholar.google.com/citations?user=SWworh8AAAAJ",
-    "year": 1990,
     "stats": {
       "citations": [
-        "16943",
-        "5888"
+        "16961",
+        "5896"
       ],
       "hindex": [
         "53",
@@ -2618,17 +2617,17 @@ var data = [
         "89",
         "73"
       ]
-    }
+    },
+    "year": "1990"
   },
   {
     "name": "Jen Mankoff",
     "affiliation": "Carnegie Mellon",
     "url": "http://scholar.google.com/citations?user=mhmvCgsAAAAJ",
-    "year": 2000,
     "stats": {
       "citations": [
-        "4113",
-        "2545"
+        "4115",
+        "2546"
       ],
       "hindex": [
         "32",
@@ -2638,17 +2637,17 @@ var data = [
         "69",
         "56"
       ]
-    }
+    },
+    "year": "2000"
   },
   {
     "name": "Gloria Mark",
     "affiliation": "Professor of informatics, University of California, Irvine",
     "url": "http://scholar.google.com/citations?user=aoZCW38AAAAJ",
-    "year": 1997,
     "stats": {
       "citations": [
-        "3831",
-        "2039"
+        "3835",
+        "2042"
       ],
       "hindex": [
         "32",
@@ -2658,17 +2657,17 @@ var data = [
         "66",
         "40"
       ]
-    }
+    },
+    "year": "1997"
   },
   {
     "name": "Maja J Mataric",
     "affiliation": "Professor of Computer Science, University of Southern California",
     "url": "http://scholar.google.com/citations?user=o5YQMkMAAAAJ",
-    "year": 1993,
     "stats": {
       "citations": [
-        "21439",
-        "9136"
+        "21451",
+        "9144"
       ],
       "hindex": [
         "73",
@@ -2678,17 +2677,17 @@ var data = [
         "221",
         "165"
       ]
-    }
+    },
+    "year": "1993"
   },
   {
     "name": "Scott McCrickard",
     "affiliation": "Associate Professor of Computer Science, Virginia Tech",
     "url": "http://scholar.google.com/citations?user=jQNt6RwAAAAJ",
-    "year": 1998,
     "stats": {
       "citations": [
-        "2231",
-        "995"
+        "2234",
+        "998"
       ],
       "hindex": [
         "21",
@@ -2698,17 +2697,17 @@ var data = [
         "51",
         "20"
       ]
-    }
+    },
+    "year": "1998"
   },
   {
     "name": "Michael J. McGuffin",
     "affiliation": "�cole de technologie sup�rieure",
     "url": "http://scholar.google.com/citations?user=6HubqR8AAAAJ",
-    "year": 2002,
     "stats": {
       "citations": [
-        "1227",
-        "866"
+        "1230",
+        "869"
       ],
       "hindex": [
         "14",
@@ -2718,17 +2717,17 @@ var data = [
         "16",
         "13"
       ]
-    }
+    },
+    "year": "2003"
   },
   {
     "name": "Guy Melancon",
     "affiliation": "Professor of Computer Science, Universit� de Bordeaux",
     "url": "http://scholar.google.com/citations?user=OOCp390AAAAJ",
-    "year": 1997,
     "stats": {
       "citations": [
-        "2839",
-        "1556"
+        "2848",
+        "1563"
       ],
       "hindex": [
         "20",
@@ -2738,17 +2737,17 @@ var data = [
         "31",
         "21"
       ]
-    }
+    },
+    "year": "1997"
   },
   {
     "name": "Miriah Meyer",
     "affiliation": "Assistant Professor of Computer Science, University of Utah",
     "url": "http://scholar.google.com/citations?user=JAHNN7AAAAAJ",
-    "year": 2005,
     "stats": {
       "citations": [
-        "579",
-        "514"
+        "582",
+        "517"
       ],
       "hindex": [
         "13",
@@ -2758,17 +2757,17 @@ var data = [
         "15",
         "15"
       ]
-    }
+    },
+    "year": "2006"
   },
   {
     "name": "Torsten Möller",
     "affiliation": "Professor of Computing Science, Simon Fraser University",
     "url": "http://scholar.google.com/citations?user=3cGVmqsAAAAJ",
-    "year": 1998,
     "stats": {
       "citations": [
-        "3416",
-        "1960"
+        "3421",
+        "1965"
       ],
       "hindex": [
         "31",
@@ -2778,17 +2777,17 @@ var data = [
         "69",
         "52"
       ]
-    }
+    },
+    "year": "1998"
   },
   {
     "name": "Rob Miller",
     "affiliation": "Associate Professor, Computer Science, MIT",
     "url": "http://scholar.google.com/citations?user=e-c3R8QAAAAJ",
-    "year": 1997,
     "stats": {
       "citations": [
-        "5931",
-        "4002"
+        "5937",
+        "4008"
       ],
       "hindex": [
         "41",
@@ -2798,17 +2797,17 @@ var data = [
         "83",
         "65"
       ]
-    }
+    },
+    "year": "1997"
   },
   {
     "name": "Klaus Mueller",
     "affiliation": "Professor of Computer Science, Stony Brook University and SUNY Korea",
     "url": "http://scholar.google.com/citations?user=l6H5h1QAAAAJ",
-    "year": 1998,
     "stats": {
       "citations": [
-        "5629",
-        "2837"
+        "5630",
+        "2836"
       ],
       "hindex": [
         "38",
@@ -2818,17 +2817,17 @@ var data = [
         "95",
         "68"
       ]
-    }
+    },
+    "year": "1998"
   },
   {
     "name": "Tamara Munzner",
     "affiliation": "Professor of Computer Science, University of British Columbia",
     "url": "http://scholar.google.com/citations?user=c2Att08AAAAJ",
-    "year": 1994,
     "stats": {
       "citations": [
-        "4001",
-        "2271"
+        "4012",
+        "2282"
       ],
       "hindex": [
         "33",
@@ -2838,17 +2837,17 @@ var data = [
         "57",
         "49"
       ]
-    }
+    },
+    "year": "1994"
   },
   {
     "name": "Bilge Mutlu",
     "affiliation": "Professor of Computer Science, University of Wisconsin�Madison",
     "url": "http://scholar.google.com/citations?user=VGr54BoAAAAJ",
-    "year": 2007,
     "stats": {
       "citations": [
-        "960",
-        "913"
+        "961",
+        "914"
       ],
       "hindex": [
         "18",
@@ -2858,17 +2857,17 @@ var data = [
         "20",
         "19"
       ]
-    }
+    },
+    "year": "2007"
   },
   {
     "name": "Brad A. Myers",
     "affiliation": "Professor of Human-Computer Interaction, Carnegie Mellon University",
     "url": "http://scholar.google.com/citations?user=E1cp_aYAAAAJ",
-    "year": 1987,
     "stats": {
       "citations": [
-        "18963",
-        "7185"
+        "18982",
+        "7200"
       ],
       "hindex": [
         "67",
@@ -2878,17 +2877,17 @@ var data = [
         "242",
         "147"
       ]
-    }
+    },
+    "year": "1987"
   },
   {
     "name": "E.D. Mynatt",
     "affiliation": "Professor of Interactive Computing, Georgia Tech",
     "url": "http://scholar.google.com/citations?user=l7nsfT4AAAAJ",
-    "year": 1994,
     "stats": {
       "citations": [
-        "10009",
-        "4254"
+        "10013",
+        "4258"
       ],
       "hindex": [
         "45",
@@ -2898,37 +2897,37 @@ var data = [
         "103",
         "72"
       ]
-    }
+    },
+    "year": "1994"
   },
   {
     "name": "Shrikanth (Shri) S. Narayanan",
     "affiliation": "Andrew J Viterbi Professor of Engineering, University of Southern California",
     "url": "http://scholar.google.com/citations?user=8EDHmYkAAAAJ",
-    "year": 1998,
     "stats": {
       "citations": [
-        "12738",
-        "9078"
+        "12757",
+        "9095"
       ],
       "hindex": [
-        "56",
+        "57",
         "44"
       ],
       "i10index": [
         "271",
         "227"
       ]
-    }
+    },
+    "year": "1999"
   },
   {
     "name": "Cydney Nielsen",
     "affiliation": "Research Associate",
     "url": "http://scholar.google.com/citations?user=JavACE0AAAAJ",
-    "year": 2003,
     "stats": {
       "citations": [
-        "2793",
-        "2055"
+        "2796",
+        "2058"
       ],
       "hindex": [
         "11",
@@ -2938,17 +2937,17 @@ var data = [
         "12",
         "12"
       ]
-    }
+    },
+    "year": "2003"
   },
   {
     "name": "Don Norman",
     "affiliation": "Prof. Emeritus, Northwestern University",
     "url": "http://scholar.google.com/citations?user=h-2JebwAAAAJ",
-    "year": 1975,
     "stats": {
       "citations": [
-        "66846",
-        "21487"
+        "66906",
+        "21541"
       ],
       "hindex": [
         "77",
@@ -2958,17 +2957,17 @@ var data = [
         "247",
         "135"
       ]
-    }
+    },
+    "year": "1975"
   },
   {
     "name": "Chris North",
     "affiliation": "Computer Science, Virginia Tech",
     "url": "http://scholar.google.com/citations?user=yBZ7vtkAAAAJ",
-    "year": 1997,
     "stats": {
       "citations": [
-        "4117",
-        "2465"
+        "4123",
+        "2470"
       ],
       "hindex": [
         "35",
@@ -2978,17 +2977,17 @@ var data = [
         "80",
         "57"
       ]
-    }
+    },
+    "year": "1997"
   },
   {
     "name": "Stephen North",
     "affiliation": "ex-AT&amp;T Information Visualization Research",
     "url": "http://scholar.google.com/citations?user=_QJP9-0AAAAJ",
-    "year": 1990,
     "stats": {
       "citations": [
-        "5162",
-        "2376"
+        "5168",
+        "2380"
       ],
       "hindex": [
         "30",
@@ -2998,17 +2997,17 @@ var data = [
         "50",
         "33"
       ]
-    }
+    },
+    "year": "1990"
   },
   {
     "name": "Douglas Oard",
     "affiliation": "University of Maryland",
     "url": "http://scholar.google.com/citations?user=3ctKkysAAAAJ",
-    "year": 1997,
     "stats": {
       "citations": [
-        "5456",
-        "2485"
+        "5467",
+        "2496"
       ],
       "hindex": [
         "39",
@@ -3018,17 +3017,17 @@ var data = [
         "120",
         "75"
       ]
-    }
+    },
+    "year": "1997"
   },
   {
     "name": "Gary M. Olson",
     "affiliation": "Dept. of Informatics, University of California, Irvine",
     "url": "http://scholar.google.com/citations?user=4XyoYbAAAAAJ",
-    "year": 1983,
     "stats": {
       "citations": [
-        "8292",
-        "2882"
+        "8303",
+        "2890"
       ],
       "hindex": [
         "45",
@@ -3038,17 +3037,17 @@ var data = [
         "80",
         "48"
       ]
-    }
+    },
+    "year": "1983"
   },
   {
     "name": "Judith Olson",
     "affiliation": "Professor of Informatics, University of California Irvine",
     "url": "http://scholar.google.com/citations?user=xfwOz_kAAAAJ",
-    "year": 1988,
     "stats": {
       "citations": [
-        "8108",
-        "3164"
+        "8114",
+        "3167"
       ],
       "hindex": [
         "41",
@@ -3058,17 +3057,17 @@ var data = [
         "65",
         "44"
       ]
-    }
+    },
+    "year": "1988"
   },
   {
     "name": "Leysia Palen",
     "affiliation": "Associate Professor of Computer Science, University of Colorado Boulder",
     "url": "http://scholar.google.com/citations?user=x0OsogEAAAAJ",
-    "year": 1998,
     "stats": {
       "citations": [
-        "6881",
-        "4709"
+        "6894",
+        "4722"
       ],
       "hindex": [
         "39",
@@ -3078,17 +3077,17 @@ var data = [
         "56",
         "54"
       ]
-    }
+    },
+    "year": "1998"
   },
   {
     "name": "Bryan Pardo",
     "affiliation": "Electrical Engineering Computer Science, Northwestern University",
     "url": "http://scholar.google.com/citations?user=vxEKYqsAAAAJ",
-    "year": 2000,
     "stats": {
       "citations": [
-        "1407",
-        "900"
+        "1409",
+        "902"
       ],
       "hindex": [
         "22",
@@ -3098,17 +3097,17 @@ var data = [
         "40",
         "28"
       ]
-    }
+    },
+    "year": "2000"
   },
   {
     "name": "Tapan S. Parikh",
     "affiliation": "Professor in the School of Information, UC Berkeley",
     "url": "http://scholar.google.com/citations?user=Iiut4KYAAAAJ",
-    "year": 2004,
     "stats": {
       "citations": [
-        "1300",
-        "1094"
+        "1305",
+        "1097"
       ],
       "hindex": [
         "18",
@@ -3118,17 +3117,17 @@ var data = [
         "30",
         "29"
       ]
-    }
+    },
+    "year": "2004"
   },
   {
     "name": "Cynthia Parr",
     "affiliation": "Encyclopedia of Life, National Museum of Natural History, Smithsonian Institution",
     "url": "http://scholar.google.com/citations?user=oI764M0AAAAJ",
-    "year": 1992,
     "stats": {
       "citations": [
-        "1257",
-        "902"
+        "1258",
+        "903"
       ],
       "hindex": [
         "19",
@@ -3138,17 +3137,17 @@ var data = [
         "25",
         "20"
       ]
-    }
+    },
+    "year": "1992"
   },
   {
     "name": "Shwetak Patel",
     "affiliation": "University of Washington",
     "url": "http://scholar.google.com/citations?user=z4S5rC0AAAAJ",
-    "year": 2005,
     "stats": {
       "citations": [
-        "2609",
-        "2358"
+        "2619",
+        "2367"
       ],
       "hindex": [
         "29",
@@ -3158,16 +3157,16 @@ var data = [
         "51",
         "50"
       ]
-    }
+    },
+    "year": "2005"
   },
   {
     "name": "Eric Paulos",
     "affiliation": "Assistant Professor, UC Berkeley, EECS, New Media",
     "url": "http://scholar.google.com/citations?user=K__JmtcAAAAJ",
-    "year": 1997,
     "stats": {
       "citations": [
-        "2505",
+        "2506",
         "1799"
       ],
       "hindex": [
@@ -3178,17 +3177,17 @@ var data = [
         "51",
         "44"
       ]
-    }
+    },
+    "year": "1997"
   },
   {
     "name": "Adam Perer",
     "affiliation": "Research Scientist, IBM Research",
     "url": "http://scholar.google.com/citations?user=wAxr6b8AAAAJ",
-    "year": 2006,
     "stats": {
       "citations": [
-        "989",
-        "878"
+        "994",
+        "883"
       ],
       "hindex": [
         "15",
@@ -3198,17 +3197,17 @@ var data = [
         "16",
         "16"
       ]
-    }
+    },
+    "year": "2006"
   },
   {
     "name": "Hanspeter Pfister",
     "affiliation": "An Wang Professor of Computer Science",
     "url": "http://scholar.google.com/citations?user=VWX-GMAAAAAJ",
-    "year": 1995,
     "stats": {
       "citations": [
-        "10391",
-        "5112"
+        "10394",
+        "5114"
       ],
       "hindex": [
         "47",
@@ -3218,17 +3217,17 @@ var data = [
         "138",
         "105"
       ]
-    }
+    },
+    "year": "1995"
   },
   {
     "name": "Emmanuel Pietriga",
     "affiliation": "INRIA",
     "url": "http://scholar.google.com/citations?user=H19l7WoAAAAJ",
-    "year": 2001,
     "stats": {
       "citations": [
-        "1029",
-        "786"
+        "1030",
+        "787"
       ],
       "hindex": [
         "17",
@@ -3238,17 +3237,17 @@ var data = [
         "23",
         "18"
       ]
-    }
+    },
+    "year": "2001"
   },
   {
     "name": "Catherine Plaisant",
     "affiliation": "Senior Research Scientist, University of Maryland",
     "url": "http://scholar.google.com/citations?user=VnwWgwIAAAAJ",
-    "year": 1987,
     "stats": {
       "citations": [
-        "18373",
-        "7432"
+        "18397",
+        "7449"
       ],
       "hindex": [
         "45",
@@ -3258,17 +3257,17 @@ var data = [
         "126",
         "78"
       ]
-    }
+    },
+    "year": "1987"
   },
   {
     "name": "Mitchel Resnick",
     "affiliation": "Professor of Learning Research, MIT Media Lab",
     "url": "http://scholar.google.com/citations?user=KKq5SN4AAAAJ",
-    "year": 1993,
     "stats": {
       "citations": [
-        "11753",
-        "5473"
+        "11779",
+        "5495"
       ],
       "hindex": [
         "50",
@@ -3278,17 +3277,17 @@ var data = [
         "85",
         "63"
       ]
-    }
+    },
+    "year": "1993"
   },
   {
     "name": "Paul Resnick",
     "affiliation": "University of Michigan",
     "url": "http://scholar.google.com/citations?user=SftrEEMAAAAJ",
-    "year": 1997,
     "stats": {
       "citations": [
-        "17680",
-        "9211"
+        "17690",
+        "9222"
       ],
       "hindex": [
         "36",
@@ -3298,17 +3297,17 @@ var data = [
         "63",
         "51"
       ]
-    }
+    },
+    "year": "1997"
   },
   {
     "name": "Nathalie Henry Riche",
     "affiliation": "Microsoft Research",
     "url": "http://scholar.google.com/citations?user=HH02qY4AAAAJ",
-    "year": 2007,
     "stats": {
       "citations": [
-        "1409",
-        "1291"
+        "1414",
+        "1296"
       ],
       "hindex": [
         "18",
@@ -3318,17 +3317,17 @@ var data = [
         "26",
         "25"
       ]
-    }
+    },
+    "year": "2007"
   },
   {
     "name": "Scott Robertson",
     "affiliation": "University of Hawaii",
     "url": "http://scholar.google.com/citations?user=rdbwZvIAAAAJ",
-    "year": 1980,
     "stats": {
       "citations": [
-        "1600",
-        "621"
+        "1605",
+        "623"
       ],
       "hindex": [
         "21",
@@ -3338,37 +3337,37 @@ var data = [
         "35",
         "11"
       ]
-    }
+    },
+    "year": "1980"
   },
   {
     "name": "Mary Beth Rosson",
     "affiliation": "Professor of Information Sciences &amp; Technology, Pennsylvania State University",
     "url": "http://scholar.google.com/citations?user=1GUWOTEAAAAJ",
-    "year": 1987,
     "stats": {
       "citations": [
-        "12342",
-        "5521"
+        "12373",
+        "5551"
       ],
       "hindex": [
-        "53",
+        "54",
         "34"
       ],
       "i10index": [
-        "157",
-        "99"
+        "158",
+        "100"
       ]
-    }
+    },
+    "year": "1987"
   },
   {
     "name": "Richard Scheines",
     "affiliation": "Professor of Philosophy",
     "url": "http://scholar.google.com/citations?user=HlTD6JUAAAAJ",
-    "year": 1989,
     "stats": {
       "citations": [
-        "7329",
-        "3575"
+        "7346",
+        "3588"
       ],
       "hindex": [
         "27",
@@ -3378,17 +3377,17 @@ var data = [
         "53",
         "41"
       ]
-    }
+    },
+    "year": "1989"
   },
   {
     "name": "m.c. schraefel",
     "affiliation": "Professor, Electronics and Computer Science, University of Southampton",
     "url": "http://scholar.google.com/citations?user=nAtF6UMAAAAJ",
-    "year": 2000,
     "stats": {
       "citations": [
-        "1008",
-        "652"
+        "1009",
+        "653"
       ],
       "hindex": [
         "17",
@@ -3398,17 +3397,17 @@ var data = [
         "19",
         "16"
       ]
-    }
+    },
+    "year": "2000"
   },
   {
     "name": "Michael Sedlmair",
     "affiliation": "University of Vienna",
     "url": "http://scholar.google.com/citations?user=objnJXoAAAAJ",
-    "year": 2008,
     "stats": {
       "citations": [
-        "250",
-        "249"
+        "256",
+        "255"
       ],
       "hindex": [
         "9",
@@ -3418,17 +3417,17 @@ var data = [
         "8",
         "8"
       ]
-    }
+    },
+    "year": "2008"
   },
   {
     "name": "Ben Shneiderman",
     "affiliation": "Professor of Computer Science, University of Maryland",
     "url": "http://scholar.google.com/citations?user=h4i4fh8AAAAJ",
-    "year": 1981,
     "stats": {
       "citations": [
-        "58713",
-        "21764"
+        "58800",
+        "21820"
       ],
       "hindex": [
         "97",
@@ -3438,17 +3437,17 @@ var data = [
         "379",
         "224"
       ]
-    }
+    },
+    "year": "1981"
   },
   {
     "name": "Claudio T. Silva",
     "affiliation": "New York University, Engineering, CUSP, and Data Science",
     "url": "http://scholar.google.com/citations?user=YIwiAAsAAAAJ",
-    "year": 1997,
     "stats": {
       "citations": [
-        "9403",
-        "5091"
+        "9426",
+        "5112"
       ],
       "hindex": [
         "47",
@@ -3458,17 +3457,17 @@ var data = [
         "131",
         "98"
       ]
-    }
+    },
+    "year": "1997"
   },
   {
     "name": "Thad Starner",
     "affiliation": "Professor of Computing, Georgia Institute of Technology",
     "url": "http://scholar.google.com/citations?user=qr8Vo9IAAAAJ",
-    "year": 1995,
     "stats": {
       "citations": [
-        "16431",
-        "8132"
+        "16451",
+        "8148"
       ],
       "hindex": [
         "51",
@@ -3478,17 +3477,17 @@ var data = [
         "121",
         "102"
       ]
-    }
+    },
+    "year": "1995"
   },
   {
     "name": "John Stasko",
     "affiliation": "Professor of Interactive Computing, Georgia Institute of Technology",
     "url": "http://scholar.google.com/citations?user=2PxFftgAAAAJ",
-    "year": 1990,
     "stats": {
       "citations": [
-        "11588",
-        "5083"
+        "11594",
+        "5088"
       ],
       "hindex": [
         "55",
@@ -3498,13 +3497,13 @@ var data = [
         "143",
         "89"
       ]
-    }
+    },
+    "year": "1990"
   },
   {
     "name": "Marc Streit",
     "affiliation": "Assistant Professor, Johannes Kepler University Linz",
     "url": "http://scholar.google.com/citations?user=l7TTSP0AAAAJ",
-    "year": 2006,
     "stats": {
       "citations": [
         "375",
@@ -3518,17 +3517,17 @@ var data = [
         "13",
         "13"
       ]
-    }
+    },
+    "year": "2006"
   },
   {
     "name": "Wolfgang Stuerzlinger",
     "affiliation": "Simon Fraser University",
     "url": "http://scholar.google.com/citations?user=78KBaPsAAAAJ",
-    "year": 1996,
     "stats": {
       "citations": [
-        "3199",
-        "1774"
+        "3200",
+        "1775"
       ],
       "hindex": [
         "30",
@@ -3538,17 +3537,17 @@ var data = [
         "60",
         "43"
       ]
-    }
+    },
+    "year": "1996"
   },
   {
     "name": "Deborah Tatar",
     "affiliation": "Associate Professor of Computer Science and, by courtesy, Psychology, Virginia Tech",
     "url": "http://scholar.google.com/citations?user=LWcEVAIAAAAJ",
-    "year": 1987,
     "stats": {
       "citations": [
-        "2986",
-        "1264"
+        "2991",
+        "1270"
       ],
       "hindex": [
         "26",
@@ -3556,19 +3555,19 @@ var data = [
       ],
       "i10index": [
         "41",
-        "32"
+        "33"
       ]
-    }
+    },
+    "year": "1987"
   },
   {
     "name": "Loren Terveen",
     "affiliation": "University of Minnesota",
     "url": "http://scholar.google.com/citations?user=r6cAovIAAAAJ",
-    "year": 1994,
     "stats": {
       "citations": [
-        "10464",
-        "6181"
+        "10456",
+        "6182"
       ],
       "hindex": [
         "47",
@@ -3578,17 +3577,17 @@ var data = [
         "81",
         "67"
       ]
-    }
+    },
+    "year": "1994"
   },
   {
     "name": "Bill Tomlinson",
     "affiliation": "Professor of Informatics, University of California, Irvine",
     "url": "http://scholar.google.com/citations?user=-jW6ADwAAAAJ",
-    "year": 2000,
     "stats": {
       "citations": [
-        "1645",
-        "1198"
+        "1654",
+        "1207"
       ],
       "hindex": [
         "18",
@@ -3598,17 +3597,17 @@ var data = [
         "32",
         "23"
       ]
-    }
+    },
+    "year": "2000"
   },
   {
     "name": "Melanie Tory",
     "affiliation": "Associate Professor of Computer Science, University of Victoria",
     "url": "http://scholar.google.com/citations?user=cKMhiMkAAAAJ",
-    "year": 2002,
     "stats": {
       "citations": [
-        "1563",
-        "1081"
+        "1570",
+        "1088"
       ],
       "hindex": [
         "21",
@@ -3618,17 +3617,17 @@ var data = [
         "29",
         "26"
       ]
-    }
+    },
+    "year": "2002"
   },
   {
     "name": "Jeff Trinkle",
     "affiliation": "Professor of Computer Science, Rensselaer Polytechnic Institute",
     "url": "http://scholar.google.com/citations?user=Dl0vAp8AAAAJ",
-    "year": 1988,
     "stats": {
       "citations": [
-        "3240",
-        "1236"
+        "3243",
+        "1239"
       ],
       "hindex": [
         "29",
@@ -3638,17 +3637,17 @@ var data = [
         "57",
         "28"
       ]
-    }
+    },
+    "year": "1988"
   },
   {
     "name": "Jarke J. van Wijk",
     "affiliation": "Professor in Visualization, Eindhoven University of Technology",
     "url": "http://scholar.google.com/citations?user=1F_eX28AAAAJ",
-    "year": 1986,
     "stats": {
       "citations": [
-        "7227",
-        "3564"
+        "7239",
+        "3572"
       ],
       "hindex": [
         "46",
@@ -3658,17 +3657,17 @@ var data = [
         "101",
         "68"
       ]
-    }
+    },
+    "year": "1986"
   },
   {
     "name": "Fernanda Viegas",
     "affiliation": "Google",
     "url": "http://scholar.google.com/citations?user=GvXDNsYAAAAJ",
-    "year": 1999,
     "stats": {
       "citations": [
-        "4536",
-        "3098"
+        "4547",
+        "3110"
       ],
       "hindex": [
         "25",
@@ -3678,17 +3677,17 @@ var data = [
         "32",
         "32"
       ]
-    }
+    },
+    "year": "1999"
   },
   {
     "name": "Matthew Ward",
     "affiliation": "Professor of Computer Science, Worcester Polytechnic Institute",
     "url": "http://scholar.google.com/citations?user=EMOe15MAAAAJ",
-    "year": 1992,
     "stats": {
       "citations": [
-        "4295",
-        "2172"
+        "4305",
+        "2181"
       ],
       "hindex": [
         "32",
@@ -3696,19 +3695,19 @@ var data = [
       ],
       "i10index": [
         "56",
-        "38"
+        "39"
       ]
-    }
+    },
+    "year": "1992"
   },
   {
     "name": "Martin Wattenberg",
     "affiliation": "Google Research",
     "url": "http://scholar.google.com/citations?user=pv54dqMAAAAJ",
-    "year": 2001,
     "stats": {
       "citations": [
-        "6086",
-        "4325"
+        "6101",
+        "4339"
       ],
       "hindex": [
         "31",
@@ -3718,17 +3717,17 @@ var data = [
         "45",
         "42"
       ]
-    }
+    },
+    "year": "2001"
   },
   {
     "name": "Chris Weaver",
     "affiliation": "Associate Professor of Computer Science, University of Oklahoma",
     "url": "http://scholar.google.com/citations?user=SrIEIUgAAAAJ",
-    "year": 2002,
     "stats": {
       "citations": [
-        "678",
-        "562"
+        "679",
+        "563"
       ],
       "hindex": [
         "13",
@@ -3738,13 +3737,13 @@ var data = [
         "16",
         "14"
       ]
-    }
+    },
+    "year": "2002"
   },
   {
     "name": "Michel A. Westenberg",
     "affiliation": "Assistant professor of Visualization, Eindhoven University of Technology",
     "url": "http://scholar.google.com/citations?user=5eK84bMAAAAJ",
-    "year": 2000,
     "stats": {
       "citations": [
         "916",
@@ -3758,13 +3757,13 @@ var data = [
         "16",
         "12"
       ]
-    }
+    },
+    "year": "2000"
   },
   {
     "name": "Lauren Wilcox",
     "affiliation": "Assistant Professor, Georgia Institute of Technology",
     "url": "http://scholar.google.com/citations?user=Y2HTFXAAAAAJ",
-    "year": 2008,
     "stats": {
       "citations": [
         "155",
@@ -3778,33 +3777,33 @@ var data = [
         "5",
         "5"
       ]
-    }
+    },
+    "year": "2008"
   },
   {
     "name": "Jacob O. Wobbrock",
     "affiliation": "Associate Professor, University of Washington",
     "url": "http://scholar.google.com/citations?user=TmZ3howAAAAJ",
-    "year": 2003,
     "stats": {
       "citations": [
-        "4638",
-        "3955"
+        "4648",
+        "3964"
       ],
       "hindex": [
-        "36",
+        "37",
         "34"
       ],
       "i10index": [
         "80",
         "72"
       ]
-    }
+    },
+    "year": "2003"
   },
   {
     "name": "Svetlana Yarosh",
     "affiliation": "Assistant Professor, University of Minnesota",
     "url": "http://scholar.google.com/citations?user=n6bjh24AAAAJ",
-    "year": 2008,
     "stats": {
       "citations": [
         "415",
@@ -3818,17 +3817,17 @@ var data = [
         "10",
         "10"
       ]
-    }
+    },
+    "year": "2008"
   },
   {
     "name": "Ji Soo Yi",
     "affiliation": "Purdue University",
     "url": "http://scholar.google.com/citations?user=LqWIQ8kAAAAJ",
-    "year": 2005,
     "stats": {
       "citations": [
-        "984",
-        "853"
+        "985",
+        "854"
       ],
       "hindex": [
         "11",
@@ -3838,17 +3837,17 @@ var data = [
         "13",
         "11"
       ]
-    }
+    },
+    "year": "2005"
   },
   {
     "name": "Shumin Zhai",
     "affiliation": "IBM Almaden, Google",
     "url": "http://scholar.google.com/citations?user=Ud9CVHwAAAAJ",
-    "year": 1993,
     "stats": {
       "citations": [
-        "8262",
-        "4334"
+        "8271",
+        "4342"
       ],
       "hindex": [
         "50",
@@ -3858,17 +3857,17 @@ var data = [
         "113",
         "91"
       ]
-    }
+    },
+    "year": "1993"
   },
   {
     "name": "Shengdong Zhao",
     "affiliation": "Assistant Professor of Computer Science, National University of Singapore",
     "url": "http://scholar.google.com/citations?user=_I_s9LQAAAAJ",
-    "year": 2003,
     "stats": {
       "citations": [
-        "860",
-        "674"
+        "861",
+        "675"
       ],
       "hindex": [
         "14",
@@ -3878,16 +3877,16 @@ var data = [
         "18",
         "18"
       ]
-    }
+    },
+    "year": "2003"
   },
   {
     "name": "Caroline Ziemkiewicz",
     "affiliation": "Associate Research Engineer at Aptima, Inc",
     "url": "http://scholar.google.com/citations?user=VDhnOHEAAAAJ",
-    "year": 2005,
     "stats": {
       "citations": [
-        "413",
+        "414",
         "388"
       ],
       "hindex": [
@@ -3898,17 +3897,17 @@ var data = [
         "12",
         "11"
       ]
-    }
+    },
+    "year": "2006"
   },
   {
     "name": "John Zimmerman",
     "affiliation": "Carnegie Mellon Unviersity",
     "url": "http://scholar.google.com/citations?user=A-4JUL4AAAAJ",
-    "year": 2002,
     "stats": {
       "citations": [
-        "3744",
-        "3096"
+        "3757",
+        "3108"
       ],
       "hindex": [
         "29",
@@ -3918,6 +3917,7 @@ var data = [
         "71",
         "56"
       ]
-    }
+    },
+    "year": "2002"
   }
 ];
