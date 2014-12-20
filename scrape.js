@@ -13,7 +13,7 @@ var scrapeEntry = function(person, doneCallback) {
     $ = cheerio.load(body);
 
     try {
-      var photo = $('#gsc_prf_pup')[0].attribs.src;
+      var photo = $('#gsc_prf_pup')[0].attribs.src.replace(/&amp;/g, '&');
       var affiliation = $('.gsc_prf_il', '#gsc_prf_i')[0].children[0].data;
 
       var keywords_root = $('.gsc_prf_ila');

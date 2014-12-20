@@ -23,7 +23,7 @@ download('http://scholar.google.com/citations?view_op=view_photo&user=0EWw1z8AAA
 */
 
 var scrapeImage = function(entry, doneCallback) {
-  var url = entry.photo.replace('&amp;', '&');
+  var url = entry.photo;
   var regex = /user=([^&]+)/;
   var match = regex.exec(entry.url);
   var user = match[1];

@@ -1,8 +1,8 @@
-var date = "Fri Dec 19 2014 19:24:10 GMT-0500 (EST)"
+var date = "Sat Dec 20 2014 08:14:44 GMT-0500 (EST)"
 var data = [
   {
     "name": "Wil van der Aalst",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=aSZYyxIAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=aSZYyxIAAAAJ&citpid=1",
     "keywords": [
       "Business Process Management",
       "Process Mining",
@@ -14,8 +14,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=aSZYyxIAAAAJ",
     "stats": {
       "citations": [
-        "55980",
-        "36607"
+        "56048",
+        "36673"
       ],
       "hindex": [
         "113",
@@ -30,7 +30,7 @@ var data = [
   },
   {
     "name": "Rakesh Agrawal",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=XPdhXUUAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=XPdhXUUAAAAJ&citpid=1",
     "keywords": [
       "Data Mining",
       "Web Search",
@@ -41,8 +41,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=XPdhXUUAAAAJ",
     "stats": {
       "citations": [
-        "84912",
-        "37243"
+        "85045",
+        "37331"
       ],
       "hindex": [
         "89",
@@ -57,7 +57,7 @@ var data = [
   },
   {
     "name": "Ian F. Akyildiz",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=rAGwv14AAAAJ&amp;citpid=2",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=rAGwv14AAAAJ&citpid=2",
     "keywords": [
       "Wireless Communication",
       "Nano-Scale Communication",
@@ -69,8 +69,8 @@ var data = [
     "url": "http://scholar.google.com/citations?hl=en&user=rAGwv14AAAAJ",
     "stats": {
       "citations": [
-        "65971",
-        "44976"
+        "66090",
+        "45089"
       ],
       "hindex": [
         "85",
@@ -85,7 +85,7 @@ var data = [
   },
   {
     "name": "Hari Balakrishnan",
-    "photo": "http://scholar.google.com//citations/images/avatar_scholar_150.jpg",
+    "photo": "http://scholar.google.com/citations/images/avatar_scholar_150.jpg",
     "keywords": [
       "Networked computer systems",
       "wireless networks",
@@ -96,8 +96,8 @@ var data = [
     "url": "http://scholar.google.com/citations?hl=en&user=Qf4bw4UAAAAJ",
     "stats": {
       "citations": [
-        "83640",
-        "44130"
+        "83760",
+        "44235"
       ],
       "hindex": [
         "97",
@@ -112,7 +112,7 @@ var data = [
   },
   {
     "name": "Rajkumar Buyya",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=7xN6JqYAAAAJ&amp;citpid=2",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=7xN6JqYAAAAJ&citpid=2",
     "keywords": [
       "Cloud Computing",
       "Distributed Systems",
@@ -124,8 +124,8 @@ var data = [
     "url": "http://scholar.google.com/citations?hl=en&user=7xN6JqYAAAAJ",
     "stats": {
       "citations": [
-        "35135",
-        "26045"
+        "35206",
+        "26106"
       ],
       "hindex": [
         "86",
@@ -140,7 +140,7 @@ var data = [
   },
   {
     "name": "W. Bruce Croft",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=ArV74ZMAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=ArV74ZMAAAAJ&citpid=1",
     "keywords": [
       "Information Retrieval"
     ],
@@ -148,12 +148,12 @@ var data = [
     "url": "http://scholar.google.com/citations?user=ArV74ZMAAAAJ&hl=en",
     "stats": {
       "citations": [
-        "34246",
-        "15222"
+        "34275",
+        "15243"
       ],
       "hindex": [
         "88",
-        "62"
+        "63"
       ],
       "i10index": [
         "254",
@@ -164,7 +164,7 @@ var data = [
   },
   {
     "name": "Kalyanmoy Deb",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=paTAXiIAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=paTAXiIAAAAJ&citpid=1",
     "keywords": [
       "Optimization",
       "Evolutionary Computation",
@@ -176,23 +176,23 @@ var data = [
     "url": "http://scholar.google.com/citations?hl=en&user=paTAXiIAAAAJ",
     "stats": {
       "citations": [
-        "65837",
-        "40444"
+        "65953",
+        "40534"
       ],
       "hindex": [
-        "85",
+        "86",
         "64"
       ],
       "i10index": [
         "227",
-        "188"
+        "189"
       ]
     },
     "year": "1993"
   },
   {
     "name": "Jack Dongarra",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=X4SbSTAAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=X4SbSTAAAAAJ&citpid=1",
     "keywords": [
       "scientific parallel computing"
     ],
@@ -200,23 +200,23 @@ var data = [
     "url": "http://scholar.google.com/citations?user=X4SbSTAAAAAJ",
     "stats": {
       "citations": [
-        "76318",
-        "26098"
+        "76397",
+        "26163"
       ],
       "hindex": [
         "103",
-        "67"
+        "68"
       ],
       "i10index": [
-        "715",
-        "405"
+        "716",
+        "406"
       ]
     },
     "year": "1984"
   },
   {
     "name": "Olivier Faugeras",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=_PhjyLoAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=_PhjyLoAAAAJ&citpid=1",
     "keywords": [
       "Mathematical Neuroscience",
       "Stochastic Calculus",
@@ -228,23 +228,23 @@ var data = [
     "url": "http://scholar.google.com/citations?user=_PhjyLoAAAAJ",
     "stats": {
       "citations": [
-        "37798",
-        "10087"
+        "37889",
+        "10169"
       ],
       "hindex": [
         "89",
         "50"
       ],
       "i10index": [
-        "271",
-        "146"
+        "272",
+        "147"
       ]
     },
     "year": "1987"
   },
   {
     "name": "Ian T. Foster",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=VGoSakQAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=VGoSakQAAAAJ&citpid=1",
     "keywords": [
       "Computer science",
       "computational science"
@@ -253,30 +253,30 @@ var data = [
     "url": "http://scholar.google.com/citations?user=VGoSakQAAAAJ",
     "stats": {
       "citations": [
-        "90545",
-        "32834"
+        "90594",
+        "32869"
       ],
       "hindex": [
         "113",
         "79"
       ],
       "i10index": [
-        "370",
-        "266"
+        "371",
+        "267"
       ]
     },
     "year": "1996"
   },
   {
     "name": "Hector Garcia-Molina",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=bAa___kAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=bAa___kAAAAJ&citpid=1",
     "keywords": [],
     "affiliation": "Professor of Computer Science, Stanford University",
     "url": "http://scholar.google.com/citations?user=bAa___kAAAAJ",
     "stats": {
       "citations": [
-        "63204",
-        "23596"
+        "63234",
+        "23616"
       ],
       "hindex": [
         "121",
@@ -291,7 +291,7 @@ var data = [
   },
   {
     "name": "Georgios B. Giannakis",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=Nu_6R8sAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Nu_6R8sAAAAJ&citpid=1",
     "keywords": [
       "Statistical signal processing",
       "cognitive communications",
@@ -303,8 +303,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=Nu_6R8sAAAAJ",
     "stats": {
       "citations": [
-        "45290",
-        "23337"
+        "45338",
+        "23376"
       ],
       "hindex": [
         "110",
@@ -319,7 +319,7 @@ var data = [
   },
   {
     "name": "David E. Goldberg",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=BUzKxsoAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=BUzKxsoAAAAJ&citpid=1",
     "keywords": [
       "Genetic Algorithm Pioneer &amp; Leader of Movement to Transform Engineering Education"
     ],
@@ -327,23 +327,23 @@ var data = [
     "url": "http://scholar.google.com/citations?user=BUzKxsoAAAAJ",
     "stats": {
       "citations": [
-        "107138",
-        "38015"
+        "107278",
+        "38080"
       ],
       "hindex": [
         "90",
         "53"
       ],
       "i10index": [
-        "336",
-        "208"
+        "337",
+        "209"
       ]
     },
     "year": "1991"
   },
   {
     "name": "Luc Van Gool",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=TwMib_QAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=TwMib_QAAAAJ&citpid=1",
     "keywords": [
       "computer vision",
       "computer graphics",
@@ -355,23 +355,23 @@ var data = [
     "url": "http://scholar.google.com/citations?user=TwMib_QAAAAJ",
     "stats": {
       "citations": [
-        "46469",
-        "34075"
+        "46597",
+        "34191"
       ],
       "hindex": [
         "94",
         "74"
       ],
       "i10index": [
-        "407",
-        "311"
+        "408",
+        "312"
       ]
     },
     "year": "1995"
   },
   {
     "name": "Alon Halevy",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=F_MI0pcAAAAJ&amp;citpid=3",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=F_MI0pcAAAAJ&citpid=3",
     "keywords": [
       "Database systems",
       "Web data management",
@@ -381,8 +381,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=F_MI0pcAAAAJ",
     "stats": {
       "citations": [
-        "34865",
-        "14825"
+        "34861",
+        "14814"
       ],
       "hindex": [
         "90",
@@ -397,7 +397,7 @@ var data = [
   },
   {
     "name": "Jiawei Han",
-    "photo": "http://scholar.google.com//citations/images/avatar_scholar_150.jpg",
+    "photo": "http://scholar.google.com/citations/images/avatar_scholar_150.jpg",
     "keywords": [
       "data mining",
       "database systems",
@@ -408,8 +408,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=Kv9AbjMAAAAJ",
     "stats": {
       "citations": [
-        "100705",
-        "60849"
+        "100910",
+        "61006"
       ],
       "hindex": [
         "125",
@@ -424,7 +424,7 @@ var data = [
   },
   {
     "name": "David Haussler",
-    "photo": "http://scholar.google.com//citations/images/avatar_scholar_150.jpg",
+    "photo": "http://scholar.google.com/citations/images/avatar_scholar_150.jpg",
     "keywords": [
       "genomics",
       "computer science",
@@ -436,8 +436,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=S2OjOvYAAAAJ",
     "stats": {
       "citations": [
-        "92158",
-        "46387"
+        "92242",
+        "46458"
       ],
       "hindex": [
         "118",
@@ -452,7 +452,7 @@ var data = [
   },
   {
     "name": "Francisco Herrera",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=HULIk-QAAAAJ&amp;citpid=3",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=HULIk-QAAAAJ&citpid=3",
     "keywords": [
       "Artificial Intelligence",
       "Computational Intelligence",
@@ -480,7 +480,7 @@ var data = [
   },
   {
     "name": "Mark Horowitz",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=e7V7-gEAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=e7V7-gEAAAAJ&citpid=1",
     "keywords": [
       "VLSI",
       "Hardware",
@@ -491,8 +491,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=e7V7-gEAAAAJ",
     "stats": {
       "citations": [
-        "32927",
-        "13374"
+        "32943",
+        "13385"
       ],
       "hindex": [
         "97",
@@ -507,7 +507,7 @@ var data = [
   },
   {
     "name": "Geoffrey Hinton",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=JicYPdAAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=JicYPdAAAAAJ&citpid=1",
     "keywords": [
       "machine learning",
       "neural networks",
@@ -519,12 +519,12 @@ var data = [
     "url": "http://scholar.google.com/citations?user=JicYPdAAAAAJ",
     "stats": {
       "citations": [
-        "95689",
-        "34475"
+        "95910",
+        "34628"
       ],
       "hindex": [
         "106",
-        "74"
+        "75"
       ],
       "i10index": [
         "262",
@@ -535,7 +535,7 @@ var data = [
   },
   {
     "name": "Anil K. Jain",
-    "photo": "http://scholar.google.com//citations/images/avatar_scholar_150.jpg",
+    "photo": "http://scholar.google.com/citations/images/avatar_scholar_150.jpg",
     "keywords": [
       "Biometrics",
       "Computer vision",
@@ -547,8 +547,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=g-_ZXGsAAAAJ",
     "stats": {
       "citations": [
-        "117039",
-        "60627"
+        "117254",
+        "60804"
       ],
       "hindex": [
         "144",
@@ -556,14 +556,14 @@ var data = [
       ],
       "i10index": [
         "482",
-        "385"
+        "387"
       ]
     },
     "year": "1992"
   },
   {
     "name": "Nick Jennings",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=FX5CsuYAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=FX5CsuYAAAAJ&citpid=1",
     "keywords": [
       "Artificial Intelligence",
       "Multi-Agent Systems",
@@ -575,8 +575,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=FX5CsuYAAAAJ",
     "stats": {
       "citations": [
-        "57050",
-        "22544"
+        "57111",
+        "22585"
       ],
       "hindex": [
         "103",
@@ -591,7 +591,7 @@ var data = [
   },
   {
     "name": "Michael I. Jordan",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=yxUduqMAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=yxUduqMAAAAJ&citpid=1",
     "keywords": [
       "machine learning",
       "statistics",
@@ -602,8 +602,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=yxUduqMAAAAJ",
     "stats": {
       "citations": [
-        "80837",
-        "48687"
+        "80964",
+        "48783"
       ],
       "hindex": [
         "117",
@@ -618,7 +618,7 @@ var data = [
   },
   {
     "name": "David Karger",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=2vQRGrYAAAAJ&amp;citpid=2",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=2vQRGrYAAAAJ&citpid=2",
     "keywords": [
       "Information Management",
       "HCI",
@@ -645,7 +645,7 @@ var data = [
   },
   {
     "name": "Randy Katz",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=PkfChMgAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=PkfChMgAAAAJ&citpid=1",
     "keywords": [
       "Computer Systems",
       "Communications Networks",
@@ -656,8 +656,8 @@ var data = [
     "url": "http://scholar.google.com/citations?hl=en&user=PkfChMgAAAAJ",
     "stats": {
       "citations": [
-        "51254",
-        "22448"
+        "51316",
+        "22508"
       ],
       "hindex": [
         "100",
@@ -672,7 +672,7 @@ var data = [
   },
   {
     "name": "Robert E. Kraut",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=HKGYvu4AAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=HKGYvu4AAAAJ&citpid=1",
     "keywords": [
       "Online communities",
       "Interpersonal communicaiton",
@@ -682,8 +682,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=HKGYvu4AAAAJ&hl=en",
     "stats": {
       "citations": [
-        "27993",
-        "13037"
+        "28020",
+        "13060"
       ],
       "hindex": [
         "86",
@@ -698,7 +698,7 @@ var data = [
   },
   {
     "name": "Daphne Koller",
-    "photo": "http://scholar.google.com//citations/images/avatar_scholar_150.jpg",
+    "photo": "http://scholar.google.com/citations/images/avatar_scholar_150.jpg",
     "keywords": [
       "machine learning",
       "computational biology",
@@ -709,23 +709,23 @@ var data = [
     "url": "http://scholar.google.com/citations?user=5Iqe53IAAAAJ",
     "stats": {
       "citations": [
-        "40378",
-        "23845"
+        "40444",
+        "23902"
       ],
       "hindex": [
-        "100",
+        "101",
         "75"
       ],
       "i10index": [
         "233",
-        "208"
+        "207"
       ]
     },
     "year": "1996"
   },
   {
     "name": "Vipin Kumar",
-    "photo": "http://scholar.google.com//citations/images/avatar_scholar_150.jpg",
+    "photo": "http://scholar.google.com/citations/images/avatar_scholar_150.jpg",
     "keywords": [
       "data mining",
       "high performance comouting"
@@ -750,7 +750,7 @@ var data = [
   },
   {
     "name": "Christos Papadimitriou",
-    "photo": "http://scholar.google.com//citations/images/avatar_scholar_150.jpg",
+    "photo": "http://scholar.google.com/citations/images/avatar_scholar_150.jpg",
     "keywords": [
       "Algorithms",
       "complexity",
@@ -761,8 +761,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=ZDvxbWYAAAAJ",
     "stats": {
       "citations": [
-        "59661",
-        "21456"
+        "59712",
+        "21506"
       ],
       "hindex": [
         "108",
@@ -777,14 +777,14 @@ var data = [
   },
   {
     "name": "Stanley Osher",
-    "photo": "http://scholar.google.com//citations/images/avatar_scholar_150.jpg",
+    "photo": "http://scholar.google.com/citations/images/avatar_scholar_150.jpg",
     "keywords": [],
     "affiliation": "Unknown affiliation",
     "url": "http://scholar.google.com/citations?user=d3UtiX8AAAAJ",
     "stats": {
       "citations": [
-        "72217",
-        "38512"
+        "72328",
+        "38583"
       ],
       "hindex": [
         "98",
@@ -799,7 +799,7 @@ var data = [
   },
   {
     "name": "Alex `Sandy' Pentland",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=P4nfoKYAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=P4nfoKYAAAAJ&citpid=1",
     "keywords": [
       "Social Physics",
       "Honest Signals",
@@ -811,12 +811,12 @@ var data = [
     "url": "http://scholar.google.com/citations?hl=en&user=P4nfoKYAAAAJ",
     "stats": {
       "citations": [
-        "73089",
-        "31312"
+        "73184",
+        "31396"
       ],
       "hindex": [
         "106",
-        "65"
+        "66"
       ],
       "i10index": [
         "366",
@@ -827,7 +827,7 @@ var data = [
   },
   {
     "name": "Tomaso Poggio",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=WgAGy7wAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=WgAGy7wAAAAJ&citpid=1",
     "keywords": [
       "Machine Learning",
       "Learning Theory",
@@ -839,23 +839,23 @@ var data = [
     "url": "http://scholar.google.com/citations?user=WgAGy7wAAAAJ",
     "stats": {
       "citations": [
-        "71217",
-        "25801"
+        "71284",
+        "25850"
       ],
       "hindex": [
         "116",
         "75"
       ],
       "i10index": [
-        "351",
-        "218"
+        "353",
+        "220"
       ]
     },
     "year": "1980"
   },
   {
     "name": "Steven Salzberg",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=sUVeH-4AAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=sUVeH-4AAAAJ&citpid=1",
     "keywords": [
       "Computational Biology",
       "Genomics",
@@ -867,8 +867,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=sUVeH-4AAAAJ",
     "stats": {
       "citations": [
-        "85578",
-        "45878"
+        "85676",
+        "45961"
       ],
       "hindex": [
         "110",
@@ -883,7 +883,7 @@ var data = [
   },
   {
     "name": "Bernhard Schölkopf",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=DZ-fHPgAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=DZ-fHPgAAAAJ&citpid=1",
     "keywords": [
       "Machine Learning",
       "Causal Inference",
@@ -911,7 +911,7 @@ var data = [
   },
   {
     "name": "Terrence Sejnowski",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=m1qAiOUAAAAJ&amp;citpid=2",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=m1qAiOUAAAAJ&citpid=2",
     "keywords": [
       "Computational Neuroscience",
       "Artificial Intelligence"
@@ -920,8 +920,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=m1qAiOUAAAAJ",
     "stats": {
       "citations": [
-        "83428",
-        "32731"
+        "83519",
+        "32787"
       ],
       "hindex": [
         "126",
@@ -936,29 +936,29 @@ var data = [
   },
   {
     "name": "Scott Shenker",
-    "photo": "http://scholar.google.com//citations/images/avatar_scholar_150.jpg",
+    "photo": "http://scholar.google.com/citations/images/avatar_scholar_150.jpg",
     "keywords": [],
     "affiliation": "Professor of Computer Science, UC Berkeley",
     "url": "http://scholar.google.com/citations?hl=en&user=GUAoEcAAAAAJ",
     "stats": {
       "citations": [
-        "88355",
-        "36807"
+        "88416",
+        "36875"
       ],
       "hindex": [
         "124",
         "88"
       ],
       "i10index": [
-        "308",
-        "239"
+        "309",
+        "240"
       ]
     },
     "year": "1993"
   },
   {
     "name": "Amit Sheth",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=2T3H4ekAAAAJ&amp;citpid=2",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=2T3H4ekAAAAJ&citpid=2",
     "keywords": [
       "Computing for Human Experience",
       "Smart Data",
@@ -970,8 +970,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=2T3H4ekAAAAJ",
     "stats": {
       "citations": [
-        "29408",
-        "12227"
+        "29424",
+        "12239"
       ],
       "hindex": [
         "87",
@@ -986,7 +986,7 @@ var data = [
   },
   {
     "name": "Ben Shneiderman",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=h4i4fh8AAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=h4i4fh8AAAAJ&citpid=1",
     "keywords": [
       "human-computer interaction",
       "information visualization",
@@ -996,23 +996,23 @@ var data = [
     "url": "http://scholar.google.com/citations?user=h4i4fh8AAAAJ",
     "stats": {
       "citations": [
-        "59601",
-        "22474"
+        "59705",
+        "22567"
       ],
       "hindex": [
         "97",
         "69"
       ],
       "i10index": [
-        "386",
-        "231"
+        "387",
+        "233"
       ]
     },
     "year": "1981"
   },
   {
     "name": "Herbert Simon",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=9d7rMrkAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=9d7rMrkAAAAJ&citpid=1",
     "keywords": [
       "Artificial intelligence",
       "Cognitive psychology",
@@ -1022,15 +1022,15 @@ var data = [
     "url": "http://scholar.google.com/citations?user=9d7rMrkAAAAJ",
     "stats": {
       "citations": [
-        "240873",
-        "74624"
+        "241022",
+        "74725"
       ],
       "hindex": [
         "154",
         "95"
       ],
       "i10index": [
-        "567",
+        "566",
         "314"
       ]
     },
@@ -1038,7 +1038,7 @@ var data = [
   },
   {
     "name": "Mani Srivastava",
-    "photo": "http://scholar.google.com//citations/images/avatar_scholar_150.jpg",
+    "photo": "http://scholar.google.com/citations/images/avatar_scholar_150.jpg",
     "keywords": [
       "Embedded Systems",
       "Wireless Networks",
@@ -1050,12 +1050,12 @@ var data = [
     "url": "http://scholar.google.com/citations?hl=en&user=X2Qs7XYAAAAJ",
     "stats": {
       "citations": [
-        "36389",
-        "20730"
+        "36434",
+        "20770"
       ],
       "hindex": [
         "82",
-        "64"
+        "65"
       ],
       "i10index": [
         "246",
@@ -1066,7 +1066,7 @@ var data = [
   },
   {
     "name": "John Stankovic",
-    "photo": "http://scholar.google.com//citations/images/avatar_scholar_150.jpg",
+    "photo": "http://scholar.google.com/citations/images/avatar_scholar_150.jpg",
     "keywords": [
       "wireless sensor networks",
       "cyber physical systems",
@@ -1076,8 +1076,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=4VJre9IAAAAJ",
     "stats": {
       "citations": [
-        "37314",
-        "18403"
+        "37331",
+        "18420"
       ],
       "hindex": [
         "102",
@@ -1092,7 +1092,7 @@ var data = [
   },
   {
     "name": "A. S. Szalay",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=rUiWchkAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=rUiWchkAAAAJ&citpid=1",
     "keywords": [
       "Astrophysics",
       "astronomy",
@@ -1104,8 +1104,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=rUiWchkAAAAJ",
     "stats": {
       "citations": [
-        "59244",
-        "32098"
+        "59308",
+        "32147"
       ],
       "hindex": [
         "94",
@@ -1120,7 +1120,7 @@ var data = [
   },
   {
     "name": "Jeffrey Ullman",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=wUJ2bXgAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=wUJ2bXgAAAAJ&citpid=1",
     "keywords": [
       "Database Systems",
       "Data Mining"
@@ -1129,8 +1129,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=wUJ2bXgAAAAJ",
     "stats": {
       "citations": [
-        "102958",
-        "22666"
+        "103017",
+        "22698"
       ],
       "hindex": [
         "102",
@@ -1145,7 +1145,7 @@ var data = [
   },
   {
     "name": "Moshe Y. Vardi",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=DQaARsgAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=DQaARsgAAAAJ&citpid=1",
     "keywords": [
       "Logic and Computation"
     ],
@@ -1153,15 +1153,15 @@ var data = [
     "url": "http://scholar.google.com/citations?user=DQaARsgAAAAJ",
     "stats": {
       "citations": [
-        "33818",
-        "12818"
+        "33839",
+        "12835"
       ],
       "hindex": [
-        "85",
+        "86",
         "53"
       ],
       "i10index": [
-        "278",
+        "279",
         "217"
       ]
     },
@@ -1169,7 +1169,7 @@ var data = [
   },
   {
     "name": "Martin Vetterli",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=YQcU3NYAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=YQcU3NYAAAAJ&citpid=1",
     "keywords": [
       "signal processing",
       "communications",
@@ -1195,7 +1195,7 @@ var data = [
   },
   {
     "name": "Alberto Sangiovanni Vincentelli",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=AhgjQ2QAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=AhgjQ2QAAAAJ&citpid=1",
     "keywords": [
       "System design",
       "embedded systems",
@@ -1207,8 +1207,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=AhgjQ2QAAAAJ",
     "stats": {
       "citations": [
-        "43837",
-        "11293"
+        "43860",
+        "11313"
       ],
       "hindex": [
         "96",
@@ -1223,7 +1223,7 @@ var data = [
   },
   {
     "name": "Jennifer Widom",
-    "photo": "http://scholar.google.com//citations/images/avatar_scholar_150.jpg",
+    "photo": "http://scholar.google.com/citations/images/avatar_scholar_150.jpg",
     "keywords": [
       "Database and Information Management"
     ],
@@ -1231,8 +1231,8 @@ var data = [
     "url": "http://scholar.google.com/citations?user=zdKmnYwAAAAJ",
     "stats": {
       "citations": [
-        "40427",
-        "14356"
+        "40446",
+        "14370"
       ],
       "hindex": [
         "88",
@@ -1247,7 +1247,7 @@ var data = [
   },
   {
     "name": "Philip S. Yu",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=D0lL1r0AAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=D0lL1r0AAAAJ&citpid=1",
     "keywords": [
       "Data mining",
       "Database",
@@ -1257,23 +1257,23 @@ var data = [
     "url": "http://scholar.google.com/citations?user=D0lL1r0AAAAJ",
     "stats": {
       "citations": [
-        "58247",
-        "33472"
+        "58319",
+        "33540"
       ],
       "hindex": [
         "115",
         "84"
       ],
       "i10index": [
-        "653",
-        "497"
+        "654",
+        "498"
       ]
     },
     "year": "1992"
   },
   {
     "name": "Lotfi A. Zadeh",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=S6H-0RAAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=S6H-0RAAAAAJ&citpid=1",
     "keywords": [
       "Fuzzy Logic",
       "Soft Computing",
@@ -1284,15 +1284,15 @@ var data = [
     "url": "http://scholar.google.com/citations?user=S6H-0RAAAAAJ",
     "stats": {
       "citations": [
-        "139973",
-        "59171"
+        "140154",
+        "59285"
       ],
       "hindex": [
         "94",
         "66"
       ],
       "i10index": [
-        "254",
+        "255",
         "165"
       ]
     },
@@ -1300,7 +1300,7 @@ var data = [
   },
   {
     "name": "Hongjiang Zhang",
-    "photo": "http://scholar.google.com//citations?view_op=view_photo&amp;user=u6wmNbQAAAAJ&amp;citpid=1",
+    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=u6wmNbQAAAAJ&citpid=1",
     "keywords": [
       "Multimedia Computing",
       "Pattern Recognition",
@@ -1326,7 +1326,7 @@ var data = [
   },
   {
     "name": "Andrew Zisserman",
-    "photo": "http://scholar.google.com//citations/images/avatar_scholar_150.jpg",
+    "photo": "http://scholar.google.com/citations/images/avatar_scholar_150.jpg",
     "keywords": [
       "Computer Vision"
     ],
