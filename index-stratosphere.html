@@ -23,10 +23,11 @@
 
 <p><b>Disicipline-specific lists:</b> [<a href="index.html">Information Retrieval</a>] [<a href="index-hci.html">Human-Computer Interaction</a>]</p>
 
-<div id="date"><small>Data scraped from Google Scholar: "name",
-"citations", "h-index", and "i10-index" are from author profile;
-"year" denotes year of first citation.</small>
-</div>
+<div id="date" style="width:800px"><small>Data scraped from Google
+Scholar: "name", "citations", "h-index", and "i10-index" are from
+author profile; "year" denotes year of first citation. The columns
+marked "/y" indicates division by years since first
+citation.</small></div>
 
 <p/>
 
@@ -76,7 +77,7 @@ for (var i=0; i< data.length; i++) {
 
 // http://tablesorter.com/docs/
 $(document).ready(function() { 
-  $("#date").append("<br/><small>Last updated: " + date + "</small>");
+  $("#date").append("<p><small>Last updated: " + date + "</small></p>");
   $("#stats").tablesorter({sortList: [[4,1], [2,1]]}); 
 }); 
 </script>
