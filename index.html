@@ -60,12 +60,16 @@ function round(n) {
 }
 
 for (var i=0; i< data.length; i++) {
+  var regex = /user=([^&]+)/;
+  var match = regex.exec(data[i].url);
+  var userId = match[1];
+
   var row = $('<tr/>');
   var y = (2014 - data[i].year);
   row.append($('<td style="text-align: left"/>')
     .html('<a href="' + data[i].url + '" class="tooltip">' + data[i].name +
     '<span><img class="callout" src="tooltip/tooltip.gif" />' +
-//    '<img src="' + data[i].photo + '"/><br/>' +
+    '<img style="padding-bottom: 10px" src="images/' + userId + '.png"/><br/>' +
     '<b>' + data[i].affiliation + '</b><br/>' +
     '<small><i>' + data[i].keywords.join(', ') + '</i></small><br/>' +
     '</span></a>'));
