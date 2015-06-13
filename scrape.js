@@ -12,7 +12,7 @@ var scrapeEntry = function(person, doneCallback) {
   // properly set the encoding, or we'll mangle accented characters:
   // http://stackoverflow.com/questions/8332500/module-request-how-to-properly-retrieve-accented-characters-%EF%BF%BD-%EF%BF%BD-%EF%BF%BD
   request({ encoding: 'binary', method: "GET", uri: url}, function(err, resp, body) {
-    $ = cheerio.load(new String(body));
+    var $ = cheerio.load(body);
 
     try {
       var photo = $('#gsc_prf_pup')[0].attribs.src.replace(/&amp;/g, '&');
