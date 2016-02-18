@@ -71,7 +71,8 @@ for (var i=0; i< data.length; i++) {
     .html('<a href="' + data[i].url + '" class="tooltip">' + data[i].name +
     '<span><img class="callout" src="tooltip/tooltip.gif" />' +
     '<img style="padding-bottom: 10px" src="images/' + userId + '.png"/><br/>' +
-    '<b>' + data[i].affiliation + '</b><br/>' +
+    '<b>' + data[i].name + '</b><br/>' +
+    data[i].affiliation + '<br/>' +
     '<small><i>' + data[i].keywords.join(', ') + '</i></small><br/>' +
     '</span></a>'));
   row.append($('<td/>').html(data[i].year));
