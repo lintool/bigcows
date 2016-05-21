@@ -15,6 +15,9 @@ var scrapeEntry = function(person, doneCallback) {
     var $ = cheerio.load(body);
 
     try {
+      // We're output to stdout, so log to stderr
+      console.error("Scraping " + person + "...");
+
       var photo = $('#gsc_prf_pup')[0].attribs.src.replace(/&amp;/g, '&');
       var affiliation = $('.gsc_prf_il', '#gsc_prf_i').first().text();
 
@@ -48,7 +51,10 @@ var scrapeEntry = function(person, doneCallback) {
       throw new Error(person);
     }
 
-    doneCallback(null, data);
+    // Adding a timeout to regulate scraping speed.
+    setTimeout(function() {
+      doneCallback(null, data);
+    }, 3000);
   });
 };
 

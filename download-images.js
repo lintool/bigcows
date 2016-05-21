@@ -30,7 +30,11 @@ var scrapeImage = function(entry, doneCallback) {
 
   download(url, 'images/' + user + '.png', function(){
     console.log('Downloading image for ' + entry.name + ': ' + url);
-    doneCallback(null, entry);
+
+    // Adding a timeout to regulate scraping speed.
+    setTimeout(function() {
+      doneCallback(null, entry);
+    }, 3000);
   });
 
 };
