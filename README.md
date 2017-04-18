@@ -14,6 +14,7 @@ Assuming you have [node.js](http://nodejs.org/) installed, rerun the scraper as 
 $ npm install request cheerio async
 $ node scrape.js ./people-ir.json > stats-ir.js
 $ node scrape.js ./people-db.json > stats-db.js
+$ node scrape.js ./people-nlp.json > stats-nlp.js
 $ node scrape.js ./people-hci.json > stats-hci.js
 $ node scrape.js ./people-stratosphere.json > stats-stratosphere.js
 ```
@@ -23,6 +24,7 @@ To scrape the images:
 ```
 $ node download-images.js ./stats-ir.js
 $ node download-images.js ./stats-db.js
+$ node download-images.js ./stats-nlp.js
 $ node download-images.js ./stats-hci.js
 $ node download-images.js ./stats-stratosphere.js
 ```
