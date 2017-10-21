@@ -18,37 +18,17 @@ var scrapeEntry = function(person, doneCallback) {
       // We're output to stdout, so log to stderr
       console.error("Scraping " + person + "...");
 
-      //console.error($('<img id="gsc_prf_pup-img">'));
-      //console.error($('#gsc_prf_i')[0].children[1]);
-      //console.error($('#gsc_prf_i')[0].children[1].children[0].text());
-      //console.error($('.gsc_prf_il', '#gsc_prf_i').first().text());
-
       var photo = $('#gsc_prf_pup-img')[0].attribs.src;
       var affiliation = $('.gsc_prf_il', '#gsc_prf_i').first().text();
 
       var keywords_root = $('#gsc_prf_int')[0].children;
-      //console.error(keywords_root);
       var keywords = [];
 
       for (var i=0; i<keywords_root.length; i++) {
         keywords.push(keywords_root[i].children[0].data);
-      //  keywords.push(keywords_root[i].children[0].data);
       }
 
       var rawStats = $('#gsc_rsb_st');
-      //console.error(rawStats);
-/*
-      console.error(rawStats[0].children[1].children[0].children[1].children[0].data);
-      console.error(rawStats[0].children[1].children[0].children[2].children[0].data);
-
-      console.error(rawStats[0].children[1].children[1].children[1].children[0].data);
-      console.error(rawStats[0].children[1].children[1].children[2].children[0].data);
-
-      console.error(rawStats[0].children[1].children[2].children[1].children[0].data);
-      console.error(rawStats[0].children[1].children[2].children[2].children[0].data);
-*/
-      //console.error('0.' + rawStats[0].data);
-      //console.error('1.' + rawStats[0].children[1].data);
 
       var stats = {
         'citations' : [ rawStats[0].children[1].children[0].children[1].children[0].data,
@@ -59,11 +39,7 @@ var scrapeEntry = function(person, doneCallback) {
                         rawStats[0].children[1].children[2].children[2].children[0].data ]
       };
 
-//console.log(stats);
-
       var rawYear = $('.gsc_md_hist_b');
-      console.error();
-      //console.error(rawYear['_root'][0]);
 
       data = {
         'name' : person,
