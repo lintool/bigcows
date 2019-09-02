@@ -34,7 +34,7 @@ var scrapeImage = function(entry, doneCallback) {
     // Adding a timeout to regulate scraping speed.
     setTimeout(function() {
       doneCallback(null, entry);
-    }, 3000);
+    }, 1000);
   });
 
 };
