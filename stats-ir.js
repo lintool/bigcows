@@ -1,9 +1,9 @@
-var date = "Sat Nov 02 2019 16:37:08 GMT-0400 (EDT)"
+var date = "Wed Dec 25 2019 18:19:35 GMT-0500 (Eastern Standard Time)"
 var data = [
   {
     "name": "Eytan Adar",
     "url": "http://scholar.google.com/citations?user=4tMapHYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=4tMapHYAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=4tMapHYAAAAJ&citpid=3",
     "affiliation": "Associate Professor, University of Michigan",
     "keywords": [
       "Data Mining",
@@ -14,16 +14,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13594",
-        "5671"
+        "13799",
+        "5760"
       ],
       "hindex": [
-        "45",
-        "36"
+        "46",
+        "37"
       ],
       "i10index": [
-        "78",
-        "69"
+        "82",
+        "72"
       ]
     },
     "year": "2001"
@@ -31,7 +31,7 @@ var data = [
   {
     "name": "Qingyao Ai",
     "url": "https://scholar.google.com/citations?user=UKqaI5IAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=UKqaI5IAAAAJ&citpid=7",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=UKqaI5IAAAAJ&citpid=7",
     "affiliation": "University of Utah",
     "keywords": [
       "Information Retrieval",
@@ -39,16 +39,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "886",
-        "886"
+        "995",
+        "992"
       ],
       "hindex": [
-        "14",
-        "14"
+        "15",
+        "15"
       ],
       "i10index": [
-        "18",
-        "18"
+        "20",
+        "20"
       ]
     },
     "year": "2016"
@@ -56,7 +56,7 @@ var data = [
   {
     "name": "Dyaa Albakour",
     "url": "http://scholar.google.it/citations?user=3sjbpokAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=3sjbpokAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=3sjbpokAAAAJ&citpid=4",
     "affiliation": "Signal Media",
     "keywords": [
       "Information Retrieval",
@@ -65,16 +65,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "484",
-        "365"
+        "503",
+        "383"
       ],
       "hindex": [
         "14",
-        "11"
+        "12"
       ],
       "i10index": [
-        "18",
-        "13"
+        "19",
+        "14"
       ]
     },
     "year": "2009"
@@ -82,23 +82,23 @@ var data = [
   {
     "name": "James Allan",
     "url": "http://scholar.google.com/citations?user=-bLGeg0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=-bLGeg0AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=-bLGeg0AAAAJ&citpid=2",
     "affiliation": "University of Massachusetts Amherst",
     "keywords": [
       "Information Retrieval"
     ],
     "stats": {
       "citations": [
-        "19634",
-        "6221"
+        "19936",
+        "6438"
       ],
       "hindex": [
         "68",
-        "37"
+        "39"
       ],
       "i10index": [
         "177",
-        "103"
+        "102"
       ]
     },
     "year": "1994"
@@ -117,11 +117,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1136",
-        "730"
+        "1172",
+        "750"
       ],
       "hindex": [
-        "19",
+        "20",
         "16"
       ],
       "i10index": [
@@ -134,7 +134,7 @@ var data = [
   {
     "name": "Robin Aly",
     "url": "https://scholar.google.com/citations?user=wL5km8kAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=wL5km8kAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wL5km8kAAAAJ&citpid=2",
     "affiliation": "University of Twente",
     "keywords": [
       "Information Retrieval",
@@ -142,8 +142,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "646",
-        "420"
+        "652",
+        "421"
       ],
       "hindex": [
         "14",
@@ -159,7 +159,7 @@ var data = [
   {
     "name": "Eugene Agichtein",
     "url": "http://scholar.google.com/citations?user=3BX3vWcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=3BX3vWcAAAAJ&citpid=9",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=3BX3vWcAAAAJ&citpid=9",
     "affiliation": "Associate Professor of Computer Science, Emory University",
     "keywords": [
       "Information Retrieval",
@@ -170,16 +170,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11171",
-        "5427"
+        "11476",
+        "5645"
       ],
       "hindex": [
-        "42",
+        "43",
         "33"
       ],
       "i10index": [
-        "84",
-        "66"
+        "87",
+        "69"
       ]
     },
     "year": "2000"
@@ -187,7 +187,7 @@ var data = [
   {
     "name": "Giambattista Amati",
     "url": "http://scholar.google.com/citations?user=zKahuscAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=zKahuscAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=zKahuscAAAAJ&citpid=4",
     "affiliation": "Fondazione Ugo Bordoni",
     "keywords": [
       "Big Data",
@@ -198,16 +198,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2989",
-        "1102"
+        "3044",
+        "1155"
       ],
       "hindex": [
         "21",
-        "12"
+        "13"
       ],
       "i10index": [
-        "31",
-        "15"
+        "32",
+        "16"
       ]
     },
     "year": "1996"
@@ -215,7 +215,7 @@ var data = [
   {
     "name": "Enrique Amigó",
     "url": "http://scholar.google.com/citations?user=bKozrvsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=bKozrvsAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=bKozrvsAAAAJ&citpid=2",
     "affiliation": "UNED",
     "keywords": [
       "Natural Language Processing",
@@ -223,8 +223,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2100",
-        "1252"
+        "2136",
+        "1282"
       ],
       "hindex": [
         "19",
@@ -232,7 +232,7 @@ var data = [
       ],
       "i10index": [
         "28",
-        "19"
+        "18"
       ]
     },
     "year": "2005"
@@ -240,7 +240,7 @@ var data = [
   {
     "name": "Massih-Reza Amini",
     "url": "https://scholar.google.com/citations?user=TAfVg4wAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=TAfVg4wAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TAfVg4wAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Université Grenoble Alpes",
     "keywords": [
       "Artificial Intelligence",
@@ -250,12 +250,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1918",
-        "1093"
+        "2009",
+        "1172"
       ],
       "hindex": [
-        "22",
-        "16"
+        "24",
+        "17"
       ],
       "i10index": [
         "50",
@@ -267,7 +267,7 @@ var data = [
   {
     "name": "Maik Anderka",
     "url": "https://scholar.google.com/citations?user=yFDwuCQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=yFDwuCQAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=yFDwuCQAAAAJ&citpid=5",
     "affiliation": "University of Paderborn",
     "keywords": [
       "Data Mining",
@@ -276,8 +276,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "647",
-        "389"
+        "667",
+        "402"
       ],
       "hindex": [
         "12",
@@ -293,7 +293,7 @@ var data = [
   {
     "name": "Benczúr András",
     "url": "http://scholar.google.com/citations?user=bPbaq5UAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=bPbaq5UAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=bPbaq5UAAAAJ&citpid=2",
     "affiliation": "Institute for Computer Science and Control",
     "keywords": [
       "big data",
@@ -302,8 +302,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2460",
-        "1152"
+        "2532",
+        "1218"
       ],
       "hindex": [
         "23",
@@ -319,7 +319,7 @@ var data = [
   {
     "name": "Avi Arampatzis",
     "url": "http://scholar.google.com/citations?user=D31o7oUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=D31o7oUAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=D31o7oUAAAAJ&citpid=3",
     "affiliation": "Associate Professor, Democritus University of Thrace",
     "keywords": [
       "Information Retrieval",
@@ -328,16 +328,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1530",
-        "583"
+        "1575",
+        "610"
       ],
       "hindex": [
-        "19",
-        "14"
+        "20",
+        "15"
       ],
       "i10index": [
-        "35",
-        "21"
+        "38",
+        "23"
       ]
     },
     "year": "1997"
@@ -345,23 +345,23 @@ var data = [
   {
     "name": "Jaime Arguello",
     "url": "http://scholar.google.com/citations?user=q7foMK4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=q7foMK4AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=q7foMK4AAAAJ&citpid=3",
     "affiliation": "Associate Professor, University of North Carolina at Chapel Hill",
     "keywords": [
       "Information Retrieval"
     ],
     "stats": {
       "citations": [
-        "2357",
-        "1383"
+        "2422",
+        "1439"
       ],
       "hindex": [
-        "23",
-        "21"
+        "24",
+        "22"
       ],
       "i10index": [
-        "36",
-        "29"
+        "37",
+        "30"
       ]
     },
     "year": "2006"
@@ -369,7 +369,7 @@ var data = [
   {
     "name": "Javed Aslam",
     "url": "http://scholar.google.com/citations?user=-spRnaQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=-spRnaQAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=-spRnaQAAAAJ&citpid=3",
     "affiliation": "Professor, Khoury College of Computer Sciences, Northeastern University",
     "keywords": [
       "Information Retrieval",
@@ -377,16 +377,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7616",
-        "2843"
+        "7725",
+        "2910"
       ],
       "hindex": [
         "41",
         "27"
       ],
       "i10index": [
-        "87",
-        "54"
+        "88",
+        "56"
       ]
     },
     "year": "1998"
@@ -405,8 +405,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1774",
-        "1161"
+        "1812",
+        "1192"
       ],
       "hindex": [
         "16",
@@ -422,7 +422,7 @@ var data = [
   {
     "name": "Giuseppe Attardi",
     "url": "http://scholar.google.com/citations?user=p86Ewsi7jXwJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=p86Ewsi7jXwJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=p86Ewsi7jXwJ&citpid=2",
     "affiliation": "professor of Informatics, Università di Pisa",
     "keywords": [
       "artificial intelligence",
@@ -432,16 +432,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2735",
-        "682"
+        "2788",
+        "703"
       ],
       "hindex": [
         "29",
-        "13"
+        "12"
       ],
       "i10index": [
         "64",
-        "21"
+        "20"
       ]
     },
     "year": "1980"
@@ -449,7 +449,7 @@ var data = [
   {
     "name": "Ahmed Hassan Awadallah",
     "url": "https://scholar.google.com/citations?user=sNGk-9MAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=sNGk-9MAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=sNGk-9MAAAAJ&citpid=5",
     "affiliation": "Microsoft Research",
     "keywords": [
       "Natural Language Processing",
@@ -458,24 +458,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4190",
-        "2821"
+        "3317",
+        "2480"
       ],
       "hindex": [
-        "36",
-        "28"
+        "32",
+        "27"
       ],
       "i10index": [
-        "86",
-        "72"
+        "74",
+        "60"
       ]
     },
-    "year": "1998"
+    "year": "2003"
   },
   {
     "name": "Leif Azzopardi",
     "url": "http://scholar.google.com/citations?user=TmvrscMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=TmvrscMAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TmvrscMAAAAJ&citpid=3",
     "affiliation": "University of Strathclyde",
     "keywords": [
       "Interactive Information Retrieval",
@@ -485,16 +485,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4256",
-        "2521"
+        "4407",
+        "2655"
       ],
       "hindex": [
         "31",
         "26"
       ],
       "i10index": [
-        "92",
-        "62"
+        "95",
+        "64"
       ]
     },
     "year": "2005"
@@ -507,16 +507,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "3103",
-        "1468"
+        "3143",
+        "1460"
       ],
       "hindex": [
-        "25",
+        "26",
         "22"
       ],
       "i10index": [
         "49",
-        "33"
+        "32"
       ]
     },
     "year": "1997"
@@ -524,7 +524,7 @@ var data = [
   {
     "name": "Ricardo Baeza-Yates",
     "url": "http://scholar.google.com/citations?user=v9xULZwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=v9xULZwAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=v9xULZwAAAAJ&citpid=3",
     "affiliation": "NTENT - Northeastern Univ. - Univ. Pompeu Fabra - Univ. de Chile; USA, Spain & Chile",
     "keywords": [
       "Information retrieval",
@@ -535,16 +535,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "45764",
-        "12642"
+        "46507",
+        "13098"
       ],
       "hindex": [
-        "79",
+        "81",
         "44"
       ],
       "i10index": [
-        "311",
-        "179"
+        "309",
+        "183"
       ]
     },
     "year": "1992"
@@ -552,7 +552,7 @@ var data = [
   {
     "name": "Krisztian Balog",
     "url": "http://scholar.google.com/citations?user=1z918TYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=1z918TYAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=1z918TYAAAAJ&citpid=5",
     "affiliation": "Professor of Computer Science, University of Stavanger; Visiting Researcher, Google",
     "keywords": [
       "Information Retrieval",
@@ -560,12 +560,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4668",
-        "2639"
+        "4827",
+        "2758"
       ],
       "hindex": [
-        "34",
-        "28"
+        "35",
+        "29"
       ],
       "i10index": [
         "85",
@@ -577,7 +577,7 @@ var data = [
   {
     "name": "Alvaro Barreiro",
     "url": "http://scholar.google.com/citations?user=73tqFdsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=73tqFdsAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=73tqFdsAAAAJ&citpid=2",
     "affiliation": "Information Retrieval Lab - University of A Coruña",
     "keywords": [
       "Information Retrieval",
@@ -585,15 +585,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "857",
-        "401"
+        "871",
+        "414"
       ],
       "hindex": [
         "16",
         "11"
       ],
       "i10index": [
-        "31",
+        "32",
         "16"
       ]
     },
@@ -602,7 +602,7 @@ var data = [
   {
     "name": "Roberto Basili",
     "url": "http://scholar.google.com/citations?user=U1A22fYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=U1A22fYAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=U1A22fYAAAAJ&citpid=3",
     "affiliation": "University of Rome, Tor Vergata (Italy)",
     "keywords": [
       "Natural Language Processing",
@@ -613,15 +613,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3963",
-        "1434"
+        "4036",
+        "1499"
       ],
       "hindex": [
         "32",
-        "19"
+        "20"
       ],
       "i10index": [
-        "91",
+        "92",
         "34"
       ]
     },
@@ -630,7 +630,7 @@ var data = [
   {
     "name": "Hannah Bast",
     "url": "https://scholar.google.com/citations?user=hqSjLE8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=hqSjLE8AAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=hqSjLE8AAAAJ&citpid=4",
     "affiliation": "Professor of Computer Science, University of Freiburg",
     "keywords": [
       "Algorithm Engineering",
@@ -641,16 +641,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3701",
-        "2305"
+        "3854",
+        "2436"
       ],
       "hindex": [
-        "30",
+        "31",
         "26"
       ],
       "i10index": [
-        "55",
-        "40"
+        "56",
+        "41"
       ]
     },
     "year": "2002"
@@ -667,16 +667,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2725",
-        "1378"
+        "2794",
+        "1435"
       ],
       "hindex": [
-        "26",
+        "27",
         "19"
       ],
       "i10index": [
-        "39",
-        "31"
+        "40",
+        "33"
       ]
     },
     "year": "2000"
@@ -684,7 +684,7 @@ var data = [
   {
     "name": "Joeran Beel",
     "url": "https://scholar.google.com/citations?user=jyXACVcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=jyXACVcAAAAJ&citpid=8",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=jyXACVcAAAAJ&citpid=8",
     "affiliation": "Assistant Professor in Intelligent Systems at Trinity College Dublin / ADAPT Centre",
     "keywords": [
       "Recommender Systems",
@@ -695,12 +695,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2536",
-        "2085"
+        "2697",
+        "2235"
       ],
       "hindex": [
-        "27",
-        "24"
+        "28",
+        "25"
       ],
       "i10index": [
         "46",
@@ -721,25 +721,25 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17771",
-        "4452"
+        "18073",
+        "4640"
       ],
       "hindex": [
         "54",
         "34"
       ],
       "i10index": [
-        "146",
-        "77"
+        "147",
+        "79"
       ]
     },
-    "year": "1985"
+    "year": "1986"
   },
   {
     "name": "Michael Bendersky",
     "url": "http://scholar.google.com/citations?user=C9mxM5IAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=C9mxM5IAAAAJ&citpid=5",
-    "affiliation": "Google, Inc.",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=C9mxM5IAAAAJ&citpid=5",
+    "affiliation": "Google Research",
     "keywords": [
       "Information Retrieval",
       "Natural Language Processing",
@@ -748,16 +748,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1761",
-        "1215"
+        "1844",
+        "1290"
       ],
       "hindex": [
         "22",
-        "19"
+        "20"
       ],
       "i10index": [
-        "31",
-        "28"
+        "32",
+        "29"
       ]
     },
     "year": "2009"
@@ -765,7 +765,7 @@ var data = [
   {
     "name": "Paul N. Bennett",
     "url": "http://scholar.google.com/citations?user=AIncPrIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=AIncPrIAAAAJ&citpid=9",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=AIncPrIAAAAJ&citpid=9",
     "affiliation": "Principal Researcher / Research Manager, Microsoft Research AI",
     "keywords": [
       "Machine Learning",
@@ -776,24 +776,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4458",
-        "3092"
+        "4537",
+        "3094"
       ],
       "hindex": [
         "35",
-        "29"
+        "28"
       ],
       "i10index": [
-        "68",
-        "60"
+        "69",
+        "61"
       ]
     },
-    "year": "2003"
+    "year": "2002"
   },
   {
     "name": "Klaus Berberich",
     "url": "http://scholar.google.com/citations?user=4MDT20wAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=4MDT20wAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=4MDT20wAAAAJ&citpid=2",
     "affiliation": "htw saar, Max Planck Institute for Informatics, Saarland Informatics Campus",
     "keywords": [
       "Information Retrieval",
@@ -803,8 +803,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3068",
-        "2208"
+        "3143",
+        "2274"
       ],
       "hindex": [
         "23",
@@ -820,7 +820,7 @@ var data = [
   {
     "name": "Sumit Bhatia",
     "url": "http://scholar.google.com/citations?user=8HVTWNkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=8HVTWNkAAAAJ&citpid=9",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=8HVTWNkAAAAJ&citpid=9",
     "affiliation": "Senior Researcher, IBM Research AI",
     "keywords": [
       "Knowledge Graphs",
@@ -831,16 +831,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "941",
-        "787"
+        "990",
+        "834"
       ],
       "hindex": [
         "18",
         "16"
       ],
       "i10index": [
-        "22",
-        "20"
+        "23",
+        "21"
       ]
     },
     "year": "2010"
@@ -848,7 +848,7 @@ var data = [
   {
     "name": "Asia J. Biega",
     "url": "https://scholar.google.com/citations?user=Whr_kkwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Whr_kkwAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Whr_kkwAAAAJ&citpid=4",
     "affiliation": "Microsoft Research Montréal",
     "keywords": [
       "Privacy",
@@ -858,8 +858,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "577",
-        "564"
+        "620",
+        "607"
       ],
       "hindex": [
         "8",
@@ -882,16 +882,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2288",
-        "1694"
+        "2357",
+        "1749"
       ],
       "hindex": [
         "28",
         "24"
       ],
       "i10index": [
-        "50",
-        "40"
+        "51",
+        "42"
       ]
     },
     "year": "2007"
@@ -899,7 +899,7 @@ var data = [
   {
     "name": "Toine Bogers",
     "url": "https://scholar.google.com/citations?user=zgPK5UAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=zgPK5UAAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=zgPK5UAAAAAJ&citpid=2",
     "affiliation": "Associate professor, Aalborg University Copenhagen",
     "keywords": [
       "recommender systems",
@@ -910,12 +910,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1612",
-        "1038"
+        "1671",
+        "1088"
       ],
       "hindex": [
         "21",
-        "18"
+        "19"
       ],
       "i10index": [
         "38",
@@ -937,8 +937,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7079",
-        "4040"
+        "7270",
+        "4208"
       ],
       "hindex": [
         "37",
@@ -946,7 +946,7 @@ var data = [
       ],
       "i10index": [
         "67",
-        "51"
+        "52"
       ]
     },
     "year": "2002"
@@ -954,23 +954,23 @@ var data = [
   {
     "name": "Mohand Boughanem",
     "url": "https://scholar.google.com/citations?user=KKrsEQQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=KKrsEQQAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=KKrsEQQAAAAJ&citpid=4",
     "affiliation": "University of Toulouse - IRIT lab.",
     "keywords": [
       "Information retrieval"
     ],
     "stats": {
       "citations": [
-        "3547",
-        "1488"
+        "3635",
+        "1541"
       ],
       "hindex": [
         "29",
-        "18"
+        "19"
       ],
       "i10index": [
-        "103",
-        "43"
+        "104",
+        "48"
       ]
     },
     "year": "1998"
@@ -978,7 +978,7 @@ var data = [
   {
     "name": "Leonid Boytsov",
     "url": "https://scholar.google.com/citations?user=I79y2i4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=I79y2i4AAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=I79y2i4AAAAJ&citpid=4",
     "affiliation": "3M",
     "keywords": [
       "information retrieval",
@@ -989,8 +989,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "632",
-        "588"
+        "658",
+        "612"
       ],
       "hindex": [
         "10",
@@ -1017,12 +1017,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "30220",
-        "10781"
+        "30629",
+        "10851"
       ],
       "hindex": [
-        "63",
-        "40"
+        "64",
+        "37"
       ],
       "i10index": [
         "164",
@@ -1034,15 +1034,15 @@ var data = [
   {
     "name": "Marc Bron",
     "url": "https://scholar.google.com/citations?user=CKPiLqcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=CKPiLqcAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=CKPiLqcAAAAJ&citpid=2",
     "affiliation": "Schibsted",
     "keywords": [
       "Information Retrieval"
     ],
     "stats": {
       "citations": [
-        "771",
-        "454"
+        "790",
+        "470"
       ],
       "hindex": [
         "16",
@@ -1058,7 +1058,7 @@ var data = [
   {
     "name": "Peter Brusilovsky",
     "url": "http://scholar.google.com/citations?user=s6RpNfAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=s6RpNfAAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=s6RpNfAAAAAJ&citpid=3",
     "affiliation": "Professor, School of Computing and Information, University of Pittsburgh",
     "keywords": [
       "User modeling",
@@ -1069,16 +1069,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "28664",
-        "8599"
+        "29340",
+        "9073"
       ],
       "hindex": [
-        "68",
-        "42"
+        "70",
+        "44"
       ],
       "i10index": [
-        "259",
-        "163"
+        "261",
+        "167"
       ]
     },
     "year": "1996"
@@ -1086,7 +1086,7 @@ var data = [
   {
     "name": "Peter Bruza",
     "url": "http://scholar.google.com/citations?user=N8QpuP8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=N8QpuP8AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=N8QpuP8AAAAJ&citpid=3",
     "affiliation": "Professor of Information Systems, Queensland University of Technology",
     "keywords": [
       "information retrieval",
@@ -1095,16 +1095,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5747",
-        "2255"
+        "5865",
+        "2349"
       ],
       "hindex": [
         "41",
         "22"
       ],
       "i10index": [
-        "103",
-        "40"
+        "106",
+        "46"
       ]
     },
     "year": "1991"
@@ -1112,7 +1112,7 @@ var data = [
   {
     "name": "Guillaume Cabanac",
     "url": "https://scholar.google.com/citations?user=4dp38PkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=4dp38PkAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=4dp38PkAAAAJ&citpid=4",
     "affiliation": "Associate Professor of Computer Science, University of Toulouse",
     "keywords": [
       "Information Retrieval",
@@ -1120,16 +1120,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "895",
-        "644"
+        "933",
+        "680"
       ],
       "hindex": [
         "17",
         "12"
       ],
       "i10index": [
-        "30",
-        "17"
+        "32",
+        "20"
       ]
     },
     "year": "2006"
@@ -1137,7 +1137,7 @@ var data = [
   {
     "name": "Fidel Cacheda",
     "url": "http://scholar.google.com/citations?user=2DxRhkwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=2DxRhkwAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=2DxRhkwAAAAJ&citpid=3",
     "affiliation": "CITIC Research Center, University of A Coruña",
     "keywords": [
       "Information retrieval",
@@ -1146,11 +1146,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1402",
-        "811"
+        "1446",
+        "847"
       ],
       "hindex": [
-        "16",
+        "17",
         "12"
       ],
       "i10index": [
@@ -1163,7 +1163,7 @@ var data = [
   {
     "name": "David Carmel",
     "url": "http://scholar.google.com/citations?user=LI8JbiIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=LI8JbiIAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=LI8JbiIAAAAJ&citpid=2",
     "affiliation": "Principal Applied Scientist, Amazon, Haifa",
     "keywords": [
       "Information Retrieval",
@@ -1173,16 +1173,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8013",
-        "3624"
+        "8115",
+        "3629"
       ],
       "hindex": [
         "45",
         "29"
       ],
       "i10index": [
-        "109",
-        "80"
+        "111",
+        "79"
       ]
     },
     "year": "1998"
@@ -1190,7 +1190,7 @@ var data = [
   {
     "name": "Pável Calado",
     "url": "https://scholar.google.com/citations?user=7Udj_YAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=7Udj_YAAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=7Udj_YAAAAAJ&citpid=3",
     "affiliation": "INESC-ID, Instituto Superior Técnico, Universidade de Lisboa",
     "keywords": [
       "Information Retrieval",
@@ -1199,16 +1199,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2215",
-        "886"
+        "2284",
+        "939"
       ],
       "hindex": [
-        "28",
+        "29",
         "17"
       ],
       "i10index": [
         "49",
-        "27"
+        "29"
       ]
     },
     "year": "2001"
@@ -1216,7 +1216,7 @@ var data = [
   {
     "name": "Jamie Callan",
     "url": "http://scholar.google.com/citations?user=Un5KXJ4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Un5KXJ4AAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Un5KXJ4AAAAJ&citpid=5",
     "affiliation": "Professor, Language Technologies Institute, Carnegie Mellon University",
     "keywords": [
       "Information retrieval",
@@ -1224,16 +1224,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11913",
-        "3865"
+        "12160",
+        "4059"
       ],
       "hindex": [
-        "61",
-        "36"
+        "62",
+        "37"
       ],
       "i10index": [
-        "143",
-        "96"
+        "144",
+        "97"
       ]
     },
     "year": "1998"
@@ -1241,7 +1241,7 @@ var data = [
   {
     "name": "Berkant Barla Cambazoglu",
     "url": "http://scholar.google.com/citations?user=iEChWJsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=iEChWJsAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=iEChWJsAAAAJ&citpid=3",
     "affiliation": "RMIT University",
     "keywords": [
       "Information retrieval",
@@ -1250,16 +1250,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2610",
-        "1699"
+        "2686",
+        "1766"
       ],
       "hindex": [
-        "31",
-        "23"
+        "32",
+        "24"
       ],
       "i10index": [
         "57",
-        "44"
+        "42"
       ]
     },
     "year": "2006"
@@ -1267,7 +1267,7 @@ var data = [
   {
     "name": "Iván Cantador",
     "url": "http://scholar.google.com/citations?user=iCMJ360AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=iCMJ360AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=iCMJ360AAAAJ&citpid=3",
     "affiliation": "Senior Lecturer of Computer Science, Universidad Autónoma de Madrid",
     "keywords": [
       "Recommender Systems",
@@ -1278,15 +1278,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4200",
-        "3005"
+        "4376",
+        "3162"
       ],
       "hindex": [
-        "32",
-        "28"
+        "33",
+        "30"
       ],
       "i10index": [
-        "64",
+        "65",
         "47"
       ]
     },
@@ -1304,24 +1304,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3799",
-        "2017"
+        "3812",
+        "1969"
       ],
       "hindex": [
         "30",
         "21"
       ],
       "i10index": [
-        "58",
-        "43"
+        "59",
+        "46"
       ]
     },
-    "year": "2004"
+    "year": "2003"
   },
   {
     "name": "Gabriele Capannini",
     "url": "https://scholar.google.com/citations?user=-VJvHswAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=-VJvHswAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=-VJvHswAAAAJ&citpid=2",
     "affiliation": "Mälardalens University",
     "keywords": [
       "HPC",
@@ -1331,8 +1331,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "397",
-        "240"
+        "410",
+        "250"
       ],
       "hindex": [
         "10",
@@ -1348,7 +1348,7 @@ var data = [
   {
     "name": "Rob Capra",
     "url": "http://scholar.google.com/citations?user=pDqzl7sAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=pDqzl7sAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=pDqzl7sAAAAJ&citpid=2",
     "affiliation": "Associate Professor, University of North Carolina at Chapel Hill",
     "keywords": [
       "Human-Computer Interaction",
@@ -1358,16 +1358,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1905",
-        "1062"
+        "1961",
+        "1107"
       ],
       "hindex": [
-        "23",
+        "24",
         "17"
       ],
       "i10index": [
-        "42",
-        "25"
+        "43",
+        "26"
       ]
     },
     "year": "2003"
@@ -1375,7 +1375,7 @@ var data = [
   {
     "name": "Cornelia Caragea",
     "url": "http://scholar.google.com/citations?user=vkX6VV4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=vkX6VV4AAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=vkX6VV4AAAAJ&citpid=5",
     "affiliation": "University of Illinois at Chicago",
     "keywords": [
       "Machine Learning",
@@ -1385,16 +1385,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2115",
-        "1838"
+        "2258",
+        "1977"
       ],
       "hindex": [
         "26",
-        "25"
+        "26"
       ],
       "i10index": [
-        "50",
-        "43"
+        "52",
+        "46"
       ]
     },
     "year": "2008"
@@ -1402,7 +1402,7 @@ var data = [
   {
     "name": "Mark Carman",
     "url": "http://scholar.google.com/citations?user=fcPONTQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=fcPONTQAAAAJ&citpid=6",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=fcPONTQAAAAJ&citpid=6",
     "affiliation": "Politecnico di Milano",
     "keywords": [
       "Information Retrieval",
@@ -1411,16 +1411,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1703",
-        "953"
+        "1786",
+        "1031"
       ],
       "hindex": [
-        "20",
+        "21",
         "16"
       ],
       "i10index": [
-        "35",
-        "24"
+        "37",
+        "26"
       ]
     },
     "year": "2002"
@@ -1428,7 +1428,7 @@ var data = [
   {
     "name": "Claudio Carpineto",
     "url": "http://scholar.google.com/citations?user=MnwqYB8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=MnwqYB8AAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=MnwqYB8AAAAJ&citpid=4",
     "affiliation": "Fondazione Ugo Bordoni",
     "keywords": [
       "information retrieval",
@@ -1439,11 +1439,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4587",
-        "1736"
+        "4659",
+        "1793"
       ],
       "hindex": [
-        "22",
+        "23",
         "17"
       ],
       "i10index": [
@@ -1456,19 +1456,19 @@ var data = [
   {
     "name": "Ben Carterette",
     "url": "http://scholar.google.com/citations?user=2Y4R04EAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=medium_photo&user=2Y4R04EAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=medium_photo&user=2Y4R04EAAAAJ&citpid=3",
     "affiliation": "University of Delaware",
     "keywords": [
       "Information retrieval"
     ],
     "stats": {
       "citations": [
-        "3815",
-        "2200"
+        "3886",
+        "2257"
       ],
       "hindex": [
         "30",
-        "23"
+        "24"
       ],
       "i10index": [
         "65",
@@ -1480,7 +1480,7 @@ var data = [
   {
     "name": "Pablo Castells",
     "url": "http://scholar.google.com/citations?user=gu9fnxsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=gu9fnxsAAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=gu9fnxsAAAAJ&citpid=1",
     "affiliation": "Associate professor, Universidad Autónoma de Madrid",
     "keywords": [
       "Information Retrieval",
@@ -1488,11 +1488,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6377",
-        "3204"
+        "6554",
+        "3340"
       ],
       "hindex": [
-        "43",
+        "44",
         "33"
       ],
       "i10index": [
@@ -1505,7 +1505,7 @@ var data = [
   {
     "name": "Carlos Castillo",
     "url": "http://scholar.google.com/citations?user=D4NJsXEIh1cJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=D4NJsXEIh1cJ&citpid=11",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=D4NJsXEIh1cJ&citpid=11",
     "affiliation": "Distinguished Research Professor, Universitat Pompeu Fabra",
     "keywords": [
       "Social Computing",
@@ -1515,16 +1515,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15102",
-        "9961"
+        "15679",
+        "10476"
       ],
       "hindex": [
         "60",
-        "45"
+        "47"
       ],
       "i10index": [
-        "121",
-        "93"
+        "122",
+        "96"
       ]
     },
     "year": "2004"
@@ -1532,18 +1532,18 @@ var data = [
   {
     "name": "Diego Ceccarelli",
     "url": "https://scholar.google.com/citations?user=I74BO_cAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=I74BO_cAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=I74BO_cAAAAJ&citpid=2",
     "affiliation": "Bloomberg",
     "keywords": [
       "[Web] Information Retrieval - [Web] Data Mining"
     ],
     "stats": {
       "citations": [
-        "616",
-        "528"
+        "628",
+        "538"
       ],
       "hindex": [
-        "10",
+        "11",
         "10"
       ],
       "i10index": [
@@ -1556,7 +1556,7 @@ var data = [
   {
     "name": "Soumen Chakrabarti",
     "url": "http://scholar.google.com/citations?user=LfF2zfQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=medium_photo&user=LfF2zfQAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=medium_photo&user=LfF2zfQAAAAJ&citpid=2",
     "affiliation": "IIT Bombay",
     "keywords": [
       "Web search",
@@ -1566,16 +1566,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18376",
-        "4715"
+        "18698",
+        "4862"
       ],
       "hindex": [
-        "52",
+        "53",
         "32"
       ],
       "i10index": [
         "98",
-        "62"
+        "63"
       ]
     },
     "year": "1996"
@@ -1583,7 +1583,7 @@ var data = [
   {
     "name": "Raman Chandrasekar",
     "url": "http://scholar.google.com/citations?user=zZhCPGkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=zZhCPGkAAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=zZhCPGkAAAAJ&citpid=1",
     "affiliation": "KJ Consulting, Northeastern University",
     "keywords": [
       "Artificial Intelligence",
@@ -1593,12 +1593,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2957",
-        "1553"
+        "2937",
+        "1422"
       ],
       "hindex": [
-        "29",
-        "22"
+        "28",
+        "21"
       ],
       "i10index": [
         "43",
@@ -1610,8 +1610,8 @@ var data = [
   {
     "name": "Kuiyu Chang",
     "url": "http://scholar.google.com/citations?user=eyYpGvkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=eyYpGvkAAAAJ&citpid=3",
-    "affiliation": "Chief Scientist, Wecash (APAC)",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=eyYpGvkAAAAJ&citpid=3",
+    "affiliation": "Senior Engineering Manager, AICS, ASUS Global (Singapore)",
     "keywords": [
       "Sentiment Analysis",
       "Information Retrieval",
@@ -1619,12 +1619,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2402",
-        "1419"
+        "2496",
+        "1505"
       ],
       "hindex": [
-        "26",
-        "22"
+        "27",
+        "23"
       ],
       "i10index": [
         "42",
@@ -1636,23 +1636,23 @@ var data = [
   {
     "name": "Olivier Chapelle",
     "url": "http://scholar.google.com/citations?user=vYRgxJ8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=vYRgxJ8AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=vYRgxJ8AAAAJ&citpid=3",
     "affiliation": "Google",
     "keywords": [
       "Machine Learning"
     ],
     "stats": {
       "citations": [
-        "33773",
-        "19378"
+        "34860",
+        "20311"
       ],
       "hindex": [
         "63",
-        "48"
+        "50"
       ],
       "i10index": [
         "98",
-        "83"
+        "82"
       ]
     },
     "year": "2002"
@@ -1660,7 +1660,7 @@ var data = [
   {
     "name": "Hsin-Hsi Chen",
     "url": "https://scholar.google.com/citations?user=CRth4q4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=CRth4q4AAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=CRth4q4AAAAJ&citpid=1",
     "affiliation": "Professor of Computer Science, National Taiwan University",
     "keywords": [
       "Natural Language Processing",
@@ -1671,16 +1671,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6148",
-        "2392"
+        "6288",
+        "2515"
       ],
       "hindex": [
-        "39",
-        "22"
+        "40",
+        "24"
       ],
       "i10index": [
-        "120",
-        "56"
+        "122",
+        "60"
       ]
     },
     "year": "1996"
@@ -1688,7 +1688,7 @@ var data = [
   {
     "name": "Hung-Hsuan Chen",
     "url": "https://scholar.google.com/citations?user=T29tmA8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=T29tmA8AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=T29tmA8AAAAJ&citpid=3",
     "affiliation": "Assistant Professor of National Central University",
     "keywords": [
       "information retrieval",
@@ -1699,15 +1699,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "619",
-        "460"
+        "652",
+        "492"
       ],
       "hindex": [
         "14",
         "12"
       ],
       "i10index": [
-        "18",
+        "19",
         "14"
       ]
     },
@@ -1716,7 +1716,7 @@ var data = [
   {
     "name": "Shu Chen",
     "url": "https://scholar.google.com/citations?user=NdyAmbkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=NdyAmbkAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NdyAmbkAAAAJ&citpid=2",
     "affiliation": "Dublin City Unversity",
     "keywords": [
       "Information Retrieval",
@@ -1724,8 +1724,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "258",
-        "209"
+        "259",
+        "210"
       ],
       "hindex": [
         "8",
@@ -1741,7 +1741,7 @@ var data = [
   {
     "name": "zheng chen",
     "url": "https://scholar.google.com/citations?user=AyZ7A7MAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=medium_photo&user=AyZ7A7MAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=medium_photo&user=AyZ7A7MAAAAJ&citpid=2",
     "affiliation": "Principle Researcher of Microsoft Research Asia",
     "keywords": [
       "Information Retrieval",
@@ -1751,16 +1751,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19316",
-        "9790"
+        "19553",
+        "9722"
       ],
       "hindex": [
         "72",
-        "52"
+        "51"
       ],
       "i10index": [
         "217",
-        "158"
+        "157"
       ]
     },
     "year": "2003"
@@ -1776,8 +1776,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "594",
-        "298"
+        "614",
+        "314"
       ],
       "hindex": [
         "12",
@@ -1793,7 +1793,7 @@ var data = [
   {
     "name": "Monojit Choudhury",
     "url": "http://scholar.google.com/citations?user=WR1ImCMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=WR1ImCMAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=WR1ImCMAAAAJ&citpid=5",
     "affiliation": "Principal Researcher, Microsoft Research Lab India",
     "keywords": [
       "Natural Language Processing",
@@ -1804,16 +1804,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1678",
-        "1114"
+        "1742",
+        "1168"
       ],
       "hindex": [
         "22",
-        "17"
+        "18"
       ],
       "i10index": [
         "43",
-        "29"
+        "30"
       ]
     },
     "year": "2004"
@@ -1821,7 +1821,7 @@ var data = [
   {
     "name": "Wei Chu",
     "url": "https://scholar.google.com/citations?user=3J4zb7gAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=3J4zb7gAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=3J4zb7gAAAAJ&citpid=2",
     "affiliation": "Alibaba",
     "keywords": [
       "Machine Learning",
@@ -1830,16 +1830,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6312",
-        "4194"
+        "6538",
+        "4387"
       ],
       "hindex": [
-        "33",
+        "34",
         "27"
       ],
       "i10index": [
         "59",
-        "49"
+        "48"
       ]
     },
     "year": "2003"
@@ -1847,7 +1847,7 @@ var data = [
   {
     "name": "Tat-Seng Chua",
     "url": "http://scholar.google.com/citations?user=Z9DWCBEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Z9DWCBEAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Z9DWCBEAAAAJ&citpid=3",
     "affiliation": "National University of Singapore",
     "keywords": [
       "Multimedia Information Retrieval",
@@ -1855,16 +1855,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "23861",
-        "16138"
+        "25044",
+        "17247"
       ],
       "hindex": [
-        "77",
-        "63"
+        "79",
+        "64"
       ],
       "i10index": [
-        "355",
-        "248"
+        "360",
+        "255"
       ]
     },
     "year": "1998"
@@ -1872,7 +1872,7 @@ var data = [
   {
     "name": "Aleksandr Chuklin",
     "url": "http://scholar.google.com/citations?user=oCOhXmAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=oCOhXmAAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=oCOhXmAAAAAJ&citpid=5",
     "affiliation": "Google Zürich",
     "keywords": [
       "Information Retrieval",
@@ -1881,16 +1881,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "420",
-        "403"
+        "440",
+        "422"
       ],
       "hindex": [
         "10",
         "10"
       ],
       "i10index": [
-        "10",
-        "10"
+        "11",
+        "11"
       ]
     },
     "year": "2013"
@@ -1898,7 +1898,7 @@ var data = [
   {
     "name": "Kenneth Church",
     "url": "http://scholar.google.com/citations?user=E6aqGvYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=E6aqGvYAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=E6aqGvYAAAAJ&citpid=2",
     "affiliation": "Baidu",
     "keywords": [
       "Natural Language Processing",
@@ -1907,12 +1907,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "22393",
-        "6065"
+        "22658",
+        "6160"
       ],
       "hindex": [
-        "62",
-        "34"
+        "63",
+        "35"
       ],
       "i10index": [
         "120",
@@ -1924,7 +1924,7 @@ var data = [
   {
     "name": "Massimiliano Ciaramita",
     "url": "http://scholar.google.com/citations?user=PwsKWfUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=PwsKWfUAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=PwsKWfUAAAAJ&citpid=3",
     "affiliation": "Google",
     "keywords": [
       "Natural Language Processing",
@@ -1932,16 +1932,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3987",
-        "1924"
+        "4094",
+        "1986"
       ],
       "hindex": [
         "33",
-        "22"
+        "21"
       ],
       "i10index": [
         "51",
-        "42"
+        "43"
       ]
     },
     "year": "2004"
@@ -1949,7 +1949,7 @@ var data = [
   {
     "name": "Charles L. A. Clarke",
     "url": "http://scholar.google.com/citations?user=TkVleDIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=TkVleDIAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TkVleDIAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, University of Waterloo",
     "keywords": [
       "Information Retrieval",
@@ -1958,8 +1958,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8921",
-        "3681"
+        "9051",
+        "3777"
       ],
       "hindex": [
         "47",
@@ -1975,7 +1975,7 @@ var data = [
   {
     "name": "William W. Cohen",
     "url": "http://scholar.google.com/citations?user=8ys-38kAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=8ys-38kAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=8ys-38kAAAAJ&citpid=2",
     "affiliation": "Google AI",
     "keywords": [
       "machine learning",
@@ -1986,16 +1986,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "30998",
-        "12428"
+        "31884",
+        "13178"
       ],
       "hindex": [
-        "77",
+        "78",
         "56"
       ],
       "i10index": [
-        "242",
-        "157"
+        "244",
+        "159"
       ]
     },
     "year": "1993"
@@ -2003,7 +2003,7 @@ var data = [
   {
     "name": "Kevyn Collins-Thompson",
     "url": "http://scholar.google.com/citations?user=q__pgY9AkUQJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=q__pgY9AkUQJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=q__pgY9AkUQJ&citpid=3",
     "affiliation": "Associate Professor, University of Michigan",
     "keywords": [
       "Information Retrieval",
@@ -2014,8 +2014,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3841",
-        "2530"
+        "3922",
+        "2564"
       ],
       "hindex": [
         "33",
@@ -2023,15 +2023,15 @@ var data = [
       ],
       "i10index": [
         "56",
-        "50"
+        "49"
       ]
     },
-    "year": "2004"
+    "year": "2003"
   },
   {
     "name": "Gao Cong",
     "url": "http://scholar.google.com/citations?user=WFFamJkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=WFFamJkAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=WFFamJkAAAAJ&citpid=3",
     "affiliation": "Nanyang Technological University",
     "keywords": [
       "Data Management",
@@ -2041,16 +2041,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9738",
-        "7510"
+        "10246",
+        "7974"
       ],
       "hindex": [
-        "51",
-        "45"
+        "52",
+        "46"
       ],
       "i10index": [
-        "123",
-        "106"
+        "124",
+        "107"
       ]
     },
     "year": "2004"
@@ -2063,16 +2063,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "8608",
-        "3270"
+        "8743",
+        "3345"
       ],
       "hindex": [
         "41",
-        "27"
+        "26"
       ],
       "i10index": [
         "101",
-        "52"
+        "51"
       ]
     },
     "year": "1990"
@@ -2080,7 +2080,7 @@ var data = [
   {
     "name": "Miguel Costa",
     "url": "http://scholar.google.com/citations?user=c2omlUwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=c2omlUwAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=c2omlUwAAAAJ&citpid=2",
     "affiliation": "Lead Data Scientist @ Vodafone",
     "keywords": [
       "information retrieval",
@@ -2089,8 +2089,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "422",
-        "310"
+        "431",
+        "319"
       ],
       "hindex": [
         "11",
@@ -2116,16 +2116,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "41668",
-        "10099"
+        "42837",
+        "10248"
       ],
       "hindex": [
-        "75",
-        "42"
+        "76",
+        "43"
       ],
       "i10index": [
-        "173",
-        "107"
+        "174",
+        "108"
       ]
     },
     "year": "1993"
@@ -2133,19 +2133,19 @@ var data = [
   {
     "name": "Matt Crane",
     "url": "http://scholar.google.com/citations?user=dRqoj80AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=dRqoj80AAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=dRqoj80AAAAJ&citpid=5",
     "affiliation": "Facebook",
     "keywords": [
       "Information Retrieval"
     ],
     "stats": {
       "citations": [
-        "280",
-        "268"
+        "292",
+        "280"
       ],
       "hindex": [
         "9",
-        "8"
+        "9"
       ],
       "i10index": [
         "9",
@@ -2157,7 +2157,7 @@ var data = [
   {
     "name": "Nick Craswell",
     "url": "http://scholar.google.com/citations?user=NXNZbEsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=NXNZbEsAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NXNZbEsAAAAJ&citpid=4",
     "affiliation": "Microsoft",
     "keywords": [
       "Information Retrieval",
@@ -2165,16 +2165,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10657",
-        "4780"
+        "10922",
+        "4937"
       ],
       "hindex": [
         "54",
         "40"
       ],
       "i10index": [
-        "121",
-        "89"
+        "125",
+        "91"
       ]
     },
     "year": "2000"
@@ -2182,7 +2182,7 @@ var data = [
   {
     "name": "Marco Cristo",
     "url": "https://scholar.google.com/citations?user=uMWFLVMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=uMWFLVMAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=uMWFLVMAAAAJ&citpid=2",
     "affiliation": "Professor de Ciência da Computação, Universidade Federal do Amazonas",
     "keywords": [
       "Mineração de Dados",
@@ -2191,16 +2191,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1589",
-        "655"
+        "1639",
+        "690"
       ],
       "hindex": [
         "19",
         "13"
       ],
       "i10index": [
-        "23",
-        "14"
+        "25",
+        "16"
       ]
     },
     "year": "2004"
@@ -2208,23 +2208,23 @@ var data = [
   {
     "name": "W. Bruce Croft",
     "url": "http://scholar.google.com/citations?user=ArV74ZMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=ArV74ZMAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ArV74ZMAAAAJ&citpid=2",
     "affiliation": "Distinguished Professor of Computer Science, University of Massachusetts Amherst",
     "keywords": [
       "Information Retrieval"
     ],
     "stats": {
       "citations": [
-        "50087",
-        "15296"
+        "51029",
+        "15982"
       ],
       "hindex": [
-        "104",
+        "105",
         "61"
       ],
       "i10index": [
-        "335",
-        "207"
+        "343",
+        "216"
       ]
     },
     "year": "1987"
@@ -2232,7 +2232,7 @@ var data = [
   {
     "name": "J. Shane Culpepper",
     "url": "http://scholar.google.com/citations?user=OFlBSEEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=OFlBSEEAAAAJ&citpid=8",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=OFlBSEEAAAAJ&citpid=8",
     "affiliation": "RMIT University",
     "keywords": [
       "Information Retrieval",
@@ -2242,16 +2242,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1358",
-        "1042"
+        "1421",
+        "1100"
       ],
       "hindex": [
-        "20",
+        "21",
         "19"
       ],
       "i10index": [
-        "37",
-        "35"
+        "39",
+        "36"
       ]
     },
     "year": "1996"
@@ -2259,7 +2259,7 @@ var data = [
   {
     "name": "Ronan Cummins",
     "url": "https://scholar.google.com/citations?user=wQEvGP0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=wQEvGP0AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wQEvGP0AAAAJ&citpid=3",
     "affiliation": "Ieso Digital Health",
     "keywords": [
       "Machine Learning",
@@ -2268,8 +2268,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "650",
-        "430"
+        "666",
+        "440"
       ],
       "hindex": [
         "14",
@@ -2277,7 +2277,7 @@ var data = [
       ],
       "i10index": [
         "25",
-        "16"
+        "17"
       ]
     },
     "year": "2005"
@@ -2285,7 +2285,7 @@ var data = [
   {
     "name": "Kareem Darwish",
     "url": "http://scholar.google.com/citations?user=y7tlR6UAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=y7tlR6UAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=y7tlR6UAAAAJ&citpid=2",
     "affiliation": "Qatar Computing Research Institute, Qatar Foundation",
     "keywords": [
       "Information Retrieval",
@@ -2296,12 +2296,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2464",
-        "1785"
+        "2529",
+        "1824"
       ],
       "hindex": [
-        "26",
-        "24"
+        "27",
+        "25"
       ],
       "i10index": [
         "53",
@@ -2313,7 +2313,7 @@ var data = [
   {
     "name": "Brian D. Davison",
     "url": "http://scholar.google.com/citations?user=wk3PBXn5pgoJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=wk3PBXn5pgoJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wk3PBXn5pgoJ&citpid=3",
     "affiliation": "Associate Professor of Computer Science and Engineering, Lehigh University",
     "keywords": [
       "Data Science",
@@ -2324,16 +2324,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7748",
-        "3565"
+        "7937",
+        "3711"
       ],
       "hindex": [
-        "41",
-        "26"
+        "42",
+        "27"
       ],
       "i10index": [
-        "85",
-        "48"
+        "87",
+        "49"
       ]
     },
     "year": "1999"
@@ -2351,16 +2351,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2797",
-        "1400"
+        "2891",
+        "1485"
       ],
       "hindex": [
-        "26",
+        "27",
         "19"
       ],
       "i10index": [
-        "71",
-        "42"
+        "75",
+        "46"
       ]
     },
     "year": "2001"
@@ -2368,7 +2368,7 @@ var data = [
   {
     "name": "Hongbo Deng",
     "url": "https://scholar.google.com/citations?user=cfXbU7gAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=cfXbU7gAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=cfXbU7gAAAAJ&citpid=3",
     "affiliation": "Google",
     "keywords": [
       "Information Retrieval",
@@ -2378,12 +2378,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2106",
-        "1564"
+        "2171",
+        "1620"
       ],
       "hindex": [
-        "21",
-        "20"
+        "22",
+        "21"
       ],
       "i10index": [
         "35",
@@ -2395,19 +2395,19 @@ var data = [
   {
     "name": "Fernando Diaz",
     "url": "http://scholar.google.com/citations?user=212SLn0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=212SLn0AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=212SLn0AAAAJ&citpid=2",
     "affiliation": "Microsoft Research Montréal",
     "keywords": [
       "Information Retrieval"
     ],
     "stats": {
       "citations": [
-        "4501",
-        "3206"
+        "4654",
+        "3340"
       ],
       "hindex": [
         "32",
-        "29"
+        "28"
       ],
       "i10index": [
         "50",
@@ -2419,7 +2419,7 @@ var data = [
   {
     "name": "Laura Dietz",
     "url": "http://scholar.google.com/citations?user=IIXpJ8oAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=IIXpJ8oAAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=IIXpJ8oAAAAJ&citpid=1",
     "affiliation": "University of New Hampshire",
     "keywords": [
       "Information Retrieval",
@@ -2430,8 +2430,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "859",
-        "659"
+        "889",
+        "685"
       ],
       "hindex": [
         "12",
@@ -2447,7 +2447,7 @@ var data = [
   {
     "name": "Debora Donato",
     "url": "http://scholar.google.com/citations?user=MMZCaK8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=MMZCaK8AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=MMZCaK8AAAAJ&citpid=3",
     "affiliation": "Principal Data Scientist",
     "keywords": [
       "WebIR",
@@ -2457,16 +2457,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5154",
-        "2346"
+        "5282",
+        "2419"
       ],
       "hindex": [
-        "28",
+        "29",
         "20"
       ],
       "i10index": [
-        "51",
-        "35"
+        "52",
+        "34"
       ]
     },
     "year": "2006"
@@ -2474,7 +2474,7 @@ var data = [
   {
     "name": "Dou Zhicheng",
     "url": "https://scholar.google.com/citations?user=ChCjAAwAAAAJ",
-    "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ChCjAAwAAAAJ&citpid=1",
     "affiliation": "Renmin University of China",
     "keywords": [
       "Web Search",
@@ -2483,8 +2483,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1660",
-        "1078"
+        "1732",
+        "1135"
       ],
       "hindex": [
         "17",
@@ -2495,7 +2495,7 @@ var data = [
         "22"
       ]
     },
-    "year": "2008"
+    "year": "2007"
   },
   {
     "name": "Huizhong Duan",
@@ -2509,12 +2509,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "646",
-        "423"
+        "659",
+        "431"
       ],
       "hindex": [
         "12",
-        "10"
+        "11"
       ],
       "i10index": [
         "15",
@@ -2526,7 +2526,7 @@ var data = [
   {
     "name": "Susan Dumais",
     "url": "http://scholar.google.com/citations?user=x8dED5cAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=x8dED5cAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=x8dED5cAAAAJ&citpid=2",
     "affiliation": "Distinguished Scientist, Microsoft Research",
     "keywords": [
       "Information Retrieval",
@@ -2534,16 +2534,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "72818",
-        "27750"
+        "73948",
+        "28082"
       ],
       "hindex": [
-        "108",
-        "74"
+        "109",
+        "72"
       ],
       "i10index": [
         "267",
-        "217"
+        "215"
       ]
     },
     "year": "1990"
@@ -2558,11 +2558,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1809",
-        "1040"
+        "1822",
+        "1006"
       ],
       "hindex": [
-        "19",
+        "20",
         "15"
       ],
       "i10index": [
@@ -2570,12 +2570,12 @@ var data = [
         "17"
       ]
     },
-    "year": "2005"
+    "year": "2003"
   },
   {
     "name": "Miles Efron",
     "url": "http://scholar.google.com/citations?user=onFS1L0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=onFS1L0AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=onFS1L0AAAAJ&citpid=2",
     "affiliation": "University of Virginia",
     "keywords": [
       "Information retrieval",
@@ -2584,8 +2584,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2283",
-        "1684"
+        "2357",
+        "1756"
       ],
       "hindex": [
         "20",
@@ -2593,7 +2593,7 @@ var data = [
       ],
       "i10index": [
         "29",
-        "18"
+        "19"
       ]
     },
     "year": "2004"
@@ -2601,7 +2601,7 @@ var data = [
   {
     "name": "Carsten Eickhoff",
     "url": "https://scholar.google.com/citations?user=QQi1_rAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=QQi1_rAAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=QQi1_rAAAAAJ&citpid=4",
     "affiliation": "Assistant Professor, Brown University",
     "keywords": [
       "Information Retrieval",
@@ -2611,16 +2611,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1509",
-        "1334"
+        "1585",
+        "1404"
       ],
       "hindex": [
         "19",
         "18"
       ],
       "i10index": [
-        "30",
-        "26"
+        "31",
+        "27"
       ]
     },
     "year": "2011"
@@ -2628,7 +2628,7 @@ var data = [
   {
     "name": "Tamer Elsayed",
     "url": "http://scholar.google.com/citations?user=ekS-yPIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=ekS-yPIAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ekS-yPIAAAAJ&citpid=4",
     "affiliation": "Associate Professor, Qatar University",
     "keywords": [
       "Information Retrieval",
@@ -2637,8 +2637,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1104",
-        "747"
+        "1142",
+        "776"
       ],
       "hindex": [
         "16",
@@ -2654,8 +2654,8 @@ var data = [
   {
     "name": "David Elsweiler",
     "url": "http://scholar.google.com/citations?user=njEJE3oAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=njEJE3oAAAAJ&citpid=1",
-    "affiliation": "Head of Information Behaviour Group at the Chair of Information Science, University of Regensburg",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=njEJE3oAAAAJ&citpid=1",
+    "affiliation": "Chair for Information Science, University of Regensburg",
     "keywords": [
       "information science",
       "information retrieval",
@@ -2665,8 +2665,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1322",
-        "889"
+        "1352",
+        "913"
       ],
       "hindex": [
         "21",
@@ -2682,7 +2682,7 @@ var data = [
   {
     "name": "Yuka Egusa",
     "url": "https://scholar.google.com/citations?user=TB5YV8wAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=TB5YV8wAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TB5YV8wAAAAJ&citpid=2",
     "affiliation": "National Institute for Educational Policy Research",
     "keywords": [
       "information seeking behavior",
@@ -2692,11 +2692,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "193",
-        "82"
+        "201",
+        "83"
       ],
       "hindex": [
-        "6",
+        "7",
         "5"
       ],
       "i10index": [
@@ -2704,12 +2704,12 @@ var data = [
         "3"
       ]
     },
-    "year": "1999"
+    "year": "2001"
   },
   {
     "name": "Andrea Esuli",
     "url": "http://scholar.google.com/citations?user=2f9Zj68AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=2f9Zj68AAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=2f9Zj68AAAAJ&citpid=5",
     "affiliation": "Istituto di Scienza e Tecnologie dell'Informazione - Consiglio Nazionale delle Ricerche (ISTI-CNR)",
     "keywords": [
       "Information Retrieval",
@@ -2720,16 +2720,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8216",
-        "5307"
+        "8511",
+        "5575"
       ],
       "hindex": [
         "27",
         "23"
       ],
       "i10index": [
-        "49",
-        "42"
+        "50",
+        "44"
       ]
     },
     "year": "2006"
@@ -2737,7 +2737,7 @@ var data = [
   {
     "name": "Tiziano Fagni",
     "url": "https://scholar.google.com/citations?user=qJz5BRQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=qJz5BRQAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=qJz5BRQAAAAJ&citpid=2",
     "affiliation": "Researcher, IIT-CNR, Pisa, Italy",
     "keywords": [
       "machine learning",
@@ -2747,8 +2747,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "536",
-        "226"
+        "549",
+        "239"
       ],
       "hindex": [
         "10",
@@ -2764,7 +2764,7 @@ var data = [
   {
     "name": "Paolo Ferragina",
     "url": "http://scholar.google.com/citations?user=3EILU3MAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=3EILU3MAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=3EILU3MAAAAJ&citpid=4",
     "affiliation": "Professor of Algorithms, Dept. Computer Science, University of Pisa",
     "keywords": [
       "Algorithms and Data Structures",
@@ -2775,15 +2775,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7976",
-        "3374"
+        "8143",
+        "3506"
       ],
       "hindex": [
         "36",
-        "23"
+        "24"
       ],
       "i10index": [
-        "73",
+        "74",
         "35"
       ]
     },
@@ -2792,7 +2792,7 @@ var data = [
   {
     "name": "Nicola Ferro",
     "url": "http://scholar.google.com/citations?user=MP_m6wgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=MP_m6wgAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=MP_m6wgAAAAJ&citpid=5",
     "affiliation": "Full Professor, University of Padua, Italy",
     "keywords": [
       "information retrieval",
@@ -2801,8 +2801,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3520",
-        "1703"
+        "3569",
+        "1735"
       ],
       "hindex": [
         "30",
@@ -2818,7 +2818,7 @@ var data = [
   {
     "name": "Dennis Fetterly",
     "url": "http://scholar.google.com/citations?user=uc4csvYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=uc4csvYAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=uc4csvYAAAAJ&citpid=2",
     "affiliation": "Software Engineer, Google",
     "keywords": [
       "Distributed Systems",
@@ -2826,12 +2826,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6821",
-        "3120"
+        "6932",
+        "3183"
       ],
       "hindex": [
         "17",
-        "14"
+        "13"
       ],
       "i10index": [
         "24",
@@ -2843,7 +2843,7 @@ var data = [
   {
     "name": "Edward Fox",
     "url": "https://scholar.google.com/citations?user=KcbSBrUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=KcbSBrUAAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=KcbSBrUAAAAJ&citpid=1",
     "affiliation": "Professor of Computer Science, Virginia Tech, VPI&SU",
     "keywords": [
       "digital libraries",
@@ -2854,16 +2854,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17862",
-        "3840"
+        "18082",
+        "3990"
       ],
       "hindex": [
-        "60",
+        "61",
         "25"
       ],
       "i10index": [
-        "249",
-        "69"
+        "251",
+        "72"
       ]
     },
     "year": "1985"
@@ -2871,7 +2871,7 @@ var data = [
   {
     "name": "William B. Frakes",
     "url": "http://scholar.google.com/citations?user=0PgPz44AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=0PgPz44AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=0PgPz44AAAAJ&citpid=2",
     "affiliation": "ISASE",
     "keywords": [
       "software engineering",
@@ -2882,8 +2882,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7932",
-        "1473"
+        "8051",
+        "1537"
       ],
       "hindex": [
         "25",
@@ -2899,7 +2899,7 @@ var data = [
   {
     "name": "Luanne Freund",
     "url": "http://scholar.google.com/citations?user=0pPzV2wAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=0pPzV2wAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=0pPzV2wAAAAJ&citpid=3",
     "affiliation": "University of British Columbia",
     "keywords": [
       "interactive information retrieval",
@@ -2909,19 +2909,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1189",
-        "699"
+        "1229",
+        "726"
       ],
       "hindex": [
-        "19",
+        "20",
         "15"
       ],
       "i10index": [
-        "26",
+        "27",
         "21"
       ]
     },
-    "year": "2003"
+    "year": "2004"
   },
   {
     "name": "Ophir Frieder",
@@ -2931,15 +2931,15 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "15757",
-        "4546"
+        "15867",
+        "4411"
       ],
       "hindex": [
-        "54",
-        "35"
+        "55",
+        "33"
       ],
       "i10index": [
-        "199",
+        "200",
         "98"
       ]
     },
@@ -2955,8 +2955,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9188",
-        "1526"
+        "9288",
+        "1594"
       ],
       "hindex": [
         "45",
@@ -2964,7 +2964,7 @@ var data = [
       ],
       "i10index": [
         "140",
-        "44"
+        "46"
       ]
     },
     "year": "1989"
@@ -2972,7 +2972,7 @@ var data = [
   {
     "name": "Debasis Ganguly",
     "url": "http://scholar.google.com/citations?user=FhQENQgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=FhQENQgAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=FhQENQgAAAAJ&citpid=3",
     "affiliation": "Research Staff Member, IBM Research Ireland",
     "keywords": [
       "Information Retrieval",
@@ -2982,8 +2982,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "559",
-        "497"
+        "602",
+        "539"
       ],
       "hindex": [
         "11",
@@ -2999,7 +2999,7 @@ var data = [
   {
     "name": "Jianfeng Gao",
     "url": "http://scholar.google.com/citations?user=CQ1cqKkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=CQ1cqKkAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=CQ1cqKkAAAAJ&citpid=2",
     "affiliation": "Microsoft Research, Redmond",
     "keywords": [
       "natural language processing",
@@ -3009,16 +3009,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18126",
-        "13783"
+        "19189",
+        "14602"
       ],
       "hindex": [
-        "64",
+        "66",
         "49"
       ],
       "i10index": [
-        "198",
-        "160"
+        "201",
+        "157"
       ]
     },
     "year": "2002"
@@ -3026,7 +3026,7 @@ var data = [
   {
     "name": "Wei Gao",
     "url": "https://scholar.google.com/citations?user=8uaZwkwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=medium_photo&user=8uaZwkwAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=medium_photo&user=8uaZwkwAAAAJ&citpid=3",
     "affiliation": "Senior Lecturer, Victoria University of Wellington",
     "keywords": [
       "information retrieval",
@@ -3036,16 +3036,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1708",
-        "1418"
+        "1850",
+        "1560"
       ],
       "hindex": [
         "22",
-        "20"
+        "21"
       ],
       "i10index": [
-        "43",
-        "36"
+        "44",
+        "37"
       ]
     },
     "year": "2005"
@@ -3053,7 +3053,7 @@ var data = [
   {
     "name": "Evgeniy Gabrilovich",
     "url": "http://scholar.google.com/citations?user=DKCx8hcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=DKCx8hcAAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DKCx8hcAAAAJ&citpid=1",
     "affiliation": "Senior Staff Research Scientist, Google Research",
     "keywords": [
       "Healthcare",
@@ -3064,12 +3064,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12066",
-        "7733"
+        "12435",
+        "8007"
       ],
       "hindex": [
-        "41",
-        "33"
+        "40",
+        "34"
       ],
       "i10index": [
         "78",
@@ -3091,8 +3091,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9569",
-        "3434"
+        "9788",
+        "3605"
       ],
       "hindex": [
         "42",
@@ -3100,7 +3100,7 @@ var data = [
       ],
       "i10index": [
         "159",
-        "79"
+        "80"
       ]
     },
     "year": "1990"
@@ -3108,7 +3108,7 @@ var data = [
   {
     "name": "Eric Gaussier",
     "url": "https://scholar.google.com/citations?user=rCpJslsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=rCpJslsAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=rCpJslsAAAAJ&citpid=3",
     "affiliation": "Professor Univ. Grenoble Alpes",
     "keywords": [
       "computational linguistics",
@@ -3117,16 +3117,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6722",
-        "3688"
+        "6927",
+        "3807"
       ],
       "hindex": [
         "43",
         "30"
       ],
       "i10index": [
-        "105",
-        "74"
+        "107",
+        "75"
       ]
     },
     "year": "1997"
@@ -3134,7 +3134,7 @@ var data = [
   {
     "name": "C Lee Giles",
     "url": "http://scholar.google.com/citations?user=sAkg9T8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=sAkg9T8AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=sAkg9T8AAAAJ&citpid=2",
     "affiliation": "Pennsylvania State University",
     "keywords": [
       "Information extraction",
@@ -3145,24 +3145,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "40581",
-        "13711"
+        "41495",
+        "14398"
       ],
       "hindex": [
-        "96",
+        "97",
         "56"
       ],
       "i10index": [
-        "362",
-        "239"
+        "366",
+        "244"
       ]
     },
-    "year": "1990"
+    "year": "1991"
   },
   {
     "name": "Aristides Gionis",
     "url": "http://scholar.google.com/citations?user=11JgipcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=11JgipcAAAAJ&citpid=8",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=11JgipcAAAAJ&citpid=8",
     "affiliation": "Aalto University",
     "keywords": [
       "data mining",
@@ -3173,16 +3173,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17080",
-        "9623"
+        "17577",
+        "10005"
       ],
       "hindex": [
-        "56",
-        "45"
+        "57",
+        "46"
       ],
       "i10index": [
         "130",
-        "112"
+        "109"
       ]
     },
     "year": "2001"
@@ -3200,16 +3200,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1319",
-        "1219"
+        "1361",
+        "1257"
       ],
       "hindex": [
         "19",
         "18"
       ],
       "i10index": [
-        "29",
-        "26"
+        "30",
+        "27"
       ]
     },
     "year": "2009"
@@ -3226,16 +3226,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1429",
-        "801"
+        "1500",
+        "867"
       ],
       "hindex": [
-        "19",
+        "20",
         "14"
       ],
       "i10index": [
-        "42",
-        "24"
+        "44",
+        "27"
       ]
     },
     "year": "2002"
@@ -3243,7 +3243,7 @@ var data = [
   {
     "name": "Gene Golovchinsky",
     "url": "http://scholar.google.com/citations?user=cMOu7YoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=cMOu7YoAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=cMOu7YoAAAAJ&citpid=2",
     "affiliation": "Sr. Research Scientist",
     "keywords": [
       "HCI",
@@ -3254,16 +3254,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6200",
-        "2326"
+        "6213",
+        "2194"
       ],
       "hindex": [
         "44",
-        "28"
+        "26"
       ],
       "i10index": [
         "92",
-        "63"
+        "61"
       ]
     },
     "year": "1997"
@@ -3271,7 +3271,7 @@ var data = [
   {
     "name": "Marcos Andre Goncalves",
     "url": "http://scholar.google.com/citations?user=IStCGaoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=IStCGaoAAAAJ&citpid=7",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=IStCGaoAAAAJ&citpid=7",
     "affiliation": "Computer Science Professor, Universidade Federal de Minas Gerais, Brazil",
     "keywords": [
       "Information Retrieval",
@@ -3280,16 +3280,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8733",
-        "4491"
+        "9054",
+        "4748"
       ],
       "hindex": [
-        "45",
-        "33"
+        "46",
+        "34"
       ],
       "i10index": [
-        "174",
-        "119"
+        "180",
+        "125"
       ]
     },
     "year": "2001"
@@ -3297,7 +3297,7 @@ var data = [
   {
     "name": "Julio Gonzalo",
     "url": "http://scholar.google.com/citations?user=opFCmpYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=opFCmpYAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=opFCmpYAAAAJ&citpid=3",
     "affiliation": "Full professor of Computer Science, UNED",
     "keywords": [
       "Natural Language Processing",
@@ -3305,16 +3305,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4874",
-        "1900"
+        "4941",
+        "1947"
       ],
       "hindex": [
         "33",
         "19"
       ],
       "i10index": [
-        "80",
-        "29"
+        "79",
+        "27"
       ]
     },
     "year": "1998"
@@ -3322,7 +3322,7 @@ var data = [
   {
     "name": "Luis Gravano",
     "url": "http://scholar.google.com/citations?user=Ff6era8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Ff6era8AAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Ff6era8AAAAJ&citpid=4",
     "affiliation": "Professor of Computer Science, Columbia University",
     "keywords": [
       "Databases",
@@ -3331,16 +3331,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14392",
-        "4197"
+        "15061",
+        "4489"
       ],
       "hindex": [
-        "53",
-        "30"
+        "54",
+        "33"
       ],
       "i10index": [
-        "93",
-        "53"
+        "94",
+        "54"
       ]
     },
     "year": "1994"
@@ -3357,16 +3357,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1299",
-        "937"
+        "1331",
+        "959"
       ],
       "hindex": [
         "18",
         "16"
       ],
       "i10index": [
-        "21",
-        "18"
+        "22",
+        "19"
       ]
     },
     "year": "2009"
@@ -3374,7 +3374,7 @@ var data = [
   {
     "name": "Cathal Gurrin",
     "url": "http://scholar.google.com/citations?user=NSm2hJMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=NSm2hJMAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NSm2hJMAAAAJ&citpid=4",
     "affiliation": "School of Computing, Dublin City University & Insight Centre for Data Analytics",
     "keywords": [
       "Multimedia Information Retrieval",
@@ -3385,16 +3385,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3702",
-        "2429"
+        "3851",
+        "2559"
       ],
       "hindex": [
-        "32",
-        "23"
+        "33",
+        "24"
       ],
       "i10index": [
-        "94",
-        "57"
+        "99",
+        "61"
       ]
     },
     "year": "2003"
@@ -3402,7 +3402,7 @@ var data = [
   {
     "name": "Ido Guy",
     "url": "https://scholar.google.com/citations?user=iiXF7KkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=iiXF7KkAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=iiXF7KkAAAAJ&citpid=2",
     "affiliation": "Research Director, eBay",
     "keywords": [
       "Recommender Systems",
@@ -3411,16 +3411,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3677",
-        "2454"
+        "3753",
+        "2478"
       ],
       "hindex": [
         "28",
-        "23"
+        "24"
       ],
       "i10index": [
-        "52",
-        "47"
+        "54",
+        "48"
       ]
     },
     "year": "2008"
@@ -3428,7 +3428,7 @@ var data = [
   {
     "name": "Zoltan Gyongyi",
     "url": "http://scholar.google.com/citations?user=2u9wZH8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=2u9wZH8AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=2u9wZH8AAAAJ&citpid=2",
     "affiliation": "Research Scientist, Google",
     "keywords": [
       "Database Systems",
@@ -3438,24 +3438,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3327",
-        "1086"
+        "3378",
+        "1102"
       ],
       "hindex": [
         "17",
-        "15"
+        "13"
       ],
       "i10index": [
         "20",
-        "17"
+        "18"
       ]
     },
-    "year": "2005"
+    "year": "2004"
   },
   {
     "name": "Martin Halvey",
     "url": "http://scholar.google.com/citations?user=ZXIo4JAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=ZXIo4JAAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZXIo4JAAAAAJ&citpid=3",
     "affiliation": "Senior Lecturer (Associate Professor), University of Strathclyde",
     "keywords": [
       "Information Retrieval",
@@ -3464,16 +3464,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1525",
-        "834"
+        "1566",
+        "870"
       ],
       "hindex": [
         "21",
         "17"
       ],
       "i10index": [
-        "33",
-        "25"
+        "35",
+        "26"
       ]
     },
     "year": "2005"
@@ -3481,7 +3481,7 @@ var data = [
   {
     "name": "Allan Hanbury",
     "url": "http://scholar.google.com/citations?user=_hR4cSAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=_hR4cSAAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=_hR4cSAAAAAJ&citpid=3",
     "affiliation": "Professor at the TU Wien",
     "keywords": [
       "Information retrieval",
@@ -3489,16 +3489,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5409",
-        "3536"
+        "5630",
+        "3739"
       ],
       "hindex": [
         "37",
-        "29"
+        "30"
       ],
       "i10index": [
-        "100",
-        "70"
+        "106",
+        "73"
       ]
     },
     "year": "2002"
@@ -3511,8 +3511,8 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "29183",
-        "5836"
+        "29609",
+        "6092"
       ],
       "hindex": [
         "41",
@@ -3528,7 +3528,7 @@ var data = [
   {
     "name": "Morgan Harvey",
     "url": "http://scholar.google.com/citations?user=9KtlRP8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=9KtlRP8AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=9KtlRP8AAAAJ&citpid=3",
     "affiliation": "Senior Lecturer at Northumbria University",
     "keywords": [
       "Information Retrieval",
@@ -3539,12 +3539,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "732",
-        "630"
+        "761",
+        "657"
       ],
       "hindex": [
         "16",
-        "15"
+        "16"
       ],
       "i10index": [
         "27",
@@ -3556,15 +3556,15 @@ var data = [
   {
     "name": "Ismael Hasan",
     "url": "http://scholar.google.com/citations?user=NFEMVNIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=NFEMVNIAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NFEMVNIAAAAJ&citpid=2",
     "affiliation": "Software Engineer",
     "keywords": [
       "Information Retrieval"
     ],
     "stats": {
       "citations": [
-        "16",
-        "11"
+        "17",
+        "12"
       ],
       "hindex": [
         "2",
@@ -3572,7 +3572,7 @@ var data = [
       ],
       "i10index": [
         "1",
-        "0"
+        "1"
       ]
     },
     "year": "2010"
@@ -3580,7 +3580,7 @@ var data = [
   {
     "name": "Claudia Hauff",
     "url": "http://scholar.google.com/citations?user=gMUKVkkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=gMUKVkkAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=gMUKVkkAAAAJ&citpid=3",
     "affiliation": "Associate Professor, Delft University of Technology (NL)",
     "keywords": [
       "information retrieval",
@@ -3589,16 +3589,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2034",
-        "1536"
+        "2091",
+        "1597"
       ],
       "hindex": [
         "25",
         "23"
       ],
       "i10index": [
-        "49",
-        "44"
+        "47",
+        "43"
       ]
     },
     "year": "2008"
@@ -3611,16 +3611,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "5496",
-        "1074"
+        "5564",
+        "1113"
       ],
       "hindex": [
         "35",
-        "19"
+        "20"
       ],
       "i10index": [
-        "74",
-        "28"
+        "76",
+        "30"
       ]
     },
     "year": "1995"
@@ -3628,7 +3628,7 @@ var data = [
   {
     "name": "Daqing He",
     "url": "http://scholar.google.com/citations?user=FpyCxD4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=FpyCxD4AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=FpyCxD4AAAAJ&citpid=3",
     "affiliation": "Professor, School of Computing and Information, University of Pittsburgh",
     "keywords": [
       "Information Retrieval",
@@ -3639,16 +3639,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3234",
-        "1934"
+        "3327",
+        "2019"
       ],
       "hindex": [
-        "27",
-        "22"
+        "28",
+        "23"
       ],
       "i10index": [
-        "74",
-        "52"
+        "76",
+        "54"
       ]
     },
     "year": "2002"
@@ -3656,7 +3656,7 @@ var data = [
   {
     "name": "Jiyin He",
     "url": "http://scholar.google.com/citations?user=F-8qMNEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=F-8qMNEAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=F-8qMNEAAAAJ&citpid=2",
     "affiliation": "Signal",
     "keywords": [
       "Information retrieval",
@@ -3664,15 +3664,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1365",
-        "684"
+        "1390",
+        "704"
       ],
       "hindex": [
         "16",
         "14"
       ],
       "i10index": [
-        "28",
+        "29",
         "21"
       ]
     },
@@ -3681,23 +3681,23 @@ var data = [
   {
     "name": "Qi He",
     "url": "http://scholar.google.com/citations?user=tfdmPXMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=tfdmPXMAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=tfdmPXMAAAAJ&citpid=4",
     "affiliation": "LinkedIn",
     "keywords": [
+      "Artificial Intelligence",
       "Data Mining",
-      "Machine Learning",
       "Information Retrieval",
       "Web Search",
       "Knowledge Graph"
     ],
     "stats": {
       "citations": [
-        "4952",
-        "3453"
+        "5123",
+        "3607"
       ],
       "hindex": [
         "22",
-        "19"
+        "20"
       ],
       "i10index": [
         "29",
@@ -3709,7 +3709,7 @@ var data = [
   {
     "name": "Xiangnan He",
     "url": "https://scholar.google.com/citations?user=X45Go24AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=X45Go24AAAAJ&citpid=11",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=X45Go24AAAAJ&citpid=11",
     "affiliation": "Professor, University of Science and Technology of China",
     "keywords": [
       "Recommender System",
@@ -3719,16 +3719,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3625",
-        "3624"
+        "4149",
+        "4148"
       ],
       "hindex": [
-        "27",
-        "27"
+        "30",
+        "30"
       ],
       "i10index": [
-        "49",
-        "49"
+        "54",
+        "54"
       ]
     },
     "year": "2015"
@@ -3736,7 +3736,7 @@ var data = [
   {
     "name": "Xiaodong He",
     "url": "https://scholar.google.com/citations?user=W5WbqgoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=W5WbqgoAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=W5WbqgoAAAAJ&citpid=4",
     "affiliation": "JD AI Research",
     "keywords": [
       "deep learning",
@@ -3747,16 +3747,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14124",
-        "13079"
+        "15247",
+        "14073"
       ],
       "hindex": [
-        "53",
-        "48"
+        "52",
+        "47"
       ],
       "i10index": [
         "116",
-        "103"
+        "100"
       ]
     },
     "year": "2007"
@@ -3764,7 +3764,7 @@ var data = [
   {
     "name": "Marti A. Hearst",
     "url": "http://scholar.google.com/citations?user=Yy6xbCYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Yy6xbCYAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Yy6xbCYAAAAJ&citpid=3",
     "affiliation": "Professor, University of California, Berkeley",
     "keywords": [
       "Computational Linguistics",
@@ -3774,16 +3774,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "31383",
-        "9643"
+        "32034",
+        "10098"
       ],
       "hindex": [
         "72",
-        "40"
+        "41"
       ],
       "i10index": [
-        "156",
-        "96"
+        "158",
+        "98"
       ]
     },
     "year": "1994"
@@ -3791,7 +3791,7 @@ var data = [
   {
     "name": "Monika Henzinger",
     "url": "http://scholar.google.com/citations?user=NXbggxYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=NXbggxYAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NXbggxYAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, University of Vienna",
     "keywords": [
       "Combinatorial algorithms and data structures",
@@ -3800,16 +3800,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18868",
-        "6401"
+        "19043",
+        "6311"
       ],
       "hindex": [
         "64",
-        "42"
+        "41"
       ],
       "i10index": [
-        "148",
-        "121"
+        "147",
+        "118"
       ]
     },
     "year": "1996"
@@ -3817,23 +3817,23 @@ var data = [
   {
     "name": "Djoerd Hiemstra",
     "url": "http://scholar.google.com/citations?user=SN0MvYwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=SN0MvYwAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=SN0MvYwAAAAJ&citpid=2",
     "affiliation": "Radboud University",
     "keywords": [
       "Information Retrieval"
     ],
     "stats": {
       "citations": [
-        "6081",
-        "1890"
+        "6188",
+        "1961"
       ],
       "hindex": [
         "39",
-        "23"
+        "24"
       ],
       "i10index": [
-        "118",
-        "53"
+        "119",
+        "55"
       ]
     },
     "year": "1998"
@@ -3841,7 +3841,7 @@ var data = [
   {
     "name": "William Hersh",
     "url": "http://scholar.google.com/citations?user=xFn_7nUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=xFn_7nUAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=xFn_7nUAAAAJ&citpid=5",
     "affiliation": "Oregon Health & Science University",
     "keywords": [
       "Biomedical and health informatics",
@@ -3849,16 +3849,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17071",
-        "5993"
+        "17452",
+        "6233"
       ],
       "hindex": [
-        "70",
+        "71",
         "43"
       ],
       "i10index": [
-        "196",
-        "110"
+        "198",
+        "113"
       ]
     },
     "year": "1994"
@@ -3866,7 +3866,7 @@ var data = [
   {
     "name": "Jake Hofman",
     "url": "http://scholar.google.com/citations?user=eYg0_cEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=eYg0_cEAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=eYg0_cEAAAAJ&citpid=2",
     "affiliation": "Senior Researcher, Microsoft Research",
     "keywords": [
       "Computational Social Science",
@@ -3874,16 +3874,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6731",
-        "4643"
+        "6922",
+        "4812"
       ],
       "hindex": [
         "23",
         "23"
       ],
       "i10index": [
-        "28",
-        "27"
+        "26",
+        "26"
       ]
     },
     "year": "2007"
@@ -3891,7 +3891,7 @@ var data = [
   {
     "name": "Katja Hofmann",
     "url": "http://scholar.google.com/citations?user=bHsjbLwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=bHsjbLwAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=bHsjbLwAAAAJ&citpid=2",
     "affiliation": "Microsoft Research",
     "keywords": [
       "Multi-agent Reinforcement Learning",
@@ -3901,16 +3901,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1773",
-        "1292"
+        "1875",
+        "1390"
       ],
       "hindex": [
-        "24",
-        "20"
+        "25",
+        "21"
       ],
       "i10index": [
-        "44",
-        "32"
+        "46",
+        "34"
       ]
     },
     "year": "2007"
@@ -3918,19 +3918,19 @@ var data = [
   {
     "name": "Liangjie Hong",
     "url": "http://scholar.google.com/citations?user=4uaSNpYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=4uaSNpYAAAAJ&citpid=7",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=4uaSNpYAAAAJ&citpid=7",
     "affiliation": "Director of Engineering, Data Science and Machine Learning at Etsy",
     "keywords": [
       "Machine Learning",
       "Data Mining",
       "Information Retrieval",
       "Recommender Systems",
-      "Personalization"
+      "Data Science"
     ],
     "stats": {
       "citations": [
-        "3264",
-        "2724"
+        "3386",
+        "2836"
       ],
       "hindex": [
         "18",
@@ -3956,11 +3956,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1644",
-        "1201"
+        "1694",
+        "1247"
       ],
       "hindex": [
-        "22",
+        "23",
         "20"
       ],
       "i10index": [
@@ -3973,7 +3973,7 @@ var data = [
   {
     "name": "Eric Horvitz",
     "url": "http://scholar.google.com/citations?user=V4OPEAgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=V4OPEAgAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=V4OPEAgAAAAJ&citpid=5",
     "affiliation": "Microsoft Research",
     "keywords": [
       "Machine intelligence",
@@ -3984,16 +3984,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "70715",
-        "34849"
+        "70941",
+        "32987"
       ],
       "hindex": [
-        "139",
-        "92"
+        "138",
+        "89"
       ],
       "i10index": [
-        "642",
-        "535"
+        "645",
+        "524"
       ]
     },
     "year": "1993"
@@ -4001,7 +4001,7 @@ var data = [
   {
     "name": "Wenyi Huang",
     "url": "https://scholar.google.com/citations?user=K-RWg7gAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=K-RWg7gAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=K-RWg7gAAAAJ&citpid=4",
     "affiliation": "AI & Quantitative Researcher, Citadel LLC",
     "keywords": [
       "Deep Learning",
@@ -4012,8 +4012,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "784",
-        "717"
+        "841",
+        "774"
       ],
       "hindex": [
         "12",
@@ -4029,7 +4029,7 @@ var data = [
   {
     "name": "Xuanjing Huang",
     "url": "https://scholar.google.com/citations?user=RGsMgZA4H78C",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=RGsMgZA4H78C&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=RGsMgZA4H78C&citpid=1",
     "affiliation": "Professor of Computer Science, Fudan University",
     "keywords": [
       "Natural language processing",
@@ -4037,16 +4037,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4422",
-        "3301"
+        "4797",
+        "3662"
       ],
       "hindex": [
         "33",
-        "29"
+        "31"
       ],
       "i10index": [
-        "98",
-        "70"
+        "103",
+        "76"
       ]
     },
     "year": "2003"
@@ -4054,7 +4054,7 @@ var data = [
   {
     "name": "Gilles Hubert",
     "url": "https://scholar.google.com/citations?user=VHTVhSoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=VHTVhSoAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=VHTVhSoAAAAJ&citpid=3",
     "affiliation": "Associate professor of Computer Science, University of Toulouse",
     "keywords": [
       "Information retrieval",
@@ -4062,12 +4062,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "447",
-        "221"
+        "470",
+        "239"
       ],
       "hindex": [
         "13",
-        "6"
+        "7"
       ],
       "i10index": [
         "19",
@@ -4079,7 +4079,7 @@ var data = [
   {
     "name": "Bouke Huurnink",
     "url": "https://scholar.google.com/citations?user=oDH-P_sAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=oDH-P_sAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=oDH-P_sAAAAJ&citpid=2",
     "affiliation": "University of Amsterdam",
     "keywords": [
       "Information Retrieval",
@@ -4089,8 +4089,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1202",
-        "384"
+        "1212",
+        "390"
       ],
       "hindex": [
         "14",
@@ -4106,7 +4106,7 @@ var data = [
   {
     "name": "Giacomo Inches",
     "url": "https://scholar.google.com/citations?user=j7IZgxMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=j7IZgxMAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=j7IZgxMAAAAJ&citpid=4",
     "affiliation": "Unknown affiliation",
     "keywords": [
       "Information Retrieval",
@@ -4115,8 +4115,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "344",
-        "289"
+        "357",
+        "300"
       ],
       "hindex": [
         "7",
@@ -4132,7 +4132,7 @@ var data = [
   {
     "name": "Kalista Itakura",
     "url": "https://scholar.google.com/citations?user=oqe-rLkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=oqe-rLkAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=oqe-rLkAAAAJ&citpid=3",
     "affiliation": "Unknown affiliation",
     "keywords": [
       "Artificial Intelligence",
@@ -4142,7 +4142,7 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "272",
+        "273",
         "120"
       ],
       "hindex": [
@@ -4159,7 +4159,7 @@ var data = [
   {
     "name": "Kal Jarvelin",
     "url": "http://scholar.google.com/citations?user=apzoDeEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=apzoDeEAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=apzoDeEAAAAJ&citpid=2",
     "affiliation": "Professor Emeritus, Tampere University",
     "keywords": [
       "Information retrieval",
@@ -4167,16 +4167,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13512",
-        "5527"
+        "13751",
+        "5709"
       ],
       "hindex": [
-        "40",
+        "41",
         "24"
       ],
       "i10index": [
-        "116",
-        "51"
+        "117",
+        "54"
       ]
     },
     "year": "1998"
@@ -4184,7 +4184,7 @@ var data = [
   {
     "name": "Adam Jatowt",
     "url": "http://scholar.google.com/citations?user=l2vn9GoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=l2vn9GoAAAAJ&citpid=11",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=l2vn9GoAAAAJ&citpid=11",
     "affiliation": "Associate Professor at Kyoto University",
     "keywords": [
       "text mining",
@@ -4195,16 +4195,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2004",
-        "1180"
+        "2069",
+        "1229"
       ],
       "hindex": [
         "24",
-        "17"
+        "18"
       ],
       "i10index": [
-        "50",
-        "31"
+        "51",
+        "33"
       ]
     },
     "year": "2004"
@@ -4212,7 +4212,7 @@ var data = [
   {
     "name": "Jiepu Jiang",
     "url": "https://scholar.google.com/citations?user=wpiIJ1MAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=wpiIJ1MAAAAJ&citpid=8",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wpiIJ1MAAAAJ&citpid=8",
     "affiliation": "Assistant Professor, Virginia Tech",
     "keywords": [
       "Information Retrieval",
@@ -4221,8 +4221,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "968",
-        "840"
+        "1004",
+        "875"
       ],
       "hindex": [
         "18",
@@ -4246,16 +4246,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16578",
-        "10018"
+        "17165",
+        "10540"
       ],
       "hindex": [
         "70",
-        "53"
+        "55"
       ],
       "i10index": [
-        "203",
-        "171"
+        "207",
+        "177"
       ]
     },
     "year": "2003"
@@ -4263,7 +4263,7 @@ var data = [
   {
     "name": "Thorsten Joachims",
     "url": "http://scholar.google.com/citations?user=5tk1PV8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=5tk1PV8AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=5tk1PV8AAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Cornell University",
     "keywords": [
       "Machine Learning",
@@ -4271,16 +4271,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "59869",
-        "23399"
+        "61034",
+        "24320"
       ],
       "hindex": [
         "70",
-        "60"
+        "59"
       ],
       "i10index": [
-        "152",
-        "125"
+        "153",
+        "127"
       ]
     },
     "year": "1998"
@@ -4288,7 +4288,7 @@ var data = [
   {
     "name": "Hideo Joho",
     "url": "http://scholar.google.com/citations?user=8W8gwisAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=8W8gwisAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=8W8gwisAAAAJ&citpid=4",
     "affiliation": "Faculty of Library, Information and Media Science, University of Tsukuba",
     "keywords": [
       "Information Retrieval",
@@ -4298,16 +4298,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2669",
-        "1285"
+        "2738",
+        "1341"
       ],
       "hindex": [
         "29",
-        "20"
+        "21"
       ],
       "i10index": [
-        "48",
-        "38"
+        "49",
+        "39"
       ]
     },
     "year": "2002"
@@ -4315,7 +4315,7 @@ var data = [
   {
     "name": "Chris Jones",
     "url": "http://scholar.google.com/citations?user=IYzBO24AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=IYzBO24AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=IYzBO24AAAAJ&citpid=2",
     "affiliation": "Professor of Geographical Information Systems, Cardiff University",
     "keywords": [
       "Geographical Information Systems",
@@ -4326,16 +4326,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5945",
-        "1718"
+        "6117",
+        "1782"
       ],
       "hindex": [
-        "38",
-        "21"
+        "39",
+        "22"
       ],
       "i10index": [
-        "89",
-        "40"
+        "92",
+        "41"
       ]
     },
     "year": "1991"
@@ -4353,15 +4353,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7445",
-        "3277"
+        "7558",
+        "3345"
       ],
       "hindex": [
-        "43",
+        "44",
         "27"
       ],
       "i10index": [
-        "175",
+        "176",
         "84"
       ]
     },
@@ -4381,16 +4381,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3799",
-        "2180"
+        "3954",
+        "2317"
       ],
       "hindex": [
-        "32",
+        "33",
         "23"
       ],
       "i10index": [
         "84",
-        "48"
+        "51"
       ]
     },
     "year": "1995"
@@ -4406,16 +4406,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6454",
-        "3296"
+        "6589",
+        "3393"
       ],
       "hindex": [
         "41",
-        "30"
+        "31"
       ],
       "i10index": [
-        "125",
-        "72"
+        "127",
+        "74"
       ]
     },
     "year": "2002"
@@ -4423,31 +4423,31 @@ var data = [
   {
     "name": "Flavio Junqueira",
     "url": "http://scholar.google.com/citations?user=48qKfREAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=48qKfREAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=48qKfREAAAAJ&citpid=2",
     "affiliation": "Dell EMC",
     "keywords": [
       "Distributed systems"
     ],
     "stats": {
       "citations": [
-        "4655",
-        "3047"
+        "4768",
+        "3102"
       ],
       "hindex": [
         "31",
-        "23"
+        "24"
       ],
       "i10index": [
-        "57",
-        "43"
+        "58",
+        "44"
       ]
     },
-    "year": "2005"
+    "year": "2004"
   },
   {
     "name": "Hung-Yu Kao",
     "url": "https://scholar.google.com/citations?user=X5Is2lAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=X5Is2lAAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=X5Is2lAAAAAJ&citpid=2",
     "affiliation": "National Cheng Kung University",
     "keywords": [
       "information retrieval",
@@ -4457,16 +4457,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2096",
-        "1378"
+        "2176",
+        "1453"
       ],
       "hindex": [
         "21",
         "18"
       ],
       "i10index": [
-        "32",
-        "25"
+        "33",
+        "26"
       ]
     },
     "year": "1996"
@@ -4474,19 +4474,19 @@ var data = [
   {
     "name": "Jaap Kamps",
     "url": "http://scholar.google.com/citations?user=bWlQ2uEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=bWlQ2uEAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=bWlQ2uEAAAAJ&citpid=2",
     "affiliation": "University of Amsterdam",
     "keywords": [
       "Information Retrieval",
       "Natural Language Processing",
       "Artificial Intelligence",
-      "Machine Learning",
-      "Digital Humanities"
+      "Digital Humanities",
+      "New Media"
     ],
     "stats": {
       "citations": [
-        "5889",
-        "2736"
+        "6048",
+        "2868"
       ],
       "hindex": [
         "37",
@@ -4502,7 +4502,7 @@ var data = [
   {
     "name": "Sep Kamvar",
     "url": "http://scholar.google.com/citations?user=_KUU74QAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=_KUU74QAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=_KUU74QAAAAJ&citpid=2",
     "affiliation": "Unknown affiliation",
     "keywords": [
       "Social Computing",
@@ -4511,12 +4511,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13269",
-        "4883"
+        "13345",
+        "4765"
       ],
       "hindex": [
         "40",
-        "27"
+        "25"
       ],
       "i10index": [
         "55",
@@ -4528,7 +4528,7 @@ var data = [
   {
     "name": "Min-Yen Kan",
     "url": "http://scholar.google.com/citations?user=aNVcd3EAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=aNVcd3EAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=aNVcd3EAAAAJ&citpid=4",
     "affiliation": "Associate Professor, National University of Singapore",
     "keywords": [
       "Artificial Intelligence",
@@ -4539,16 +4539,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8320",
-        "4896"
+        "8630",
+        "5171"
       ],
       "hindex": [
-        "48",
-        "35"
+        "49",
+        "36"
       ],
       "i10index": [
-        "118",
-        "88"
+        "123",
+        "95"
       ]
     },
     "year": "2000"
@@ -4566,16 +4566,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4847",
-        "887"
+        "4909",
+        "928"
       ],
       "hindex": [
         "31",
-        "13"
+        "14"
       ],
       "i10index": [
-        "80",
-        "19"
+        "81",
+        "20"
       ]
     },
     "year": "1980"
@@ -4592,16 +4592,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3951",
-        "1265"
+        "4027",
+        "1308"
       ],
       "hindex": [
         "32",
         "19"
       ],
       "i10index": [
-        "94",
-        "36"
+        "95",
+        "37"
       ]
     },
     "year": "1999"
@@ -4609,7 +4609,7 @@ var data = [
   {
     "name": "Evangelos Kanoulas",
     "url": "http://scholar.google.com/citations?user=0HybxV4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=0HybxV4AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=0HybxV4AAAAJ&citpid=2",
     "affiliation": "University of Amsterdam",
     "keywords": [
       "Information Retrieval",
@@ -4619,12 +4619,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2468",
-        "1623"
+        "2548",
+        "1694"
       ],
       "hindex": [
         "27",
-        "22"
+        "23"
       ],
       "i10index": [
         "44",
@@ -4636,7 +4636,7 @@ var data = [
   {
     "name": "Sarvnaz Karimi",
     "url": "http://scholar.google.com/citations?user=BRzka3AAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=BRzka3AAAAAJ&citpid=14",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BRzka3AAAAAJ&citpid=14",
     "affiliation": "Senior Research Scientist at CSIRO",
     "keywords": [
       "Text Mining",
@@ -4647,16 +4647,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1745",
-        "1482"
+        "1827",
+        "1560"
       ],
       "hindex": [
         "18",
         "16"
       ],
       "i10index": [
-        "26",
-        "22"
+        "27",
+        "23"
       ]
     },
     "year": "2008"
@@ -4664,7 +4664,7 @@ var data = [
   {
     "name": "Maryam Karimzadehgan",
     "url": "https://scholar.google.com/citations?user=9Wh4EoMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=9Wh4EoMAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=9Wh4EoMAAAAJ&citpid=4",
     "affiliation": "Google, University of Illinois at Urbana-Champaign",
     "keywords": [
       "Deep Learning",
@@ -4674,8 +4674,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "445",
-        "303"
+        "457",
+        "312"
       ],
       "hindex": [
         "11",
@@ -4691,7 +4691,7 @@ var data = [
   {
     "name": "Jussi Karlgren",
     "url": "http://scholar.google.com/citations?user=o7cz97l31z8J",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=o7cz97l31z8J&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=o7cz97l31z8J&citpid=2",
     "affiliation": "Spotify",
     "keywords": [
       "Language technology",
@@ -4702,16 +4702,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3009",
-        "759"
+        "3047",
+        "769"
       ],
       "hindex": [
         "26",
         "13"
       ],
       "i10index": [
-        "50",
-        "15"
+        "52",
+        "16"
       ]
     },
     "year": "1993"
@@ -4719,19 +4719,19 @@ var data = [
   {
     "name": "Makoto P. Kato",
     "url": "https://scholar.google.com/citations?user=Gr2Q2dQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=medium_photo&user=Gr2Q2dQAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=medium_photo&user=Gr2Q2dQAAAAJ&citpid=2",
     "affiliation": "University of Tsukuba",
     "keywords": [
       "Information Retrieval"
     ],
     "stats": {
       "citations": [
-        "657",
-        "468"
+        "692",
+        "491"
       ],
       "hindex": [
-        "15",
-        "12"
+        "16",
+        "13"
       ],
       "i10index": [
         "20",
@@ -4743,7 +4743,7 @@ var data = [
   {
     "name": "Gabriella Kazai",
     "url": "http://scholar.google.com/citations?user=0U23qOUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=0U23qOUAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=0U23qOUAAAAJ&citpid=2",
     "affiliation": "Research Consultant, Microsoft Research",
     "keywords": [
       "Information retrieval",
@@ -4753,8 +4753,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3885",
-        "1638"
+        "3971",
+        "1703"
       ],
       "hindex": [
         "33",
@@ -4762,7 +4762,7 @@ var data = [
       ],
       "i10index": [
         "79",
-        "38"
+        "39"
       ]
     },
     "year": "2002"
@@ -4780,8 +4780,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6289",
-        "2790"
+        "6404",
+        "2880"
       ],
       "hindex": [
         "18",
@@ -4789,7 +4789,7 @@ var data = [
       ],
       "i10index": [
         "22",
-        "8"
+        "9"
       ]
     },
     "year": "2000"
@@ -4797,7 +4797,7 @@ var data = [
   {
     "name": "Diane Kelly",
     "url": "http://scholar.google.com/citations?user=sZE8jQIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=sZE8jQIAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=sZE8jQIAAAAJ&citpid=2",
     "affiliation": "University of Tennessee",
     "keywords": [
       "Interactive information retrieval",
@@ -4806,16 +4806,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5350",
-        "2427"
+        "5489",
+        "2520"
       ],
       "hindex": [
-        "36",
+        "37",
         "26"
       ],
       "i10index": [
-        "69",
-        "46"
+        "71",
+        "48"
       ]
     },
     "year": "2002"
@@ -4823,7 +4823,7 @@ var data = [
   {
     "name": "Irwin King",
     "url": "http://scholar.google.com/citations?user=MXvC7tkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=MXvC7tkAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=MXvC7tkAAAAJ&citpid=3",
     "affiliation": "The Chinese University of Hong Kong",
     "keywords": [
       "social computing",
@@ -4834,19 +4834,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16057",
-        "11149"
+        "16670",
+        "11701"
       ],
       "hindex": [
         "59",
         "49"
       ],
       "i10index": [
-        "207",
-        "140"
+        "209",
+        "144"
       ]
     },
-    "year": "2002"
+    "year": "2003"
   },
   {
     "name": "Sheila Kinsella",
@@ -4861,8 +4861,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "851",
-        "560"
+        "868",
+        "572"
       ],
       "hindex": [
         "12",
@@ -4888,8 +4888,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2791",
-        "955"
+        "2836",
+        "956"
       ],
       "hindex": [
         "23",
@@ -4900,7 +4900,7 @@ var data = [
         "22"
       ]
     },
-    "year": "2005"
+    "year": "2004"
   },
   {
     "name": "marijn Koolen",
@@ -4916,11 +4916,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1271",
-        "725"
+        "1303",
+        "752"
       ],
       "hindex": [
-        "18",
+        "19",
         "14"
       ],
       "i10index": [
@@ -4933,7 +4933,7 @@ var data = [
   {
     "name": "Wessel Kraaij",
     "url": "http://scholar.google.com/citations?user=w9YiYrsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=w9YiYrsAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=w9YiYrsAAAAJ&citpid=4",
     "affiliation": "Leiden University & TNO",
     "keywords": [
       "information retrieval",
@@ -4944,16 +4944,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7635",
-        "2769"
+        "7785",
+        "2881"
       ],
       "hindex": [
         "35",
-        "21"
+        "22"
       ],
       "i10index": [
-        "95",
-        "47"
+        "96",
+        "49"
       ]
     },
     "year": "1998"
@@ -4961,7 +4961,7 @@ var data = [
   {
     "name": "Udo Kruschwitz",
     "url": "https://scholar.google.com/citations?user=ZCaIF_wAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=ZCaIF_wAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZCaIF_wAAAAJ&citpid=2",
     "affiliation": "Professor, University of Regensburg",
     "keywords": [
       "Information Retrieval",
@@ -4971,16 +4971,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1432",
-        "810"
+        "1470",
+        "843"
       ],
       "hindex": [
         "22",
         "15"
       ],
       "i10index": [
-        "44",
-        "25"
+        "46",
+        "26"
       ]
     },
     "year": "1999"
@@ -4999,8 +4999,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1466",
-        "623"
+        "1482",
+        "625"
       ],
       "hindex": [
         "17",
@@ -5016,7 +5016,7 @@ var data = [
   {
     "name": "Michal Laclavík",
     "url": "http://scholar.google.com/citations?user=nFTwkE0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=nFTwkE0AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=nFTwkE0AAAAJ&citpid=3",
     "affiliation": "Deloitte Digital",
     "keywords": [
       "Information Retrieval",
@@ -5027,16 +5027,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1126",
-        "401"
+        "1143",
+        "416"
       ],
       "hindex": [
         "16",
         "11"
       ],
       "i10index": [
-        "33",
-        "11"
+        "34",
+        "12"
       ]
     },
     "year": "2002"
@@ -5044,23 +5044,23 @@ var data = [
   {
     "name": "Mounia Lalmas",
     "url": "http://scholar.google.com/citations?user=wAr9G5sAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=wAr9G5sAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wAr9G5sAAAAJ&citpid=3",
     "affiliation": "Spotify",
     "keywords": [
       "User Engagement"
     ],
     "stats": {
       "citations": [
-        "7555",
-        "2642"
+        "7701",
+        "2738"
       ],
       "hindex": [
         "46",
-        "26"
+        "27"
       ],
       "i10index": [
-        "163",
-        "59"
+        "164",
+        "62"
       ]
     },
     "year": "1996"
@@ -5068,7 +5068,7 @@ var data = [
   {
     "name": "Birger Larsen",
     "url": "http://scholar.google.com/citations?user=fIL_MF0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=fIL_MF0AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=fIL_MF0AAAAJ&citpid=3",
     "affiliation": "Professor in Information Analysis and Information Retrieval, Aalborg University Copenhagen (Denmark)",
     "keywords": [
       "Information Retrieval",
@@ -5078,15 +5078,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1802",
-        "974"
+        "1849",
+        "1012"
       ],
       "hindex": [
         "25",
         "16"
       ],
       "i10index": [
-        "55",
+        "56",
         "28"
       ]
     },
@@ -5095,7 +5095,7 @@ var data = [
   {
     "name": "Victor Lavrenko",
     "url": "http://scholar.google.com/citations?user=FfjKDgwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=FfjKDgwAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=FfjKDgwAAAAJ&citpid=2",
     "affiliation": "Lecturer (Assistant Professor) at the University of Edinburgh",
     "keywords": [
       "Information retrieval",
@@ -5104,16 +5104,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11435",
-        "4526"
+        "11633",
+        "4692"
       ],
       "hindex": [
-        "35",
+        "36",
         "28"
       ],
       "i10index": [
-        "59",
-        "45"
+        "60",
+        "46"
       ]
     },
     "year": "2000"
@@ -5121,15 +5121,15 @@ var data = [
   {
     "name": "Steve Lawrence",
     "url": "http://scholar.google.com/citations?user=duxEO9IAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=duxEO9IAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=duxEO9IAAAAJ&citpid=5",
     "affiliation": "Google",
     "keywords": [
       "Google"
     ],
     "stats": {
       "citations": [
-        "30983",
-        "8569"
+        "31468",
+        "8786"
       ],
       "hindex": [
         "67",
@@ -5137,7 +5137,7 @@ var data = [
       ],
       "i10index": [
         "114",
-        "74"
+        "72"
       ]
     },
     "year": "1998"
@@ -5145,7 +5145,7 @@ var data = [
   {
     "name": "Dawn Lawrie",
     "url": "http://scholar.google.com/citations?user=Ij9zwyoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Ij9zwyoAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Ij9zwyoAAAAJ&citpid=2",
     "affiliation": "Research Scientist, Johns Hopkins University, Human Language Technology Center of Excellence",
     "keywords": [
       "Information Retrieval",
@@ -5154,16 +5154,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2462",
-        "1161"
+        "2540",
+        "1222"
       ],
       "hindex": [
         "25",
-        "19"
+        "20"
       ],
       "i10index": [
         "41",
-        "32"
+        "33"
       ]
     },
     "year": "2001"
@@ -5182,15 +5182,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1672",
-        "1140"
+        "1711",
+        "1174"
       ],
       "hindex": [
         "16",
         "10"
       ],
       "i10index": [
-        "40",
+        "41",
         "12"
       ]
     },
@@ -5209,24 +5209,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3005",
-        "2267"
+        "3013",
+        "2160"
       ],
       "hindex": [
-        "22",
-        "21"
+        "21",
+        "20"
       ],
       "i10index": [
         "34",
-        "32"
+        "29"
       ]
     },
-    "year": "2008"
+    "year": "2003"
   },
   {
     "name": "Dirk Lewandowski",
     "url": "http://scholar.google.com/citations?user=PVYslIEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=PVYslIEAAAAJ&citpid=12",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=PVYslIEAAAAJ&citpid=12",
     "affiliation": "Professor of Information Research and Information Retrieval, Hamburg University of Applied Sciences",
     "keywords": [
       "Search engines",
@@ -5237,16 +5237,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2262",
-        "1056"
+        "2344",
+        "1128"
       ],
       "hindex": [
         "27",
-        "19"
+        "20"
       ],
       "i10index": [
-        "54",
-        "39"
+        "55",
+        "40"
       ]
     },
     "year": "2003"
@@ -5254,7 +5254,7 @@ var data = [
   {
     "name": "Chenliang Li",
     "url": "http://scholar.google.com/citations?user=p4RNNCQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=p4RNNCQAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=p4RNNCQAAAAJ&citpid=3",
     "affiliation": "Associate Professor, School of Cyber Science and Engineering, Wuhan University",
     "keywords": [
       "Information Retrieval",
@@ -5264,12 +5264,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1109",
-        "1019"
+        "1187",
+        "1098"
       ],
       "hindex": [
-        "12",
-        "12"
+        "14",
+        "13"
       ],
       "i10index": [
         "16",
@@ -5281,7 +5281,7 @@ var data = [
   {
     "name": "Hang Li",
     "url": "http://scholar.google.com/citations?user=nTl5mSwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=nTl5mSwAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=nTl5mSwAAAAJ&citpid=3",
     "affiliation": "AI Lab, Bytedance Technology",
     "keywords": [
       "natural language processing",
@@ -5291,8 +5291,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16921",
-        "11040"
+        "17459",
+        "11447"
       ],
       "hindex": [
         "64",
@@ -5300,10 +5300,10 @@ var data = [
       ],
       "i10index": [
         "179",
-        "145"
+        "143"
       ]
     },
-    "year": "2001"
+    "year": "2002"
   },
   {
     "name": "Elizabeth D. Liddy",
@@ -5315,16 +5315,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7899",
-        "3002"
+        "7910",
+        "2752"
       ],
       "hindex": [
         "32",
         "18"
       ],
       "i10index": [
-        "72",
-        "25"
+        "73",
+        "26"
       ]
     },
     "year": "1993"
@@ -5332,7 +5332,7 @@ var data = [
   {
     "name": "Jimmy Lin",
     "url": "http://scholar.google.com/citations?user=0EWw1z8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=0EWw1z8AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=0EWw1z8AAAAJ&citpid=3",
     "affiliation": "University of Waterloo",
     "keywords": [
       "information retrieval",
@@ -5342,16 +5342,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14612",
-        "8386"
+        "15097",
+        "8792"
       ],
       "hindex": [
-        "62",
-        "46"
+        "63",
+        "47"
       ],
       "i10index": [
-        "196",
-        "152"
+        "201",
+        "157"
       ]
     },
     "year": "2002"
@@ -5360,17 +5360,17 @@ var data = [
     "name": "Christina Lioma",
     "url": "http://scholar.google.com/citations?user=dXkFCYoAAAAJ",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
-    "affiliation": "Professor in Computer Science, University of Copenhagen, Denmark",
+    "affiliation": "Full Professor in Computer Science, Head of Machine Learning Section, University of Copenhagen",
     "keywords": [
-      "Information Retrieval",
       "Machine Learning",
       "Artificial Intelligence",
+      "Information Retrieval",
       "Web Data Mining"
     ],
     "stats": {
       "citations": [
-        "1709",
-        "1103"
+        "1754",
+        "1147"
       ],
       "hindex": [
         "18",
@@ -5386,7 +5386,7 @@ var data = [
   {
     "name": "Tie-Yan Liu",
     "url": "http://scholar.google.com/citations?user=Nh832fgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Nh832fgAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Nh832fgAAAAJ&citpid=2",
     "affiliation": "Assistant Managing Director, Microsoft Research Asia; IEEE Fellow, ACM Distinguished Member",
     "keywords": [
       "machine learning",
@@ -5397,16 +5397,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21257",
-        "14114"
+        "22019",
+        "14694"
       ],
       "hindex": [
         "50",
         "41"
       ],
       "i10index": [
-        "344",
-        "265"
+        "355",
+        "272"
       ]
     },
     "year": "2005"
@@ -5414,7 +5414,7 @@ var data = [
   {
     "name": "Yiqun Liu",
     "url": "https://scholar.google.com/citations?user=NJOnxh4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=NJOnxh4AAAAJ&citpid=9",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NJOnxh4AAAAJ&citpid=9",
     "affiliation": "Tsinghua University",
     "keywords": [
       "Web search",
@@ -5423,16 +5423,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4246",
-        "3250"
+        "4504",
+        "3481"
       ],
       "hindex": [
         "32",
-        "28"
+        "29"
       ],
       "i10index": [
-        "103",
-        "83"
+        "111",
+        "91"
       ]
     },
     "year": "2003"
@@ -5440,7 +5440,7 @@ var data = [
   {
     "name": "Matt Lease",
     "url": "http://scholar.google.com/citations?user=qgmiQ5IAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=qgmiQ5IAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=qgmiQ5IAAAAJ&citpid=5",
     "affiliation": "Associate Professor, School of Information, University of Texas at Austin",
     "keywords": [
       "Information Retrieval",
@@ -5450,16 +5450,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3892",
-        "2735"
+        "4064",
+        "2896"
       ],
       "hindex": [
-        "32",
-        "26"
+        "33",
+        "27"
       ],
       "i10index": [
-        "64",
-        "47"
+        "65",
+        "49"
       ]
     },
     "year": "2003"
@@ -5474,8 +5474,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "727",
-        "175"
+        "740",
+        "185"
       ],
       "hindex": [
         "14",
@@ -5483,7 +5483,7 @@ var data = [
       ],
       "i10index": [
         "20",
-        "1"
+        "3"
       ]
     },
     "year": "1998"
@@ -5491,7 +5491,7 @@ var data = [
   {
     "name": "Alejandro Lopez-Ortiz",
     "url": "http://scholar.google.com/citations?user=JX5VMAkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=JX5VMAkAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=JX5VMAkAAAAJ&citpid=2",
     "affiliation": "Professor and Cheriton Chair, University of Waterloo",
     "keywords": [
       "Data Structures",
@@ -5502,15 +5502,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3564",
-        "1509"
+        "3617",
+        "1553"
       ],
       "hindex": [
         "30",
         "22"
       ],
       "i10index": [
-        "67",
+        "68",
         "41"
       ]
     },
@@ -5519,7 +5519,7 @@ var data = [
   {
     "name": "David E. Losada",
     "url": "http://scholar.google.com/citations?user=dTiTjW8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=dTiTjW8AAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=dTiTjW8AAAAJ&citpid=4",
     "affiliation": "Universidad de Santiago de Compostela",
     "keywords": [
       "Computer Science",
@@ -5529,16 +5529,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1081",
-        "648"
+        "1079",
+        "644"
       ],
       "hindex": [
-        "20",
+        "19",
         "14"
       ],
       "i10index": [
         "34",
-        "18"
+        "17"
       ]
     },
     "year": "2000"
@@ -5546,7 +5546,7 @@ var data = [
   {
     "name": "Claudio Lucchese",
     "url": "http://scholar.google.com/citations?user=bdoG6ScAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=bdoG6ScAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=bdoG6ScAAAAJ&citpid=2",
     "affiliation": "Associate Professor, Ca' Foscari University of Venice",
     "keywords": [
       "Data Mining",
@@ -5554,16 +5554,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2757",
-        "1668"
+        "2848",
+        "1743"
       ],
       "hindex": [
         "28",
-        "22"
+        "23"
       ],
       "i10index": [
-        "55",
-        "47"
+        "56",
+        "48"
       ]
     },
     "year": "2005"
@@ -5571,7 +5571,7 @@ var data = [
   {
     "name": "Chris LuVogt",
     "url": "http://scholar.google.it/citations?user=5oRwKekAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=5oRwKekAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=5oRwKekAAAAJ&citpid=5",
     "affiliation": "Verizon Media",
     "keywords": [
       "AI",
@@ -5581,8 +5581,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1230",
-        "492"
+        "1212",
+        "438"
       ],
       "hindex": [
         "14",
@@ -5593,12 +5593,12 @@ var data = [
         "11"
       ]
     },
-    "year": "1998"
+    "year": "1997"
   },
   {
     "name": "Yuanhua Lv",
     "url": "https://scholar.google.com/citations?user=kIHxcVYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=kIHxcVYAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=kIHxcVYAAAAJ&citpid=2",
     "affiliation": "Principal Applied Researcher at Microsoft AI & Research",
     "keywords": [
       "Information Retrieval",
@@ -5607,16 +5607,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1428",
-        "968"
+        "1493",
+        "1028"
       ],
       "hindex": [
-        "17",
-        "16"
+        "18",
+        "17"
       ],
       "i10index": [
-        "24",
-        "21"
+        "25",
+        "22"
       ]
     },
     "year": "2007"
@@ -5624,7 +5624,7 @@ var data = [
   {
     "name": "Hao Ma",
     "url": "https://scholar.google.com/citations?user=4spEfYgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=4spEfYgAAAAJ&citpid=7",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=4spEfYgAAAAJ&citpid=7",
     "affiliation": "Research Scientist Manager, Facebook AI",
     "keywords": [
       "Natural Language Processing",
@@ -5635,24 +5635,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7699",
-        "6079"
+        "7987",
+        "6398"
       ],
       "hindex": [
         "31",
         "29"
       ],
       "i10index": [
-        "41",
-        "37"
+        "39",
+        "39"
       ]
     },
-    "year": "2008"
+    "year": "2009"
   },
   {
     "name": "Wei-Ying Ma",
     "url": "https://scholar.google.com/citations?user=SToCbu8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=SToCbu8AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=SToCbu8AAAAJ&citpid=2",
     "affiliation": "Toutiao, Bytedance",
     "keywords": [
       "Artificial Intelligence",
@@ -5663,16 +5663,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "48028",
-        "19641"
+        "48635",
+        "19663"
       ],
       "hindex": [
-        "109",
-        "64"
+        "110",
+        "63"
       ],
       "i10index": [
-        "415",
-        "311"
+        "413",
+        "306"
       ]
     },
     "year": "1998"
@@ -5680,24 +5680,24 @@ var data = [
   {
     "name": "Yoelle Maarek",
     "url": "https://scholar.google.com/citations?user=foccT34AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=foccT34AAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=foccT34AAAAJ&citpid=1",
     "affiliation": "VP Research, Alexa Shopping, Amazon",
     "keywords": [],
     "stats": {
       "citations": [
-        "5640",
-        "1976"
+        "5861",
+        "1975"
       ],
       "hindex": [
-        "37",
+        "38",
         "26"
       ],
       "i10index": [
-        "79",
-        "47"
+        "84",
+        "46"
       ]
     },
-    "year": "1990"
+    "year": "1991"
   },
   {
     "name": "Alessandra Alaniz Macedo",
@@ -5711,8 +5711,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "504",
-        "183"
+        "510",
+        "190"
       ],
       "hindex": [
         "12",
@@ -5720,7 +5720,7 @@ var data = [
       ],
       "i10index": [
         "15",
-        "3"
+        "4"
       ]
     },
     "year": "1999"
@@ -5728,7 +5728,7 @@ var data = [
   {
     "name": "Walid Magdy",
     "url": "https://scholar.google.com/citations?user=ACQD8jMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=ACQD8jMAAAAJ&citpid=7",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ACQD8jMAAAAJ&citpid=7",
     "affiliation": "School of Informatics, The University of Edinburgh",
     "keywords": [
       "Computational Social Science",
@@ -5738,16 +5738,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1505",
-        "1247"
+        "1664",
+        "1400"
       ],
       "hindex": [
         "23",
         "20"
       ],
       "i10index": [
-        "40",
-        "36"
+        "41",
+        "37"
       ]
     },
     "year": "2007"
@@ -5755,7 +5755,7 @@ var data = [
   {
     "name": "R. Manmatha",
     "url": "http://scholar.google.com/citations?user=_0aMq28AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=_0aMq28AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=_0aMq28AAAAJ&citpid=2",
     "affiliation": "A9/Amazon",
     "keywords": [
       "information retrieval",
@@ -5766,16 +5766,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11254",
-        "4012"
+        "11449",
+        "4138"
       ],
       "hindex": [
         "45",
         "29"
       ],
       "i10index": [
-        "100",
-        "66"
+        "101",
+        "64"
       ]
     },
     "year": "1997"
@@ -5783,23 +5783,23 @@ var data = [
   {
     "name": "Craig Macdonald",
     "url": "http://scholar.google.com/citations?user=IBjMKHQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=IBjMKHQAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=IBjMKHQAAAAJ&citpid=2",
     "affiliation": "School of Computing Science, University of Glasgow",
     "keywords": [
       "Information Retrieval"
     ],
     "stats": {
       "citations": [
-        "7520",
-        "4324"
+        "7698",
+        "4475"
       ],
       "hindex": [
         "42",
-        "34"
+        "35"
       ],
       "i10index": [
         "137",
-        "109"
+        "110"
       ]
     },
     "year": "2006"
@@ -5807,7 +5807,7 @@ var data = [
   {
     "name": "Bernardo Magnini",
     "url": "http://scholar.google.com/citations?user=jnQE-4gAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=jnQE-4gAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=jnQE-4gAAAAJ&citpid=2",
     "affiliation": "Researcher, Fondazone Bruno Kessler - FBK, Trento, Italy",
     "keywords": [
       "Intelligenza Artificiale",
@@ -5815,16 +5815,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8375",
-        "2682"
+        "8547",
+        "2818"
       ],
       "hindex": [
         "43",
-        "22"
+        "23"
       ],
       "i10index": [
         "110",
-        "52"
+        "53"
       ]
     },
     "year": "1998"
@@ -5841,8 +5841,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "696",
-        "315"
+        "710",
+        "323"
       ],
       "hindex": [
         "10",
@@ -5850,7 +5850,7 @@ var data = [
       ],
       "i10index": [
         "11",
-        "7"
+        "6"
       ]
     },
     "year": "2005"
@@ -5858,7 +5858,7 @@ var data = [
   {
     "name": "Prasenjit Majumder",
     "url": "https://scholar.google.com/citations?user=Cf-XE08AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Cf-XE08AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Cf-XE08AAAAJ&citpid=3",
     "affiliation": "DAIICT",
     "keywords": [
       "information retrieval",
@@ -5867,16 +5867,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "555",
-        "368"
+        "621",
+        "421"
       ],
       "hindex": [
-        "11",
-        "8"
+        "12",
+        "9"
       ],
       "i10index": [
-        "12",
-        "6"
+        "15",
+        "8"
       ]
     },
     "year": "2007"
@@ -5884,7 +5884,7 @@ var data = [
   {
     "name": "Thomas Mandl",
     "url": "http://scholar.google.cl/citations?user=zW4kukYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=zW4kukYAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=zW4kukYAAAAJ&citpid=2",
     "affiliation": "Information Science, University of Hildesheim",
     "keywords": [
       "Information Retrieval",
@@ -5893,16 +5893,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1754",
-        "510"
+        "1801",
+        "546"
       ],
       "hindex": [
         "20",
         "11"
       ],
       "i10index": [
-        "50",
-        "13"
+        "52",
+        "15"
       ]
     },
     "year": "1999"
@@ -5920,16 +5920,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15335",
-        "3709"
+        "15602",
+        "3848"
       ],
       "hindex": [
         "51",
         "28"
       ],
       "i10index": [
-        "134",
-        "56"
+        "136",
+        "57"
       ]
     },
     "year": "1989"
@@ -5937,18 +5937,18 @@ var data = [
   {
     "name": "Ilya Markov",
     "url": "http://scholar.google.com/citations?user=4ztJyswAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=4ztJyswAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=4ztJyswAAAAJ&citpid=3",
     "affiliation": "University of Amsterdam",
     "keywords": [
       "information retrieval",
-      "federated search",
       "user behavior",
-      "evaluation"
+      "learning to rank",
+      "federated search"
     ],
     "stats": {
       "citations": [
-        "535",
-        "491"
+        "566",
+        "522"
       ],
       "hindex": [
         "12",
@@ -5964,7 +5964,7 @@ var data = [
   {
     "name": "Bruno Martins",
     "url": "https://scholar.google.com/citations?user=VQMUt8kAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=VQMUt8kAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=VQMUt8kAAAAJ&citpid=3",
     "affiliation": "Professor, Computer Science and Engineering Department, IST, University of Lisbon",
     "keywords": [
       "Text Mining",
@@ -5975,16 +5975,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2313",
-        "1214"
+        "2399",
+        "1297"
       ],
       "hindex": [
         "26",
-        "17"
+        "18"
       ],
       "i10index": [
-        "51",
-        "34"
+        "54",
+        "36"
       ]
     },
     "year": "2005"
@@ -5992,19 +5992,19 @@ var data = [
   {
     "name": "Richard McCreadie",
     "url": "http://scholar.google.com/citations?user=p8550tQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=p8550tQAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=p8550tQAAAAJ&citpid=2",
     "affiliation": "University of Glasgow",
     "keywords": [
       "Information Retrieval"
     ],
     "stats": {
       "citations": [
-        "1504",
-        "1168"
+        "1547",
+        "1204"
       ],
       "hindex": [
         "22",
-        "17"
+        "18"
       ],
       "i10index": [
         "34",
@@ -6024,16 +6024,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1770",
-        "608"
+        "1822",
+        "654"
       ],
       "hindex": [
         "23",
-        "12"
+        "13"
       ],
       "i10index": [
-        "46",
-        "17"
+        "47",
+        "19"
       ]
     },
     "year": "1996"
@@ -6041,7 +6041,7 @@ var data = [
   {
     "name": "Qiaozhu Mei",
     "url": "http://scholar.google.com/citations?user=zr22WkQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=zr22WkQAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=zr22WkQAAAAJ&citpid=3",
     "affiliation": "Professor, University of Michigan",
     "keywords": [
       "Data mining",
@@ -6052,16 +6052,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10461",
-        "7674"
+        "11007",
+        "8194"
       ],
       "hindex": [
         "46",
-        "39"
+        "40"
       ],
       "i10index": [
-        "85",
-        "77"
+        "88",
+        "79"
       ]
     },
     "year": "2006"
@@ -6069,7 +6069,7 @@ var data = [
   {
     "name": "Edgar Meij",
     "url": "http://scholar.google.com/citations?user=vb6YKF0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=vb6YKF0AAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=vb6YKF0AAAAJ&citpid=4",
     "affiliation": "Bloomberg",
     "keywords": [
       "Information Retrieval",
@@ -6078,15 +6078,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2195",
-        "1504"
+        "2251",
+        "1554"
       ],
       "hindex": [
         "25",
         "21"
       ],
       "i10index": [
-        "52",
+        "53",
         "34"
       ]
     },
@@ -6095,7 +6095,7 @@ var data = [
   {
     "name": "Weiyi Meng",
     "url": "http://scholar.google.com/citations?user=C-wDOskAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=C-wDOskAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=C-wDOskAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Binghamton University",
     "keywords": [
       "Search",
@@ -6106,8 +6106,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8067",
-        "2459"
+        "8237",
+        "2586"
       ],
       "hindex": [
         "45",
@@ -6123,7 +6123,7 @@ var data = [
   {
     "name": "Donald Metzler",
     "url": "http://scholar.google.com/citations?user=bmXpOd8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=bmXpOd8AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=bmXpOd8AAAAJ&citpid=2",
     "affiliation": "Google",
     "keywords": [
       "Information Retrieval",
@@ -6134,8 +6134,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8170",
-        "4421"
+        "8362",
+        "4571"
       ],
       "hindex": [
         "39",
@@ -6151,7 +6151,7 @@ var data = [
   {
     "name": "Rada Mihalcea",
     "url": "http://scholar.google.com/citations?user=UetM7FgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=UetM7FgAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=UetM7FgAAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science, University of Michigan",
     "keywords": [
       "Natural Language Processing",
@@ -6160,16 +6160,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21341",
-        "11735"
+        "22105",
+        "12390"
       ],
       "hindex": [
-        "68",
-        "51"
+        "70",
+        "54"
       ],
       "i10index": [
-        "183",
-        "145"
+        "186",
+        "149"
       ]
     },
     "year": "2001"
@@ -6177,7 +6177,7 @@ var data = [
   {
     "name": "Zhao-Yan Ming",
     "url": "https://scholar.google.com/citations?user=BrND3vgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=BrND3vgAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BrND3vgAAAAJ&citpid=2",
     "affiliation": "Department of Computer Science, Digipen Institute of Technology",
     "keywords": [
       "Information Retrieval",
@@ -6187,8 +6187,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "771",
-        "594"
+        "798",
+        "616"
       ],
       "hindex": [
         "15",
@@ -6204,7 +6204,7 @@ var data = [
   {
     "name": "Riccardo Miotto",
     "url": "http://scholar.google.cl/citations?user=A--bA0QAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=A--bA0QAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=A--bA0QAAAAJ&citpid=3",
     "affiliation": "Assistant Professor @ Icahn School of Medicine at Mount Sinai",
     "keywords": [
       "Machine Learning",
@@ -6215,16 +6215,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1547",
-        "1384"
+        "1755",
+        "1588"
       ],
       "hindex": [
         "19",
-        "15"
+        "16"
       ],
       "i10index": [
-        "26",
-        "18"
+        "27",
+        "19"
       ]
     },
     "year": "2008"
@@ -6241,15 +6241,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5720",
-        "2441"
+        "5867",
+        "2512"
       ],
       "hindex": [
         "28",
         "19"
       ],
       "i10index": [
-        "45",
+        "44",
         "28"
       ]
     },
@@ -6265,19 +6265,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8862",
-        "2459"
+        "9050",
+        "2584"
       ],
       "hindex": [
         "27",
         "22"
       ],
       "i10index": [
-        "41",
+        "42",
         "28"
       ]
     },
-    "year": "1996"
+    "year": "1997"
   },
   {
     "name": "Stefano Mizzaro",
@@ -6292,16 +6292,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3186",
-        "1086"
+        "3254",
+        "1142"
       ],
       "hindex": [
         "24",
         "16"
       ],
       "i10index": [
-        "50",
-        "30"
+        "51",
+        "31"
       ]
     },
     "year": "1996"
@@ -6309,7 +6309,7 @@ var data = [
   {
     "name": "Marie-Francine Moens",
     "url": "http://scholar.google.com/citations?user=O9hYMUUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=O9hYMUUAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=O9hYMUUAAAAJ&citpid=4",
     "affiliation": "Professor of Computer Science KU Leuven",
     "keywords": [
       "Natural language processing and understanding",
@@ -6320,16 +6320,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6750",
-        "4432"
+        "7021",
+        "4679"
       ],
       "hindex": [
         "42",
-        "34"
+        "35"
       ],
       "i10index": [
-        "120",
-        "81"
+        "124",
+        "86"
       ]
     },
     "year": "1999"
@@ -6337,7 +6337,7 @@ var data = [
   {
     "name": "Jose G Moreno",
     "url": "https://scholar.google.com/citations?user=4BZFUw8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=4BZFUw8AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=4BZFUw8AAAAJ&citpid=2",
     "affiliation": "Associate professor - University of Toulouse - IRIT",
     "keywords": [
       "Information Retrieval",
@@ -6346,16 +6346,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "170",
-        "145"
+        "177",
+        "150"
       ],
       "hindex": [
         "8",
         "8"
       ],
       "i10index": [
-        "6",
-        "5"
+        "8",
+        "6"
       ]
     },
     "year": "2010"
@@ -6363,7 +6363,7 @@ var data = [
   {
     "name": "Alessandro Moschitti",
     "url": "http://scholar.google.com/citations?user=vYUDlsEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=vYUDlsEAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=vYUDlsEAAAAJ&citpid=5",
     "affiliation": "Principal Scientist at Amazon Alexa",
     "keywords": [
       "Natural Language Processing",
@@ -6373,16 +6373,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8423",
-        "5077"
+        "8684",
+        "5325"
       ],
       "hindex": [
-        "46",
+        "47",
         "35"
       ],
       "i10index": [
-        "135",
-        "94"
+        "137",
+        "96"
       ]
     },
     "year": "2003"
@@ -6390,7 +6390,7 @@ var data = [
   {
     "name": "Yashar Moshfeghi",
     "url": "https://scholar.google.ca/citations?user=BaFcnWIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=BaFcnWIAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BaFcnWIAAAAJ&citpid=3",
     "affiliation": "University of Strathclyde",
     "keywords": [
       "NeuroIS",
@@ -6401,8 +6401,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "781",
-        "661"
+        "815",
+        "689"
       ],
       "hindex": [
         "14",
@@ -6418,7 +6418,7 @@ var data = [
   {
     "name": "Alistair Moffat",
     "url": "http://scholar.google.com/citations?user=r3xSME0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=r3xSME0AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=r3xSME0AAAAJ&citpid=2",
     "affiliation": "School of Computing and Information Systems, The University of Melbourne",
     "keywords": [
       "Compression",
@@ -6429,16 +6429,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17078",
-        "5264"
+        "17395",
+        "5514"
       ],
       "hindex": [
-        "54",
+        "55",
         "31"
       ],
       "i10index": [
         "166",
-        "85"
+        "86"
       ]
     },
     "year": "1992"
@@ -6446,7 +6446,7 @@ var data = [
   {
     "name": "Christof Monz",
     "url": "http://scholar.google.com/citations?user=0r3PWLQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=0r3PWLQAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=0r3PWLQAAAAJ&citpid=3",
     "affiliation": "Associate Professor of Computer Science, University of Amsterdam",
     "keywords": [
       "Language Technology",
@@ -6455,16 +6455,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4408",
-        "2193"
+        "4577",
+        "2348"
       ],
       "hindex": [
         "30",
         "20"
       ],
       "i10index": [
-        "60",
-        "35"
+        "62",
+        "38"
       ]
     },
     "year": "1998"
@@ -6480,8 +6480,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1156",
-        "312"
+        "1171",
+        "313"
       ],
       "hindex": [
         "13",
@@ -6497,7 +6497,7 @@ var data = [
   {
     "name": "Edleno Silva de Moura",
     "url": "http://scholar.google.com/citations?user=gMHGurgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=gMHGurgAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=gMHGurgAAAAJ&citpid=3",
     "affiliation": "Universidade Federal do Amazonas",
     "keywords": [
       "Information Retrieval",
@@ -6507,16 +6507,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3676",
-        "1091"
+        "3753",
+        "1140"
       ],
       "hindex": [
-        "32",
-        "19"
+        "33",
+        "20"
       ],
       "i10index": [
-        "61",
-        "37"
+        "62",
+        "38"
       ]
     },
     "year": "1998"
@@ -6524,7 +6524,7 @@ var data = [
   {
     "name": "Sougata Mukherjea",
     "url": "http://scholar.google.com/citations?user=XvzQCQMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=XvzQCQMAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XvzQCQMAAAAJ&citpid=2",
     "affiliation": "IBM India",
     "keywords": [
       "Mobile",
@@ -6533,8 +6533,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4117",
-        "1501"
+        "4149",
+        "1446"
       ],
       "hindex": [
         "34",
@@ -6550,7 +6550,7 @@ var data = [
   {
     "name": "Henning Müller",
     "url": "http://scholar.google.com/citations?user=UEZ9RlUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=UEZ9RlUAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=UEZ9RlUAAAAJ&citpid=2",
     "affiliation": "Professor in computer science at HES-SO & in radiology at the University of Geneva",
     "keywords": [
       "IR evaluation",
@@ -6561,16 +6561,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14333",
-        "7592"
+        "14730",
+        "7958"
       ],
       "hindex": [
-        "61",
-        "44"
+        "62",
+        "45"
       ],
       "i10index": [
-        "243",
-        "160"
+        "251",
+        "171"
       ]
     },
     "year": "2000"
@@ -6588,24 +6588,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3344",
-        "1738"
+        "3387",
+        "1722"
       ],
       "hindex": [
         "30",
-        "22"
+        "21"
       ],
       "i10index": [
         "53",
-        "42"
+        "40"
       ]
     },
-    "year": "2005"
+    "year": "2003"
   },
   {
     "name": "Ramesh Maruthi Nallapati",
     "url": "http://scholar.google.com/citations?user=mZcPPW4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=mZcPPW4AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=mZcPPW4AAAAJ&citpid=2",
     "affiliation": "Principal Applied Scientist, Amazon AWS AI",
     "keywords": [
       "Artificial Intelligence",
@@ -6616,12 +6616,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5291",
-        "3525"
+        "5608",
+        "3819"
       ],
       "hindex": [
         "23",
-        "19"
+        "20"
       ],
       "i10index": [
         "32",
@@ -6633,7 +6633,7 @@ var data = [
   {
     "name": "Marc Najork",
     "url": "http://scholar.google.com/citations?user=7HeAnjwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=7HeAnjwAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=7HeAnjwAAAAJ&citpid=4",
     "affiliation": "Research Engineering Director, Google Inc.",
     "keywords": [
       "Web Search",
@@ -6642,16 +6642,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8322",
-        "2943"
+        "8403",
+        "2933"
       ],
       "hindex": [
-        "43",
-        "27"
+        "44",
+        "28"
       ],
       "i10index": [
-        "76",
-        "53"
+        "75",
+        "52"
       ]
     },
     "year": "1996"
@@ -6659,7 +6659,7 @@ var data = [
   {
     "name": "Franco Maria Nardini",
     "url": "https://scholar.google.com/citations?user=ASTiB-QAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=ASTiB-QAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ASTiB-QAAAAJ&citpid=2",
     "affiliation": "Researcher @ ISTI-CNR, Pisa, Italy",
     "keywords": [
       "[Web] Information Retrieval",
@@ -6669,16 +6669,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "743",
-        "606"
+        "791",
+        "648"
       ],
       "hindex": [
-        "15",
+        "16",
         "13"
       ],
       "i10index": [
-        "21",
-        "18"
+        "22",
+        "19"
       ]
     },
     "year": "2009"
@@ -6686,7 +6686,7 @@ var data = [
   {
     "name": "Hidetsugu Nanba",
     "url": "https://scholar.google.com/citations?user=0jvXzVwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=0jvXzVwAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=0jvXzVwAAAAJ&citpid=5",
     "affiliation": "Professor of Faculty of Science and Engineering, Chuo University",
     "keywords": [
       "Natural Language Processing",
@@ -6695,8 +6695,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1772",
-        "548"
+        "1817",
+        "585"
       ],
       "hindex": [
         "20",
@@ -6704,7 +6704,7 @@ var data = [
       ],
       "i10index": [
         "39",
-        "10"
+        "12"
       ]
     },
     "year": "1999"
@@ -6712,7 +6712,7 @@ var data = [
   {
     "name": "Wolfgang Nejdl",
     "url": "http://scholar.google.com/citations?&user=LC62bdYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=LC62bdYAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=LC62bdYAAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science, Leibniz Universität Hannover, L3S Research Center, Hannover, Germany",
     "keywords": [
       "Information Retrieval",
@@ -6723,16 +6723,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21250",
-        "6658"
+        "21750",
+        "6954"
       ],
       "hindex": [
         "71",
         "40"
       ],
       "i10index": [
-        "311",
-        "138"
+        "314",
+        "145"
       ]
     },
     "year": "1994"
@@ -6740,7 +6740,7 @@ var data = [
   {
     "name": "Jian-Yun Nie",
     "url": "http://scholar.google.com/citations?user=W7uYg0UAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=W7uYg0UAAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=W7uYg0UAAAAJ&citpid=1",
     "affiliation": "university of montreal",
     "keywords": [
       "information retrieval",
@@ -6748,16 +6748,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9281",
-        "3679"
+        "9506",
+        "3869"
       ],
       "hindex": [
         "44",
-        "27"
+        "28"
       ],
       "i10index": [
-        "124",
-        "79"
+        "125",
+        "80"
       ]
     },
     "year": "1995"
@@ -6765,7 +6765,7 @@ var data = [
   {
     "name": "Liqiang Nie",
     "url": "https://scholar.google.com/citations?user=yywVMhUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=yywVMhUAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=yywVMhUAAAAJ&citpid=5",
     "affiliation": "Shandong University",
     "keywords": [
       "Multimedia Computing",
@@ -6773,16 +6773,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5496",
-        "5431"
+        "5991",
+        "5923"
       ],
       "hindex": [
-        "37",
-        "37"
+        "38",
+        "38"
       ],
       "i10index": [
-        "91",
-        "90"
+        "94",
+        "93"
       ]
     },
     "year": "2012"
@@ -6790,7 +6790,7 @@ var data = [
   {
     "name": "Xi Niu",
     "url": "https://scholar.google.com/citations?user=8s12jxMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=8s12jxMAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=8s12jxMAAAAJ&citpid=3",
     "affiliation": "Assistant Professor, University of North Carolina at Charlotte",
     "keywords": [
       "faceted search",
@@ -6801,11 +6801,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "629",
-        "494"
+        "670",
+        "527"
       ],
       "hindex": [
-        "11",
+        "12",
         "11"
       ],
       "i10index": [
@@ -6818,26 +6818,26 @@ var data = [
   {
     "name": "Giorgio Maria Di Nunzio",
     "url": "http://scholar.google.cl/citations?user=Awl_HDoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Awl_HDoAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Awl_HDoAAAAJ&citpid=2",
     "affiliation": "Università degli studi di Padova",
     "keywords": [
-      "Interactive Machine Learning",
-      "Visual Data Mining",
+      "Bayesian Machine Learning",
       "Information Retrieval",
-      "Digital Geolinguistic",
-      "Linked Open Data"
+      "Digital Humanities",
+      "Open Science",
+      "Computational Linguistics"
     ],
     "stats": {
       "citations": [
-        "2711",
-        "1917"
+        "2817",
+        "2018"
       ],
       "hindex": [
         "20",
         "12"
       ],
       "i10index": [
-        "40",
+        "41",
         "15"
       ]
     },
@@ -6853,16 +6853,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8195",
-        "2594"
+        "8352",
+        "2683"
       ],
       "hindex": [
         "48",
-        "24"
+        "25"
       ],
       "i10index": [
-        "157",
-        "75"
+        "158",
+        "80"
       ]
     },
     "year": "1997"
@@ -6878,8 +6878,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "464",
-        "440"
+        "482",
+        "458"
       ],
       "hindex": [
         "10",
@@ -6887,7 +6887,7 @@ var data = [
       ],
       "i10index": [
         "11",
-        "10"
+        "11"
       ]
     },
     "year": "2012"
@@ -6895,15 +6895,15 @@ var data = [
   {
     "name": "Paul Ogilvie",
     "url": "http://scholar.google.com/citations?user=ZkuIsUAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=ZkuIsUAAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZkuIsUAAAAAJ&citpid=3",
     "affiliation": "Staff Software Engineer, LinkedIn",
     "keywords": [
       "Information Retrieval"
     ],
     "stats": {
       "citations": [
-        "1991",
-        "449"
+        "2027",
+        "472"
       ],
       "hindex": [
         "18",
@@ -6928,16 +6928,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1364",
-        "592"
+        "1406",
+        "625"
       ],
       "hindex": [
         "19",
         "11"
       ],
       "i10index": [
-        "40",
-        "14"
+        "41",
+        "18"
       ]
     },
     "year": "2000"
@@ -6945,7 +6945,7 @@ var data = [
   {
     "name": "Salvatore Orlando",
     "url": "https://scholar.google.com/citations?user=njCMBiwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=njCMBiwAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=njCMBiwAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Università Ca' Foscari Venezia, Italy",
     "keywords": [
       "Data Mining",
@@ -6954,16 +6954,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4129",
-        "1639"
+        "4222",
+        "1719"
       ],
       "hindex": [
         "34",
         "22"
       ],
       "i10index": [
-        "88",
-        "46"
+        "89",
+        "48"
       ]
     },
     "year": "1994"
@@ -6971,7 +6971,7 @@ var data = [
   {
     "name": "Iadh Ounis",
     "url": "http://scholar.google.com/citations?user=rKQMXOEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=rKQMXOEAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=rKQMXOEAAAAJ&citpid=2",
     "affiliation": "Professor at the University of Glasgow, School of Computing Science",
     "keywords": [
       "Information Retrieval",
@@ -6980,16 +6980,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9716",
-        "5068"
+        "9939",
+        "5258"
       ],
       "hindex": [
-        "50",
+        "51",
         "36"
       ],
       "i10index": [
         "186",
-        "123"
+        "125"
       ]
     },
     "year": "1998"
@@ -6997,7 +6997,7 @@ var data = [
   {
     "name": "Georgios Paliouras",
     "url": "https://scholar.google.com/citations?user=-pec7wIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=-pec7wIAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=-pec7wIAAAAJ&citpid=3",
     "affiliation": "National Center for Scientific Research \"Demokritos\", Athens, Greece",
     "keywords": [
       "Artificial Intelligence",
@@ -7008,16 +7008,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6820",
-        "3007"
+        "7022",
+        "3163"
       ],
       "hindex": [
-        "38",
-        "27"
+        "39",
+        "29"
       ],
       "i10index": [
         "102",
-        "66"
+        "67"
       ]
     },
     "year": "2000"
@@ -7025,7 +7025,7 @@ var data = [
   {
     "name": "Javier Parapar",
     "url": "http://scholar.google.com/citations?user=NsUR93MAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=NsUR93MAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NsUR93MAAAAJ&citpid=4",
     "affiliation": "Information Retrieval Lab - CITIC - University of A Coruña",
     "keywords": [
       "Information Retrieval",
@@ -7035,16 +7035,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "665",
-        "547"
+        "694",
+        "576"
       ],
       "hindex": [
-        "14",
+        "15",
         "13"
       ],
       "i10index": [
         "26",
-        "19"
+        "20"
       ]
     },
     "year": "2009"
@@ -7062,16 +7062,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5616",
-        "2125"
+        "5719",
+        "2214"
       ],
       "hindex": [
         "34",
-        "21"
+        "22"
       ],
       "i10index": [
-        "111",
-        "58"
+        "112",
+        "59"
       ]
     },
     "year": "1994"
@@ -7088,8 +7088,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1023",
-        "661"
+        "1062",
+        "695"
       ],
       "hindex": [
         "17",
@@ -7105,7 +7105,7 @@ var data = [
   {
     "name": "Raffaele Perego",
     "url": "https://scholar.google.com/citations?user=T371ouoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=T371ouoAAAAJ&citpid=6",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=T371ouoAAAAJ&citpid=6",
     "affiliation": "ISTI-CNR",
     "keywords": [
       "Information retrieval",
@@ -7114,16 +7114,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4181",
-        "1970"
+        "4296",
+        "2067"
       ],
       "hindex": [
-        "35",
-        "24"
+        "36",
+        "25"
       ],
       "i10index": [
-        "80",
-        "51"
+        "81",
+        "53"
       ]
     },
     "year": "1993"
@@ -7139,8 +7139,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1016",
-        "409"
+        "1037",
+        "429"
       ],
       "hindex": [
         "17",
@@ -7167,8 +7167,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1970",
-        "1536"
+        "2022",
+        "1584"
       ],
       "hindex": [
         "13",
@@ -7179,23 +7179,23 @@ var data = [
         "13"
       ]
     },
-    "year": "2007"
+    "year": "2008"
   },
   {
     "name": "Karen Pinel-Sauvagnat",
     "url": "https://scholar.google.com/citations?user=bnMe-UgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=bnMe-UgAAAAJ&citpid=6",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=bnMe-UgAAAAJ&citpid=6",
     "affiliation": "Associate professor of Computer Science, University of Toulouse, IRIT lab.",
     "keywords": [
       "Information retrieval"
     ],
     "stats": {
       "citations": [
-        "763",
-        "336"
+        "777",
+        "339"
       ],
       "hindex": [
-        "13",
+        "14",
         "9"
       ],
       "i10index": [
@@ -7208,7 +7208,7 @@ var data = [
   {
     "name": "David Eduardo Pinto Avendaño",
     "url": "https://scholar.google.com/citations?user=v3eCFg0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=v3eCFg0AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=v3eCFg0AAAAJ&citpid=2",
     "affiliation": "Benemérita universidad autónoma de Puebla, Faculty of Computer Science",
     "keywords": [
       "Computational Linguistics",
@@ -7219,11 +7219,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1657",
-        "980"
+        "1719",
+        "1032"
       ],
       "hindex": [
-        "19",
+        "20",
         "16"
       ],
       "i10index": [
@@ -7236,7 +7236,7 @@ var data = [
   {
     "name": "Benjamin Piwowarski",
     "url": "http://scholar.google.com/citations?user=RP4lPE8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=RP4lPE8AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=RP4lPE8AAAAJ&citpid=2",
     "affiliation": "1st grade researcher at CNRS/LIP6, University Pierre et Marie Curie",
     "keywords": [
       "Information Retrieval",
@@ -7245,8 +7245,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1741",
-        "733"
+        "1792",
+        "767"
       ],
       "hindex": [
         "20",
@@ -7269,12 +7269,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3226",
-        "1327"
+        "3246",
+        "1305"
       ],
       "hindex": [
         "29",
-        "20"
+        "19"
       ],
       "i10index": [
         "50",
@@ -7286,7 +7286,7 @@ var data = [
   {
     "name": "Barbara Poblete",
     "url": "http://scholar.google.com/citations?user=eZBFWGEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=eZBFWGEAAAAJ&citpid=9",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=eZBFWGEAAAAJ&citpid=9",
     "affiliation": "Associate Professor Department of Computer Science, University of Chile",
     "keywords": [
       "Social Networks",
@@ -7297,8 +7297,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3691",
-        "2857"
+        "3843",
+        "2996"
       ],
       "hindex": [
         "18",
@@ -7314,7 +7314,7 @@ var data = [
   {
     "name": "Martin Potthast",
     "url": "http://scholar.google.com/citations?user=a0W8R-cAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=a0W8R-cAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=a0W8R-cAAAAJ&citpid=3",
     "affiliation": "Leipzig University",
     "keywords": [
       "Information Retrieval",
@@ -7324,16 +7324,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4767",
-        "3697"
+        "4999",
+        "3914"
       ],
       "hindex": [
-        "34",
-        "32"
+        "35",
+        "33"
       ],
       "i10index": [
-        "70",
-        "61"
+        "73",
+        "63"
       ]
     },
     "year": "2008"
@@ -7341,7 +7341,7 @@ var data = [
   {
     "name": "Tao Qin",
     "url": "http://scholar.google.com/citations?user=Bl4SRU0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Bl4SRU0AAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Bl4SRU0AAAAJ&citpid=1",
     "affiliation": "Senior Principal Research Manager, Microsoft Research Asia",
     "keywords": [
       "deep learning",
@@ -7352,16 +7352,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6070",
-        "3949"
+        "8531",
+        "5628"
       ],
       "hindex": [
-        "32",
-        "27"
+        "34",
+        "29"
       ],
       "i10index": [
-        "69",
-        "59"
+        "79",
+        "67"
       ]
     },
     "year": "2006"
@@ -7369,7 +7369,7 @@ var data = [
   {
     "name": "Fausto Rabitti",
     "url": "https://scholar.google.com/citations?user=kikRsIYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=kikRsIYAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=kikRsIYAAAAJ&citpid=3",
     "affiliation": "Isti-CNR, Pisa, Italy",
     "keywords": [
       "data management",
@@ -7377,12 +7377,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2765",
-        "544"
+        "2812",
+        "581"
       ],
       "hindex": [
         "27",
-        "12"
+        "13"
       ],
       "i10index": [
         "51",
@@ -7394,7 +7394,7 @@ var data = [
   {
     "name": "Dragomir Radev",
     "url": "http://scholar.google.com/citations?user=vIqWvgwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=vIqWvgwAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=vIqWvgwAAAAJ&citpid=4",
     "affiliation": "Professor, Computer Science, Yale University",
     "keywords": [
       "Natural Language Processing",
@@ -7405,16 +7405,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17592",
-        "8464"
+        "18106",
+        "8837"
       ],
       "hindex": [
-        "58",
-        "40"
+        "60",
+        "42"
       ],
       "i10index": [
-        "142",
-        "95"
+        "144",
+        "97"
       ]
     },
     "year": "1998"
@@ -7433,24 +7433,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1740",
-        "1510"
+        "1791",
+        "1479"
       ],
       "hindex": [
         "17",
         "16"
       ],
       "i10index": [
-        "21",
-        "20"
+        "22",
+        "21"
       ]
     },
-    "year": "2011"
+    "year": "2003"
   },
   {
     "name": "Filip Radlinski",
     "url": "http://scholar.google.com/citations?user=dUPre_sAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=dUPre_sAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=dUPre_sAAAAJ&citpid=2",
     "affiliation": "Google",
     "keywords": [
       "Information Retrieval",
@@ -7458,8 +7458,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5395",
-        "2947"
+        "5500",
+        "3019"
       ],
       "hindex": [
         "30",
@@ -7467,7 +7467,7 @@ var data = [
       ],
       "i10index": [
         "41",
-        "38"
+        "37"
       ]
     },
     "year": "2006"
@@ -7475,15 +7475,15 @@ var data = [
   {
     "name": "Georgina Ramirez Camps",
     "url": "https://scholar.google.com/citations?user=aeCjQlwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=aeCjQlwAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=aeCjQlwAAAAJ&citpid=2",
     "affiliation": "Universitat Pompeu Fabra",
     "keywords": [
       "Information retrieval"
     ],
     "stats": {
       "citations": [
-        "529",
-        "181"
+        "531",
+        "171"
       ],
       "hindex": [
         "13",
@@ -7494,13 +7494,13 @@ var data = [
         "6"
       ]
     },
-    "year": "2004"
+    "year": "2003"
   },
   {
     "name": "Francisco Rangel",
     "url": "https://scholar.google.com/citations?user=8GpHVJIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=8GpHVJIAAAAJ&citpid=3",
-    "affiliation": "CTO Autoritas Consulting",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=8GpHVJIAAAAJ&citpid=3",
+    "affiliation": "SPO at Symanto Research",
     "keywords": [
       "Author Profiling",
       "Information Retrieval",
@@ -7510,16 +7510,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1732",
-        "1709"
+        "1918",
+        "1891"
       ],
       "hindex": [
         "20",
         "20"
       ],
       "i10index": [
-        "26",
-        "26"
+        "28",
+        "28"
       ]
     },
     "year": "2013"
@@ -7527,18 +7527,18 @@ var data = [
   {
     "name": "Berthier Ribeiro-Neto",
     "url": "http://scholar.google.com/citations?user=JMkfK0sAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=JMkfK0sAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=JMkfK0sAAAAJ&citpid=2",
     "affiliation": "CS Dept, UFMG & Google Inc",
     "keywords": [
       "Information retrieval"
     ],
     "stats": {
       "citations": [
-        "23292",
-        "5637"
+        "23744",
+        "5909"
       ],
       "hindex": [
-        "35",
+        "36",
         "19"
       ],
       "i10index": [
@@ -7546,12 +7546,12 @@ var data = [
         "29"
       ]
     },
-    "year": "2000"
+    "year": "1999"
   },
   {
     "name": "Maarten de Rijke",
     "url": "http://scholar.google.com/citations?user=AVDkgFIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=AVDkgFIAAAAJ&citpid=11",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=AVDkgFIAAAAJ&citpid=11",
     "affiliation": "University of Amsterdam",
     "keywords": [
       "Information retrieval",
@@ -7559,48 +7559,48 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "23744",
-        "10642"
+        "24359",
+        "11150"
       ],
       "hindex": [
-        "71",
-        "46"
+        "72",
+        "47"
       ],
       "i10index": [
-        "367",
-        "216"
+        "373",
+        "224"
       ]
     },
-    "year": "1995"
+    "year": "1996"
   },
   {
     "name": "Cornelis van Rijsbergen",
     "url": "http://scholar.google.com/citations?user=NnFpD_sAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=NnFpD_sAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NnFpD_sAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Glasgow University",
     "keywords": [
       "information retrieval"
     ],
     "stats": {
       "citations": [
-        "11112",
-        "2254"
+        "11498",
+        "2482"
       ],
       "hindex": [
         "44",
-        "17"
+        "18"
       ],
       "i10index": [
-        "97",
-        "29"
+        "100",
+        "31"
       ]
     },
-    "year": "1980"
+    "year": "1981"
   },
   {
     "name": "M. Andrea Rodriguez",
     "url": "http://scholar.google.com/citations?user=wSkYQKsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=wSkYQKsAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wSkYQKsAAAAJ&citpid=3",
     "affiliation": "Computer Science, Universidad de Concepción",
     "keywords": [
       "Spatial databases",
@@ -7610,24 +7610,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5387",
-        "2295"
+        "7539",
+        "3229"
       ],
       "hindex": [
-        "23",
-        "19"
+        "33",
+        "23"
       ],
       "i10index": [
-        "120",
-        "59"
+        "166",
+        "87"
       ]
     },
-    "year": "1998"
+    "year": "1992"
   },
   {
     "name": "Haggai Roitman",
     "url": "https://scholar.google.com/citations?user=a6h-qIkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=a6h-qIkAAAAJ&citpid=14",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=a6h-qIkAAAAJ&citpid=14",
     "affiliation": "STSM, IBM Research AI - Language & Retrieval",
     "keywords": [
       "Information Retrieval",
@@ -7637,16 +7637,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1353",
-        "902"
+        "1354",
+        "870"
       ],
       "hindex": [
-        "20",
-        "18"
+        "21",
+        "17"
       ],
       "i10index": [
-        "38",
-        "30"
+        "39",
+        "31"
       ]
     },
     "year": "2006"
@@ -7654,7 +7654,7 @@ var data = [
   {
     "name": "Paolo Rosso",
     "url": "http://scholar.google.com/citations?user=HFKXPH8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=HFKXPH8AAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=HFKXPH8AAAAJ&citpid=5",
     "affiliation": "Full Professor, Computer Science, Universitat Politècnica de València",
     "keywords": [
       "Natural Language Processing",
@@ -7665,16 +7665,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10298",
-        "7360"
+        "10820",
+        "7825"
       ],
       "hindex": [
-        "51",
-        "42"
+        "53",
+        "44"
       ],
       "i10index": [
-        "209",
-        "153"
+        "217",
+        "160"
       ]
     },
     "year": "2005"
@@ -7691,16 +7691,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4515",
-        "1587"
+        "4625",
+        "1640"
       ],
       "hindex": [
         "33",
-        "21"
+        "22"
       ],
       "i10index": [
-        "80",
-        "40"
+        "82",
+        "42"
       ]
     },
     "year": "1998"
@@ -7708,23 +7708,23 @@ var data = [
   {
     "name": "Gerard Salton",
     "url": "http://scholar.google.com/citations?user=PmJ2544AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=PmJ2544AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=PmJ2544AAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science, Cornell University",
     "keywords": [
       "Information Retrieval"
     ],
     "stats": {
       "citations": [
-        "68038",
-        "15247"
+        "69130",
+        "15970"
       ],
       "hindex": [
         "65",
-        "28"
+        "29"
       ],
       "i10index": [
         "141",
-        "54"
+        "56"
       ]
     },
     "year": "1985"
@@ -7732,7 +7732,7 @@ var data = [
   {
     "name": "Mark Sanderson",
     "url": "http://scholar.google.com/citations?user=HmqvvQkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=HmqvvQkAAAAJ&citpid=7",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=HmqvvQkAAAAJ&citpid=7",
     "affiliation": "RMIT University",
     "keywords": [
       "Information Retrieval",
@@ -7740,16 +7740,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9534",
-        "3471"
+        "9744",
+        "3616"
       ],
       "hindex": [
         "48",
-        "28"
+        "29"
       ],
       "i10index": [
-        "134",
-        "85"
+        "136",
+        "89"
       ]
     },
     "year": "1997"
@@ -7757,7 +7757,7 @@ var data = [
   {
     "name": "Massimo Santini",
     "url": "http://scholar.google.com/citations?user=twgYqxAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=twgYqxAAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=twgYqxAAAAAJ&citpid=2",
     "affiliation": "Assistant Professor of Computer Science, University of Milano, Italy",
     "keywords": [
       "Algorithms",
@@ -7766,8 +7766,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2529",
-        "1271"
+        "2601",
+        "1334"
       ],
       "hindex": [
         "21",
@@ -7783,7 +7783,7 @@ var data = [
   {
     "name": "Rodrygo L. T. Santos",
     "url": "http://scholar.google.com/citations?user=NAyozE0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=NAyozE0AAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NAyozE0AAAAJ&citpid=5",
     "affiliation": "Universidade Federal de Minas Gerais",
     "keywords": [
       "Information Retrieval",
@@ -7792,16 +7792,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2109",
-        "1454"
+        "2160",
+        "1500"
       ],
       "hindex": [
         "22",
         "18"
       ],
       "i10index": [
-        "38",
-        "29"
+        "39",
+        "30"
       ]
     },
     "year": "2007"
@@ -7809,7 +7809,7 @@ var data = [
   {
     "name": "Tefko Saracevic",
     "url": "https://scholar.google.com/citations?user=ERzz6cUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=medium_photo&user=ERzz6cUAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=medium_photo&user=ERzz6cUAAAAJ&citpid=2",
     "affiliation": "Distinguished Professor Emeritus, School of Communication and Information; Rutgers University",
     "keywords": [
       "Information science",
@@ -7818,16 +7818,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13894",
-        "3060"
+        "14140",
+        "3208"
       ],
       "hindex": [
         "44",
-        "23"
+        "24"
       ],
       "i10index": [
         "48",
-        "32"
+        "33"
       ]
     },
     "year": "1988"
@@ -7835,7 +7835,7 @@ var data = [
   {
     "name": "Philipp Schaer",
     "url": "https://scholar.google.com/citations?user=XTjmqCwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=XTjmqCwAAAAJ&citpid=8",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XTjmqCwAAAAJ&citpid=8",
     "affiliation": "Institute for Information Science, Technische Hochschule Köln",
     "keywords": [
       "Information Retrieval",
@@ -7844,16 +7844,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "351",
-        "244"
+        "357",
+        "249"
       ],
       "hindex": [
-        "9",
+        "10",
         "8"
       ],
       "i10index": [
-        "9",
-        "6"
+        "10",
+        "8"
       ]
     },
     "year": "2006"
@@ -7861,7 +7861,7 @@ var data = [
   {
     "name": "Anne Schuth",
     "url": "https://scholar.google.com/citations?user=Y3ahb_wAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Y3ahb_wAAAAJ&citpid=7",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Y3ahb_wAAAAJ&citpid=7",
     "affiliation": "Head of News Data at DPG Media, The Netherlands",
     "keywords": [
       "Recommender Systems",
@@ -7872,11 +7872,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "689",
-        "603"
+        "725",
+        "638"
       ],
       "hindex": [
-        "15",
+        "16",
         "15"
       ],
       "i10index": [
@@ -7889,7 +7889,7 @@ var data = [
   {
     "name": "Fabrizio Sebastiani",
     "url": "http://scholar.google.com/citations?user=WZBcZV4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=WZBcZV4AAAAJ&citpid=12",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=WZBcZV4AAAAJ&citpid=19",
     "affiliation": "Istituto di Scienza e Tecnologie dell'Informazione, Consiglio Nazionale delle Ricerche (ISTI-CNR)",
     "keywords": [
       "Information Retrieval",
@@ -7900,16 +7900,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "22367",
-        "10554"
+        "23036",
+        "11123"
       ],
       "hindex": [
-        "40",
-        "29"
+        "41",
+        "30"
       ],
       "i10index": [
-        "89",
-        "61"
+        "91",
+        "62"
       ]
     },
     "year": "1998"
@@ -7917,7 +7917,7 @@ var data = [
   {
     "name": "Aliaksei Severyn",
     "url": "http://scholar.google.com/citations?user=EoVDI3MAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=EoVDI3MAAAAJ&citpid=8",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=EoVDI3MAAAAJ&citpid=8",
     "affiliation": "Google",
     "keywords": [
       "Deep Learning",
@@ -7928,12 +7928,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2306",
-        "2256"
+        "2480",
+        "2430"
       ],
       "hindex": [
-        "20",
-        "18"
+        "21",
+        "19"
       ],
       "i10index": [
         "28",
@@ -7945,7 +7945,7 @@ var data = [
   {
     "name": "Markus Schedl",
     "url": "http://scholar.google.com/citations?user=TQR8qIEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=TQR8qIEAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TQR8qIEAAAAJ&citpid=5",
     "affiliation": "Full Professor at Johannes Kepler University Linz, Institute of Computational Perception",
     "keywords": [
       "Recommendation Systems",
@@ -7956,16 +7956,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4468",
-        "3143"
+        "4745",
+        "3394"
       ],
       "hindex": [
         "37",
-        "29"
+        "30"
       ],
       "i10index": [
-        "124",
-        "92"
+        "127",
+        "97"
       ]
     },
     "year": "2005"
@@ -7973,7 +7973,7 @@ var data = [
   {
     "name": "Falk Scholer",
     "url": "http://scholar.google.com/citations?user=qOLjlqsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=qOLjlqsAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=qOLjlqsAAAAJ&citpid=2",
     "affiliation": "RMIT University",
     "keywords": [
       "Information retrieval",
@@ -7982,16 +7982,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2882",
-        "1554"
+        "2984",
+        "1645"
       ],
       "hindex": [
-        "25",
+        "26",
         "21"
       ],
       "i10index": [
         "64",
-        "43"
+        "44"
       ]
     },
     "year": "2003"
@@ -7999,7 +7999,7 @@ var data = [
   {
     "name": "Chirag Shah",
     "url": "http://scholar.google.com/citations?user=H4dLAw0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=H4dLAw0AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=H4dLAw0AAAAJ&citpid=3",
     "affiliation": "Associate Professor, Information and Computer Science, University of Washington; Amazon Scholar",
     "keywords": [
       "Information Seeking",
@@ -8010,16 +8010,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4113",
-        "2845"
+        "4219",
+        "2949"
       ],
       "hindex": [
-        "31",
-        "26"
+        "32",
+        "27"
       ],
       "i10index": [
-        "80",
-        "63"
+        "82",
+        "67"
       ]
     },
     "year": "2005"
@@ -8034,16 +8034,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1131",
-        "834"
+        "1185",
+        "883"
       ],
       "hindex": [
-        "17",
+        "18",
         "15"
       ],
       "i10index": [
         "32",
-        "22"
+        "23"
       ]
     },
     "year": "2005"
@@ -8051,7 +8051,7 @@ var data = [
   {
     "name": "Jialie Shen",
     "url": "http://scholar.google.com/citations?user=d3h-zScAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=d3h-zScAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=d3h-zScAAAAJ&citpid=3",
     "affiliation": "Queen's University Belfast, United Kingdom",
     "keywords": [
       "Machine Learning",
@@ -8061,24 +8061,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3976",
-        "3209"
+        "4275",
+        "3439"
       ],
       "hindex": [
-        "36",
-        "31"
+        "37",
+        "32"
       ],
       "i10index": [
-        "80",
-        "64"
+        "83",
+        "69"
       ]
     },
-    "year": "2006"
+    "year": "2005"
   },
   {
     "name": "Hideki Shima",
     "url": "https://scholar.google.com/citations?user=NMvgsusAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=NMvgsusAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NMvgsusAAAAJ&citpid=5",
     "affiliation": "Duolingo (PhD @ LTI/CMU)",
     "keywords": [
       "Natural Language Processing",
@@ -8089,7 +8089,7 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "487",
+        "488",
         "182"
       ],
       "hindex": [
@@ -8106,13 +8106,13 @@ var data = [
   {
     "name": "Milad Shokouhi",
     "url": "http://scholar.google.com/citations?user=SbYANgwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=SbYANgwAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=SbYANgwAAAAJ&citpid=2",
     "affiliation": "Microsoft",
     "keywords": [],
     "stats": {
       "citations": [
-        "2351",
-        "1681"
+        "2404",
+        "1710"
       ],
       "hindex": [
         "27",
@@ -8128,7 +8128,7 @@ var data = [
   {
     "name": "Luo Si",
     "url": "http://scholar.google.com/citations?user=xqEfATIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=xqEfATIAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=xqEfATIAAAAJ&citpid=2",
     "affiliation": "Alibaba Group Inc, Adjunct Professor of Computer Science Purdue University",
     "keywords": [
       "Information Retrieval",
@@ -8138,16 +8138,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6278",
-        "3488"
+        "6477",
+        "3656"
       ],
       "hindex": [
         "40",
         "31"
       ],
       "i10index": [
-        "118",
-        "96"
+        "122",
+        "100"
       ]
     },
     "year": "2003"
@@ -8155,7 +8155,7 @@ var data = [
   {
     "name": "Börkur Sigurbjörnsson",
     "url": "https://scholar.google.com/citations?user=B0W8oikAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=B0W8oikAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=B0W8oikAAAAJ&citpid=4",
     "affiliation": "PLACEMAKE.IO",
     "keywords": [
       "data mining",
@@ -8164,12 +8164,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2665",
-        "648"
+        "2710",
+        "670"
       ],
       "hindex": [
         "22",
-        "8"
+        "7"
       ],
       "i10index": [
         "34",
@@ -8181,7 +8181,7 @@ var data = [
   {
     "name": "Gianmaria Silvello",
     "url": "http://scholar.google.cl/citations?user=pY24h-YAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=pY24h-YAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=pY24h-YAAAAJ&citpid=4",
     "affiliation": "Tenure-track Assistant Professor, University of Padua",
     "keywords": [
       "Information Retrieval Evaluation",
@@ -8192,16 +8192,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "720",
-        "605"
+        "747",
+        "632"
       ],
       "hindex": [
         "15",
         "14"
       ],
       "i10index": [
-        "27",
-        "20"
+        "30",
+        "23"
       ]
     },
     "year": "2008"
@@ -8209,7 +8209,7 @@ var data = [
   {
     "name": "Fabrizio Silvestri",
     "url": "http://scholar.google.com/citations?user=pi985dQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=pi985dQAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=pi985dQAAAAJ&citpid=2",
     "affiliation": "Facebook, London, UK",
     "keywords": [
       "Information Retrieval",
@@ -8219,16 +8219,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4220",
-        "1983"
+        "4308",
+        "2049"
       ],
       "hindex": [
-        "34",
+        "35",
         "25"
       ],
       "i10index": [
         "71",
-        "49"
+        "50"
       ]
     },
     "year": "2003"
@@ -8236,7 +8236,7 @@ var data = [
   {
     "name": "Laurianne Sitbon",
     "url": "http://scholar.google.com/citations?user=69CB608AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=69CB608AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=69CB608AAAAJ&citpid=3",
     "affiliation": "Queensland University of Technology",
     "keywords": [
       "Information Retrieval",
@@ -8247,16 +8247,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "992",
-        "660"
+        "1031",
+        "696"
       ],
       "hindex": [
         "17",
         "14"
       ],
       "i10index": [
-        "32",
-        "20"
+        "33",
+        "21"
       ]
     },
     "year": "2005"
@@ -8264,15 +8264,15 @@ var data = [
   {
     "name": "Marc Sloan",
     "url": "http://scholar.google.com/citations?user=17C0-A0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=17C0-A0AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=17C0-A0AAAAJ&citpid=2",
     "affiliation": "University College London",
     "keywords": [
       "Information Retrieval"
     ],
     "stats": {
       "citations": [
-        "205",
-        "195"
+        "212",
+        "202"
       ],
       "hindex": [
         "8",
@@ -8288,27 +8288,27 @@ var data = [
   {
     "name": "Alan F. Smeaton",
     "url": "http://scholar.google.com/citations?user=o7xnW2MAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=o7xnW2MAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=o7xnW2MAAAAJ&citpid=4",
     "affiliation": "Prof of Computing / Founding Director, Insight Centre for Data Analytics, Dublin City University",
     "keywords": [
+      "multimedia",
       "multimedia retrieval",
       "lifelogging",
-      "multimedia information retrieval",
       "information retrieval",
       "video processing"
     ],
     "stats": {
       "citations": [
-        "16632",
-        "6459"
+        "16990",
+        "6698"
       ],
       "hindex": [
-        "65",
+        "66",
         "39"
       ],
       "i10index": [
-        "269",
-        "115"
+        "276",
+        "119"
       ]
     },
     "year": "1994"
@@ -8326,11 +8326,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "228",
-        "105"
+        "235",
+        "112"
       ],
       "hindex": [
-        "7",
+        "8",
         "5"
       ],
       "i10index": [
@@ -8343,7 +8343,7 @@ var data = [
   {
     "name": "Mark D. Smucker",
     "url": "http://scholar.google.com/citations?user=BgiGGQQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=BgiGGQQAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BgiGGQQAAAAJ&citpid=2",
     "affiliation": "Associate Professor, University of Waterloo",
     "keywords": [
       "Information Retrieval",
@@ -8351,8 +8351,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2542",
-        "1409"
+        "2592",
+        "1449"
       ],
       "hindex": [
         "22",
@@ -8368,7 +8368,7 @@ var data = [
   {
     "name": "Altigran Soares da Silva",
     "url": "https://scholar.google.com/citations?user=Ka6w1vgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Ka6w1vgAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Ka6w1vgAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Universidade Federal do Amazonas",
     "keywords": [
       "Databases",
@@ -8377,15 +8377,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4393",
-        "1361"
+        "4492",
+        "1425"
       ],
       "hindex": [
-        "31",
-        "17"
+        "32",
+        "18"
       ],
       "i10index": [
-        "76",
+        "78",
         "39"
       ]
     },
@@ -8394,7 +8394,7 @@ var data = [
   {
     "name": "Ian Soboroff",
     "url": "http://scholar.google.com/citations?user=TcFyZgcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=TcFyZgcAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TcFyZgcAAAAJ&citpid=3",
     "affiliation": "National Institute of Standards and Technology",
     "keywords": [
       "Information retrieval",
@@ -8402,16 +8402,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5982",
-        "2173"
+        "6075",
+        "2232"
       ],
       "hindex": [
         "36",
-        "25"
+        "26"
       ],
       "i10index": [
-        "66",
-        "43"
+        "65",
+        "42"
       ]
     },
     "year": "1999"
@@ -8419,7 +8419,7 @@ var data = [
   {
     "name": "Aya Soffer",
     "url": "https://scholar.google.com/citations?user=vJmb15AAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=vJmb15AAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=vJmb15AAAAAJ&citpid=2",
     "affiliation": "VP, AI Tech, IBM Research",
     "keywords": [
       "AI",
@@ -8428,16 +8428,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4169",
-        "1275"
+        "4199",
+        "1267"
       ],
       "hindex": [
         "30",
-        "16"
+        "17"
       ],
       "i10index": [
         "50",
-        "25"
+        "24"
       ]
     },
     "year": "1996"
@@ -8455,16 +8455,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3436",
-        "1560"
+        "3523",
+        "1602"
       ],
       "hindex": [
         "28",
         "21"
       ],
       "i10index": [
-        "56",
-        "41"
+        "58",
+        "43"
       ]
     },
     "year": "2003"
@@ -8472,7 +8472,7 @@ var data = [
   {
     "name": "Yang Song",
     "url": "https://scholar.google.com/citations?user=tvWB_yUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=tvWB_yUAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=tvWB_yUAAAAJ&citpid=2",
     "affiliation": "Google Research - Machine Intelligence",
     "keywords": [
       "Information Retrieval",
@@ -8483,16 +8483,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5078",
-        "3947"
+        "5366",
+        "4191"
       ],
       "hindex": [
-        "31",
-        "29"
+        "33",
+        "30"
       ],
       "i10index": [
-        "115",
-        "101"
+        "119",
+        "107"
       ]
     },
     "year": "2005"
@@ -8500,7 +8500,7 @@ var data = [
   {
     "name": "Karen Spärck Jones",
     "url": "http://scholar.google.com/citations?user=HzDsaGYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=HzDsaGYAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=HzDsaGYAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Cambridge University",
     "keywords": [
       "information retrieval",
@@ -8508,16 +8508,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19354",
-        "4534"
+        "19683",
+        "4759"
       ],
       "hindex": [
         "53",
-        "21"
+        "22"
       ],
       "i10index": [
         "122",
-        "37"
+        "38"
       ]
     },
     "year": "1980"
@@ -8530,8 +8530,8 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "2291",
-        "1342"
+        "2338",
+        "1385"
       ],
       "hindex": [
         "22",
@@ -8547,7 +8547,7 @@ var data = [
   {
     "name": "Efstathios Stamatatos",
     "url": "https://scholar.google.com/citations?user=xie8sAEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=xie8sAEAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=xie8sAEAAAAJ&citpid=2",
     "affiliation": "University of the Aegean",
     "keywords": [
       "Text mining",
@@ -8556,16 +8556,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6441",
-        "4398"
+        "6686",
+        "4597"
       ],
       "hindex": [
-        "38",
-        "31"
+        "39",
+        "32"
       ],
       "i10index": [
-        "68",
-        "60"
+        "70",
+        "61"
       ]
     },
     "year": "2002"
@@ -8583,19 +8583,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7639",
-        "2590"
+        "7796",
+        "2719"
       ],
       "hindex": [
         "44",
-        "25"
+        "27"
       ],
       "i10index": [
-        "77",
+        "78",
         "49"
       ]
     },
-    "year": "1994"
+    "year": "1995"
   },
   {
     "name": "Kazunari Sugiyama",
@@ -8609,24 +8609,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1983",
-        "1153"
+        "2074",
+        "1236"
       ],
       "hindex": [
         "15",
         "14"
       ],
       "i10index": [
-        "19",
-        "15"
+        "21",
+        "16"
       ]
     },
-    "year": "2003"
+    "year": "2004"
   },
   {
     "name": "Aixin Sun",
     "url": "http://scholar.google.com/citations?user=wyKGVKUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=wyKGVKUAAAAJ&citpid=15",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wyKGVKUAAAAJ&citpid=15",
     "affiliation": "NTU Singapore",
     "keywords": [
       "Information Retrieval",
@@ -8635,16 +8635,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7652",
-        "5516"
+        "8062",
+        "5907"
       ],
       "hindex": [
-        "43",
-        "36"
+        "45",
+        "38"
       ],
       "i10index": [
-        "107",
-        "86"
+        "110",
+        "87"
       ]
     },
     "year": "2004"
@@ -8652,7 +8652,7 @@ var data = [
   {
     "name": "Le Sun",
     "url": "https://scholar.google.com/citations?user=6bFNhtwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=6bFNhtwAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=6bFNhtwAAAAJ&citpid=2",
     "affiliation": "Institute of Software, CAS",
     "keywords": [
       "information_retrieval",
@@ -8660,16 +8660,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1681",
-        "969"
+        "1739",
+        "1020"
       ],
       "hindex": [
         "17",
-        "12"
+        "13"
       ],
       "i10index": [
-        "29",
-        "15"
+        "30",
+        "17"
       ]
     },
     "year": "2004"
@@ -8677,7 +8677,7 @@ var data = [
   {
     "name": "Richard Sutcliffe",
     "url": "https://scholar.google.com/citations?user=LqjaP10AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=LqjaP10AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=LqjaP10AAAAJ&citpid=2",
     "affiliation": "University of Essex",
     "keywords": [
       "Natural Language Processing",
@@ -8687,8 +8687,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1153",
-        "307"
+        "1173",
+        "318"
       ],
       "hindex": [
         "17",
@@ -8704,7 +8704,7 @@ var data = [
   {
     "name": "Krysta M. Svore",
     "url": "http://scholar.google.com/citations?user=FlY-U3kAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=FlY-U3kAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=FlY-U3kAAAAJ&citpid=2",
     "affiliation": "Principal Research Manager, Microsoft Research",
     "keywords": [
       "Quantum Computation",
@@ -8712,16 +8712,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4558",
-        "3279"
+        "4720",
+        "3411"
       ],
       "hindex": [
-        "40",
-        "34"
+        "41",
+        "35"
       ],
       "i10index": [
         "66",
-        "63"
+        "61"
       ]
     },
     "year": "2003"
@@ -8729,18 +8729,19 @@ var data = [
   {
     "name": "Masao Takaku",
     "url": "http://scholar.google.com/citations?user=B0AYLiUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=B0AYLiUAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=B0AYLiUAAAAJ&citpid=3",
     "affiliation": "University of Tsukuba",
     "keywords": [
       "Digital Library",
       "Information Retrieval",
+      "Linked Open Data",
       "Information Behavior",
       "Information Science"
     ],
     "stats": {
       "citations": [
-        "235",
-        "95"
+        "244",
+        "97"
       ],
       "hindex": [
         "7",
@@ -8756,23 +8757,23 @@ var data = [
   {
     "name": "Lynda Tamine",
     "url": "https://scholar.google.com/citations?user=l_fsKWoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=l_fsKWoAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=l_fsKWoAAAAJ&citpid=2",
     "affiliation": "Professor in computer science, University of Toulouse, IRIT lab. , France",
     "keywords": [
       "Information retrieval"
     ],
     "stats": {
       "citations": [
-        "1819",
-        "996"
+        "1881",
+        "1040"
       ],
       "hindex": [
         "24",
         "16"
       ],
       "i10index": [
-        "49",
-        "28"
+        "51",
+        "31"
       ]
     },
     "year": "2000"
@@ -8780,7 +8781,7 @@ var data = [
   {
     "name": "Jie Tang",
     "url": "http://scholar.google.com/citations?user=n1zDCkQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=n1zDCkQAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=n1zDCkQAAAAJ&citpid=2",
     "affiliation": "Professor, Tsinghua University",
     "keywords": [
       "Social networks",
@@ -8791,16 +8792,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13641",
-        "10106"
+        "14229",
+        "10659"
       ],
       "hindex": [
-        "59",
-        "51"
+        "60",
+        "52"
       ],
       "i10index": [
-        "180",
-        "160"
+        "189",
+        "169"
       ]
     },
     "year": "2007"
@@ -8808,7 +8809,7 @@ var data = [
   {
     "name": "Jaime Teevan",
     "url": "http://scholar.google.com/citations?user=F5Ik84MAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=F5Ik84MAAAAJ&citpid=11",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=F5Ik84MAAAAJ&citpid=11",
     "affiliation": "Chief Scientist, Microsoft",
     "keywords": [
       "Information Retrieval",
@@ -8819,16 +8820,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13103",
-        "7424"
+        "13398",
+        "7533"
       ],
       "hindex": [
-        "54",
-        "46"
+        "55",
+        "47"
       ],
       "i10index": [
-        "113",
-        "98"
+        "116",
+        "99"
       ]
     },
     "year": "2004"
@@ -8836,23 +8837,23 @@ var data = [
   {
     "name": "Paul Thomas",
     "url": "http://scholar.google.com/citations?user=B7c-WcAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=B7c-WcAAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=B7c-WcAAAAAJ&citpid=4",
     "affiliation": "Microsoft",
     "keywords": [
       "Information retrieval"
     ],
     "stats": {
       "citations": [
-        "1360",
-        "913"
+        "1657",
+        "1107"
       ],
       "hindex": [
-        "18",
-        "15"
+        "20",
+        "18"
       ],
       "i10index": [
-        "36",
-        "25"
+        "38",
+        "27"
       ]
     },
     "year": "2006"
@@ -8860,7 +8861,7 @@ var data = [
   {
     "name": "Gabriele Tolomei",
     "url": "https://scholar.google.com/citations?user=Y2R2DXEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Y2R2DXEAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Y2R2DXEAAAAJ&citpid=2",
     "affiliation": "Associate Professor of Computer Science at Sapienza University of Rome",
     "keywords": [
       "Machine Learning",
@@ -8871,8 +8872,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "577",
-        "411"
+        "603",
+        "435"
       ],
       "hindex": [
         "12",
@@ -8888,7 +8889,7 @@ var data = [
   {
     "name": "Anthony Tomasic",
     "url": "http://scholar.google.com/citations?user=ybfAUpsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=ybfAUpsAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ybfAUpsAAAAJ&citpid=2",
     "affiliation": "Consultant, Carnegie Mellon University",
     "keywords": [
       "databases",
@@ -8898,16 +8899,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4848",
-        "1271"
+        "4925",
+        "1297"
       ],
       "hindex": [
         "33",
-        "19"
+        "18"
       ],
       "i10index": [
         "63",
-        "30"
+        "32"
       ]
     },
     "year": "1994"
@@ -8920,16 +8921,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "32716",
-        "10771"
+        "33170",
+        "10948"
       ],
       "hindex": [
         "65",
-        "43"
+        "40"
       ],
       "i10index": [
-        "153",
-        "102"
+        "154",
+        "103"
       ]
     },
     "year": "1998"
@@ -8944,12 +8945,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2055",
-        "527"
+        "2094",
+        "553"
       ],
       "hindex": [
         "23",
-        "10"
+        "11"
       ],
       "i10index": [
         "41",
@@ -8961,7 +8962,7 @@ var data = [
   {
     "name": "Nicola Tonellotto",
     "url": "http://scholar.google.com/citations?user=mTVRtZQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=mTVRtZQAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=mTVRtZQAAAAJ&citpid=2",
     "affiliation": "Researcher, ISTI-CNR",
     "keywords": [
       "Information Retrieval",
@@ -8970,16 +8971,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "976",
-        "555"
+        "996",
+        "575"
       ],
       "hindex": [
         "18",
         "14"
       ],
       "i10index": [
-        "31",
-        "18"
+        "32",
+        "19"
       ]
     },
     "year": "2005"
@@ -8987,7 +8988,7 @@ var data = [
   {
     "name": "Manos Tsagkias",
     "url": "http://scholar.google.com/citations?user=rKOWoqcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=rKOWoqcAAAAJ&citpid=8",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=rKOWoqcAAAAJ&citpid=8",
     "affiliation": "904Labs",
     "keywords": [
       "Information Retrieval",
@@ -8997,8 +8998,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1512",
-        "1012"
+        "1537",
+        "1036"
       ],
       "hindex": [
         "19",
@@ -9014,7 +9015,7 @@ var data = [
   {
     "name": "Ming-Feng Tsai",
     "url": "https://scholar.google.com/citations?user=ZLkFlS0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=ZLkFlS0AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZLkFlS0AAAAJ&citpid=2",
     "affiliation": "Associate Professor of Computer Science, National Chengchi University",
     "keywords": [
       "Information Retrieval",
@@ -9024,16 +9025,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2282",
-        "1365"
+        "2340",
+        "1408"
       ],
       "hindex": [
         "14",
         "12"
       ],
       "i10index": [
-        "16",
-        "14"
+        "18",
+        "16"
       ]
     },
     "year": "2007"
@@ -9041,7 +9042,7 @@ var data = [
   {
     "name": "Richard Tzong-Han Tsai",
     "url": "https://scholar.google.com/citations?user=FEsCHQ0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=FEsCHQ0AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=FEsCHQ0AAAAJ&citpid=3",
     "affiliation": "National Central University, Academia Sinica",
     "keywords": [
       "Natural Language Processing",
@@ -9050,16 +9051,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2273",
-        "1241"
+        "2330",
+        "1294"
       ],
       "hindex": [
         "23",
         "18"
       ],
       "i10index": [
-        "47",
-        "28"
+        "48",
+        "29"
       ]
     },
     "year": "2006"
@@ -9067,7 +9068,7 @@ var data = [
   {
     "name": "Michael Tschuggnall",
     "url": "https://scholar.google.com/citations?user=haMQvIUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=haMQvIUAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=haMQvIUAAAAJ&citpid=2",
     "affiliation": "University of Innsbruck",
     "keywords": [
       "text mining",
@@ -9077,8 +9078,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "338",
-        "321"
+        "365",
+        "347"
       ],
       "hindex": [
         "10",
@@ -9094,7 +9095,7 @@ var data = [
   {
     "name": "Andrew Turpin",
     "url": "http://scholar.google.com/citations?user=lCZblDwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=medium_photo&user=lCZblDwAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=medium_photo&user=lCZblDwAAAAJ&citpid=4",
     "affiliation": "School of Computing and Information Systems, University of Melbourne",
     "keywords": [
       "Human vision",
@@ -9104,16 +9105,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4878",
-        "2162"
+        "5016",
+        "2282"
       ],
       "hindex": [
         "34",
-        "23"
+        "24"
       ],
       "i10index": [
-        "86",
-        "55"
+        "87",
+        "57"
       ]
     },
     "year": "1997"
@@ -9131,12 +9132,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6204",
-        "1358"
+        "6248",
+        "1312"
       ],
       "hindex": [
         "25",
-        "16"
+        "17"
       ],
       "i10index": [
         "37",
@@ -9155,8 +9156,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2926",
-        "948"
+        "2967",
+        "970"
       ],
       "hindex": [
         "30",
@@ -9183,16 +9184,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2870",
-        "1426"
+        "2940",
+        "1468"
       ],
       "hindex": [
         "23",
         "17"
       ],
       "i10index": [
-        "36",
-        "24"
+        "37",
+        "25"
       ]
     },
     "year": "2005"
@@ -9200,21 +9201,21 @@ var data = [
   {
     "name": "Sergei Vassilvitskii",
     "url": "http://scholar.google.com/citations?user=b3HMX-sAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=b3HMX-sAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=b3HMX-sAAAAJ&citpid=2",
     "affiliation": "Google",
     "keywords": [],
     "stats": {
       "citations": [
-        "9433",
-        "7280"
+        "9837",
+        "7601"
       ],
       "hindex": [
-        "34",
-        "28"
+        "35",
+        "29"
       ],
       "i10index": [
-        "72",
-        "60"
+        "73",
+        "59"
       ]
     },
     "year": "2006"
@@ -9222,7 +9223,7 @@ var data = [
   {
     "name": "Michalis Vazirgiannis",
     "url": "http://scholar.google.com/citations?user=aWGJYcMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=aWGJYcMAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=aWGJYcMAAAAJ&citpid=2",
     "affiliation": "Professor, Ecole Polytechnique, joint AUEB",
     "keywords": [
       "Data Science",
@@ -9233,16 +9234,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14058",
-        "5464"
+        "14434",
+        "5746"
       ],
       "hindex": [
-        "45",
-        "29"
+        "46",
+        "31"
       ],
       "i10index": [
-        "129",
-        "72"
+        "131",
+        "75"
       ]
     },
     "year": "1998"
@@ -9250,7 +9251,7 @@ var data = [
   {
     "name": "Olga Vechtomova",
     "url": "https://scholar.google.com/citations?user=Ln1-_JIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Ln1-_JIAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Ln1-_JIAAAAJ&citpid=4",
     "affiliation": "University of Waterloo",
     "keywords": [
       "Natural Language Processing",
@@ -9258,16 +9259,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1711",
-        "873"
+        "1742",
+        "897"
       ],
       "hindex": [
         "15",
         "11"
       ],
       "i10index": [
-        "23",
-        "13"
+        "24",
+        "14"
       ]
     },
     "year": "2004"
@@ -9275,7 +9276,7 @@ var data = [
   {
     "name": "Sebastiano Vigna",
     "url": "http://scholar.google.com/citations?user=WL8DH4YAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=WL8DH4YAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=WL8DH4YAAAAJ&citpid=3",
     "affiliation": "Dipartimento di Informatica, Università degli Studi di Milano",
     "keywords": [
       "Web",
@@ -9286,16 +9287,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7225",
-        "4165"
+        "7435",
+        "4347"
       ],
       "hindex": [
         "39",
         "30"
       ],
       "i10index": [
-        "76",
-        "56"
+        "77",
+        "58"
       ]
     },
     "year": "1997"
@@ -9303,19 +9304,19 @@ var data = [
   {
     "name": "Ellen Voorhees",
     "url": "https://scholar.google.com/citations?user=Bfs9j20AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Bfs9j20AAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Bfs9j20AAAAJ&citpid=1",
     "affiliation": "NIST",
     "keywords": [
       "information retrieval"
     ],
     "stats": {
       "citations": [
-        "20882",
-        "5469"
+        "21136",
+        "5618"
       ],
       "hindex": [
         "60",
-        "39"
+        "40"
       ],
       "i10index": [
         "113",
@@ -9327,7 +9328,7 @@ var data = [
   {
     "name": "Arjen P. de Vries",
     "url": "http://scholar.google.com/citations?user=iH9TVHQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=iH9TVHQAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=iH9TVHQAAAAJ&citpid=4",
     "affiliation": "Radboud Universiteit",
     "keywords": [
       "Information Retrieval",
@@ -9335,16 +9336,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7815",
-        "3435"
+        "7974",
+        "3546"
       ],
       "hindex": [
         "45",
         "29"
       ],
       "i10index": [
-        "145",
-        "77"
+        "149",
+        "79"
       ]
     },
     "year": "1999"
@@ -9352,7 +9353,7 @@ var data = [
   {
     "name": "Xiaojun Wan",
     "url": "http://scholar.google.com/citations?user=lTTeBdkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=lTTeBdkAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=lTTeBdkAAAAJ&citpid=5",
     "affiliation": "Peking University",
     "keywords": [
       "Natural Language Processing",
@@ -9361,16 +9362,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4640",
-        "3198"
+        "4883",
+        "3429"
       ],
       "hindex": [
-        "31",
-        "29"
+        "32",
+        "30"
       ],
       "i10index": [
-        "84",
-        "68"
+        "85",
+        "69"
       ]
     },
     "year": "2007"
@@ -9378,7 +9379,7 @@ var data = [
   {
     "name": "Hongning Wang",
     "url": "https://scholar.google.com/citations?user=qkdvKNoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=qkdvKNoAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=qkdvKNoAAAAJ&citpid=2",
     "affiliation": "Assistant Professor, Department of Computer Science, University of Virginia",
     "keywords": [
       "Information Retrieval",
@@ -9387,16 +9388,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1987",
-        "1716"
+        "2098",
+        "1824"
       ],
       "hindex": [
-        "21",
-        "20"
+        "22",
+        "21"
       ],
       "i10index": [
-        "36",
-        "33"
+        "39",
+        "36"
       ]
     },
     "year": "2008"
@@ -9404,7 +9405,7 @@ var data = [
   {
     "name": "Jun Wang",
     "url": "http://scholar.google.com/citations?user=wIE1tY4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=wIE1tY4AAAAJ&citpid=9",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wIE1tY4AAAAJ&citpid=9",
     "affiliation": "Professor, Computer Science, University College London",
     "keywords": [
       "Machine Learning",
@@ -9414,16 +9415,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6711",
-        "4773"
+        "7120",
+        "5163"
       ],
       "hindex": [
         "40",
-        "32"
+        "33"
       ],
       "i10index": [
-        "83",
-        "71"
+        "84",
+        "72"
       ]
     },
     "year": "2005"
@@ -9431,7 +9432,7 @@ var data = [
   {
     "name": "Quan Wang",
     "url": "http://scholar.google.com/citations?user=l2yEbhAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=l2yEbhAAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=l2yEbhAAAAAJ&citpid=3",
     "affiliation": "Baidu Inc.",
     "keywords": [
       "Natural Language Processing",
@@ -9439,12 +9440,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "881",
-        "840"
+        "988",
+        "947"
       ],
       "hindex": [
-        "15",
-        "15"
+        "16",
+        "16"
       ],
       "i10index": [
         "17",
@@ -9456,7 +9457,7 @@ var data = [
   {
     "name": "Ingmar Weber",
     "url": "http://scholar.google.com/citations?user=3YDUbP0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=3YDUbP0AAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=3YDUbP0AAAAJ&citpid=4",
     "affiliation": "Qatar Computing Research Institute",
     "keywords": [
       "Computational Social Science",
@@ -9467,12 +9468,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5451",
-        "4342"
+        "5760",
+        "4635"
       ],
       "hindex": [
-        "40",
-        "37"
+        "41",
+        "38"
       ],
       "i10index": [
         "101",
@@ -9484,7 +9485,7 @@ var data = [
   {
     "name": "Wouter Weerkamp",
     "url": "https://scholar.google.com/citations?user=Jdy8ZTgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Jdy8ZTgAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Jdy8ZTgAAAAJ&citpid=3",
     "affiliation": "904Labs",
     "keywords": [
       "Information Retrieval",
@@ -9494,8 +9495,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2479",
-        "1494"
+        "2527",
+        "1532"
       ],
       "hindex": [
         "24",
@@ -9511,7 +9512,7 @@ var data = [
   {
     "name": "Zhongyu Wei",
     "url": "https://scholar.google.com/citations?user=AjLDxxgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=AjLDxxgAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=AjLDxxgAAAAJ&citpid=2",
     "affiliation": "Associate Professor at School of Data Science, Fudan University",
     "keywords": [
       "Text Generation",
@@ -9521,16 +9522,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "635",
-        "594"
+        "704",
+        "664"
       ],
       "hindex": [
         "12",
         "12"
       ],
       "i10index": [
-        "14",
-        "14"
+        "18",
+        "18"
       ]
     },
     "year": "2011"
@@ -9538,7 +9539,7 @@ var data = [
   {
     "name": "Gerhard Weikum",
     "url": "http://scholar.google.com/citations?user=vNAD0mAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=vNAD0mAAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=vNAD0mAAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Max Planck Institute for Informatics, Saarland Informatics Campus",
     "keywords": [
       "Databases",
@@ -9549,16 +9550,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "33566",
-        "14099"
+        "34322",
+        "14703"
       ],
       "hindex": [
-        "87",
-        "53"
+        "88",
+        "54"
       ],
       "i10index": [
-        "408",
-        "224"
+        "410",
+        "225"
       ]
     },
     "year": "1991"
@@ -9566,7 +9567,7 @@ var data = [
   {
     "name": "Ji-Rong Wen",
     "url": "http://scholar.google.com/citations?user=tbxCHJgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=tbxCHJgAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=tbxCHJgAAAAJ&citpid=2",
     "affiliation": "Renmin University of China",
     "keywords": [
       "Web Search",
@@ -9576,16 +9577,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13728",
-        "5785"
+        "14037",
+        "5930"
       ],
       "hindex": [
-        "52",
+        "54",
         "38"
       ],
       "i10index": [
-        "180",
-        "143"
+        "184",
+        "144"
       ]
     },
     "year": "2003"
@@ -9593,7 +9594,7 @@ var data = [
   {
     "name": "Ryen W. White",
     "url": "http://scholar.google.com/citations?user=U69fiZMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=U69fiZMAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=U69fiZMAAAAJ&citpid=3",
     "affiliation": "Partner Research Manager, Microsoft",
     "keywords": [
       "Information Retrieval",
@@ -9604,16 +9605,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13588",
-        "8815"
+        "13867",
+        "8909"
       ],
       "hindex": [
         "64",
-        "52"
+        "53"
       ],
       "i10index": [
-        "189",
-        "162"
+        "191",
+        "165"
       ]
     },
     "year": "2003"
@@ -9621,7 +9622,7 @@ var data = [
   {
     "name": "Kyle Williams",
     "url": "https://scholar.google.com/citations?user=apM3EwcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=apM3EwcAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=apM3EwcAAAAJ&citpid=3",
     "affiliation": "Microsoft",
     "keywords": [
       "Information retrieval",
@@ -9631,8 +9632,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "692",
-        "636"
+        "727",
+        "670"
       ],
       "hindex": [
         "16",
@@ -9648,7 +9649,7 @@ var data = [
   {
     "name": "Ross Wilkinson",
     "url": "http://scholar.google.com/citations?user=XnG5SnEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=XnG5SnEAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XnG5SnEAAAAJ&citpid=2",
     "affiliation": "Australian National Data Service",
     "keywords": [
       "Information Retrieval",
@@ -9658,16 +9659,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2848",
-        "354"
+        "2893",
+        "382"
       ],
       "hindex": [
         "24",
-        "8"
+        "9"
       ],
       "i10index": [
-        "47",
-        "8"
+        "48",
+        "9"
       ]
     },
     "year": "1992"
@@ -9675,7 +9676,7 @@ var data = [
   {
     "name": "Max L. Wilson",
     "url": "http://scholar.google.com/citations?user=WkLZuJsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=WkLZuJsAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=WkLZuJsAAAAJ&citpid=3",
     "affiliation": "Associate Professor, Mixed Reality Lab, School of Computer Science, University of Nottingham",
     "keywords": [
       "fNIRS",
@@ -9686,8 +9687,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1976",
-        "1097"
+        "2018",
+        "1125"
       ],
       "hindex": [
         "22",
@@ -9698,12 +9699,12 @@ var data = [
         "32"
       ]
     },
-    "year": "2005"
+    "year": "2004"
   },
   {
     "name": "Zhaohui Wu",
     "url": "https://scholar.google.com/citations?user=9UHOqWMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=9UHOqWMAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=9UHOqWMAAAAJ&citpid=2",
     "affiliation": "Pinterest",
     "keywords": [
       "Web Search & Mining",
@@ -9713,8 +9714,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "764",
-        "690"
+        "805",
+        "729"
       ],
       "hindex": [
         "16",
@@ -9730,7 +9731,7 @@ var data = [
   {
     "name": "Chenyan Xiong",
     "url": "https://scholar.google.com/citations?user=E9BaEBYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=E9BaEBYAAAAJ&citpid=12",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=E9BaEBYAAAAJ&citpid=12",
     "affiliation": "Microsoft Research AI",
     "keywords": [
       "Information Retrieval",
@@ -9738,16 +9739,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "628",
-        "607"
+        "709",
+        "688"
       ],
       "hindex": [
         "12",
         "12"
       ],
       "i10index": [
-        "16",
-        "15"
+        "17",
+        "16"
       ]
     },
     "year": "2011"
@@ -9755,7 +9756,7 @@ var data = [
   {
     "name": "Jun Xu",
     "url": "http://scholar.google.com/citations?user=su14mcEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=su14mcEAAAAJ&citpid=6",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=su14mcEAAAAJ&citpid=6",
     "affiliation": "Professor, School of Information, Renmin University of China",
     "keywords": [
       "Learning to Rank",
@@ -9764,15 +9765,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5838",
-        "3927"
+        "3931",
+        "2735"
       ],
       "hindex": [
         "27",
         "24"
       ],
       "i10index": [
-        "49",
+        "51",
         "43"
       ]
     },
@@ -9791,16 +9792,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13519",
-        "9596"
+        "14320",
+        "10361"
       ],
       "hindex": [
-        "51",
-        "44"
+        "52",
+        "45"
       ],
       "i10index": [
-        "228",
-        "154"
+        "239",
+        "167"
       ]
     },
     "year": "2004"
@@ -9808,23 +9809,23 @@ var data = [
   {
     "name": "Takehiro Yamamoto",
     "url": "https://scholar.google.com/citations?user=8ZDsbX8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=8ZDsbX8AAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=8ZDsbX8AAAAJ&citpid=1",
     "affiliation": "University of Hyogo",
     "keywords": [
       "Information Retrieval"
     ],
     "stats": {
       "citations": [
-        "430",
-        "333"
+        "460",
+        "354"
       ],
       "hindex": [
         "12",
         "11"
       ],
       "i10index": [
-        "12",
-        "11"
+        "13",
+        "12"
       ]
     },
     "year": "2007"
@@ -9832,7 +9833,7 @@ var data = [
   {
     "name": "Grace Hui Yang",
     "url": "http://scholar.google.com/citations?user=nafo_HAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=nafo_HAAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=nafo_HAAAAAJ&citpid=2",
     "affiliation": "Associate Professor of Computer Science, Georgetown University",
     "keywords": [
       "Artificial Intelligence",
@@ -9843,15 +9844,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1513",
-        "781"
+        "1552",
+        "812"
       ],
       "hindex": [
         "20",
-        "15"
+        "16"
       ],
       "i10index": [
-        "34",
+        "35",
         "23"
       ]
     },
@@ -9860,7 +9861,7 @@ var data = [
   {
     "name": "Peilin Yang",
     "url": "https://scholar.google.com/citations?user=XdNjKJAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=XdNjKJAAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XdNjKJAAAAAJ&citpid=3",
     "affiliation": "University of Delaware",
     "keywords": [
       "Information Retrieval",
@@ -9869,8 +9870,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "220",
-        "206"
+        "246",
+        "232"
       ],
       "hindex": [
         "10",
@@ -9886,7 +9887,7 @@ var data = [
   {
     "name": "Qiang Yang",
     "url": "http://scholar.google.com/citations?user=1LxWZLQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=1LxWZLQAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=1LxWZLQAAAAJ&citpid=3",
     "affiliation": "Chief AI Officer at WeBank, Chair Professor of Engineering @ HKUST, IJCAI President(2017.7-2019.8)",
     "keywords": [
       "Artificial Intelligence",
@@ -9895,16 +9896,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "49067",
-        "30914"
+        "51197",
+        "32765"
       ],
       "hindex": [
-        "99",
-        "71"
+        "100",
+        "73"
       ],
       "i10index": [
-        "398",
-        "285"
+        "406",
+        "292"
       ]
     },
     "year": "1997"
@@ -9912,7 +9913,7 @@ var data = [
   {
     "name": "Yiming Yang",
     "url": "http://scholar.google.com/citations?user=MlZq4XwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=MlZq4XwAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=MlZq4XwAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Carnegie Mellon University",
     "keywords": [
       "machine learning",
@@ -9920,16 +9921,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "29387",
-        "9930"
+        "30289",
+        "10703"
       ],
       "hindex": [
         "55",
-        "38"
+        "39"
       ],
       "i10index": [
-        "111",
-        "73"
+        "114",
+        "75"
       ]
     },
     "year": "1998"
@@ -9937,7 +9938,7 @@ var data = [
   {
     "name": "Andrew Yates",
     "url": "https://scholar.google.com/citations?user=b4ciDMsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=b4ciDMsAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=b4ciDMsAAAAJ&citpid=3",
     "affiliation": "Max Planck Institute for Informatics, Saarland Informatics Campus",
     "keywords": [
       "Information Retrieval",
@@ -9945,16 +9946,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "550",
-        "500"
+        "605",
+        "555"
       ],
       "hindex": [
-        "11",
+        "12",
         "11"
       ],
       "i10index": [
-        "15",
-        "13"
+        "16",
+        "15"
       ]
     },
     "year": "2010"
@@ -9962,7 +9963,7 @@ var data = [
   {
     "name": "Xing Yi",
     "url": "http://scholar.google.com/citations?user=PnZS1HIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=PnZS1HIAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=PnZS1HIAAAAJ&citpid=3",
     "affiliation": "Founding Research Scientist, Rulai Inc.",
     "keywords": [
       "Information Retrieval",
@@ -9974,15 +9975,15 @@ var data = [
     "stats": {
       "citations": [
         "936",
-        "585"
+        "557"
       ],
       "hindex": [
-        "14",
-        "11"
+        "13",
+        "10"
       ],
       "i10index": [
-        "20",
-        "12"
+        "19",
+        "10"
       ]
     },
     "year": "2004"
@@ -9990,7 +9991,7 @@ var data = [
   {
     "name": "Emine Yilmaz",
     "url": "http://scholar.google.com/citations?user=ocmAN4YAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=ocmAN4YAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ocmAN4YAAAAJ&citpid=2",
     "affiliation": "University College London",
     "keywords": [
       "Information Retrieval",
@@ -10000,16 +10001,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3051",
-        "1937"
+        "3151",
+        "2019"
       ],
       "hindex": [
         "28",
-        "23"
+        "24"
       ],
       "i10index": [
-        "59",
-        "50"
+        "62",
+        "53"
       ]
     },
     "year": "2006"
@@ -10017,7 +10018,7 @@ var data = [
   {
     "name": "Elad Yom-Tov",
     "url": "https://scholar.google.com/citations?user=MNqdSZcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=MNqdSZcAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=MNqdSZcAAAAJ&citpid=2",
     "affiliation": "Microsoft Research",
     "keywords": [
       "Information Retrieval",
@@ -10026,16 +10027,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4654",
-        "2948"
+        "4802",
+        "3033"
       ],
       "hindex": [
         "32",
-        "27"
+        "28"
       ],
       "i10index": [
         "81",
-        "66"
+        "67"
       ]
     },
     "year": "2004"
@@ -10051,16 +10052,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "23615",
-        "10351"
+        "24307",
+        "10938"
       ],
       "hindex": [
-        "67",
-        "45"
+        "68",
+        "48"
       ],
       "i10index": [
-        "476",
-        "287"
+        "486",
+        "299"
       ]
     },
     "year": "1981"
@@ -10068,7 +10069,7 @@ var data = [
   {
     "name": "Yong Yu",
     "url": "http://scholar.google.it/citations?user=-84M1m0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=-84M1m0AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=-84M1m0AAAAJ&citpid=2",
     "affiliation": "Professor, Shanghai Jiao Tong University",
     "keywords": [
       "WWW",
@@ -10079,16 +10080,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18146",
-        "11241"
+        "18952",
+        "11966"
       ],
       "hindex": [
-        "61",
-        "47"
+        "63",
+        "50"
       ],
       "i10index": [
-        "164",
-        "128"
+        "170",
+        "133"
       ]
     },
     "year": "2005"
@@ -10096,27 +10097,27 @@ var data = [
   {
     "name": "Yisong Yue",
     "url": "http://scholar.google.com/citations?user=tEk4qo8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=tEk4qo8AAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=tEk4qo8AAAAJ&citpid=4",
     "affiliation": "California Institute of Technology",
     "keywords": [
       "Machine Learning",
-      "Artificial Intelligence",
       "Interactive Machine Learning",
       "Structured Machine Learning",
-      "Human-in-the-Loop"
+      "Human-in-the-Loop",
+      "AI-for-Science"
     ],
     "stats": {
       "citations": [
-        "3206",
-        "2426"
+        "3380",
+        "2605"
       ],
       "hindex": [
-        "28",
-        "27"
+        "29",
+        "28"
       ],
       "i10index": [
-        "45",
-        "45"
+        "48",
+        "48"
       ]
     },
     "year": "2008"
@@ -10124,7 +10125,7 @@ var data = [
   {
     "name": "Jakub Zavrel",
     "url": "https://scholar.google.com/citations?user=yLUBpucAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=yLUBpucAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=yLUBpucAAAAJ&citpid=2",
     "affiliation": "Zeta Alpha Vector",
     "keywords": [
       "Natural Language Processing",
@@ -10134,8 +10135,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2878",
-        "323"
+        "2917",
+        "347"
       ],
       "hindex": [
         "20",
@@ -10151,7 +10152,7 @@ var data = [
   {
     "name": "ChengXiang Zhai",
     "url": "http://scholar.google.com/citations?user=YU-baPIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=YU-baPIAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=YU-baPIAAAAJ&citpid=2",
     "affiliation": "University of Illinois at Urbana-Champaign",
     "keywords": [
       "Information Retrieval",
@@ -10162,16 +10163,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "29882",
-        "16249"
+        "30765",
+        "17025"
       ],
       "hindex": [
-        "79",
-        "59"
+        "80",
+        "60"
       ],
       "i10index": [
-        "239",
-        "192"
+        "241",
+        "195"
       ]
     },
     "year": "2002"
@@ -10190,16 +10191,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3852",
-        "2488"
+        "3963",
+        "2588"
       ],
       "hindex": [
-        "31",
-        "24"
+        "32",
+        "25"
       ],
       "i10index": [
-        "51",
-        "43"
+        "52",
+        "44"
       ]
     },
     "year": "2002"
@@ -10212,16 +10213,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "4168",
-        "2832"
+        "4382",
+        "3025"
       ],
       "hindex": [
-        "34",
+        "35",
         "28"
       ],
       "i10index": [
-        "90",
-        "68"
+        "96",
+        "74"
       ]
     },
     "year": "2003"
@@ -10229,7 +10230,7 @@ var data = [
   {
     "name": "Yongfeng Zhang",
     "url": "https://scholar.google.com/citations?user=A66WefUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=A66WefUAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=A66WefUAAAAJ&citpid=5",
     "affiliation": "Rutgers University, Department of Computer Science",
     "keywords": [
       "Information Retrieval",
@@ -10240,16 +10241,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1325",
-        "1323"
+        "1469",
+        "1466"
       ],
       "hindex": [
-        "20",
-        "20"
+        "22",
+        "22"
       ],
       "i10index": [
-        "29",
-        "29"
+        "30",
+        "30"
       ]
     },
     "year": "2014"
@@ -10257,7 +10258,7 @@ var data = [
   {
     "name": "Nivio Ziviani",
     "url": "https://scholar.google.com/citations?user=OZ2ju_EAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=OZ2ju_EAAAAJ&citpid=14",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=OZ2ju_EAAAAJ&citpid=14",
     "affiliation": "Professor Emeritus of Computer Science, Univ. Federal de Minas Gerais  Co-founder of Kunumi",
     "keywords": [
       "Information Retrieval",
@@ -10266,16 +10267,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5132",
-        "1484"
+        "5246",
+        "1564"
       ],
       "hindex": [
-        "38",
+        "40",
         "22"
       ],
       "i10index": [
-        "83",
-        "40"
+        "85",
+        "42"
       ]
     },
     "year": "1995"
@@ -10283,7 +10284,7 @@ var data = [
   {
     "name": "Justin Zobel",
     "url": "http://scholar.google.com/citations?user=uEHvqE8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=uEHvqE8AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=uEHvqE8AAAAJ&citpid=3",
     "affiliation": "Computing and Information Systems, University of Melbourne",
     "keywords": [
       "Algorithmics",
@@ -10292,16 +10293,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18029",
-        "6092"
+        "18385",
+        "6358"
       ],
       "hindex": [
         "68",
         "38"
       ],
       "i10index": [
-        "201",
-        "106"
+        "200",
+        "107"
       ]
     },
     "year": "1992"
@@ -10309,7 +10310,7 @@ var data = [
   {
     "name": "Guido Zuccon",
     "url": "http://scholar.google.com/citations?user=aEVHhC8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=aEVHhC8AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=aEVHhC8AAAAJ&citpid=3",
     "affiliation": "University of Queensland",
     "keywords": [
       "Information Retrieval",
@@ -10319,16 +10320,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2361",
-        "2090"
+        "2470",
+        "2188"
       ],
       "hindex": [
         "26",
-        "25"
+        "26"
       ],
       "i10index": [
-        "57",
-        "50"
+        "60",
+        "53"
       ]
     },
     "year": "2009"
@@ -10347,8 +10348,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4233",
-        "2070"
+        "4290",
+        "2029"
       ],
       "hindex": [
         "29",
@@ -10356,7 +10357,7 @@ var data = [
       ],
       "i10index": [
         "68",
-        "42"
+        "40"
       ]
     },
     "year": "2000"
