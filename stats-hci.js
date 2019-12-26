@@ -1,9 +1,9 @@
-var date = "Mon Sep 02 2019 12:53:25 GMT-0400 (EDT)"
+var date = "Wed Dec 25 2019 19:13:21 GMT-0500 (Eastern Standard Time)"
 var data = [
   {
     "name": "Gregory D. Abowd",
     "url": "https://scholar.google.com/citations?user=gb8sbdcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=gb8sbdcAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=gb8sbdcAAAAJ&citpid=3",
     "affiliation": "Regents' Professor and J.Z. Liang Chair, School of Interactive Computing, Georgia Institute of",
     "keywords": [
       "Human-Computer Interaction",
@@ -11,16 +11,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "50012",
-        "13793"
+        "50399",
+        "14553"
       ],
       "hindex": [
-        "82",
+        "81",
         "49"
       ],
       "i10index": [
-        "266",
-        "168"
+        "267",
+        "170"
       ]
     },
     "year": "1995"
@@ -28,7 +28,7 @@ var data = [
   {
     "name": "Mark S. Ackerman",
     "url": "https://scholar.google.com/citations?user=qBTbnEQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=qBTbnEQAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=qBTbnEQAAAAJ&citpid=2",
     "affiliation": "University of Michigan, Ann Arbor",
     "keywords": [
       "human-computer interaction",
@@ -37,16 +37,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15172",
-        "5060"
+        "15681",
+        "5444"
       ],
       "hindex": [
-        "53",
-        "34"
+        "55",
+        "35"
       ],
       "i10index": [
-        "115",
-        "75"
+        "118",
+        "79"
       ]
     },
     "year": "1992"
@@ -54,7 +54,7 @@ var data = [
   {
     "name": "Maneesh Agrawala",
     "url": "https://scholar.google.com/citations?user=YPzKczYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=YPzKczYAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=YPzKczYAAAAJ&citpid=2",
     "affiliation": "Stanford University",
     "keywords": [
       "Graphics",
@@ -64,16 +64,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16290",
-        "7982"
+        "16949",
+        "8522"
       ],
       "hindex": [
-        "67",
-        "50"
+        "69",
+        "51"
       ],
       "i10index": [
-        "164",
-        "142"
+        "167",
+        "145"
       ]
     },
     "year": "2000"
@@ -90,15 +90,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11279",
-        "5867"
+        "11851",
+        "6348"
       ],
       "hindex": [
-        "49",
-        "39"
+        "51",
+        "41"
       ],
       "i10index": [
-        "161",
+        "162",
         "119"
       ]
     },
@@ -107,23 +107,23 @@ var data = [
   {
     "name": "Jason Alexander",
     "url": "https://scholar.google.com/citations?user=gxT8_4EAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=gxT8_4EAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=gxT8_4EAAAAJ&citpid=4",
     "affiliation": "Lancaster University",
     "keywords": [
       "Human-Computer Interaction"
     ],
     "stats": {
       "citations": [
-        "2037",
-        "1667"
+        "2256",
+        "1880"
       ],
       "hindex": [
-        "27",
-        "26"
+        "29",
+        "27"
       ],
       "i10index": [
-        "44",
-        "41"
+        "48",
+        "45"
       ]
     },
     "year": "2007"
@@ -138,16 +138,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "143908",
-        "32562"
+        "148074",
+        "35404"
       ],
       "hindex": [
-        "141",
-        "73"
+        "142",
+        "75"
       ],
       "i10index": [
-        "562",
-        "280"
+        "570",
+        "297"
       ]
     },
     "year": "1980"
@@ -155,7 +155,7 @@ var data = [
   {
     "name": "Natalia Andrienko",
     "url": "https://scholar.google.com/citations?user=t8LK29QAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=t8LK29QAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=t8LK29QAAAAJ&citpid=2",
     "affiliation": "Fraunhofer IAIS (lead scientist) & City University London (professor)",
     "keywords": [
       "visual analytics",
@@ -166,16 +166,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12021",
-        "6895"
+        "12717",
+        "7498"
       ],
       "hindex": [
         "52",
         "43"
       ],
       "i10index": [
-        "143",
-        "108"
+        "150",
+        "115"
       ]
     },
     "year": "1999"
@@ -183,16 +183,16 @@ var data = [
   {
     "name": "Lisa Anthony",
     "url": "https://scholar.google.com/citations?user=GUucp2UAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=GUucp2UAAAAJ&citpid=4",
-    "affiliation": "Assistant Professor, University of Florida",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=GUucp2UAAAAJ&citpid=4",
+    "affiliation": "Associate Professor, University of Florida",
     "keywords": [
       "computer science",
       "human computer interaction"
     ],
     "stats": {
       "citations": [
-        "1445",
-        "1113"
+        "1523",
+        "1187"
       ],
       "hindex": [
         "20",
@@ -208,18 +208,18 @@ var data = [
   {
     "name": "Caroline Appert",
     "url": "https://scholar.google.com/citations?user=6ltKVMwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=6ltKVMwAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=6ltKVMwAAAAJ&citpid=2",
     "affiliation": "CNRS & Univ. Paris Sud",
     "keywords": [
       "Human computer interaction"
     ],
     "stats": {
       "citations": [
-        "1202",
-        "680"
+        "1246",
+        "725"
       ],
       "hindex": [
-        "17",
+        "18",
         "16"
       ],
       "i10index": [
@@ -232,7 +232,7 @@ var data = [
   {
     "name": "Cecilia Aragon",
     "url": "https://scholar.google.com/citations?user=BM_qLgYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=BM_qLgYAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BM_qLgYAAAAJ&citpid=3",
     "affiliation": "Professor of Human Centered Design & Engineering, University of Washington",
     "keywords": [
       "Visual Analytics",
@@ -243,16 +243,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6302",
-        "2686"
+        "6574",
+        "2933"
       ],
       "hindex": [
-        "31",
-        "28"
+        "33",
+        "29"
       ],
       "i10index": [
-        "59",
-        "47"
+        "63",
+        "52"
       ]
     },
     "year": "1990"
@@ -269,11 +269,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1777",
-        "1220"
+        "1883",
+        "1323"
       ],
       "hindex": [
-        "22",
+        "23",
         "19"
       ],
       "i10index": [
@@ -293,16 +293,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6346",
-        "3371"
+        "6645",
+        "3626"
       ],
       "hindex": [
-        "40",
+        "42",
         "28"
       ],
       "i10index": [
-        "72",
-        "53"
+        "73",
+        "57"
       ]
     },
     "year": "2001"
@@ -315,16 +315,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "16651",
-        "6649"
+        "17068",
+        "6983"
       ],
       "hindex": [
-        "74",
-        "47"
+        "76",
+        "49"
       ],
       "i10index": [
-        "153",
-        "127"
+        "156",
+        "128"
       ]
     },
     "year": "2001"
@@ -332,7 +332,7 @@ var data = [
   {
     "name": "Jeffrey Bardzell",
     "url": "https://scholar.google.com/citations?user=JjKNmggAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=JjKNmggAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=JjKNmggAAAAJ&citpid=2",
     "affiliation": "Professor of Human-Computer Interaction Design, Indiana University",
     "keywords": [
       "HCI",
@@ -343,24 +343,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3187",
-        "2431"
+        "3483",
+        "2691"
       ],
       "hindex": [
         "29",
-        "25"
+        "26"
       ],
       "i10index": [
-        "72",
-        "55"
+        "73",
+        "58"
       ]
     },
-    "year": "2000"
+    "year": "2003"
   },
   {
     "name": "Patrick Baudisch",
     "url": "https://scholar.google.com/citations?user=GdRdhYwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=GdRdhYwAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=GdRdhYwAAAAJ&citpid=4",
     "affiliation": "Professor of Computer Science, Hasso Plattner Institute",
     "keywords": [
       "Human Computer Interaction",
@@ -371,16 +371,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15610",
-        "7987"
+        "16057",
+        "8397"
       ],
       "hindex": [
-        "69",
-        "53"
+        "70",
+        "54"
       ],
       "i10index": [
-        "158",
-        "128"
+        "161",
+        "131"
       ]
     },
     "year": "2002"
@@ -388,7 +388,7 @@ var data = [
   {
     "name": "Russell Beale",
     "url": "https://scholar.google.com/citations?user=kr40Kd8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=kr40Kd8AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=kr40Kd8AAAAJ&citpid=3",
     "affiliation": "Professor of Human-Computer Interaction & Director, HCI Centre - University of Birmingham",
     "keywords": [
       "Human-Computer Interaction",
@@ -399,16 +399,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12614",
-        "3404"
+        "13121",
+        "3748"
       ],
       "hindex": [
-        "32",
-        "20"
+        "33",
+        "21"
       ],
       "i10index": [
-        "84",
-        "39"
+        "88",
+        "44"
       ]
     },
     "year": "1993"
@@ -416,23 +416,23 @@ var data = [
   {
     "name": "Benjamin B. Bederson",
     "url": "https://scholar.google.com/citations?user=IcW1vJEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=IcW1vJEAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=IcW1vJEAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, University of Maryland",
     "keywords": [
       "Human-Computer Interaction"
     ],
     "stats": {
       "citations": [
-        "19094",
-        "5498"
+        "19608",
+        "5873"
       ],
       "hindex": [
         "64",
-        "37"
+        "38"
       ],
       "i10index": [
-        "154",
-        "97"
+        "155",
+        "99"
       ]
     },
     "year": "1994"
@@ -440,33 +440,33 @@ var data = [
   {
     "name": "Michael S. Bernstein",
     "url": "https://scholar.google.com/citations?user=zkhHirIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=zkhHirIAAAAJ&citpid=9",
-    "affiliation": "Assistant Professor, Stanford University",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=zkhHirIAAAAJ&citpid=9",
+    "affiliation": "Associate Professor, Stanford University",
     "keywords": [
       "Human-computer interaction",
-      "crowdsourcing",
-      "social computing"
+      "social computing",
+      "crowdsourcing"
     ],
     "stats": {
       "citations": [
-        "21017",
-        "19198"
+        "24230",
+        "22374"
       ],
       "hindex": [
-        "42",
-        "41"
+        "43",
+        "42"
       ],
       "i10index": [
-        "89",
-        "79"
+        "91",
+        "82"
       ]
     },
-    "year": "2008"
+    "year": "2009"
   },
   {
     "name": "Enrico Bertini",
     "url": "https://scholar.google.com/citations?user=_jGHG0IAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=_jGHG0IAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=_jGHG0IAAAAJ&citpid=2",
     "affiliation": "NYU Tandon School of Engineering",
     "keywords": [
       "Visual Analytics",
@@ -475,16 +475,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2907",
-        "2252"
+        "3168",
+        "2495"
       ],
       "hindex": [
-        "29",
-        "25"
+        "31",
+        "26"
       ],
       "i10index": [
-        "51",
-        "42"
+        "52",
+        "43"
       ]
     },
     "year": "2004"
@@ -492,21 +492,21 @@ var data = [
   {
     "name": "Timothy Bickmore",
     "url": "https://scholar.google.com/citations?user=x9kzObUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=x9kzObUAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=x9kzObUAAAAJ&citpid=2",
     "affiliation": "Northeastern University",
     "keywords": [],
     "stats": {
       "citations": [
-        "12648",
-        "5416"
+        "13223",
+        "5913"
       ],
       "hindex": [
-        "54",
-        "37"
+        "55",
+        "40"
       ],
       "i10index": [
-        "123",
-        "94"
+        "130",
+        "103"
       ]
     },
     "year": "1999"
@@ -514,7 +514,7 @@ var data = [
   {
     "name": "Jeffrey Bigham",
     "url": "https://scholar.google.com/citations?user=DFqp8NkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=DFqp8NkAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DFqp8NkAAAAJ&citpid=2",
     "affiliation": "Associate Professor, CMU HCII",
     "keywords": [
       "human-computer interaction",
@@ -524,16 +524,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6233",
-        "4448"
+        "6773",
+        "4972"
       ],
       "hindex": [
-        "39",
-        "36"
+        "42",
+        "37"
       ],
       "i10index": [
-        "96",
-        "88"
+        "107",
+        "99"
       ]
     },
     "year": "2007"
@@ -541,7 +541,7 @@ var data = [
   {
     "name": "Jeremy Birnholtz",
     "url": "https://scholar.google.com/citations?user=o-iIoUQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=medium_photo&user=o-iIoUQAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=medium_photo&user=o-iIoUQAAAAJ&citpid=2",
     "affiliation": "Northwestern University",
     "keywords": [
       "CSCW",
@@ -551,16 +551,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2831",
-        "1753"
+        "3056",
+        "1964"
       ],
       "hindex": [
         "29",
-        "22"
+        "24"
       ],
       "i10index": [
-        "56",
-        "48"
+        "59",
+        "49"
       ]
     },
     "year": "2005"
@@ -568,7 +568,7 @@ var data = [
   {
     "name": "Ann Blandford",
     "url": "https://scholar.google.com/citations?user=-uXQUCwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=-uXQUCwAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=-uXQUCwAAAAJ&citpid=4",
     "affiliation": "Professor of Human–Computer Interaction, UCL",
     "keywords": [
       "Human–Computer Interaction",
@@ -579,16 +579,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8701",
-        "4361"
+        "9235",
+        "4815"
       ],
       "hindex": [
-        "48",
-        "35"
+        "50",
+        "36"
       ],
       "i10index": [
-        "196",
-        "110"
+        "199",
+        "117"
       ]
     },
     "year": "1994"
@@ -596,7 +596,7 @@ var data = [
   {
     "name": "Doug A. Bowman",
     "url": "https://scholar.google.com/citations?user=KXCqonwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=KXCqonwAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=KXCqonwAAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science, Virginia Tech",
     "keywords": [
       "Virtual Reality",
@@ -605,16 +605,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12514",
-        "5673"
+        "13208",
+        "6290"
       ],
       "hindex": [
-        "51",
-        "38"
+        "52",
+        "41"
       ],
       "i10index": [
-        "140",
-        "93"
+        "145",
+        "99"
       ]
     },
     "year": "1998"
@@ -622,7 +622,7 @@ var data = [
   {
     "name": "Amy Bruckman",
     "url": "https://scholar.google.com/citations?user=IdWa_JkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=IdWa_JkAAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=IdWa_JkAAAAJ&citpid=1",
     "affiliation": "Professor, Interactive Computing, Georgia Institute of Technology",
     "keywords": [
       "social computing",
@@ -630,16 +630,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10451",
-        "4011"
+        "10999",
+        "4446"
       ],
       "hindex": [
-        "48",
-        "33"
+        "50",
+        "36"
       ],
       "i10index": [
-        "116",
-        "85"
+        "119",
+        "89"
       ]
     },
     "year": "1996"
@@ -647,7 +647,7 @@ var data = [
   {
     "name": "AJ Bernheim Brush",
     "url": "https://scholar.google.com/citations?user=w7qIMkkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=w7qIMkkAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=w7qIMkkAAAAJ&citpid=2",
     "affiliation": "Microsoft Research",
     "keywords": [
       "Human Computer Interaction",
@@ -658,16 +658,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7617",
-        "4305"
+        "7883",
+        "4530"
       ],
       "hindex": [
         "50",
-        "37"
+        "38"
       ],
       "i10index": [
-        "114",
-        "93"
+        "116",
+        "96"
       ]
     },
     "year": "2002"
@@ -675,23 +675,23 @@ var data = [
   {
     "name": "Andrea Bunt",
     "url": "https://scholar.google.com/citations?user=NoBlw7EAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=NoBlw7EAAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NoBlw7EAAAAJ&citpid=1",
     "affiliation": "Computer Science, University of Manitoba",
     "keywords": [
       "Human-Computer Interaction"
     ],
     "stats": {
       "citations": [
-        "1804",
-        "805"
+        "1891",
+        "879"
       ],
       "hindex": [
-        "19",
+        "20",
         "14"
       ],
       "i10index": [
-        "26",
-        "18"
+        "28",
+        "20"
       ]
     },
     "year": "2002"
@@ -699,24 +699,24 @@ var data = [
   {
     "name": "Winslow Burleson",
     "url": "https://scholar.google.com/citations?user=rGiwYA8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=rGiwYA8AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=rGiwYA8AAAAJ&citpid=2",
     "affiliation": "Associate Professor, New York University",
     "keywords": [],
     "stats": {
       "citations": [
-        "4696",
-        "2601"
+        "4914",
+        "2797"
       ],
       "hindex": [
-        "33",
-        "24"
+        "35",
+        "25"
       ],
       "i10index": [
-        "68",
-        "51"
+        "72",
+        "55"
       ]
     },
-    "year": "2001"
+    "year": "2002"
   },
   {
     "name": "Stuart K. Card",
@@ -728,16 +728,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "47750",
-        "11604"
+        "48814",
+        "12311"
       ],
       "hindex": [
-        "88",
+        "89",
         "47"
       ],
       "i10index": [
-        "167",
-        "118"
+        "168",
+        "119"
       ]
     },
     "year": "1983"
@@ -745,7 +745,7 @@ var data = [
   {
     "name": "Sheelagh Carpendale",
     "url": "https://scholar.google.com/citations?user=43LLX2kAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=43LLX2kAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=43LLX2kAAAAJ&citpid=3",
     "affiliation": "Professor of Computing Science, Simon Fraser Univeristy",
     "keywords": [
       "information visualization",
@@ -756,15 +756,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13141",
-        "6955"
+        "13751",
+        "7492"
       ],
       "hindex": [
-        "61",
+        "64",
         "45"
       ],
       "i10index": [
-        "183",
+        "184",
         "138"
       ]
     },
@@ -773,7 +773,7 @@ var data = [
   {
     "name": "John M. Carroll",
     "url": "https://scholar.google.com/citations?user=7Mg8JZMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=7Mg8JZMAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=7Mg8JZMAAAAJ&citpid=2",
     "affiliation": "Distinguished Professor of Information Sciences and Technology, Pennsylvania State University",
     "keywords": [
       "Human-Computer Interaction",
@@ -784,16 +784,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "42468",
-        "12132"
+        "43255",
+        "12640"
       ],
       "hindex": [
-        "91",
-        "52"
+        "92",
+        "53"
       ],
       "i10index": [
-        "460",
-        "223"
+        "486",
+        "241"
       ]
     },
     "year": "1984"
@@ -801,7 +801,7 @@ var data = [
   {
     "name": "Justine Cassell",
     "url": "https://scholar.google.com/citations?user=wkC9xHMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=wkC9xHMAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wkC9xHMAAAAJ&citpid=2",
     "affiliation": "Carnegie Mellon University",
     "keywords": [
       "Embodied Conversational Agents",
@@ -811,16 +811,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17767",
-        "4757"
+        "18374",
+        "5234"
       ],
       "hindex": [
-        "62",
-        "37"
+        "63",
+        "38"
       ],
       "i10index": [
-        "139",
-        "94"
+        "145",
+        "102"
       ]
     },
     "year": "1997"
@@ -828,8 +828,8 @@ var data = [
   {
     "name": "Remco Chang",
     "url": "https://scholar.google.com/citations?user=Q29WmWwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Q29WmWwAAAAJ&citpid=2",
-    "affiliation": "Associate Professor of Computer Science, Tufts University",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Q29WmWwAAAAJ&citpid=2",
+    "affiliation": "Associate Professor, Tufts University",
     "keywords": [
       "Visual Analytics",
       "Information Visualization",
@@ -838,16 +838,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3000",
-        "2271"
+        "3249",
+        "2519"
       ],
       "hindex": [
-        "31",
-        "26"
+        "32",
+        "27"
       ],
       "i10index": [
-        "51",
-        "47"
+        "52",
+        "48"
       ]
     },
     "year": "2008"
@@ -855,19 +855,19 @@ var data = [
   {
     "name": "Olivier Chapuis",
     "url": "https://scholar.google.com/citations?user=1-5Y_fYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=1-5Y_fYAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=1-5Y_fYAAAAJ&citpid=2",
     "affiliation": "Univ Paris-Sud, CNRS, INRIA, Université Paris-Saclay",
     "keywords": [
       "Human Computer Interaction"
     ],
     "stats": {
       "citations": [
-        "1718",
-        "1038"
+        "1783",
+        "1099"
       ],
       "hindex": [
         "24",
-        "18"
+        "20"
       ],
       "i10index": [
         "38",
@@ -879,7 +879,7 @@ var data = [
   {
     "name": "Chaomei Chen",
     "url": "https://scholar.google.com/citations?user=IjN4HSRsdakC",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=IjN4HSRsdakC&citpid=10",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=IjN4HSRsdakC&citpid=10",
     "affiliation": "Professor of Informatics, College of Computing and Informatics, Drexel University",
     "keywords": [
       "Information visualization",
@@ -890,16 +890,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15846",
-        "7312"
+        "16826",
+        "8128"
       ],
       "hindex": [
-        "52",
-        "36"
+        "54",
+        "39"
       ],
       "i10index": [
-        "134",
-        "85"
+        "138",
+        "94"
       ]
     },
     "year": "1998"
@@ -907,7 +907,7 @@ var data = [
   {
     "name": "Yunan Chen",
     "url": "https://scholar.google.com/citations?user=QjbgoY8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=QjbgoY8AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=QjbgoY8AAAAJ&citpid=3",
     "affiliation": "University of California Irvine",
     "keywords": [
       "Human-Computer Interaction",
@@ -915,24 +915,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1180",
-        "1025"
+        "1308",
+        "1149"
       ],
       "hindex": [
-        "19",
-        "18"
+        "20",
+        "19"
       ],
       "i10index": [
-        "35",
-        "31"
+        "37",
+        "34"
       ]
     },
-    "year": "2009"
+    "year": "2010"
   },
   {
     "name": "Marshini Chetty",
     "url": "https://scholar.google.com/citations?user=eVJ6NTIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=eVJ6NTIAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=eVJ6NTIAAAAJ&citpid=3",
     "affiliation": "University of Chicago",
     "keywords": [
       "Human Computer Interaction",
@@ -941,16 +941,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1782",
-        "981"
+        "1907",
+        "1097"
       ],
       "hindex": [
-        "21",
-        "19"
+        "23",
+        "22"
       ],
       "i10index": [
-        "34",
-        "28"
+        "35",
+        "29"
       ]
     },
     "year": "2004"
@@ -958,7 +958,7 @@ var data = [
   {
     "name": "Ed Chi",
     "url": "https://scholar.google.com/citations?user=VuWl-KUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=VuWl-KUAAAAJ&citpid=7",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=VuWl-KUAAAAJ&citpid=7",
     "affiliation": "Google Research & Machine Intelligence",
     "keywords": [
       "Recommender",
@@ -969,16 +969,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17253",
-        "8466"
+        "17962",
+        "9081"
       ],
       "hindex": [
-        "63",
+        "65",
         "43"
       ],
       "i10index": [
-        "154",
-        "117"
+        "160",
+        "124"
       ]
     },
     "year": "2000"
@@ -986,7 +986,7 @@ var data = [
   {
     "name": "Luca Chittaro",
     "url": "https://scholar.google.com/citations?user=arLCDBkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=arLCDBkAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=arLCDBkAAAAJ&citpid=2",
     "affiliation": "Full professor of Human-Computer Interaction, University of Udine, Italy",
     "keywords": [
       "Serious Games",
@@ -997,16 +997,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7033",
-        "2915"
+        "7383",
+        "3207"
       ],
       "hindex": [
-        "46",
+        "47",
         "31"
       ],
       "i10index": [
-        "125",
-        "78"
+        "127",
+        "82"
       ]
     },
     "year": "1994"
@@ -1014,7 +1014,7 @@ var data = [
   {
     "name": "Munmun De Choudhury",
     "url": "https://scholar.google.com/citations?user=Z9Pfp6UAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Z9Pfp6UAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Z9Pfp6UAAAAJ&citpid=2",
     "affiliation": "Georgia Institute of Technology",
     "keywords": [
       "Social Media",
@@ -1025,16 +1025,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5515",
-        "4728"
+        "6193",
+        "5362"
       ],
       "hindex": [
-        "39",
-        "37"
+        "41",
+        "39"
       ],
       "i10index": [
-        "73",
-        "66"
+        "78",
+        "72"
       ]
     },
     "year": "2009"
@@ -1049,16 +1049,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8503",
-        "3401"
+        "8811",
+        "3657"
       ],
       "hindex": [
         "49",
-        "29"
+        "30"
       ],
       "i10index": [
-        "125",
-        "82"
+        "128",
+        "88"
       ]
     },
     "year": "1996"
@@ -1066,7 +1066,7 @@ var data = [
   {
     "name": "Christopher Collins",
     "url": "https://scholar.google.com/citations?user=yHRw4eMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=yHRw4eMAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=yHRw4eMAAAAJ&citpid=4",
     "affiliation": "Professor of Computer Science, Ontario Tech University",
     "keywords": [
       "information visualization",
@@ -1077,16 +1077,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2384",
-        "1593"
+        "2554",
+        "1752"
       ],
       "hindex": [
         "22",
         "19"
       ],
       "i10index": [
-        "35",
-        "26"
+        "37",
+        "28"
       ]
     },
     "year": "2007"
@@ -1094,7 +1094,7 @@ var data = [
   {
     "name": "Dan Cosley",
     "url": "https://scholar.google.com/citations?user=_KNDS-kZ-nIJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=_KNDS-kZ-nIJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=_KNDS-kZ-nIJ&citpid=2",
     "affiliation": "Cornell University Information Science",
     "keywords": [
       "HCI",
@@ -1103,16 +1103,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8096",
-        "4479"
+        "8547",
+        "4851"
       ],
       "hindex": [
-        "39",
-        "31"
+        "40",
+        "33"
       ],
       "i10index": [
         "66",
-        "61"
+        "62"
       ]
     },
     "year": "2003"
@@ -1120,7 +1120,7 @@ var data = [
   {
     "name": "Edward (Ed) Cutrell",
     "url": "https://scholar.google.com/citations?user=8dfY_RYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=8dfY_RYAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=8dfY_RYAAAAJ&citpid=2",
     "affiliation": "Principal Researcher, Microsoft Research",
     "keywords": [
       "Human Computer Interaction",
@@ -1129,16 +1129,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10055",
-        "4407"
+        "10400",
+        "4684"
       ],
       "hindex": [
         "47",
-        "36"
+        "37"
       ],
       "i10index": [
-        "89",
-        "81"
+        "94",
+        "86"
       ]
     },
     "year": "2002"
@@ -1146,7 +1146,7 @@ var data = [
   {
     "name": "Mary Czerwinski",
     "url": "https://scholar.google.com/citations?user=LHkrpqEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=LHkrpqEAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=LHkrpqEAAAAJ&citpid=2",
     "affiliation": "Microsoft Research",
     "keywords": [
       "Human-Computer Interaction",
@@ -1155,16 +1155,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "24792",
-        "9456"
+        "25466",
+        "9986"
       ],
       "hindex": [
-        "91",
-        "53"
+        "92",
+        "54"
       ],
       "i10index": [
-        "235",
-        "190"
+        "240",
+        "198"
       ]
     },
     "year": "1997"
@@ -1172,7 +1172,7 @@ var data = [
   {
     "name": "Laura Dabbish",
     "url": "https://scholar.google.com/citations?user=DdNAgNwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=DdNAgNwAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DdNAgNwAAAAJ&citpid=2",
     "affiliation": "Associate Professor, Carnegie Mellon University",
     "keywords": [
       "Collaboration",
@@ -1183,16 +1183,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8223",
-        "5062"
+        "8744",
+        "5545"
       ],
       "hindex": [
-        "34",
+        "35",
         "33"
       ],
       "i10index": [
-        "52",
-        "46"
+        "54",
+        "48"
       ]
     },
     "year": "2003"
@@ -1200,7 +1200,7 @@ var data = [
   {
     "name": "Anind Dey",
     "url": "https://scholar.google.com/citations?user=ydA8Q5AAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=ydA8Q5AAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ydA8Q5AAAAAJ&citpid=2",
     "affiliation": "University of Washington",
     "keywords": [
       "human-computer interaction",
@@ -1211,16 +1211,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "39034",
-        "16329"
+        "40866",
+        "17798"
       ],
       "hindex": [
-        "68",
-        "55"
+        "69",
+        "57"
       ],
       "i10index": [
-        "196",
-        "157"
+        "201",
+        "164"
       ]
     },
     "year": "2000"
@@ -1228,7 +1228,7 @@ var data = [
   {
     "name": "Nicholas Diakopoulos",
     "url": "https://scholar.google.com/citations?user=7ip1Ih8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=7ip1Ih8AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=7ip1Ih8AAAAJ&citpid=3",
     "affiliation": "Northwestern University",
     "keywords": [
       "Computational Journalism",
@@ -1238,16 +1238,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3968",
-        "3132"
+        "4402",
+        "3549"
       ],
       "hindex": [
-        "28",
-        "24"
+        "30",
+        "26"
       ],
       "i10index": [
-        "52",
-        "45"
+        "53",
+        "46"
       ]
     },
     "year": "2005"
@@ -1255,7 +1255,7 @@ var data = [
   {
     "name": "Stephan Diehl",
     "url": "https://scholar.google.com/citations?user=3h8Dqg0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=3h8Dqg0AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=3h8Dqg0AAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, University of Trier",
     "keywords": [
       "Software Engineering",
@@ -1263,16 +1263,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5583",
-        "2676"
+        "5816",
+        "2886"
       ],
       "hindex": [
-        "33",
-        "25"
+        "34",
+        "27"
       ],
       "i10index": [
-        "76",
-        "53"
+        "81",
+        "56"
       ]
     },
     "year": "1999"
@@ -1280,7 +1280,7 @@ var data = [
   {
     "name": "Betsy DiSalvo",
     "url": "https://scholar.google.com/citations?user=BXEDBDUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=BXEDBDUAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BXEDBDUAAAAJ&citpid=2",
     "affiliation": "Associate Professor, School of Interactive Computing, Georgia Tech",
     "keywords": [
       "computer science education",
@@ -1290,16 +1290,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "796",
-        "626"
+        "878",
+        "702"
       ],
       "hindex": [
-        "16",
-        "16"
+        "17",
+        "17"
       ],
       "i10index": [
-        "20",
-        "20"
+        "22",
+        "22"
       ]
     },
     "year": "2006"
@@ -1307,7 +1307,7 @@ var data = [
   {
     "name": "Ellen Do",
     "url": "https://scholar.google.com/citations?user=qDepoRUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=qDepoRUAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=qDepoRUAAAAJ&citpid=2",
     "affiliation": "Professor, ATLAS Institute, University of Colorado Boulder",
     "keywords": [
       "Design Computing",
@@ -1317,16 +1317,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4455",
-        "1765"
+        "4714",
+        "1959"
       ],
       "hindex": [
-        "33",
-        "21"
+        "34",
+        "22"
       ],
       "i10index": [
-        "98",
-        "52"
+        "103",
+        "56"
       ]
     },
     "year": "1996"
@@ -1334,7 +1334,7 @@ var data = [
   {
     "name": "Paul Dourish",
     "url": "https://scholar.google.com/citations?user=wyCIJfQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=wyCIJfQAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wyCIJfQAAAAJ&citpid=2",
     "affiliation": "Chancellor's Professor of Informatics, University of California, Irvine",
     "keywords": [
       "Human-Computer Interaction",
@@ -1344,16 +1344,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "32489",
-        "11169"
+        "33693",
+        "12090"
       ],
       "hindex": [
-        "71",
-        "46"
+        "72",
+        "47"
       ],
       "i10index": [
-        "160",
-        "113"
+        "164",
+        "119"
       ]
     },
     "year": "1994"
@@ -1361,7 +1361,7 @@ var data = [
   {
     "name": "Steven Dow",
     "url": "https://scholar.google.com/citations?user=ywTbDsQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=ywTbDsQAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ywTbDsQAAAAJ&citpid=2",
     "affiliation": "Associate Professor of Cognitive Science, UC San Diego",
     "keywords": [
       "Human-computer interaction",
@@ -1371,16 +1371,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3789",
-        "2698"
+        "4058",
+        "2951"
       ],
       "hindex": [
-        "33",
-        "28"
+        "34",
+        "29"
       ],
       "i10index": [
-        "74",
-        "63"
+        "76",
+        "66"
       ]
     },
     "year": "2003"
@@ -1388,7 +1388,7 @@ var data = [
   {
     "name": "Pierre Dragicevic",
     "url": "https://scholar.google.com/citations?user=hqyns68AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=hqyns68AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=hqyns68AAAAJ&citpid=3",
     "affiliation": "INRIA",
     "keywords": [
       "Information Visualization",
@@ -1396,16 +1396,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3818",
-        "2566"
+        "4073",
+        "2813"
       ],
       "hindex": [
-        "35",
+        "36",
         "29"
       ],
       "i10index": [
-        "55",
-        "45"
+        "56",
+        "46"
       ]
     },
     "year": "2004"
@@ -1413,7 +1413,7 @@ var data = [
   {
     "name": "Steven Drucker",
     "url": "https://scholar.google.com/citations?user=4LaKRrwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=4LaKRrwAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=4LaKRrwAAAAJ&citpid=2",
     "affiliation": "Microsoft Research",
     "keywords": [
       "Information Visualization",
@@ -1423,16 +1423,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16563",
-        "8217"
+        "16285",
+        "8002"
       ],
       "hindex": [
-        "67",
+        "65",
         "47"
       ],
       "i10index": [
         "187",
-        "151"
+        "150"
       ]
     },
     "year": "1989"
@@ -1440,7 +1440,7 @@ var data = [
   {
     "name": "Allison Druin",
     "url": "https://scholar.google.com/citations?user=QpaGsuMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=QpaGsuMAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=QpaGsuMAAAAJ&citpid=2",
     "affiliation": "Chief Futurist, University of Maryland",
     "keywords": [
       "Human-Computer Interaction",
@@ -1450,16 +1450,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15501",
-        "5966"
+        "16180",
+        "6478"
       ],
       "hindex": [
-        "56",
-        "36"
+        "58",
+        "38"
       ],
       "i10index": [
-        "132",
-        "92"
+        "135",
+        "96"
       ]
     },
     "year": "1998"
@@ -1467,7 +1467,7 @@ var data = [
   {
     "name": "Susan Dumais",
     "url": "https://scholar.google.com/citations?user=x8dED5cAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=x8dED5cAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=x8dED5cAAAAJ&citpid=2",
     "affiliation": "Distinguished Scientist, Microsoft Research",
     "keywords": [
       "Information Retrieval",
@@ -1475,16 +1475,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "71613",
-        "26303"
+        "73948",
+        "28082"
       ],
       "hindex": [
-        "107",
+        "109",
         "72"
       ],
       "i10index": [
-        "265",
-        "213"
+        "267",
+        "215"
       ]
     },
     "year": "1990"
@@ -1492,7 +1492,7 @@ var data = [
   {
     "name": "David S. Ebert",
     "url": "https://scholar.google.com/citations?user=fD3JviYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=fD3JviYAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=fD3JviYAAAAJ&citpid=2",
     "affiliation": "Silicon Valley Professor of ECE, Purdue University",
     "keywords": [
       "visualization",
@@ -1502,16 +1502,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10282",
-        "4354"
+        "10647",
+        "4668"
       ],
       "hindex": [
         "51",
-        "30"
+        "32"
       ],
       "i10index": [
-        "162",
-        "94"
+        "163",
+        "100"
       ]
     },
     "year": "1996"
@@ -1519,23 +1519,23 @@ var data = [
   {
     "name": "W. Keith Edwards",
     "url": "https://scholar.google.com/citations?user=QYqwwwcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=QYqwwwcAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=QYqwwwcAAAAJ&citpid=2",
     "affiliation": "Professor, Georgia Tech",
     "keywords": [
       "Human-computer interaction"
     ],
     "stats": {
       "citations": [
-        "12513",
-        "3594"
+        "12807",
+        "3799"
       ],
       "hindex": [
-        "57",
+        "58",
         "32"
       ],
       "i10index": [
-        "141",
-        "96"
+        "142",
+        "97"
       ]
     },
     "year": "1995"
@@ -1543,7 +1543,7 @@ var data = [
   {
     "name": "Niklas Elmqvist",
     "url": "https://scholar.google.com/citations?user=LoQXe24AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=LoQXe24AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=LoQXe24AAAAJ&citpid=3",
     "affiliation": "Professor of Information Studies, University of Maryland, College Park",
     "keywords": [
       "visualization",
@@ -1554,16 +1554,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "20996",
-        "6849"
+        "21986",
+        "7587"
       ],
       "hindex": [
-        "39",
-        "31"
+        "41",
+        "32"
       ],
       "i10index": [
-        "99",
-        "85"
+        "103",
+        "91"
       ]
     },
     "year": "1987"
@@ -1571,7 +1571,7 @@ var data = [
   {
     "name": "Alex Endert",
     "url": "https://scholar.google.com/citations?user=_ZIAy3cAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=_ZIAy3cAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=_ZIAy3cAAAAJ&citpid=5",
     "affiliation": "Assistant Professor, Georgia Tech",
     "keywords": [
       "human-computer interaction",
@@ -1580,19 +1580,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2228",
-        "1929"
+        "2512",
+        "2176"
       ],
       "hindex": [
-        "24",
-        "23"
+        "27",
+        "26"
       ],
       "i10index": [
-        "46",
-        "41"
+        "48",
+        "44"
       ]
     },
-    "year": "2010"
+    "year": "2008"
   },
   {
     "name": "Kayvon Fatahalian",
@@ -1605,16 +1605,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5242",
-        "2180"
+        "5384",
+        "2290"
       ],
       "hindex": [
         "29",
         "23"
       ],
       "i10index": [
-        "41",
-        "34"
+        "44",
+        "38"
       ]
     },
     "year": "2003"
@@ -1622,7 +1622,7 @@ var data = [
   {
     "name": "Steven K. Feiner",
     "url": "https://scholar.google.com/citations?user=PogsVkYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=PogsVkYAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=PogsVkYAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Columbia University",
     "keywords": [
       "Human-Computer Interaction",
@@ -1633,16 +1633,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "43126",
-        "12472"
+        "44739",
+        "13746"
       ],
       "hindex": [
-        "76",
-        "42"
+        "77",
+        "43"
       ],
       "i10index": [
-        "210",
-        "119"
+        "212",
+        "122"
       ]
     },
     "year": "1990"
@@ -1650,7 +1650,7 @@ var data = [
   {
     "name": "Jean-Daniel Fekete",
     "url": "https://scholar.google.com/citations?user=PMZ3h7sAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=PMZ3h7sAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=PMZ3h7sAAAAJ&citpid=2",
     "affiliation": "Senior Research Scientist, INRIA Saclay Île-de-France",
     "keywords": [
       "Information Visualization",
@@ -1659,25 +1659,25 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10582",
-        "6285"
+        "11173",
+        "6814"
       ],
       "hindex": [
-        "49",
-        "41"
+        "51",
+        "42"
       ],
       "i10index": [
-        "107",
-        "79"
+        "109",
+        "82"
       ]
     },
-    "year": "2000"
+    "year": "2003"
   },
   {
     "name": "Rebecca Fiebrink",
     "url": "https://scholar.google.com/citations?user=fEMWXvkAAAAJ",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
-    "affiliation": "Goldsmiths University of London",
+    "affiliation": "University of the Arts London",
     "keywords": [
       "Human-computer interaction",
       "machine learning",
@@ -1685,8 +1685,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1347",
-        "877"
+        "1439",
+        "964"
       ],
       "hindex": [
         "20",
@@ -1702,8 +1702,8 @@ var data = [
   {
     "name": "Leah Findlater",
     "url": "https://scholar.google.com/citations?user=NeDnx2EAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=NeDnx2EAAAAJ&citpid=4",
-    "affiliation": "Assistant Professor, University of Washington",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NeDnx2EAAAAJ&citpid=4",
+    "affiliation": "Associate Professor, University of Washington",
     "keywords": [
       "Human-Computer Interaction",
       "Mobile Computing",
@@ -1712,16 +1712,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4871",
-        "3414"
+        "5215",
+        "3731"
       ],
       "hindex": [
-        "31",
+        "32",
         "27"
       ],
       "i10index": [
-        "61",
-        "54"
+        "64",
+        "57"
       ]
     },
     "year": "2004"
@@ -1737,16 +1737,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7686",
-        "4347"
+        "8077",
+        "4629"
       ],
       "hindex": [
-        "44",
+        "46",
         "39"
       ],
       "i10index": [
-        "103",
-        "82"
+        "104",
+        "83"
       ]
     },
     "year": "2003"
@@ -1754,7 +1754,7 @@ var data = [
   {
     "name": "Morten Fjeld",
     "url": "https://scholar.google.com/citations?user=ZQhqxscAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=ZQhqxscAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZQhqxscAAAAJ&citpid=2",
     "affiliation": "Professor of CS/HCI; Chalmers (S) and Bergen (N)",
     "keywords": [
       "Human-Computer Interaction",
@@ -1765,16 +1765,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2084",
-        "974"
+        "2213",
+        "1089"
       ],
       "hindex": [
-        "24",
+        "25",
         "17"
       ],
       "i10index": [
-        "56",
-        "26"
+        "61",
+        "31"
       ]
     },
     "year": "1998"
@@ -1791,16 +1791,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21829",
-        "2372"
+        "22161",
+        "2562"
       ],
       "hindex": [
-        "38",
+        "39",
         "13"
       ],
       "i10index": [
-        "84",
-        "19"
+        "85",
+        "21"
       ]
     },
     "year": "1982"
@@ -1815,40 +1815,40 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18446",
-        "4004"
+        "18869",
+        "4357"
       ],
       "hindex": [
         "58",
-        "28"
+        "30"
       ],
       "i10index": [
-        "181",
-        "84"
+        "183",
+        "88"
       ]
     },
-    "year": "1984"
+    "year": "1986"
   },
   {
     "name": "Jodi Forlizzi",
     "url": "https://scholar.google.com/citations?user=Hyhp_zUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Hyhp_zUAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Hyhp_zUAAAAJ&citpid=3",
     "affiliation": "Professor, HCI and School of Design",
     "keywords": [
       "interaction design"
     ],
     "stats": {
       "citations": [
-        "16743",
-        "10017"
+        "17869",
+        "11021"
       ],
       "hindex": [
-        "65",
-        "52"
+        "66",
+        "56"
       ],
       "i10index": [
-        "150",
-        "129"
+        "153",
+        "133"
       ]
     },
     "year": "2003"
@@ -1856,7 +1856,7 @@ var data = [
   {
     "name": "Jon Froehlich",
     "url": "https://scholar.google.com/citations?user=nExKrpsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=nExKrpsAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=nExKrpsAAAAJ&citpid=2",
     "affiliation": "Associate Professor, CSE, University of Washington",
     "keywords": [
       "Human-Computer Interaction",
@@ -1864,16 +1864,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8145",
-        "5096"
+        "8583",
+        "5479"
       ],
       "hindex": [
-        "36",
-        "34"
+        "38",
+        "35"
       ],
       "i10index": [
-        "58",
-        "57"
+        "63",
+        "62"
       ]
     },
     "year": "2005"
@@ -1881,7 +1881,7 @@ var data = [
   {
     "name": "Susan Fussell",
     "url": "https://scholar.google.com/citations?user=QpG20J0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=QpG20J0AAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=QpG20J0AAAAJ&citpid=1",
     "affiliation": "Cornell University",
     "keywords": [
       "CSCW",
@@ -1890,24 +1890,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10038",
-        "3723"
+        "10416",
+        "4010"
       ],
       "hindex": [
-        "51",
+        "52",
         "35"
       ],
       "i10index": [
-        "105",
-        "80"
+        "106",
+        "82"
       ]
     },
-    "year": "1992"
+    "year": "1993"
   },
   {
     "name": "Krzysztof Gajos",
     "url": "https://scholar.google.com/citations?user=MnnERiQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=MnnERiQAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=MnnERiQAAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science, Harvard University",
     "keywords": [
       "Human-Computer Interaction",
@@ -1917,16 +1917,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5558",
-        "3471"
+        "5907",
+        "3787"
       ],
       "hindex": [
-        "38",
-        "31"
+        "39",
+        "33"
       ],
       "i10index": [
-        "69",
-        "57"
+        "70",
+        "59"
       ]
     },
     "year": "2002"
@@ -1939,16 +1939,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "12163",
-        "5438"
+        "12775",
+        "5920"
       ],
       "hindex": [
-        "52",
-        "36"
+        "54",
+        "38"
       ],
       "i10index": [
-        "131",
-        "86"
+        "135",
+        "90"
       ]
     },
     "year": "1993"
@@ -1956,27 +1956,27 @@ var data = [
   {
     "name": "Darren Gergle",
     "url": "https://scholar.google.com/citations?user=T4Yo9gQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=T4Yo9gQAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=T4Yo9gQAAAAJ&citpid=3",
     "affiliation": "Professor, Northwestern University",
     "keywords": [
       "human-computer interaction",
       "computer-supported cooperative work",
       "computer-mediated communication",
       "social computing",
-      "information"
+      "HCI"
     ],
     "stats": {
       "citations": [
-        "5944",
-        "3289"
+        "6315",
+        "3620"
       ],
       "hindex": [
-        "35",
-        "30"
+        "37",
+        "32"
       ],
       "i10index": [
-        "59",
-        "52"
+        "60",
+        "54"
       ]
     },
     "year": "2002"
@@ -1984,7 +1984,7 @@ var data = [
   {
     "name": "Eric Gilbert",
     "url": "https://scholar.google.com/citations?user=71OktocAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=71OktocAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=71OktocAAAAJ&citpid=2",
     "affiliation": "Associate Professor, School of Information, University of Michigan",
     "keywords": [
       "social computing",
@@ -1995,44 +1995,44 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5473",
-        "4380"
+        "6082",
+        "4976"
       ],
       "hindex": [
-        "32",
-        "29"
+        "34",
+        "31"
       ],
       "i10index": [
         "48",
         "46"
       ]
     },
-    "year": "2006"
+    "year": "2007"
   },
   {
     "name": "Juan E. Gilbert",
     "url": "https://scholar.google.com/citations?user=FKbHXRUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=FKbHXRUAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=FKbHXRUAAAAJ&citpid=3",
     "affiliation": "University of Florida",
     "keywords": [
       "Human-Centered Computing",
-      "UX",
+      "Voting Systems",
       "Electronic Voting",
-      "Spoken Language Systems",
-      "Broadening Participation in Computing"
+      "Broadening Participation in Computing",
+      "UX"
     ],
     "stats": {
       "citations": [
-        "1886",
-        "1037"
+        "2009",
+        "1135"
       ],
       "hindex": [
-        "19",
-        "15"
+        "20",
+        "16"
       ],
       "i10index": [
-        "44",
-        "23"
+        "48",
+        "26"
       ]
     },
     "year": "2000"
@@ -2048,16 +2048,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13858",
-        "5141"
+        "14376",
+        "5581"
       ],
       "hindex": [
-        "53",
-        "35"
+        "55",
+        "38"
       ],
       "i10index": [
-        "120",
-        "89"
+        "121",
+        "95"
       ]
     },
     "year": "1993"
@@ -2065,7 +2065,7 @@ var data = [
   {
     "name": "Jennifer Golbeck",
     "url": "https://scholar.google.com/citations?user=WBOnL7sAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=WBOnL7sAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=WBOnL7sAAAAJ&citpid=2",
     "affiliation": "University of Maryland, College Park",
     "keywords": [
       "social networks",
@@ -2075,16 +2075,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12414",
-        "6083"
+        "13031",
+        "6609"
       ],
       "hindex": [
-        "48",
-        "38"
+        "49",
+        "39"
       ],
       "i10index": [
-        "106",
-        "88"
+        "108",
+        "91"
       ]
     },
     "year": "2003"
@@ -2092,7 +2092,7 @@ var data = [
   {
     "name": "Carsten Görg",
     "url": "https://scholar.google.com/citations?user=kQkwf5wAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=kQkwf5wAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=kQkwf5wAAAAJ&citpid=2",
     "affiliation": "Instructor of Pharmacology, University of Colorado School of Medicine",
     "keywords": [
       "Visual Analytics",
@@ -2101,8 +2101,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3275",
-        "1907"
+        "3469",
+        "2076"
       ],
       "hindex": [
         "23",
@@ -2110,7 +2110,7 @@ var data = [
       ],
       "i10index": [
         "37",
-        "27"
+        "28"
       ]
     },
     "year": "2002"
@@ -2118,33 +2118,34 @@ var data = [
   {
     "name": "David Gotz",
     "url": "https://scholar.google.com/citations?user=qybJ3GoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=qybJ3GoAAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=qybJ3GoAAAAJ&citpid=1",
     "affiliation": "University of North Carolina at Chapel Hill",
     "keywords": [
       "Visual Analytics",
       "Medical Informatics",
-      "Information Visualization"
+      "Information Visualization",
+      "Data Science"
     ],
     "stats": {
       "citations": [
-        "3869",
-        "2496"
+        "3823",
+        "2626"
       ],
       "hindex": [
-        "31",
+        "30",
         "26"
       ],
       "i10index": [
         "61",
-        "51"
+        "52"
       ]
     },
-    "year": "1998"
+    "year": "2001"
   },
   {
     "name": "Saul Greenberg",
     "url": "https://scholar.google.com/citations?user=TthhUuoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=TthhUuoAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TthhUuoAAAAJ&citpid=3",
     "affiliation": "Professor, Computer Science, University of Calgary",
     "keywords": [
       "Human Computer Interaction",
@@ -2153,16 +2154,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "27698",
-        "7410"
+        "28390",
+        "7922"
       ],
       "hindex": [
         "88",
-        "48"
+        "49"
       ],
       "i10index": [
-        "251",
-        "142"
+        "252",
+        "143"
       ]
     },
     "year": "1992"
@@ -2170,7 +2171,7 @@ var data = [
   {
     "name": "Beki Grinter",
     "url": "https://scholar.google.com/citations?user=PNalJ58AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=PNalJ58AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=PNalJ58AAAAJ&citpid=2",
     "affiliation": "Professor of Interactive Computing, Georgia Institute of Technology",
     "keywords": [
       "Human Computer Interaction",
@@ -2179,16 +2180,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13665",
-        "4827"
+        "14104",
+        "5158"
       ],
       "hindex": [
-        "58",
-        "41"
+        "60",
+        "42"
       ],
       "i10index": [
         "113",
-        "85"
+        "86"
       ]
     },
     "year": "1999"
@@ -2203,16 +2204,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5978",
-        "2662"
+        "6141",
+        "2808"
       ],
       "hindex": [
         "36",
-        "29"
+        "31"
       ],
       "i10index": [
-        "65",
-        "56"
+        "66",
+        "57"
       ]
     },
     "year": "2002"
@@ -2220,7 +2221,7 @@ var data = [
   {
     "name": "Gregory Hager",
     "url": "https://scholar.google.com/citations?user=ivApfKcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=ivApfKcAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ivApfKcAAAAJ&citpid=4",
     "affiliation": "Mandell Bellmore Professor of Computer Science, Johns Hopkins University",
     "keywords": [
       "Robotics",
@@ -2230,16 +2231,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "26093",
-        "10792"
+        "27105",
+        "11640"
       ],
       "hindex": [
-        "70",
-        "49"
+        "71",
+        "51"
       ],
       "i10index": [
-        "305",
-        "196"
+        "312",
+        "209"
       ]
     },
     "year": "1995"
@@ -2247,7 +2248,7 @@ var data = [
   {
     "name": "Frank van Ham",
     "url": "https://scholar.google.com/citations?user=fJc5go8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=fJc5go8AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=fJc5go8AAAAJ&citpid=2",
     "affiliation": "IBM Software Group",
     "keywords": [
       "Information Visualization",
@@ -2255,16 +2256,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3602",
-        "1565"
+        "3787",
+        "1703"
       ],
       "hindex": [
         "22",
         "17"
       ],
       "i10index": [
-        "27",
-        "21"
+        "29",
+        "22"
       ]
     },
     "year": "2003"
@@ -2272,7 +2273,7 @@ var data = [
   {
     "name": "Tracy Anne Hammond",
     "url": "https://scholar.google.com/citations?user=wlp2c0IAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=wlp2c0IAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wlp2c0IAAAAJ&citpid=2",
     "affiliation": "Department of Computer Science and Engineering, Texas A&M University",
     "keywords": [
       "sketch recognition",
@@ -2283,16 +2284,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2894",
-        "1556"
+        "3172",
+        "1824"
       ],
       "hindex": [
-        "24",
-        "19"
+        "26",
+        "21"
       ],
       "i10index": [
-        "68",
-        "45"
+        "77",
+        "56"
       ]
     },
     "year": "2002"
@@ -2300,7 +2301,7 @@ var data = [
   {
     "name": "Mark Hancock",
     "url": "https://scholar.google.com/citations?user=PYvcN3cAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=PYvcN3cAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=PYvcN3cAAAAJ&citpid=2",
     "affiliation": "Associate Professor, Management Sciences, University of Waterloo",
     "keywords": [
       "Human-Computer Interaction",
@@ -2309,12 +2310,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2246",
-        "1195"
+        "2341",
+        "1280"
       ],
       "hindex": [
         "24",
-        "17"
+        "18"
       ],
       "i10index": [
         "41",
@@ -2335,16 +2336,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "40612",
-        "12343"
+        "41826",
+        "13319"
       ],
       "hindex": [
-        "88",
-        "53"
+        "89",
+        "55"
       ],
       "i10index": [
-        "182",
-        "132"
+        "185",
+        "133"
       ]
     },
     "year": "1990"
@@ -2352,22 +2353,23 @@ var data = [
   {
     "name": "Derek L. Hansen",
     "url": "https://scholar.google.com/citations?user=IpLkSvEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=medium_photo&user=IpLkSvEAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=medium_photo&user=IpLkSvEAAAAJ&citpid=3",
     "affiliation": "Associate Professor of IT & Cybersecurity, Brigham Young University",
     "keywords": [
       "Human Computer Interaction",
       "Social Network Analysis",
       "CSCW and Social Media",
-      "Serious Games"
+      "Serious Games",
+      "Educational Simulations"
     ],
     "stats": {
       "citations": [
-        "4766",
-        "3518"
+        "5111",
+        "3808"
       ],
       "hindex": [
-        "29",
-        "26"
+        "31",
+        "27"
       ],
       "i10index": [
         "51",
@@ -2379,21 +2381,21 @@ var data = [
   {
     "name": "Charles Hansen",
     "url": "https://scholar.google.com/citations?user=UqyaAQQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=UqyaAQQAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=UqyaAQQAAAAJ&citpid=4",
     "affiliation": "School of Computing, SCI Institute, University of Utah",
     "keywords": [],
     "stats": {
       "citations": [
-        "12173",
-        "3893"
+        "12613",
+        "4275"
       ],
       "hindex": [
-        "56",
-        "26"
+        "57",
+        "27"
       ],
       "i10index": [
-        "130",
-        "78"
+        "132",
+        "81"
       ]
     },
     "year": "1989"
@@ -2401,27 +2403,27 @@ var data = [
   {
     "name": "Chris Harrison",
     "url": "https://scholar.google.com/citations?user=36HRdqMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=36HRdqMAAAAJ&citpid=11",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=36HRdqMAAAAJ&citpid=11",
     "affiliation": "Professor of Human-Computer Interaction, Carnegie Mellon University",
     "keywords": [
+      "Input",
       "Mobile Devices",
       "Context Awareness",
-      "Input",
       "Natural User Interfaces",
       "Mobile Sensing"
     ],
     "stats": {
       "citations": [
-        "6010",
-        "4630"
+        "6489",
+        "5096"
       ],
       "hindex": [
-        "41",
-        "39"
+        "43",
+        "42"
       ],
       "i10index": [
-        "70",
-        "64"
+        "72",
+        "66"
       ]
     },
     "year": "2009"
@@ -2429,7 +2431,7 @@ var data = [
   {
     "name": "Steve Harrison",
     "url": "https://scholar.google.com/citations?user=r6k-SS4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=r6k-SS4AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=r6k-SS4AAAAJ&citpid=2",
     "affiliation": "Associate Professor of Practice, Virginia Tech",
     "keywords": [
       "HCI",
@@ -2440,16 +2442,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6623",
-        "1883"
+        "6952",
+        "2085"
       ],
       "hindex": [
-        "26",
-        "15"
+        "29",
+        "17"
       ],
       "i10index": [
-        "51",
-        "26"
+        "55",
+        "30"
       ]
     },
     "year": "1993"
@@ -2457,23 +2459,23 @@ var data = [
   {
     "name": "Bjoern Hartmann",
     "url": "https://scholar.google.com/citations?user=aZMY6_UAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=aZMY6_UAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=aZMY6_UAAAAJ&citpid=2",
     "affiliation": "Associate Professor of EECS, University of California, Berkeley",
     "keywords": [
       "Human-Computer Interaction"
     ],
     "stats": {
       "citations": [
-        "7513",
-        "5176"
+        "8036",
+        "5641"
       ],
       "hindex": [
-        "43",
-        "37"
+        "45",
+        "41"
       ],
       "i10index": [
-        "92",
-        "83"
+        "97",
+        "89"
       ]
     },
     "year": "2005"
@@ -2481,7 +2483,7 @@ var data = [
   {
     "name": "Gillian R Hayes",
     "url": "https://scholar.google.com/citations?user=5mIkNyYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=5mIkNyYAAAAJ&citpid=9",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=5mIkNyYAAAAJ&citpid=11",
     "affiliation": "Kleist Professor in Informatics, University of California, Irvine",
     "keywords": [
       "Human Computer Interaction",
@@ -2492,16 +2494,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5071",
-        "3372"
+        "5462",
+        "3733"
       ],
       "hindex": [
-        "41",
-        "31"
+        "43",
+        "33"
       ],
       "i10index": [
-        "86",
-        "76"
+        "95",
+        "85"
       ]
     },
     "year": "2005"
@@ -2509,7 +2511,7 @@ var data = [
   {
     "name": "Marti Hearst",
     "url": "https://scholar.google.com/citations?user=Yy6xbCYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Yy6xbCYAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Yy6xbCYAAAAJ&citpid=3",
     "affiliation": "Professor, University of California, Berkeley",
     "keywords": [
       "Computational Linguistics",
@@ -2519,16 +2521,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "30916",
-        "9256"
+        "32034",
+        "10098"
       ],
       "hindex": [
         "72",
-        "39"
+        "41"
       ],
       "i10index": [
-        "155",
-        "92"
+        "158",
+        "98"
       ]
     },
     "year": "1994"
@@ -2536,27 +2538,27 @@ var data = [
   {
     "name": "Brent Hecht",
     "url": "https://scholar.google.com/citations?user=6IinLVUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=6IinLVUAAAAJ&citpid=8",
-    "affiliation": "Assistant Professor, Northwestern University",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=6IinLVUAAAAJ&citpid=17",
+    "affiliation": "Associate Professor, Northwestern University; Director of Applied Science, Microsoft",
     "keywords": [
+      "Human-Centered AI",
       "Human-Computer Interaction",
       "Social Computing",
       "Spatial Computing",
-      "Geographic Information Science",
-      "Geography"
+      "Geographic Information Science"
     ],
     "stats": {
       "citations": [
-        "3198",
-        "2568"
+        "3473",
+        "2834"
       ],
       "hindex": [
-        "27",
-        "24"
+        "29",
+        "26"
       ],
       "i10index": [
-        "44",
-        "39"
+        "45",
+        "40"
       ]
     },
     "year": "2007"
@@ -2564,7 +2566,7 @@ var data = [
   {
     "name": "Jeffrey Heer",
     "url": "https://scholar.google.com/citations?user=vlgs4G4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=vlgs4G4AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=vlgs4G4AAAAJ&citpid=3",
     "affiliation": "University of Washington",
     "keywords": [
       "Human-Computer Interaction",
@@ -2575,19 +2577,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16912",
-        "11409"
+        "18253",
+        "12645"
       ],
       "hindex": [
-        "63",
-        "51"
+        "65",
+        "54"
       ],
       "i10index": [
-        "125",
-        "108"
+        "131",
+        "113"
       ]
     },
-    "year": "2002"
+    "year": "2003"
   },
   {
     "name": "Robert Hendley",
@@ -2597,16 +2599,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "1070",
-        "526"
+        "1151",
+        "602"
       ],
       "hindex": [
         "15",
         "11"
       ],
       "i10index": [
-        "21",
-        "11"
+        "22",
+        "12"
       ]
     },
     "year": "1984"
@@ -2614,7 +2616,7 @@ var data = [
   {
     "name": "Susan C. Herring",
     "url": "https://scholar.google.com/citations?user=atKhRwEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=atKhRwEAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=atKhRwEAAAAJ&citpid=3",
     "affiliation": "Professor of Information Science and Linguistics, Indiana University",
     "keywords": [
       "computer-mediated communication",
@@ -2625,16 +2627,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "24270",
-        "10031"
+        "25373",
+        "10876"
       ],
       "hindex": [
-        "58",
-        "47"
+        "59",
+        "48"
       ],
       "i10index": [
         "109",
-        "89"
+        "90"
       ]
     },
     "year": "1996"
@@ -2642,7 +2644,7 @@ var data = [
   {
     "name": "Jason Hong",
     "url": "https://scholar.google.com/citations?user=MoFbcc0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=MoFbcc0AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=MoFbcc0AAAAJ&citpid=3",
     "affiliation": "Carnegie Mellon University",
     "keywords": [
       "Human-Computer Interaction",
@@ -2653,24 +2655,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21579",
-        "10232"
+        "22542",
+        "11087"
       ],
       "hindex": [
         "70",
-        "51"
+        "54"
       ],
       "i10index": [
-        "145",
-        "120"
+        "150",
+        "125"
       ]
     },
-    "year": "2000"
+    "year": "2001"
   },
   {
     "name": "Jeff Huang",
     "url": "https://scholar.google.com/citations?user=o8oJ6s4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=o8oJ6s4AAAAJ&citpid=6",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=o8oJ6s4AAAAJ&citpid=6",
     "affiliation": "Brown University",
     "keywords": [
       "Human-Computer Interaction",
@@ -2679,16 +2681,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2164",
-        "1593"
+        "2302",
+        "1720"
       ],
       "hindex": [
         "23",
         "21"
       ],
       "i10index": [
-        "28",
-        "27"
+        "32",
+        "31"
       ]
     },
     "year": "2010"
@@ -2696,22 +2698,22 @@ var data = [
   {
     "name": "Scott E. Hudson",
     "url": "https://scholar.google.com/citations?user=6YU6_QoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=6YU6_QoAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=6YU6_QoAAAAJ&citpid=3",
     "affiliation": "Professor of Human-Computer Interaction, Carnegie Mellon University",
     "keywords": [
       "Human-Computer Interaction"
     ],
     "stats": {
       "citations": [
-        "13755",
-        "5317"
+        "14243",
+        "5738"
       ],
       "hindex": [
-        "65",
-        "40"
+        "67",
+        "43"
       ],
       "i10index": [
-        "183",
+        "184",
         "120"
       ]
     },
@@ -2720,7 +2722,7 @@ var data = [
   {
     "name": "Kori Inkpen",
     "url": "https://scholar.google.com/citations?user=9aA5QTUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=9aA5QTUAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=9aA5QTUAAAAJ&citpid=2",
     "affiliation": "Principal Researcher, Microsoft Research",
     "keywords": [
       "Computer Supported Cooperative Work (CSCW)",
@@ -2729,16 +2731,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8268",
-        "3019"
+        "8581",
+        "3278"
       ],
       "hindex": [
-        "48",
-        "31"
+        "49",
+        "32"
       ],
       "i10index": [
-        "113",
-        "76"
+        "115",
+        "79"
       ]
     },
     "year": "1997"
@@ -2746,23 +2748,23 @@ var data = [
   {
     "name": "Shamsi T. Iqbal",
     "url": "https://scholar.google.com/citations?user=oCQdMjoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=oCQdMjoAAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=oCQdMjoAAAAJ&citpid=1",
     "affiliation": "Principal Researcher, Microsoft Research AI",
     "keywords": [
       "Human Computer Interaction"
     ],
     "stats": {
       "citations": [
-        "3179",
-        "2144"
+        "3447",
+        "2390"
       ],
       "hindex": [
-        "26",
-        "25"
+        "28",
+        "26"
       ],
       "i10index": [
-        "41",
-        "38"
+        "44",
+        "41"
       ]
     },
     "year": "2004"
@@ -2780,16 +2782,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4160",
-        "2825"
+        "4390",
+        "3053"
       ],
       "hindex": [
-        "38",
-        "30"
+        "40",
+        "31"
       ],
       "i10index": [
-        "93",
-        "81"
+        "94",
+        "84"
       ]
     },
     "year": "2002"
@@ -2797,7 +2799,7 @@ var data = [
   {
     "name": "Petra Isenberg (Neumann)",
     "url": "https://scholar.google.com/citations?user=mw0_aLoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=mw0_aLoAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=mw0_aLoAAAAJ&citpid=2",
     "affiliation": "Research Scientist, Inria, France",
     "keywords": [
       "Information Visualization",
@@ -2808,16 +2810,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4362",
-        "3020"
+        "4623",
+        "3268"
       ],
       "hindex": [
-        "34",
-        "31"
+        "35",
+        "32"
       ],
       "i10index": [
-        "56",
-        "52"
+        "58",
+        "54"
       ]
     },
     "year": "2006"
@@ -2825,7 +2827,7 @@ var data = [
   {
     "name": "Tobias Isenberg",
     "url": "https://scholar.google.com/citations?user=e09cpQUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=e09cpQUAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=e09cpQUAAAAJ&citpid=5",
     "affiliation": "Senior Research Scientist, Inria, Saclay Île-de-France",
     "keywords": [
       "Visualization",
@@ -2836,16 +2838,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3584",
-        "2132"
+        "3815",
+        "2337"
       ],
       "hindex": [
-        "32",
-        "27"
+        "34",
+        "28"
       ],
       "i10index": [
-        "77",
-        "57"
+        "82",
+        "61"
       ]
     },
     "year": "2003"
@@ -2853,7 +2855,7 @@ var data = [
   {
     "name": "Melody Jackson",
     "url": "https://scholar.google.com/citations?user=83SAwBsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=83SAwBsAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=83SAwBsAAAAJ&citpid=2",
     "affiliation": "Associate Professor of Computer Science, Georgia Tech",
     "keywords": [
       "Brain-Computer Interfaces",
@@ -2861,16 +2863,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1140",
-        "697"
+        "1201",
+        "750"
       ],
       "hindex": [
-        "15",
+        "16",
         "13"
       ],
       "i10index": [
-        "24",
-        "19"
+        "25",
+        "20"
       ]
     },
     "year": "2006"
@@ -2878,7 +2880,7 @@ var data = [
   {
     "name": "T.J. Jankun-Kelly",
     "url": "https://scholar.google.com/citations?user=KKzGz-YAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=KKzGz-YAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=KKzGz-YAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Mississippi State University",
     "keywords": [
       "Visualization",
@@ -2886,16 +2888,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1664",
-        "709"
+        "1726",
+        "764"
       ],
       "hindex": [
-        "19",
+        "20",
         "15"
       ],
       "i10index": [
-        "30",
-        "17"
+        "31",
+        "18"
       ]
     },
     "year": "2002"
@@ -2903,7 +2905,7 @@ var data = [
   {
     "name": "Andrew Johnson",
     "url": "https://scholar.google.com/citations?user=s8e4QnsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=s8e4QnsAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=s8e4QnsAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Director of Research at Electronic Visualization Lab, UIC",
     "keywords": [
       "Visualization",
@@ -2914,16 +2916,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5352",
-        "1811"
+        "5535",
+        "1956"
       ],
       "hindex": [
         "41",
-        "21"
+        "22"
       ],
       "i10index": [
-        "105",
-        "47"
+        "108",
+        "50"
       ]
     },
     "year": "1996"
@@ -2931,7 +2933,7 @@ var data = [
   {
     "name": "Shaun Kane",
     "url": "https://scholar.google.com/citations?user=v564lDgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=v564lDgAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=v564lDgAAAAJ&citpid=2",
     "affiliation": "Associate Professor, University of Colorado Boulder",
     "keywords": [
       "Human-Computer Interaction",
@@ -2939,16 +2941,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3819",
-        "2630"
+        "4159",
+        "2931"
       ],
       "hindex": [
-        "33",
-        "30"
+        "34",
+        "31"
       ],
       "i10index": [
-        "47",
-        "44"
+        "52",
+        "47"
       ]
     },
     "year": "1996"
@@ -2956,7 +2958,7 @@ var data = [
   {
     "name": "David Karger",
     "url": "https://scholar.google.com/citations?user=2vQRGrYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=2vQRGrYAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=2vQRGrYAAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science, MIT",
     "keywords": [
       "Information Management",
@@ -2967,16 +2969,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "61786",
-        "16268"
+        "63380",
+        "17435"
       ],
       "hindex": [
-        "93",
+        "94",
         "57"
       ],
       "i10index": [
-        "230",
-        "155"
+        "234",
+        "163"
       ]
     },
     "year": "1997"
@@ -2984,7 +2986,7 @@ var data = [
   {
     "name": "Andrea Kavanaugh",
     "url": "https://scholar.google.com/citations?user=qJWs9cAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=qJWs9cAAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=qJWs9cAAAAAJ&citpid=2",
     "affiliation": "Center for Human-Computer Interaction, Virginia Tech",
     "keywords": [
       "HCI",
@@ -2994,16 +2996,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3655",
-        "1545"
+        "3818",
+        "1678"
       ],
       "hindex": [
         "22",
         "16"
       ],
       "i10index": [
-        "43",
-        "26"
+        "44",
+        "28"
       ]
     },
     "year": "1997"
@@ -3011,27 +3013,27 @@ var data = [
   {
     "name": "Daniel Keim",
     "url": "https://scholar.google.com/citations?user=YJm9he0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=YJm9he0AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=YJm9he0AAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Data Analysis and Visualization, University of Konstanz",
     "keywords": [
-      "Data Mining",
-      "Information Visualization",
+      "Data Analysis",
+      "Visualization",
       "Visual Analytics",
-      "High-dimensional Index Structures",
+      "Data Mining",
       "Clustering"
     ],
     "stats": {
       "citations": [
-        "31571",
-        "14254"
+        "33143",
+        "15607"
       ],
       "hindex": [
-        "74",
-        "52"
+        "76",
+        "54"
       ],
       "i10index": [
-        "307",
-        "217"
+        "317",
+        "227"
       ]
     },
     "year": "1997"
@@ -3044,16 +3046,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "3180",
-        "1405"
+        "3308",
+        "1503"
       ],
       "hindex": [
         "24",
-        "14"
+        "15"
       ],
       "i10index": [
         "58",
-        "23"
+        "24"
       ]
     },
     "year": "1993"
@@ -3061,7 +3063,7 @@ var data = [
   {
     "name": "Andruid Kerne",
     "url": "https://scholar.google.com/citations?user=TD6dCG0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=TD6dCG0AAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TD6dCG0AAAAJ&citpid=5",
     "affiliation": "Professor, Dept. of Computer Science & Engineering, Texas A&M University",
     "keywords": [
       "human computer interaction",
@@ -3072,16 +3074,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2001",
-        "1164"
+        "2103",
+        "1262"
       ],
       "hindex": [
         "25",
-        "17"
+        "18"
       ],
       "i10index": [
-        "58",
-        "30"
+        "60",
+        "32"
       ]
     },
     "year": "2000"
@@ -3089,7 +3091,7 @@ var data = [
   {
     "name": "Andreas Kerren",
     "url": "https://scholar.google.com/citations?user=FJ0hneUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=FJ0hneUAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=FJ0hneUAAAAJ&citpid=4",
     "affiliation": "Professor of Computer Science, Linnaeus University, Sweden",
     "keywords": [
       "Information Visualization",
@@ -3100,16 +3102,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1934",
-        "1191"
+        "2045",
+        "1290"
       ],
       "hindex": [
-        "22",
-        "18"
+        "23",
+        "19"
       ],
       "i10index": [
-        "50",
-        "36"
+        "53",
+        "37"
       ]
     },
     "year": "2000"
@@ -3117,27 +3119,27 @@ var data = [
   {
     "name": "Julie A. Kientz",
     "url": "https://scholar.google.com/citations?user=GvpuYB4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=GvpuYB4AAAAJ&citpid=6",
-    "affiliation": "Associate Professor, University of Washington",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=GvpuYB4AAAAJ&citpid=7",
+    "affiliation": "Professor, University of Washington",
     "keywords": [
       "Human-Computer Interaction",
       "Ubiquitous Computing",
       "Health Informatics",
       "Interaction Design & Children",
-      "Computer-Supported Cooperat"
+      "CSCW"
     ],
     "stats": {
       "citations": [
-        "5536",
-        "3909"
+        "6012",
+        "4365"
       ],
       "hindex": [
-        "36",
-        "32"
+        "39",
+        "35"
       ],
       "i10index": [
-        "74",
-        "67"
+        "78",
+        "71"
       ]
     },
     "year": "2003"
@@ -3145,7 +3147,7 @@ var data = [
   {
     "name": "Sara Kiesler",
     "url": "https://scholar.google.com/citations?user=8Qu_gAMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=8Qu_gAMAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=8Qu_gAMAAAAJ&citpid=4",
     "affiliation": "Emeritus Hillman Professor of Computer Science and Human Computer Interaction, Carnegie Mellon",
     "keywords": [
       "human-computer interaction",
@@ -3156,16 +3158,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "58114",
-        "18049"
+        "60288",
+        "19597"
       ],
       "hindex": [
-        "95",
-        "64"
+        "97",
+        "67"
       ],
       "i10index": [
-        "200",
-        "146"
+        "203",
+        "151"
       ]
     },
     "year": "1988"
@@ -3173,7 +3175,7 @@ var data = [
   {
     "name": "Aniket Kittur",
     "url": "https://scholar.google.com/citations?user=2vZ5zRQAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=2vZ5zRQAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=2vZ5zRQAAAAJ&citpid=2",
     "affiliation": "Professor, Carnegie Mellon University",
     "keywords": [
       "Human-Computer Interaction",
@@ -3184,16 +3186,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9944",
-        "6706"
+        "10554",
+        "7269"
       ],
       "hindex": [
         "40",
-        "36"
+        "38"
       ],
       "i10index": [
-        "69",
-        "62"
+        "70",
+        "63"
       ]
     },
     "year": "2008"
@@ -3201,7 +3203,7 @@ var data = [
   {
     "name": "Roberta Klatzky",
     "url": "https://scholar.google.com/citations?user=wUPKh58AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=wUPKh58AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wUPKh58AAAAJ&citpid=3",
     "affiliation": "Charles J. Queenan Jr. University Professor of Psychology, Carnegie Mellon University",
     "keywords": [
       "perception & action",
@@ -3209,16 +3211,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "24218",
-        "7566"
+        "24934",
+        "8159"
       ],
       "hindex": [
-        "80",
-        "45"
+        "82",
+        "48"
       ],
       "i10index": [
-        "244",
-        "141"
+        "245",
+        "145"
       ]
     },
     "year": "1980"
@@ -3226,23 +3228,23 @@ var data = [
   {
     "name": "Scott Klemmer",
     "url": "https://scholar.google.com/citations?user=BEHcR-IAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=BEHcR-IAAAAJ&citpid=7",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BEHcR-IAAAAJ&citpid=7",
     "affiliation": "UC San Diego Design Lab, Coursera Instructor",
     "keywords": [
       "Interaction Design"
     ],
     "stats": {
       "citations": [
-        "7570",
-        "4024"
+        "7908",
+        "4325"
       ],
       "hindex": [
         "39",
-        "32"
+        "34"
       ],
       "i10index": [
         "81",
-        "58"
+        "60"
       ]
     },
     "year": "2002"
@@ -3250,7 +3252,7 @@ var data = [
   {
     "name": "Alfred Kobsa",
     "url": "https://scholar.google.com/citations?user=0nBysEcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=0nBysEcAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=0nBysEcAAAAJ&citpid=3",
     "affiliation": "Professor of Informatics and Computer Science, University of California, Irvine",
     "keywords": [
       "Personalization",
@@ -3261,16 +3263,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11334",
-        "2844"
+        "11659",
+        "3071"
       ],
       "hindex": [
-        "52",
-        "28"
+        "53",
+        "29"
       ],
       "i10index": [
         "123",
-        "70"
+        "72"
       ]
     },
     "year": "1988"
@@ -3278,27 +3280,27 @@ var data = [
   {
     "name": "Ken Koedinger",
     "url": "https://scholar.google.com/citations?user=_8DDVkAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=_8DDVkAAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=_8DDVkAAAAAJ&citpid=2",
     "affiliation": "Professor of Human-Computer Interaction and Psychology, Carnegie Mellon University",
     "keywords": [
-      "Learning Technologies",
+      "Educational Data Mining",
       "Artificial Intelligence in Education",
-      "Learning Analytics",
       "Learning Sciences",
-      "Human-Computer Interaction"
+      "Human-Computer Interaction",
+      "Cognitive Science"
     ],
     "stats": {
       "citations": [
-        "26535",
-        "12302"
+        "27895",
+        "13390"
       ],
       "hindex": [
-        "77",
-        "57"
+        "80",
+        "60"
       ],
       "i10index": [
         "275",
-        "194"
+        "198"
       ]
     },
     "year": "1996"
@@ -3306,7 +3308,7 @@ var data = [
   {
     "name": "Joseph A. Konstan",
     "url": "https://scholar.google.com/citations?user=PH4mytYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=PH4mytYAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=PH4mytYAAAAJ&citpid=2",
     "affiliation": "University of Minnesota",
     "keywords": [
       "Human-Computer Interaction",
@@ -3316,16 +3318,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "54716",
-        "24487"
+        "57678",
+        "26887"
       ],
       "hindex": [
-        "77",
-        "56"
+        "78",
+        "57"
       ],
       "i10index": [
-        "136",
-        "108"
+        "141",
+        "114"
       ]
     },
     "year": "2000"
@@ -3333,7 +3335,7 @@ var data = [
   {
     "name": "Robert Kosara",
     "url": "https://scholar.google.com/citations?user=7BS9z-kAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=7BS9z-kAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=7BS9z-kAAAAJ&citpid=2",
     "affiliation": "Tableau Software",
     "keywords": [
       "Information Visualization",
@@ -3342,16 +3344,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3872",
-        "1999"
+        "4080",
+        "2177"
       ],
       "hindex": [
         "34",
-        "25"
+        "26"
       ],
       "i10index": [
-        "60",
-        "41"
+        "62",
+        "43"
       ]
     },
     "year": "2001"
@@ -3359,7 +3361,7 @@ var data = [
   {
     "name": "Robert E. Kraut",
     "url": "https://scholar.google.com/citations?user=HKGYvu4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=HKGYvu4AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=HKGYvu4AAAAJ&citpid=2",
     "affiliation": "Human-Computer  Interaction Instititute, Carnegie Mellon University",
     "keywords": [
       "Social computing",
@@ -3370,16 +3372,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "48716",
-        "18089"
+        "50929",
+        "19760"
       ],
       "hindex": [
-        "104",
-        "65"
+        "105",
+        "67"
       ],
       "i10index": [
-        "240",
-        "188"
+        "242",
+        "194"
       ]
     },
     "year": "1990"
@@ -3393,21 +3395,21 @@ var data = [
       "Scientific Visualization",
       "User Interfaces",
       "Medical Imaging",
-      "Scientific Computing",
+      "Visualization",
       "Computational Science"
     ],
     "stats": {
       "citations": [
-        "13183",
-        "6675"
+        "13876",
+        "7280"
       ],
       "hindex": [
-        "55",
-        "37"
+        "58",
+        "39"
       ],
       "i10index": [
-        "152",
-        "100"
+        "153",
+        "106"
       ]
     },
     "year": "1990"
@@ -3415,7 +3417,7 @@ var data = [
   {
     "name": "Cliff Lampe",
     "url": "https://scholar.google.com/citations?user=aT8oqcoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=aT8oqcoAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=aT8oqcoAAAAJ&citpid=3",
     "affiliation": "Professor, School of Information University of Michigan",
     "keywords": [
       "social media",
@@ -3426,16 +3428,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "28201",
-        "19219"
+        "30025",
+        "20790"
       ],
       "hindex": [
-        "46",
-        "46"
+        "48",
+        "47"
       ],
       "i10index": [
-        "86",
-        "75"
+        "90",
+        "77"
       ]
     },
     "year": "2007"
@@ -3443,7 +3445,7 @@ var data = [
   {
     "name": "James Landay",
     "url": "https://scholar.google.com/citations?user=oQsObk0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=oQsObk0AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=oQsObk0AAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Stanford University",
     "keywords": [
       "Human-Computer Interaction",
@@ -3454,16 +3456,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "22829",
-        "8358"
+        "23523",
+        "8916"
       ],
       "hindex": [
-        "73",
-        "45"
+        "75",
+        "46"
       ],
       "i10index": [
-        "155",
-        "112"
+        "157",
+        "116"
       ]
     },
     "year": "1999"
@@ -3471,25 +3473,24 @@ var data = [
   {
     "name": "Edward Lank",
     "url": "https://scholar.google.com/citations?user=e7P8IwgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=e7P8IwgAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=e7P8IwgAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, University of Waterloo",
     "keywords": [
       "Human-Computer Interaction",
-      "Intelligent User Interfaces",
-      "Sketch Recognition"
+      "Intelligent User Interfaces"
     ],
     "stats": {
       "citations": [
-        "1936",
-        "1145"
+        "1957",
+        "1201"
       ],
       "hindex": [
-        "22",
+        "23",
         "17"
       ],
       "i10index": [
-        "44",
-        "34"
+        "46",
+        "35"
       ]
     },
     "year": "2001"
@@ -3497,23 +3498,23 @@ var data = [
   {
     "name": "Robert S Laramee",
     "url": "https://scholar.google.com/citations?user=NT6wx48AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=NT6wx48AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NT6wx48AAAAJ&citpid=2",
     "affiliation": "Associate Professor, Computer Science Dept., Swansea University",
     "keywords": [
       "data visualization"
     ],
     "stats": {
       "citations": [
-        "4570",
-        "2080"
+        "4772",
+        "2264"
       ],
       "hindex": [
         "31",
         "23"
       ],
       "i10index": [
-        "62",
-        "41"
+        "64",
+        "44"
       ]
     },
     "year": "2003"
@@ -3528,16 +3529,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1589",
-        "1091"
+        "1691",
+        "1182"
       ],
       "hindex": [
         "23",
-        "17"
+        "19"
       ],
       "i10index": [
-        "31",
-        "26"
+        "32",
+        "29"
       ]
     },
     "year": "1999"
@@ -3545,7 +3546,7 @@ var data = [
   {
     "name": "Edith Law",
     "url": "https://scholar.google.com/citations?user=OOssnq8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=OOssnq8AAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=OOssnq8AAAAJ&citpid=1",
     "affiliation": "Assistant Professor, David R. Cheriton School of Computer Science, University of Waterloo",
     "keywords": [
       "Human Computer Interaction",
@@ -3555,16 +3556,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1712",
-        "1056"
+        "1813",
+        "1149"
       ],
       "hindex": [
-        "17",
+        "18",
         "15"
       ],
       "i10index": [
-        "26",
-        "20"
+        "28",
+        "24"
       ]
     },
     "year": "2008"
@@ -3572,7 +3573,7 @@ var data = [
   {
     "name": "Jonathan Lazar",
     "url": "https://scholar.google.com/citations?user=CDpfbBsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=CDpfbBsAAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=CDpfbBsAAAAJ&citpid=1",
     "affiliation": "Professor, College of Information Studies, University of Maryland",
     "keywords": [
       "Human-Computer Interaction",
@@ -3583,16 +3584,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6532",
-        "3558"
+        "6951",
+        "3904"
       ],
       "hindex": [
         "38",
-        "29"
+        "30"
       ],
       "i10index": [
-        "78",
-        "55"
+        "80",
+        "57"
       ]
     },
     "year": "2001"
@@ -3600,7 +3601,7 @@ var data = [
   {
     "name": "Bongshin Lee",
     "url": "https://scholar.google.com/citations?user=IozWtK0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=IozWtK0AAAAJ&citpid=6",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=IozWtK0AAAAJ&citpid=6",
     "affiliation": "Microsoft Research",
     "keywords": [
       "Human-Data Interaction",
@@ -3611,16 +3612,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7881",
-        "5664"
+        "8407",
+        "6174"
       ],
       "hindex": [
         "47",
-        "41"
+        "42"
       ],
       "i10index": [
-        "122",
-        "97"
+        "126",
+        "104"
       ]
     },
     "year": "2004"
@@ -3638,16 +3639,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11714",
-        "2905"
+        "12129",
+        "3163"
       ],
       "hindex": [
-        "39",
-        "18"
+        "40",
+        "19"
       ],
       "i10index": [
-        "74",
-        "33"
+        "79",
+        "36"
       ]
     },
     "year": "1984"
@@ -3655,7 +3656,7 @@ var data = [
   {
     "name": "Henry Lieberman",
     "url": "https://scholar.google.com/citations?user=NdV5hMYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=NdV5hMYAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NdV5hMYAAAAJ&citpid=2",
     "affiliation": "Principal Research Scientist, Massachsuetts Institute of Technology",
     "keywords": [
       "Artificial Intelligence",
@@ -3663,16 +3664,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16313",
-        "3949"
+        "16688",
+        "4213"
       ],
       "hindex": [
         "56",
-        "25"
+        "26"
       ],
       "i10index": [
         "127",
-        "54"
+        "59"
       ]
     },
     "year": "1985"
@@ -3680,7 +3681,7 @@ var data = [
   {
     "name": "Kwan-Liu Ma",
     "url": "https://scholar.google.com/citations?user=LgL2HpkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=LgL2HpkAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=LgL2HpkAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, University of California at Davis",
     "keywords": [
       "Visualization",
@@ -3690,16 +3691,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16543",
-        "7479"
+        "17222",
+        "8083"
       ],
       "hindex": [
-        "70",
-        "42"
+        "71",
+        "43"
       ],
       "i10index": [
-        "286",
-        "193"
+        "295",
+        "204"
       ]
     },
     "year": "1995"
@@ -3707,7 +3708,7 @@ var data = [
   {
     "name": "Alan M. MacEachren",
     "url": "https://scholar.google.com/citations?user=6k3KfDcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=6k3KfDcAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=6k3KfDcAAAAJ&citpid=2",
     "affiliation": "Professor of Geography & Affiliate Professor of Information Sciences and Technology, Penn State",
     "keywords": [
       "GIScience",
@@ -3718,16 +3719,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17933",
-        "6209"
+        "18550",
+        "6661"
       ],
       "hindex": [
-        "60",
-        "38"
+        "62",
+        "39"
       ],
       "i10index": [
-        "174",
-        "113"
+        "175",
+        "115"
       ]
     },
     "year": "1994"
@@ -3735,7 +3736,7 @@ var data = [
   {
     "name": "Ross Maciejewski",
     "url": "https://scholar.google.com/citations?user=nChgOjEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=nChgOjEAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=nChgOjEAAAAJ&citpid=2",
     "affiliation": "Associate Professor of Computer Science and Engineering, Arizona State University",
     "keywords": [
       "visualization",
@@ -3746,16 +3747,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2357",
-        "1854"
+        "2581",
+        "2075"
       ],
       "hindex": [
-        "28",
-        "25"
+        "30",
+        "27"
       ],
       "i10index": [
-        "63",
-        "51"
+        "66",
+        "57"
       ]
     },
     "year": "2007"
@@ -3763,8 +3764,8 @@ var data = [
   {
     "name": "Blair MacIntyre",
     "url": "https://scholar.google.com/citations?user=UA3tyKwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=UA3tyKwAAAAJ&citpid=2",
-    "affiliation": "Professor, School of Interactive Computing, Georgia Tech",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=UA3tyKwAAAAJ&citpid=2",
+    "affiliation": "Professor, School of Interactive Computing, Georgia Tech // Principal Research Scientist, Mozilla",
     "keywords": [
       "Augmented Reality",
       "Video Games",
@@ -3774,16 +3775,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12418",
-        "4592"
+        "13033",
+        "5082"
       ],
       "hindex": [
-        "38",
-        "26"
+        "39",
+        "27"
       ],
       "i10index": [
-        "84",
-        "51"
+        "85",
+        "52"
       ]
     },
     "year": "1995"
@@ -3791,7 +3792,7 @@ var data = [
   {
     "name": "Jock D. Mackinlay",
     "url": "https://scholar.google.com/citations?user=SWworh8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=SWworh8AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=SWworh8AAAAJ&citpid=2",
     "affiliation": "Technical Fellow, Tableau Software",
     "keywords": [
       "Visualization",
@@ -3799,15 +3800,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "26290",
-        "7346"
+        "26921",
+        "7803"
       ],
       "hindex": [
-        "65",
+        "66",
         "41"
       ],
       "i10index": [
-        "118",
+        "121",
         "81"
       ]
     },
@@ -3816,7 +3817,7 @@ var data = [
   {
     "name": "Jen Mankoff",
     "url": "https://scholar.google.com/citations?user=mhmvCgsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=mhmvCgsAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=mhmvCgsAAAAJ&citpid=2",
     "affiliation": "University of Washington",
     "keywords": [
       "Human Computer Interaction",
@@ -3827,16 +3828,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7742",
-        "3606"
+        "8123",
+        "3920"
       ],
       "hindex": [
-        "46",
-        "33"
+        "47",
+        "34"
       ],
       "i10index": [
-        "116",
-        "90"
+        "119",
+        "93"
       ]
     },
     "year": "2001"
@@ -3852,16 +3853,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7554",
-        "3566"
+        "7996",
+        "3966"
       ],
       "hindex": [
-        "44",
-        "31"
+        "45",
+        "33"
       ],
       "i10index": [
-        "99",
-        "61"
+        "104",
+        "68"
       ]
     },
     "year": "1997"
@@ -3869,7 +3870,7 @@ var data = [
   {
     "name": "Maja J Mataric",
     "url": "https://scholar.google.com/citations?user=o5YQMkMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=o5YQMkMAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=o5YQMkMAAAAJ&citpid=2",
     "affiliation": "Chan Soon-Shiong Prof. of Computer Science, Neuroscience, & Pediatrics, U. of Southern California",
     "keywords": [
       "Robotics",
@@ -3879,16 +3880,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "33851",
-        "10150"
+        "35045",
+        "11064"
       ],
       "hindex": [
-        "94",
-        "50"
+        "96",
+        "54"
       ],
       "i10index": [
-        "278",
-        "176"
+        "287",
+        "183"
       ]
     },
     "year": "1992"
@@ -3896,31 +3897,31 @@ var data = [
   {
     "name": "Scott McCrickard",
     "url": "https://scholar.google.com/citations?user=jQNt6RwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=jQNt6RwAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=jQNt6RwAAAAJ&citpid=2",
     "affiliation": "Associate Professor of Computer Science, Virginia Tech",
     "keywords": [
       "human-computer interaction"
     ],
     "stats": {
       "citations": [
-        "3203",
-        "911"
+        "3300",
+        "990"
       ],
       "hindex": [
         "25",
-        "14"
+        "15"
       ],
       "i10index": [
         "70",
-        "21"
+        "22"
       ]
     },
-    "year": "1998"
+    "year": "1999"
   },
   {
     "name": "Michael J. McGuffin",
     "url": "https://scholar.google.com/citations?user=6HubqR8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=6HubqR8AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=6HubqR8AAAAJ&citpid=2",
     "affiliation": "École de technologie supérieure",
     "keywords": [
       "visualization",
@@ -3929,16 +3930,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2414",
-        "1197"
+        "2516",
+        "1290"
       ],
       "hindex": [
         "21",
-        "18"
+        "19"
       ],
       "i10index": [
-        "28",
-        "21"
+        "31",
+        "25"
       ]
     },
     "year": "2003"
@@ -3946,7 +3947,7 @@ var data = [
   {
     "name": "Abhinav Mehrotra",
     "url": "https://scholar.google.com/citations?user=AbeyFKwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=AbeyFKwAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=AbeyFKwAAAAJ&citpid=4",
     "affiliation": "Samsung AI Center",
     "keywords": [
       "Ubiquitous Computing",
@@ -3955,16 +3956,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "499",
-        "498"
+        "579",
+        "578"
       ],
       "hindex": [
         "11",
         "11"
       ],
       "i10index": [
-        "12",
-        "12"
+        "13",
+        "13"
       ]
     },
     "year": "2015"
@@ -3972,22 +3973,22 @@ var data = [
   {
     "name": "Guy Melancon",
     "url": "https://scholar.google.com/citations?user=OOCp390AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=OOCp390AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=OOCp390AAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Université de Bordeaux",
     "keywords": [
       "Visual Analytics - Network Science"
     ],
     "stats": {
       "citations": [
-        "5235",
-        "2235"
+        "5453",
+        "2423"
       ],
       "hindex": [
-        "28",
+        "29",
         "18"
       ],
       "i10index": [
-        "58",
+        "59",
         "33"
       ]
     },
@@ -3996,23 +3997,23 @@ var data = [
   {
     "name": "Miriah Meyer",
     "url": "https://scholar.google.com/citations?user=JAHNN7AAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=JAHNN7AAAAAJ&citpid=6",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=JAHNN7AAAAAJ&citpid=6",
     "affiliation": "Associate Professor, School of Computing, University of Utah",
     "keywords": [
       "Data Visualization"
     ],
     "stats": {
       "citations": [
-        "2052",
-        "1490"
+        "2193",
+        "1625"
       ],
       "hindex": [
-        "23",
-        "21"
+        "25",
+        "22"
       ],
       "i10index": [
-        "31",
-        "30"
+        "34",
+        "33"
       ]
     },
     "year": "2006"
@@ -4030,16 +4031,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6040",
-        "2431"
+        "6240",
+        "2610"
       ],
       "hindex": [
-        "40",
-        "24"
+        "41",
+        "25"
       ],
       "i10index": [
-        "97",
-        "60"
+        "98",
+        "61"
       ]
     },
     "year": "1998"
@@ -4056,16 +4057,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "32906",
-        "13794"
+        "36324",
+        "15496"
       ],
       "hindex": [
-        "83",
-        "52"
+        "86",
+        "55"
       ],
       "i10index": [
-        "325",
-        "170"
+        "380",
+        "196"
       ]
     },
     "year": "1981"
@@ -4073,7 +4074,7 @@ var data = [
   {
     "name": "Klaus Mueller",
     "url": "https://scholar.google.com/citations?user=uya_Zb4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=uya_Zb4AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=uya_Zb4AAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Stony Brook University",
     "keywords": [
       "Visualization",
@@ -4083,16 +4084,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8980",
-        "3008"
+        "9305",
+        "3281"
       ],
       "hindex": [
-        "47",
-        "28"
+        "49",
+        "29"
       ],
       "i10index": [
-        "141",
-        "76"
+        "148",
+        "83"
       ]
     },
     "year": "1998"
@@ -4100,23 +4101,23 @@ var data = [
   {
     "name": "Tamara Munzner",
     "url": "https://scholar.google.com/citations?user=c2Att08AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=c2Att08AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=c2Att08AAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, University of British Columbia",
     "keywords": [
       "Visualization"
     ],
     "stats": {
       "citations": [
-        "8421",
-        "4316"
+        "8844",
+        "4697"
       ],
       "hindex": [
-        "45",
-        "31"
+        "46",
+        "32"
       ],
       "i10index": [
-        "83",
-        "61"
+        "84",
+        "64"
       ]
     },
     "year": "1995"
@@ -4124,27 +4125,27 @@ var data = [
   {
     "name": "Mirco Musolesi",
     "url": "https://scholar.google.com/citations?user=8t4SqVwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=8t4SqVwAAAAJ&citpid=9",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=8t4SqVwAAAAJ&citpid=9",
     "affiliation": "University College London",
     "keywords": [
+      "Data Science",
+      "Social Systems",
+      "Machine Intelligence",
       "Ubiquitous Computing",
-      "Pervasive Computing",
-      "Intelligent Systems",
-      "Autonomous Systems",
-      "Machine Learning"
+      "Pervasive Computing"
     ],
     "stats": {
       "citations": [
-        "11078",
-        "6833"
+        "11700",
+        "7404"
       ],
       "hindex": [
-        "45",
-        "41"
+        "48",
+        "42"
       ],
       "i10index": [
-        "93",
-        "84"
+        "95",
+        "87"
       ]
     },
     "year": "2005"
@@ -4152,7 +4153,7 @@ var data = [
   {
     "name": "Bilge Mutlu",
     "url": "https://scholar.google.com/citations?user=VGr54BoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=VGr54BoAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=VGr54BoAAAAJ&citpid=5",
     "affiliation": "Associate Professor of Computer Science, University of Wisconsin–Madison",
     "keywords": [
       "Human-computer interaction",
@@ -4163,16 +4164,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4699",
-        "3794"
+        "5076",
+        "4164"
       ],
       "hindex": [
         "39",
-        "35"
+        "36"
       ],
       "i10index": [
-        "72",
-        "69"
+        "76",
+        "73"
       ]
     },
     "year": "2007"
@@ -4180,7 +4181,7 @@ var data = [
   {
     "name": "Brad A. Myers",
     "url": "https://scholar.google.com/citations?user=E1cp_aYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=E1cp_aYAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=E1cp_aYAAAAJ&citpid=3",
     "affiliation": "Professor of Human-Computer Interaction, Carnegie Mellon University",
     "keywords": [
       "Interaction Design",
@@ -4190,16 +4191,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "27985",
-        "8247"
+        "28832",
+        "8914"
       ],
       "hindex": [
         "85",
-        "48"
+        "50"
       ],
       "i10index": [
-        "287",
-        "161"
+        "292",
+        "166"
       ]
     },
     "year": "1988"
@@ -4207,7 +4208,7 @@ var data = [
   {
     "name": "E.D. Mynatt",
     "url": "https://scholar.google.com/citations?user=l7nsfT4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=l7nsfT4AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=l7nsfT4AAAAJ&citpid=3",
     "affiliation": "Distinguished Professor of Interactive Computing, Georgia Tech",
     "keywords": [
       "HCI and Human-centered computing",
@@ -4216,24 +4217,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15425",
-        "4386"
+        "15833",
+        "4699"
       ],
       "hindex": [
-        "55",
-        "30"
+        "56",
+        "32"
       ],
       "i10index": [
-        "140",
-        "91"
+        "142",
+        "97"
       ]
     },
-    "year": "1994"
+    "year": "1995"
   },
   {
     "name": "Lennart Nacke",
     "url": "https://scholar.google.com/citations?user=i-y5S2AAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=i-y5S2AAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=i-y5S2AAAAAJ&citpid=4",
     "affiliation": "Associate Professor, HCI Games and UX Research, University of Waterloo",
     "keywords": [
       "Human-Computer Interaction",
@@ -4244,16 +4245,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13239",
-        "11179"
+        "14826",
+        "12646"
       ],
       "hindex": [
-        "39",
-        "34"
+        "40",
+        "37"
       ],
       "i10index": [
-        "93",
-        "80"
+        "101",
+        "89"
       ]
     },
     "year": "2009"
@@ -4261,8 +4262,8 @@ var data = [
   {
     "name": "Shrikanth (Shri) S. Narayanan",
     "url": "https://scholar.google.com/citations?user=8EDHmYkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=8EDHmYkAAAAJ&citpid=14",
-    "affiliation": "Niki & C. L. Max Nikias Chair in Engineering, University of Southern California",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=8EDHmYkAAAAJ&citpid=14",
+    "affiliation": "Niki & C. L. Max Nikias Chair in Engineering & Professor, University of Southern California",
     "keywords": [
       "signal processing",
       "speech/language",
@@ -4272,16 +4273,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "29604",
-        "16251"
+        "31429",
+        "17855"
       ],
       "hindex": [
-        "86",
-        "57"
+        "88",
+        "60"
       ],
       "i10index": [
-        "502",
-        "337"
+        "520",
+        "359"
       ]
     },
     "year": "1999"
@@ -4289,8 +4290,8 @@ var data = [
   {
     "name": "Cydney Nielsen",
     "url": "https://scholar.google.com/citations?user=JavACE0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=JavACE0AAAAJ&citpid=2",
-    "affiliation": "Research Associate",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=JavACE0AAAAJ&citpid=3",
+    "affiliation": "Visualization Designer / Data Scientist",
     "keywords": [
       "Data Visualization",
       "Genomics",
@@ -4299,16 +4300,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5492",
-        "2827"
+        "6324",
+        "3630"
       ],
       "hindex": [
-        "15",
-        "15"
+        "19",
+        "19"
       ],
       "i10index": [
-        "16",
-        "15"
+        "22",
+        "21"
       ]
     },
     "year": "2003"
@@ -4316,7 +4317,7 @@ var data = [
   {
     "name": "Don Norman",
     "url": "https://scholar.google.com/citations?user=h-2JebwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=h-2JebwAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=h-2JebwAAAAJ&citpid=2",
     "affiliation": "Prof. and Director, The Design Lab, University of California, San Diego",
     "keywords": [
       "Complex sociotechnical systems",
@@ -4326,16 +4327,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "108294",
-        "28741"
+        "112621",
+        "31674"
       ],
       "hindex": [
-        "101",
-        "63"
+        "103",
+        "64"
       ],
       "i10index": [
-        "321",
-        "147"
+        "333",
+        "149"
       ]
     },
     "year": "1980"
@@ -4343,7 +4344,7 @@ var data = [
   {
     "name": "Chris North",
     "url": "https://scholar.google.com/citations?user=yBZ7vtkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=yBZ7vtkAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=yBZ7vtkAAAAJ&citpid=2",
     "affiliation": "Computer Science, Virginia Tech",
     "keywords": [
       "Visual Analytics",
@@ -4353,16 +4354,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8395",
-        "4136"
+        "8680",
+        "4434"
       ],
       "hindex": [
-        "47",
-        "35"
+        "50",
+        "38"
       ],
       "i10index": [
-        "120",
-        "84"
+        "118",
+        "87"
       ]
     },
     "year": "2000"
@@ -4370,7 +4371,7 @@ var data = [
   {
     "name": "Stephen North",
     "url": "https://scholar.google.com/citations?user=_QJP9-0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=_QJP9-0AAAAJ&citpid=19",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=_QJP9-0AAAAJ&citpid=19",
     "affiliation": "graphviz.org, Infovisible, assoc editor IEEE TVCG, ex-AT&T Fellow",
     "keywords": [
       "computer science r&d",
@@ -4379,24 +4380,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8434",
-        "2990"
+        "8723",
+        "3228"
       ],
       "hindex": [
-        "39",
-        "26"
+        "40",
+        "27"
       ],
       "i10index": [
         "66",
         "42"
       ]
     },
-    "year": "1990"
+    "year": "1991"
   },
   {
     "name": "Gary M. Olson",
     "url": "https://scholar.google.com/citations?user=4XyoYbAAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=4XyoYbAAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=4XyoYbAAAAAJ&citpid=2",
     "affiliation": "Dept. of Informatics, University of California, Irvine",
     "keywords": [
       "Human Computer Interaction",
@@ -4404,16 +4405,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12471",
-        "2871"
+        "12833",
+        "3114"
       ],
       "hindex": [
         "53",
-        "26"
+        "28"
       ],
       "i10index": [
-        "106",
-        "54"
+        "108",
+        "59"
       ]
     },
     "year": "1985"
@@ -4421,7 +4422,7 @@ var data = [
   {
     "name": "Judith Olson",
     "url": "https://scholar.google.com/citations?user=xfwOz_kAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=xfwOz_kAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=xfwOz_kAAAAJ&citpid=3",
     "affiliation": "Professor of Informatics, University of California Irvine",
     "keywords": [
       "Human Computer Interaction",
@@ -4429,16 +4430,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12065",
-        "3095"
+        "12463",
+        "3362"
       ],
       "hindex": [
-        "46",
-        "27"
+        "47",
+        "28"
       ],
       "i10index": [
         "83",
-        "48"
+        "50"
       ]
     },
     "year": "1989"
@@ -4446,7 +4447,7 @@ var data = [
   {
     "name": "Leysia Palen",
     "url": "https://scholar.google.com/citations?user=x0OsogEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=x0OsogEAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=x0OsogEAAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science & Professor of Information Science, University of Colorado Boulder",
     "keywords": [
       "Human computer interaction",
@@ -4456,16 +4457,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16085",
-        "9027"
+        "16778",
+        "9608"
       ],
       "hindex": [
-        "57",
-        "48"
+        "58",
+        "49"
       ],
       "i10index": [
-        "87",
-        "79"
+        "89",
+        "81"
       ]
     },
     "year": "1998"
@@ -4473,7 +4474,7 @@ var data = [
   {
     "name": "Bryan Pardo",
     "url": "https://scholar.google.com/citations?user=vxEKYqsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=vxEKYqsAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=vxEKYqsAAAAJ&citpid=4",
     "affiliation": "Computer Science, Northwestern University",
     "keywords": [
       "Audio",
@@ -4484,16 +4485,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3324",
-        "1944"
+        "3515",
+        "2119"
       ],
       "hindex": [
-        "30",
-        "23"
+        "31",
+        "24"
       ],
       "i10index": [
-        "72",
-        "47"
+        "75",
+        "49"
       ]
     },
     "year": "2002"
@@ -4512,16 +4513,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2721",
-        "1405"
+        "2812",
+        "1502"
       ],
       "hindex": [
-        "27",
-        "23"
+        "26",
+        "22"
       ],
       "i10index": [
-        "44",
-        "29"
+        "43",
+        "28"
       ]
     },
     "year": "2005"
@@ -4529,7 +4530,7 @@ var data = [
   {
     "name": "Cynthia Parr",
     "url": "https://scholar.google.com/citations?user=oI764M0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=oI764M0AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=oI764M0AAAAJ&citpid=2",
     "affiliation": "National Agricultural Library, Agricultural Research Service, USDA",
     "keywords": [
       "informatics",
@@ -4540,16 +4541,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2932",
-        "1697"
+        "3068",
+        "1821"
       ],
       "hindex": [
         "25",
-        "18"
+        "19"
       ],
       "i10index": [
-        "34",
-        "25"
+        "35",
+        "26"
       ]
     },
     "year": "1992"
@@ -4557,7 +4558,7 @@ var data = [
   {
     "name": "Shwetak Patel",
     "url": "https://scholar.google.com/citations?user=z4S5rC0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=z4S5rC0AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=z4S5rC0AAAAJ&citpid=2",
     "affiliation": "University of Washington, Washington Research Foundation Endowed Professor, Computer Science",
     "keywords": [
       "Ubiquitous Computing",
@@ -4567,16 +4568,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "31963",
-        "27937"
+        "35335",
+        "31182"
       ],
       "hindex": [
-        "55",
-        "45"
+        "57",
+        "47"
       ],
       "i10index": [
-        "151",
-        "137"
+        "156",
+        "144"
       ]
     },
     "year": "2003"
@@ -4584,7 +4585,7 @@ var data = [
   {
     "name": "Eric Paulos",
     "url": "https://scholar.google.com/citations?user=K__JmtcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=K__JmtcAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=K__JmtcAAAAJ&citpid=4",
     "affiliation": "Associate Professor, UC Berkeley, EECS, New Media",
     "keywords": [
       "critical making",
@@ -4595,16 +4596,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5807",
-        "3220"
+        "6091",
+        "3468"
       ],
       "hindex": [
-        "39",
-        "31"
+        "42",
+        "33"
       ],
       "i10index": [
-        "83",
-        "64"
+        "86",
+        "67"
       ]
     },
     "year": "1997"
@@ -4612,7 +4613,7 @@ var data = [
   {
     "name": "Adam Perer",
     "url": "https://scholar.google.com/citations?user=wAxr6b8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=wAxr6b8AAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wAxr6b8AAAAJ&citpid=5",
     "affiliation": "Carnegie Mellon University",
     "keywords": [
       "Information Visualization",
@@ -4623,12 +4624,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3121",
-        "2115"
+        "3330",
+        "2313"
       ],
       "hindex": [
-        "29",
-        "25"
+        "31",
+        "26"
       ],
       "i10index": [
         "40",
@@ -4650,16 +4651,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14340",
-        "4507"
+        "14736",
+        "4819"
       ],
       "hindex": [
         "43",
-        "29"
+        "30"
       ],
       "i10index": [
-        "89",
-        "59"
+        "94",
+        "64"
       ]
     },
     "year": "1991"
@@ -4667,8 +4668,8 @@ var data = [
   {
     "name": "Hanspeter Pfister",
     "url": "https://scholar.google.com/citations?user=tvBEoaMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=tvBEoaMAAAAJ&citpid=3",
-    "affiliation": "Professor of Computer Science, Harvard University",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=tvBEoaMAAAAJ&citpid=3",
+    "affiliation": "An Wang Professor of Computer Science, Harvard University",
     "keywords": [
       "Visualization",
       "Computer Vision",
@@ -4676,16 +4677,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "20706",
-        "9797"
+        "21577",
+        "10589"
       ],
       "hindex": [
         "71",
-        "49"
+        "53"
       ],
       "i10index": [
-        "251",
-        "194"
+        "254",
+        "197"
       ]
     },
     "year": "1997"
@@ -4693,7 +4694,7 @@ var data = [
   {
     "name": "Emmanuel Pietriga",
     "url": "https://scholar.google.com/citations?user=H19l7WoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=H19l7WoAAAAJ&citpid=7",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=H19l7WoAAAAJ&citpid=7",
     "affiliation": "Senior Research Scientist, INRIA",
     "keywords": [
       "Human Computer Interaction",
@@ -4702,16 +4703,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2282",
-        "1313"
+        "2395",
+        "1415"
       ],
       "hindex": [
         "27",
-        "18"
+        "19"
       ],
       "i10index": [
-        "42",
-        "31"
+        "44",
+        "32"
       ]
     },
     "year": "2002"
@@ -4719,7 +4720,7 @@ var data = [
   {
     "name": "Catherine Plaisant",
     "url": "https://scholar.google.com/citations?user=VnwWgwIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=VnwWgwIAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=VnwWgwIAAAAJ&citpid=2",
     "affiliation": "Senior Research Scientist, University of Maryland",
     "keywords": [
       "Human-Computer Interaction",
@@ -4727,16 +4728,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "30876",
-        "9315"
+        "32009",
+        "10113"
       ],
       "hindex": [
-        "60",
-        "39"
+        "61",
+        "40"
       ],
       "i10index": [
-        "168",
-        "107"
+        "169",
+        "109"
       ]
     },
     "year": "1988"
@@ -4744,7 +4745,7 @@ var data = [
   {
     "name": "Mitchel Resnick",
     "url": "https://scholar.google.com/citations?user=KKq5SN4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=KKq5SN4AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=KKq5SN4AAAAJ&citpid=3",
     "affiliation": "Professor of Learning Research, MIT Media Lab",
     "keywords": [
       "Learning Technologies",
@@ -4755,16 +4756,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "23739",
-        "10512"
+        "25058",
+        "11627"
       ],
       "hindex": [
-        "63",
-        "46"
+        "64",
+        "48"
       ],
       "i10index": [
         "119",
-        "81"
+        "83"
       ]
     },
     "year": "1996"
@@ -4782,16 +4783,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "28507",
-        "10205"
+        "29628",
+        "11075"
       ],
       "hindex": [
-        "49",
-        "37"
+        "50",
+        "40"
       ],
       "i10index": [
-        "89",
-        "62"
+        "90",
+        "64"
       ]
     },
     "year": "1997"
@@ -4806,24 +4807,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4744",
-        "3431"
+        "5241",
+        "3819"
       ],
       "hindex": [
-        "34",
-        "31"
+        "36",
+        "33"
       ],
       "i10index": [
-        "61",
-        "57"
+        "64",
+        "60"
       ]
     },
-    "year": "2007"
+    "year": "2006"
   },
   {
     "name": "Scott Robertson",
     "url": "https://scholar.google.com/citations?user=rdbwZvIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=rdbwZvIAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=rdbwZvIAAAAJ&citpid=3",
     "affiliation": "Professor and Chair, Information and Computer Sciences, University of Hawaii",
     "keywords": [
       "Human-Computer Interaction",
@@ -4834,11 +4835,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3010",
-        "1129"
+        "3086",
+        "1179"
       ],
       "hindex": [
-        "25",
+        "26",
         "16"
       ],
       "i10index": [
@@ -4862,16 +4863,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "20905",
-        "7219"
+        "21636",
+        "7782"
       ],
       "hindex": [
         "66",
-        "38"
+        "40"
       ],
       "i10index": [
-        "211",
-        "108"
+        "217",
+        "111"
       ]
     },
     "year": "1985"
@@ -4879,7 +4880,7 @@ var data = [
   {
     "name": "Dario Salvucci",
     "url": "https://scholar.google.com/citations?user=i1VJMhgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=i1VJMhgAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=i1VJMhgAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Drexel University",
     "keywords": [
       "Cognitive Science",
@@ -4890,15 +4891,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7942",
-        "3659"
+        "8327",
+        "3989"
       ],
       "hindex": [
-        "37",
-        "27"
+        "38",
+        "28"
       ],
       "i10index": [
-        "68",
+        "69",
         "50"
       ]
     },
@@ -4907,7 +4908,7 @@ var data = [
   {
     "name": "Richard Scheines",
     "url": "https://scholar.google.com/citations?user=HlTD6JUAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=HlTD6JUAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=HlTD6JUAAAAJ&citpid=3",
     "affiliation": "Dean, Dietrich College of Humanities and Social Sciences, Carnegie Mellon University",
     "keywords": [
       "Causation",
@@ -4917,12 +4918,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12550",
-        "4879"
+        "13094",
+        "5322"
       ],
       "hindex": [
-        "33",
-        "24"
+        "34",
+        "25"
       ],
       "i10index": [
         "69",
@@ -4934,7 +4935,7 @@ var data = [
   {
     "name": "m.c. schraefel",
     "url": "https://scholar.google.com/citations?user=nAtF6UMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=nAtF6UMAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=nAtF6UMAAAAJ&citpid=2",
     "affiliation": "Professor, Electronics and Computer Science, University of Southampton",
     "keywords": [
       "Human Computer Interaction",
@@ -4945,16 +4946,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2106",
-        "924"
+        "2272",
+        "1041"
       ],
       "hindex": [
-        "23",
-        "14"
+        "25",
+        "16"
       ],
       "i10index": [
-        "39",
-        "22"
+        "42",
+        "26"
       ]
     },
     "year": "2000"
@@ -4962,7 +4963,7 @@ var data = [
   {
     "name": "Michael Sedlmair",
     "url": "https://scholar.google.com/citations?user=objnJXoAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=objnJXoAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=objnJXoAAAAJ&citpid=3",
     "affiliation": "University of Stuttgart",
     "keywords": [
       "Visualization",
@@ -4971,16 +4972,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2029",
-        "1848"
+        "2252",
+        "2064"
       ],
       "hindex": [
-        "23",
-        "22"
+        "24",
+        "24"
       ],
       "i10index": [
-        "34",
-        "30"
+        "37",
+        "33"
       ]
     },
     "year": "2009"
@@ -4988,7 +4989,7 @@ var data = [
   {
     "name": "Ben Shneiderman",
     "url": "https://scholar.google.com/citations?user=h4i4fh8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=h4i4fh8AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=h4i4fh8AAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, University of Maryland",
     "keywords": [
       "human-computer interaction",
@@ -4997,24 +4998,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "87590",
-        "25556"
+        "90401",
+        "27547"
       ],
       "hindex": [
         "117",
-        "71"
+        "74"
       ],
       "i10index": [
-        "472",
-        "247"
+        "476",
+        "254"
       ]
     },
-    "year": "1984"
+    "year": "1985"
   },
   {
     "name": "Claudio T. Silva",
     "url": "https://scholar.google.com/citations?user=YIwiAAsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=YIwiAAsAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=YIwiAAsAAAAJ&citpid=4",
     "affiliation": "New York University",
     "keywords": [
       "Visualization",
@@ -5025,16 +5026,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19968",
-        "8717"
+        "22366",
+        "10224"
       ],
       "hindex": [
-        "63",
-        "41"
+        "66",
+        "44"
       ],
       "i10index": [
-        "277",
-        "163"
+        "338",
+        "207"
       ]
     },
     "year": "1997"
@@ -5042,7 +5043,7 @@ var data = [
   {
     "name": "Marc Smith",
     "url": "https://scholar.google.com/citations?user=9Usm_wIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=9Usm_wIAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=9Usm_wIAAAAJ&citpid=2",
     "affiliation": "Social Media Research Foundation",
     "keywords": [
       "Social Media",
@@ -5053,16 +5054,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13150",
-        "5524"
+        "13663",
+        "5924"
       ],
       "hindex": [
-        "47",
-        "34"
+        "48",
+        "35"
       ],
       "i10index": [
-        "83",
-        "61"
+        "84",
+        "63"
       ]
     },
     "year": "1999"
@@ -5070,7 +5071,7 @@ var data = [
   {
     "name": "Thad Starner",
     "url": "https://scholar.google.com/citations?user=qr8Vo9IAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=qr8Vo9IAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=qr8Vo9IAAAAJ&citpid=5",
     "affiliation": "Professor of Computing, Georgia Institute of Technology",
     "keywords": [
       "Wearable Computing",
@@ -5081,16 +5082,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "29857",
-        "12047"
+        "30758",
+        "12751"
       ],
       "hindex": [
-        "73",
+        "75",
         "54"
       ],
       "i10index": [
-        "222",
-        "179"
+        "233",
+        "189"
       ]
     },
     "year": "1995"
@@ -5098,7 +5099,7 @@ var data = [
   {
     "name": "John Stasko",
     "url": "https://scholar.google.com/citations?user=2PxFftgAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=2PxFftgAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=2PxFftgAAAAJ&citpid=4",
     "affiliation": "Regents Professor of Interactive Computing, Georgia Institute of Technology",
     "keywords": [
       "Information Visualization",
@@ -5107,16 +5108,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18605",
-        "6523"
+        "19281",
+        "7065"
       ],
       "hindex": [
         "65",
-        "36"
+        "39"
       ],
       "i10index": [
-        "190",
-        "104"
+        "193",
+        "110"
       ]
     },
     "year": "1992"
@@ -5124,26 +5125,27 @@ var data = [
   {
     "name": "Constantine Stephanidis",
     "url": "https://scholar.google.com/citations?user=EBXa1RQAAAAJ",
-    "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
-    "affiliation": "Institute of Computer Science - FORTH",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=EBXa1RQAAAAJ&citpid=1",
+    "affiliation": "University of Crete (Department of Computer Science) & FORTH (Institute of Computer Science)",
     "keywords": [
       "Human Computer Interaction",
       "Universal Access",
       "Design for All",
-      "Ambient Intelligence"
+      "Ambient Intelligence",
+      "Interaction in Smart Environments"
     ],
     "stats": {
       "citations": [
-        "6954",
-        "1910"
+        "7201",
+        "2098"
       ],
       "hindex": [
         "40",
-        "20"
+        "21"
       ],
       "i10index": [
-        "137",
-        "47"
+        "143",
+        "54"
       ]
     },
     "year": "1995"
@@ -5151,8 +5153,8 @@ var data = [
   {
     "name": "Marc Streit",
     "url": "https://scholar.google.com/citations?user=l7TTSP0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=l7TTSP0AAAAJ&citpid=9",
-    "affiliation": "Professor of Computer Science, Johannes Kepler University Linz",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=l7TTSP0AAAAJ&citpid=9",
+    "affiliation": "Professor for Visual Data Science @ Johannes Kepler University Linz",
     "keywords": [
       "Visualization",
       "Visual Analytics",
@@ -5160,16 +5162,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1398",
-        "1109"
+        "1523",
+        "1232"
       ],
       "hindex": [
-        "22",
-        "20"
+        "23",
+        "21"
       ],
       "i10index": [
-        "33",
-        "28"
+        "34",
+        "29"
       ]
     },
     "year": "2006"
@@ -5177,7 +5179,7 @@ var data = [
   {
     "name": "Wolfgang Stuerzlinger",
     "url": "https://scholar.google.com/citations?user=78KBaPsAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=78KBaPsAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=78KBaPsAAAAJ&citpid=3",
     "affiliation": "School of Interactive Arts + Technology (SIAT), Simon Fraser University",
     "keywords": [
       "3D User Interfaces",
@@ -5188,16 +5190,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6203",
-        "2599"
+        "6516",
+        "2853"
       ],
       "hindex": [
         "43",
-        "26"
+        "27"
       ],
       "i10index": [
-        "104",
-        "72"
+        "113",
+        "82"
       ]
     },
     "year": "1997"
@@ -5205,7 +5207,7 @@ var data = [
   {
     "name": "Deborah Tatar",
     "url": "https://scholar.google.com/citations?user=LWcEVAIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=LWcEVAIAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=LWcEVAIAAAAJ&citpid=2",
     "affiliation": "Associate Professor of Computer Science and, by courtesy, Psychology, Virginia Tech",
     "keywords": [
       "HCI",
@@ -5216,11 +5218,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4736",
-        "1522"
+        "4885",
+        "1643"
       ],
       "hindex": [
-        "31",
+        "32",
         "18"
       ],
       "i10index": [
@@ -5233,7 +5235,7 @@ var data = [
   {
     "name": "Loren Terveen",
     "url": "https://scholar.google.com/citations?user=r6cAovIAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=r6cAovIAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=r6cAovIAAAAJ&citpid=2",
     "affiliation": "University of Minnesota",
     "keywords": [
       "human-computer interaction",
@@ -5242,16 +5244,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17789",
-        "7329"
+        "18596",
+        "8007"
       ],
       "hindex": [
         "59",
-        "38"
+        "39"
       ],
       "i10index": [
-        "118",
-        "79"
+        "124",
+        "84"
       ]
     },
     "year": "1995"
@@ -5259,7 +5261,7 @@ var data = [
   {
     "name": "Bill Tomlinson",
     "url": "https://scholar.google.com/citations?user=-jW6ADwAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=-jW6ADwAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=-jW6ADwAAAAJ&citpid=2",
     "affiliation": "Professor of Informatics, UCI",
     "keywords": [
       "ICT for sustainability",
@@ -5269,16 +5271,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3677",
-        "2076"
+        "3860",
+        "2233"
       ],
       "hindex": [
         "25",
-        "18"
+        "19"
       ],
       "i10index": [
-        "61",
-        "33"
+        "63",
+        "37"
       ]
     },
     "year": "2001"
@@ -5286,7 +5288,7 @@ var data = [
   {
     "name": "Melanie Tory",
     "url": "https://scholar.google.com/citations?user=cKMhiMkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=cKMhiMkAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=cKMhiMkAAAAJ&citpid=4",
     "affiliation": "Staff Research Scientist, Tableau Research",
     "keywords": [
       "HCI",
@@ -5295,16 +5297,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3686",
-        "2096"
+        "3919",
+        "2309"
       ],
       "hindex": [
-        "30",
-        "22"
+        "31",
+        "23"
       ],
       "i10index": [
-        "56",
-        "45"
+        "57",
+        "47"
       ]
     },
     "year": "2004"
@@ -5312,7 +5314,7 @@ var data = [
   {
     "name": "Shari Trewin",
     "url": "https://scholar.google.com/citations?user=gFfyv5sAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=gFfyv5sAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=gFfyv5sAAAAJ&citpid=2",
     "affiliation": "IBM T. J. Watson Research Center",
     "keywords": [
       "Accessibility",
@@ -5321,16 +5323,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1954",
-        "716"
+        "2012",
+        "769"
       ],
       "hindex": [
         "25",
-        "14"
+        "15"
       ],
       "i10index": [
-        "48",
-        "23"
+        "49",
+        "25"
       ]
     },
     "year": "1994"
@@ -5338,7 +5340,7 @@ var data = [
   {
     "name": "Jeff Trinkle",
     "url": "https://scholar.google.com/citations?user=Dl0vAp8AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Dl0vAp8AAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Dl0vAp8AAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science and Engineering, Lehigh University",
     "keywords": [
       "robotics",
@@ -5349,16 +5351,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4879",
-        "1604"
+        "5026",
+        "1720"
       ],
       "hindex": [
-        "34",
-        "18"
+        "35",
+        "19"
       ],
       "i10index": [
-        "79",
-        "40"
+        "80",
+        "43"
       ]
     },
     "year": "1991"
@@ -5366,7 +5368,7 @@ var data = [
   {
     "name": "Jarke J. van Wijk",
     "url": "https://scholar.google.com/citations?user=1F_eX28AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=1F_eX28AAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=1F_eX28AAAAJ&citpid=5",
     "affiliation": "Professor in Visualization, Eindhoven University of Technology",
     "keywords": [
       "Visualization",
@@ -5375,16 +5377,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12441",
-        "4864"
+        "12887",
+        "5245"
       ],
       "hindex": [
         "59",
         "39"
       ],
       "i10index": [
-        "133",
-        "77"
+        "134",
+        "81"
       ]
     },
     "year": "1991"
@@ -5392,7 +5394,7 @@ var data = [
   {
     "name": "Gregg Vanderheiden",
     "url": "https://scholar.google.com/citations?user=C5-C5U0AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=C5-C5U0AAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=C5-C5U0AAAAJ&citpid=1",
     "affiliation": "Previously at U of Wisc  -   Now at University of Maryland, College Park",
     "keywords": [
       "HCI",
@@ -5403,24 +5405,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6085",
-        "1784"
+        "6288",
+        "1939"
       ],
       "hindex": [
-        "39",
-        "20"
+        "40",
+        "22"
       ],
       "i10index": [
-        "105",
-        "39"
+        "109",
+        "41"
       ]
     },
-    "year": "1981"
+    "year": "1982"
   },
   {
     "name": "Fernanda Viegas",
     "url": "https://scholar.google.com/citations?user=GvXDNsYAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=GvXDNsYAAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=GvXDNsYAAAAJ&citpid=1",
     "affiliation": "Google",
     "keywords": [
       "Data Visualization",
@@ -5428,24 +5430,24 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21507",
-        "16875"
+        "25381",
+        "20685"
       ],
       "hindex": [
-        "36",
-        "32"
+        "39",
+        "34"
       ],
       "i10index": [
-        "51",
-        "46"
+        "55",
+        "50"
       ]
     },
-    "year": "2003"
+    "year": "2004"
   },
   {
     "name": "Jessica Vitak",
     "url": "https://scholar.google.com/citations?user=RC9bN7kAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=RC9bN7kAAAAJ&citpid=6",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=RC9bN7kAAAAJ&citpid=6",
     "affiliation": "Associate Professor, College of Information Studies, University of Maryland",
     "keywords": [
       "privacy",
@@ -5456,16 +5458,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7107",
-        "5642"
+        "7738",
+        "6212"
       ],
       "hindex": [
-        "31",
-        "30"
+        "33",
+        "32"
       ],
       "i10index": [
-        "44",
-        "43"
+        "46",
+        "45"
       ]
     },
     "year": "2008"
@@ -5473,7 +5475,7 @@ var data = [
   {
     "name": "Daniel Vogel",
     "url": "https://scholar.google.com/citations?user=Yi5nK1EAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=Yi5nK1EAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Yi5nK1EAAAAJ&citpid=4",
     "affiliation": "Associate Professor, University of Waterloo",
     "keywords": [
       "Human-Computer Interaction",
@@ -5483,16 +5485,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3358",
-        "1977"
+        "3520",
+        "2133"
       ],
       "hindex": [
-        "24",
-        "22"
+        "25",
+        "23"
       ],
       "i10index": [
-        "40",
-        "39"
+        "44",
+        "42"
       ]
     },
     "year": "2005"
@@ -5500,7 +5502,7 @@ var data = [
   {
     "name": "James R. Wallace",
     "url": "https://scholar.google.com/citations?user=uCxDo9sAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=uCxDo9sAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=uCxDo9sAAAAJ&citpid=5",
     "affiliation": "Associate Professor, University of Waterloo",
     "keywords": [
       "Human-Computer Interaction",
@@ -5510,16 +5512,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "718",
-        "487"
+        "770",
+        "539"
       ],
       "hindex": [
         "16",
-        "12"
+        "13"
       ],
       "i10index": [
-        "18",
-        "15"
+        "23",
+        "20"
       ]
     },
     "year": "2007"
@@ -5527,7 +5529,7 @@ var data = [
   {
     "name": "Matthew Ward",
     "url": "https://scholar.google.com/citations?user=EMOe15MAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=EMOe15MAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=EMOe15MAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Worcester Polytechnic Institute",
     "keywords": [
       "data and information visualization",
@@ -5535,16 +5537,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8511",
-        "3313"
+        "8860",
+        "3618"
       ],
       "hindex": [
-        "40",
-        "25"
+        "41",
+        "26"
       ],
       "i10index": [
-        "80",
-        "50"
+        "81",
+        "51"
       ]
     },
     "year": "1993"
@@ -5560,16 +5562,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "25356",
-        "19102"
+        "29480",
+        "23144"
       ],
       "hindex": [
-        "45",
-        "37"
+        "49",
+        "41"
       ],
       "i10index": [
-        "79",
-        "64"
+        "84",
+        "69"
       ]
     },
     "year": "2003"
@@ -5587,16 +5589,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1500",
-        "810"
+        "1526",
+        "844"
       ],
       "hindex": [
         "17",
         "14"
       ],
       "i10index": [
-        "29",
-        "17"
+        "28",
+        "16"
       ]
     },
     "year": "2006"
@@ -5604,7 +5606,7 @@ var data = [
   {
     "name": "Michel A. Westenberg",
     "url": "https://scholar.google.com/citations?user=5eK84bMAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=5eK84bMAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=5eK84bMAAAAJ&citpid=2",
     "affiliation": "Associate professor of Visual Analytics, Eindhoven University of Technology",
     "keywords": [
       "Visualization",
@@ -5613,16 +5615,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1894",
-        "782"
+        "1996",
+        "860"
       ],
       "hindex": [
         "18",
-        "11"
+        "12"
       ],
       "i10index": [
-        "25",
-        "12"
+        "26",
+        "13"
       ]
     },
     "year": "1998"
@@ -5640,16 +5642,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "952",
-        "765"
+        "1037",
+        "848"
       ],
       "hindex": [
         "17",
         "15"
       ],
       "i10index": [
-        "26",
-        "20"
+        "29",
+        "24"
       ]
     },
     "year": "2008"
@@ -5657,7 +5659,7 @@ var data = [
   {
     "name": "Jacob O. Wobbrock",
     "url": "https://scholar.google.com/citations?user=TmZ3howAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=TmZ3howAAAAJ&citpid=9",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TmZ3howAAAAJ&citpid=9",
     "affiliation": "Professor, University of Washington",
     "keywords": [
       "Human-Computer Interaction",
@@ -5668,16 +5670,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13136",
-        "8522"
+        "13875",
+        "9202"
       ],
       "hindex": [
-        "59",
-        "47"
+        "61",
+        "48"
       ],
       "i10index": [
-        "129",
-        "110"
+        "133",
+        "112"
       ]
     },
     "year": "2003"
@@ -5685,7 +5687,7 @@ var data = [
   {
     "name": "Svetlana Yarosh",
     "url": "https://scholar.google.com/citations?user=n6bjh24AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=n6bjh24AAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=n6bjh24AAAAJ&citpid=4",
     "affiliation": "Assistant Professor, University of Minnesota",
     "keywords": [
       "Human-Computer Interaction",
@@ -5696,16 +5698,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1146",
-        "752"
+        "1273",
+        "875"
       ],
       "hindex": [
-        "17",
-        "15"
+        "18",
+        "16"
       ],
       "i10index": [
-        "30",
-        "21"
+        "35",
+        "26"
       ]
     },
     "year": "2008"
@@ -5713,7 +5715,7 @@ var data = [
   {
     "name": "Ji Soo Yi",
     "url": "https://scholar.google.com/citations?user=LqWIQ8kAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=LqWIQ8kAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=LqWIQ8kAAAAJ&citpid=3",
     "affiliation": "Samsung Electronics, Co., Ltd.",
     "keywords": [
       "human computer interaction",
@@ -5723,16 +5725,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2679",
-        "1705"
+        "2840",
+        "1845"
       ],
       "hindex": [
-        "21",
-        "17"
+        "22",
+        "18"
       ],
       "i10index": [
-        "32",
-        "27"
+        "33",
+        "29"
       ]
     },
     "year": "2005"
@@ -5740,7 +5742,7 @@ var data = [
   {
     "name": "Shumin Zhai",
     "url": "https://scholar.google.com/citations?user=jJLvY8AAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=jJLvY8AAAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=jJLvY8AAAAAJ&citpid=1",
     "affiliation": "Google",
     "keywords": [
       "Mobile User Interfaces",
@@ -5751,16 +5753,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15723",
-        "6596"
+        "16246",
+        "6948"
       ],
       "hindex": [
-        "69",
+        "70",
         "46"
       ],
       "i10index": [
-        "173",
-        "137"
+        "179",
+        "141"
       ]
     },
     "year": "1995"
@@ -5768,7 +5770,7 @@ var data = [
   {
     "name": "Jiajie Zhang",
     "url": "https://scholar.google.com/citations?user=93SGumkAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=93SGumkAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=93SGumkAAAAJ&citpid=4",
     "affiliation": "University of Texas Houston; Ohio State University, University of California San Diego",
     "keywords": [
       "biomedical informatics",
@@ -5779,16 +5781,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11717",
-        "5175"
+        "12285",
+        "5641"
       ],
       "hindex": [
-        "48",
-        "34"
+        "49",
+        "35"
       ],
       "i10index": [
-        "121",
-        "79"
+        "122",
+        "83"
       ]
     },
     "year": "1997"
@@ -5796,23 +5798,23 @@ var data = [
   {
     "name": "Shengdong Zhao",
     "url": "https://scholar.google.com/citations?user=VfdLjCcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=VfdLjCcAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=VfdLjCcAAAAJ&citpid=2",
     "affiliation": "Associate Professor of Computer Science, National University of Singapore",
     "keywords": [
       "Human Computer Interaction"
     ],
     "stats": {
       "citations": [
-        "2556",
-        "1595"
+        "2665",
+        "1699"
       ],
       "hindex": [
         "26",
-        "23"
+        "24"
       ],
       "i10index": [
-        "47",
-        "43"
+        "48",
+        "44"
       ]
     },
     "year": "2003"
@@ -5820,7 +5822,7 @@ var data = [
   {
     "name": "Caroline Ziemkiewicz",
     "url": "https://scholar.google.com/citations?user=VDhnOHEAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=VDhnOHEAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=VDhnOHEAAAAJ&citpid=4",
     "affiliation": "Senior Data Visualization Developer at Forrester Research",
     "keywords": [
       "Visualization",
@@ -5828,16 +5830,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1289",
-        "876"
+        "1377",
+        "958"
       ],
       "hindex": [
         "19",
-        "16"
+        "17"
       ],
       "i10index": [
-        "23",
-        "20"
+        "24",
+        "21"
       ]
     },
     "year": "2008"
@@ -5845,7 +5847,7 @@ var data = [
   {
     "name": "John Zimmerman",
     "url": "https://scholar.google.com/citations?user=A-4JUL4AAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=A-4JUL4AAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=A-4JUL4AAAAJ&citpid=3",
     "affiliation": "Professor, Human-Computer Interaction Institute, Carnegie Mellon Unviersity",
     "keywords": [
       "design research",
@@ -5856,16 +5858,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13023",
-        "8544"
+        "13522",
+        "9028"
       ],
       "hindex": [
-        "47",
-        "35"
+        "48",
+        "36"
       ],
       "i10index": [
-        "112",
-        "83"
+        "113",
+        "85"
       ]
     },
     "year": "2003"
@@ -5873,18 +5875,18 @@ var data = [
   {
     "name": "Gottfried Zimmermann",
     "url": "https://scholar.google.com/citations?user=llLLcQcAAAAJ",
-    "photo": "http://scholar.google.com/citations?view_op=view_photo&user=llLLcQcAAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=llLLcQcAAAAJ&citpid=1",
     "affiliation": "Stuttgart Media University",
     "keywords": [
       "HCI"
     ],
     "stats": {
       "citations": [
-        "957",
-        "406"
+        "995",
+        "439"
       ],
       "hindex": [
-        "15",
+        "16",
         "11"
       ],
       "i10index": [
