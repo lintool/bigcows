@@ -34,6 +34,7 @@ nlp_faculty = dict(filter(lambda elem: elem[1] > 5, nlp_counts.items()))
 
 print("{")
 for person in nlp_faculty:
+    #print(person)
     if person not in faculty:
         continue
     profile = faculty[person]
