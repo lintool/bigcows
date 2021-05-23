@@ -1,4 +1,4 @@
-var date = "Sun May 23 2021 15:34:05 GMT-0400 (Eastern Daylight Time)"
+var date = "Sun May 23 2021 16:41:48 GMT-0400 (Eastern Daylight Time)"
 var data = [
   {
     "name": "Adam Lopez",
@@ -158,29 +158,29 @@ var data = [
   },
   {
     "name": "Alice H. Oh",
-    "url": "http://scholar.google.com/citations?user=KcB5NH4AAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=KcB5NH4AAAAJ&citpid=2",
-    "affiliation": "Professor Emeritus, Ohio State University",
+    "url": "http://scholar.google.com/citations?user=B88-xMEAAAAJ",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=B88-xMEAAAAJ&citpid=2",
+    "affiliation": "KAIST Computer Science",
     "keywords": [
-      "Global Analysis",
-      "Noncommutative Geometry",
-      "Representation Theory"
+      "machine learning",
+      "NLP",
+      "computational social science"
     ],
     "stats": {
       "citations": [
-        "3376",
-        "859"
+        "3023",
+        "1741"
       ],
       "hindex": [
         "26",
-        "16"
+        "20"
       ],
       "i10index": [
-        "39",
-        "22"
+        "38",
+        "31"
       ]
     },
-    "year": "1982"
+    "year": "2000"
   },
   {
     "name": "Amir Globerson",
@@ -1324,31 +1324,6 @@ var data = [
     "year": "2007"
   },
   {
-    "name": "Dan I. Moldovan",
-    "url": "http://scholar.google.com/citations?user=gNnF8y4AAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=gNnF8y4AAAAJ&citpid=3",
-    "affiliation": "Technische Universität Wien (TU Wien)",
-    "keywords": [
-      "Cloud Computing",
-      "Elastic Cloud Services"
-    ],
-    "stats": {
-      "citations": [
-        "623",
-        "366"
-      ],
-      "hindex": [
-        "12",
-        "10"
-      ],
-      "i10index": [
-        "19",
-        "11"
-      ]
-    },
-    "year": "2010"
-  },
-  {
     "name": "Dan Roth",
     "url": "http://scholar.google.com/citations?user=E-bpPWgAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=E-bpPWgAAAAJ&citpid=1",
@@ -2327,31 +2302,6 @@ var data = [
     "year": "2014"
   },
   {
-    "name": "Fei Liu",
-    "url": "http://scholar.google.com/citations?user=NB-SMk8AAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NB-SMk8AAAAJ&citpid=3",
-    "affiliation": "Professor of Physics, University of Kentucky",
-    "keywords": [
-      "particle physics",
-      "nuclear physics"
-    ],
-    "stats": {
-      "citations": [
-        "8916",
-        "2589"
-      ],
-      "hindex": [
-        "52",
-        "26"
-      ],
-      "i10index": [
-        "152",
-        "63"
-      ]
-    },
-    "year": "1982"
-  },
-  {
     "name": "Frank Rudzicz",
     "url": "http://scholar.google.com/citations?user=elXOB1sAAAAJ",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
@@ -2426,33 +2376,6 @@ var data = [
       ]
     },
     "year": "2001"
-  },
-  {
-    "name": "Gerald Penn",
-    "url": "http://scholar.google.com/citations?user=mJk-CLYAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=mJk-CLYAAAAJ&citpid=5",
-    "affiliation": "University of Pennsylvania",
-    "keywords": [
-      "supply chain",
-      "operations management",
-      "operations strategy",
-      "pricing"
-    ],
-    "stats": {
-      "citations": [
-        "24010",
-        "8515"
-      ],
-      "hindex": [
-        "45",
-        "39"
-      ],
-      "i10index": [
-        "65",
-        "51"
-      ]
-    },
-    "year": "2000"
   },
   {
     "name": "Gerard de Melo",
@@ -3021,52 +2944,6 @@ var data = [
     "year": "1996"
   },
   {
-    "name": "Huan Sun",
-    "url": "http://scholar.google.com/citations?user=LHk840AAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=LHk840AAAAAJ&citpid=2",
-    "affiliation": "National Sun Yat-sen University",
-    "keywords": [],
-    "stats": {
-      "citations": [
-        "9874",
-        "9529"
-      ],
-      "hindex": [
-        "34",
-        "32"
-      ],
-      "i10index": [
-        "50",
-        "46"
-      ]
-    },
-    "year": "2015"
-  },
-  {
-    "name": "Hui Jiang",
-    "url": "http://scholar.google.com/citations?user=DZyVTk8AAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DZyVTk8AAAAJ&citpid=2",
-    "affiliation": "Hunan University",
-    "keywords": [
-      "Analytical Chemistry"
-    ],
-    "stats": {
-      "citations": [
-        "15520",
-        "5476"
-      ],
-      "hindex": [
-        "66",
-        "36"
-      ],
-      "i10index": [
-        "232",
-        "129"
-      ]
-    },
-    "year": "2002"
-  },
-  {
     "name": "Hwee Tou Ng",
     "url": "http://scholar.google.com/citations?user=FABZCeAAAAAJ",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
@@ -3374,34 +3251,6 @@ var data = [
     "year": "2002"
   },
   {
-    "name": "James F. Allen",
-    "url": "http://scholar.google.com/citations?user=FxPzh9kAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=FxPzh9kAAAAJ&citpid=2",
-    "affiliation": "James McGill Professor of Neurology, Psychiatry, McGill U., Director, Healthy Brains, Health Lives",
-    "keywords": [
-      "brain imaging",
-      "MRI",
-      "PET",
-      "connectivity",
-      "neuroinformatics"
-    ],
-    "stats": {
-      "citations": [
-        "163677",
-        "53411"
-      ],
-      "hindex": [
-        "199",
-        "112"
-      ],
-      "i10index": [
-        "698",
-        "494"
-      ]
-    },
-    "year": "1993"
-  },
-  {
     "name": "James H. Martin",
     "url": "http://scholar.google.com/citations?user=ZVxO6IIAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZVxO6IIAAAAJ&citpid=3",
@@ -3616,33 +3465,6 @@ var data = [
       ]
     },
     "year": "2011"
-  },
-  {
-    "name": "Jiajun Chen",
-    "url": "http://scholar.google.com/citations?user=WIF7VaoAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=WIF7VaoAAAAJ&citpid=2",
-    "affiliation": "Covestro",
-    "keywords": [
-      "Sensors",
-      "Process Analyzers",
-      "Gas",
-      "Materials Science"
-    ],
-    "stats": {
-      "citations": [
-        "1796",
-        "775"
-      ],
-      "hindex": [
-        "20",
-        "15"
-      ],
-      "i10index": [
-        "25",
-        "20"
-      ]
-    },
-    "year": "2006"
   },
   {
     "name": "Jian-Yun Nie",
@@ -6336,31 +6158,6 @@ var data = [
     "year": "2004"
   },
   {
-    "name": "Ping Li",
-    "url": "http://scholar.google.com/citations?user=vR8jj4YAAAAJ",
-    "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
-    "affiliation": "Copenhagen Business School",
-    "keywords": [
-      "Emerging Multinational Firms",
-      "Indigenous Research on Chinese Management"
-    ],
-    "stats": {
-      "citations": [
-        "23989",
-        "12148"
-      ],
-      "hindex": [
-        "66",
-        "45"
-      ],
-      "i10index": [
-        "397",
-        "253"
-      ]
-    },
-    "year": "1999"
-  },
-  {
     "name": "Preslav Nakov",
     "url": "http://scholar.google.com/citations?user=DfXsKZ4AAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DfXsKZ4AAAAJ&citpid=3",
@@ -7313,34 +7110,6 @@ var data = [
     "year": "2012"
   },
   {
-    "name": "Shay B. Cohen",
-    "url": "http://scholar.google.com/citations?user=KTIwWHsAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=KTIwWHsAAAAJ&citpid=4",
-    "affiliation": "Università degli studi di Torino",
-    "keywords": [
-      "Literatura española",
-      "literatura hispanohebrea",
-      "Siglo de oro",
-      "novela histórica",
-      "Humanidades digitales"
-    ],
-    "stats": {
-      "citations": [
-        "33",
-        "23"
-      ],
-      "hindex": [
-        "3",
-        "2"
-      ],
-      "i10index": [
-        "0",
-        "0"
-      ]
-    },
-    "year": "2007"
-  },
-  {
     "name": "Shomir Wilson",
     "url": "http://scholar.google.com/citations?user=0GHjBSUAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=0GHjBSUAAAAJ&citpid=3",
@@ -7968,29 +7737,30 @@ var data = [
   },
   {
     "name": "Timothy Baldwin",
-    "url": "http://scholar.google.com/citations?user=XJ3Sc4QAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XJ3Sc4QAAAAJ&citpid=2",
-    "affiliation": "Eveleigh Professor of Business Leadership, Kelley School of Business, Indiana University ",
+    "url": "http://scholar.google.com/citations?user=wjBD1dkAAAAJ",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wjBD1dkAAAAJ&citpid=7",
+    "affiliation": "School of Computing and Information Systems, The University of Melbourne",
     "keywords": [
-      "Training & Development",
-      "Leadership",
-      "Management Skills"
+      "computational linguistics",
+      "natural language processing",
+      "artificial intelligence",
+      "social media"
     ],
     "stats": {
       "citations": [
-        "15764",
-        "5503"
+        "16017",
+        "9978"
       ],
       "hindex": [
-        "41",
-        "29"
+        "59",
+        "47"
       ],
       "i10index": [
-        "51",
-        "42"
+        "212",
+        "144"
       ]
     },
-    "year": "1991"
+    "year": "2002"
   },
   {
     "name": "Ting Liu",
@@ -8022,27 +7792,29 @@ var data = [
   },
   {
     "name": "Tom M. Mitchell",
-    "url": "http://scholar.google.com/citations?user=_ZVyA_gAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=_ZVyA_gAAAAJ&citpid=4",
-    "affiliation": "University College London",
+    "url": "http://scholar.google.com/citations?user=MnfzuPYAAAAJ",
+    "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
+    "affiliation": "Founders University Professor of Machine Learning, Carnegie Mellon University",
     "keywords": [
-      "Professor of Earthquake Geology and Rock Physics"
+      "Machine Learning",
+      "cognitive neuroscience",
+      "natural language understanding"
     ],
     "stats": {
       "citations": [
-        "2976",
-        "2137"
+        "59792",
+        "22125"
       ],
       "hindex": [
-        "25",
-        "24"
+        "92",
+        "59"
       ],
       "i10index": [
-        "42",
-        "41"
+        "249",
+        "155"
       ]
     },
-    "year": "2007"
+    "year": "1985"
   },
   {
     "name": "Tong Zhang",
@@ -8331,34 +8103,6 @@ var data = [
       ]
     },
     "year": "2006"
-  },
-  {
-    "name": "Wei Lu",
-    "url": "http://scholar.google.com/citations?user=pPInY4UAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=pPInY4UAAAAJ&citpid=4",
-    "affiliation": "Wei D. Lu, EECS Professor, University of Michigan, IEEE Fellow",
-    "keywords": [
-      "nanoelectronics",
-      "memory",
-      "memristor",
-      "neuromorphic",
-      "AI hardware"
-    ],
-    "stats": {
-      "citations": [
-        "29412",
-        "16335"
-      ],
-      "hindex": [
-        "78",
-        "64"
-      ],
-      "i10index": [
-        "155",
-        "144"
-      ]
-    },
-    "year": "2004"
   },
   {
     "name": "Wei Xu",
