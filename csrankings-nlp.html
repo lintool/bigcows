@@ -11,13 +11,14 @@
 
 <link rel="stylesheet" href="tablesorter2/theme.blue.css">
 
-<script src="stats-nlp-faculty.js"></script></script>
+<script src="csrankings/data-nlp.js"></script></script>
+
 </head>
 <body>
 
 <a href="https://github.com/lintool/scholar-scraper/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://github-camo.global.ssl.fastly.net/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"></a>
 
-<h1>Citation Statistics: NLP (CSRankings Faculty)</h1>
+<h1>CSRankings Individual Citation Statistics: NLP</h1>
 
 <p>or, NLP big cows 🐮</p>
 
@@ -92,7 +93,6 @@ for (var i=0; i< data.length; i++) {
   $("#stats").append(row);
 }
 
-// http://tablesorter.com/docs/
 $(document).ready(function() {
 
   $("#date").append("<p><small>Last updated: " + date + "</small></p>");
@@ -105,13 +105,7 @@ $(document).ready(function() {
     widgetOptions : {
       resizable: true,
       resizable_widths : [ '10px' ],
-      // filter_anyMatch replaced! Instead use the filter_external option
-      // Set to use a jQuery selector (or jQuery object) pointing to the
-      // external filter (column specific or any match)
       filter_external : '.search',
-      // add a default type search to the first name column
-      //filter_defaultFilter: { 1 : '~{query}' },
-      // include column filters
       filter_columnFilters: true,
       filter_placeholder: { search : 'Search...' },
       filter_saveFilters : true,
