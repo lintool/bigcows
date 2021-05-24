@@ -12,99 +12,61 @@
 
 <a href="https://github.com/lintool/scholar-scraper/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://github-camo.global.ssl.fastly.net/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"></a>
 
-<h1>Citations Statistics of Information Retrieval Researchers</h1>
+<h1>Big Cows 🐮</h1>
 
 <p>by <a href="https://cs.uwaterloo.ca/~jimmylin/">Jimmy Lin</a> (University of Waterloo)</p>
 
-<p><b>Disicipline-specific lists:</b> [Information Retrieval] [<a href="index-db.html">Databases</a>] [<a href="index-nlp.html">Natural Language Processing</a>] [<a href="index-hci.html">Human-Computer Interaction</a>]<br/>
-<b>See also:</b> [<a href="index-stratosphere.html">Overall Top CS Researchers</a>]</p>
+<p>Obviously, research contributions cannot be entirely quantified via
+bibliometric statistics, which are known to be flawed in many ways
+(including systematic biases). On the other hand, they do serve
+as <i>one</i> (of many) signals, however noisy. Here, I provide that
+signal.<p>
 
-<div style="width:800px">
-<p><b>Editorial note:</b> This list contains only researchers who have
-a Google Scholar profile; names were identified by snowball sampling
-and various other <i>ad hoc</i> techniques. If you wish to see a name
-added, please email me or send a pull request. I will endeavor to
-periodically run the crawl to gather updated statistics. Of course,
-scholarly achievement is only partially measured by citation counts,
-which are known to be flawed in many ways. Evaluations of scholars
-should include comprehensive examination of their research
-contributions.
-<p>
-</div>
+<h2>CSRankings</h2>
 
-<div id="date" style="width:800px"><small>Data scraped from Google
-Scholar: "name", "citations", "h-index", and "i10-index" are from
-author profile; "year" denotes year of first citation. The columns
-marked "/y" indicates division by years since first
-citation.</small></div>
+<p><a href="http://csrankings.org/">CSRankings</a> is a metrics-based
+ranking of top computer science institutions around the
+world. However, it only ranks <i>institutions</i>. Here, building on
+the data, I rank <i>individuals</i>. Who is being ranking?  According
+to the site, these individuals are "full-time, tenure-track faculty
+who can solely advise a PhD student in Computer Science" and whose
+name appears in DBLP.
+</p>
 
-<p/>
+<ul>
 
-<table id="stats" border="0" class="tablesorter" width="300">
-<thead>
-<tr>
-    <th/>
-    <th>name</th>
-    <th>year</th>
-    <th>citations</th>
-    <th>/y</th>
-    <th>h-index</th>
-    <th>/y</th>
-    <th>i10-index</th>
-    <th>/y</th>
-</tr>
-</thead>
-</table>
+  <li><a href="csrankings-nlp.html">Natural Language Processing</a></li>
+  <li>Other areas coming soon!</li>
 
-<script>
-function round(n) {
-  return Math.round(n*10)/10;
-}
+</ul>
 
-for (var i=0; i< data.length; i++) {
-  var regex = /user=([^&]+)/;
-  var match = regex.exec(data[i].url);
-  var userId = match[1];
+<h2><i>Ad hoc</i> Lists</h2>
 
-  var row = $('<tr/>');
-  var y = (2021 - data[i].year);
-  row.append($('<td>'));
-  row.append($('<td style="text-align: left"/>')
-    .html('<a href="' + data[i].url + '" class="tooltip">' + data[i].name +
-    '<span><img class="callout" src="tooltip/tooltip.gif" />' +
-    '<img style="padding-bottom: 10px" src="images/' + userId + '.png"/><br/>' +
-    '<b>' + data[i].name + '</b><br/>' +
-    data[i].affiliation + '<br/>' +
-    '<small><i>' + data[i].keywords.join(', ') + '</i></small><br/>' +
-    '</span></a>'));
-  row.append($('<td/>').html(data[i].year));
-  row.append($('<td/>').html(data[i].stats.citations[0]));
-  row.append($('<td/>').html(Math.round(data[i].stats.citations[0]/y)));
-  row.append($('<td/>').html(data[i].stats.hindex[0]));
-  row.append($('<td/>').html(round(data[i].stats.hindex[0]/y)));
-  row.append($('<td/>').html(data[i].stats.i10index[0]));
-  row.append($('<td/>').html(round(data[i].stats.i10index[0]/y)));
-  $("#stats").append(row);
-}
+<p>These lists are compiled by me in a <i>ad hoc</i> manner, best
+characterized as snowball sampling (i.e., if I come across a name, I
+add to the list). I use a fairly simple test for inclusion: self
+identification. That is, if a researcher uses a particular keyword (or
+any reasonable variant) on their profile, they get included in the
+discipline-specific lists. I'm always looking to expand the lists and
+welcome additional contributions!<p>
 
-// http://tablesorter.com/docs/
-$(document).ready(function() {
-  $("#date").append("<p><small>Last updated: " + date + "</small></p>");
-  $("#stats").tablesorter({sortList: [[5,1], [3,1]]});
+<ul>
 
-  // https://stackoverflow.com/questions/6549518/jquery-tablesorter-with-row-numbers
-  var table = $("#stats");
-  table.bind("sortEnd",function() {
-    var i = 1;
-    table.find("tr:gt(0)").each(function(){
-      $(this).find("td:eq(0)").text(i);
-      i++;
-    });
-  });
-});
-</script>
+  <li><a href="index-stratosphere.html">Overall Top CS Researchers</a>, originally based on  <a href="http://www.cs.ucla.edu/~palsberg/h-number.html">this list</a> maintained by <a href="http://www.cs.ucla.edu/~palsberg/">Jens Palsberg</a> (reasonably up to date, reasonably complete)</li>
+  <li><a href="index-nlp.html">Natural Language Processing</a> (reasonably up to date, reasonably complete)</li>
+  <li><a href="index-ir.html">Information Retrieval</a> (reasonably up to date, reasonably complete)</li>
+  <li><a href="index-db.html">Databases</a> (kinda out of date, please help update!)</li>
+  <li><a href="index-hci.html">Human-Computer Interaction</a> (out of date, please help update!)</li>
 
-<p style="margin-top: 300px"/>
+</ul>
+
+<h2>What the hell is a big cow?</h2>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In an academic context, 大牛 🐮 (Dà niú), literally &quot;big cow&quot;, refers to a famous professor. It is quite linguistically productive, e.g., &quot;多牛?&quot; (lit. &quot;how cow(-ish)?&quot;), translation: &quot;how famous (is your professor)?&quot;</p>&mdash; Jimmy Lin (@lintool) <a href="https://twitter.com/lintool/status/1349447611388989441?ref_src=twsrc%5Etfw">January 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h2>Known Issues</h2>
+
+<p>Yes, I know, <a href="https://github.com/lintool/bigcows/issues/4">the earliest year of publication is often wrong.</p>
 
 </body>
 </html>
