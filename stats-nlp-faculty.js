@@ -3,6 +3,10 @@ var data = [
   {
     "name": "Adam Lopez",
     "url": "http://scholar.google.com/citations?user=u4sxKZwAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=u4sxKZwAAAAJ&citpid=4",
     "affiliation": "Rasa / University of Edinburgh",
     "keywords": [
@@ -27,6 +31,8 @@ var data = [
   {
     "name": "Alan Ritter",
     "url": "http://scholar.google.com/citations?user=unXtH3IAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=unXtH3IAAAAJ&citpid=4",
     "affiliation": "Georgia Institute of Technology",
     "keywords": [
@@ -55,6 +61,8 @@ var data = [
   {
     "name": "Alan W. Black",
     "url": "http://scholar.google.com/citations?user=Es-YRKMAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Es-YRKMAAAAJ&citpid=3",
     "affiliation": "Professor, Language Technologies Institute, Carnegie Mellon University",
     "keywords": [
@@ -81,6 +89,10 @@ var data = [
   {
     "name": "Alessandro Moschitti",
     "url": "http://scholar.google.com/citations?user=vYUDlsEAAAAJ",
+    "region": "europe",
+    "country": "it",
+    "region": "europe",
+    "country": "it",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=vYUDlsEAAAAJ&citpid=5",
     "affiliation": "Principal Scientist at Amazon Alexa",
     "keywords": [
@@ -108,6 +120,10 @@ var data = [
   {
     "name": "Alex Lascarides",
     "url": "http://scholar.google.com/citations?user=fVRKVf4AAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=fVRKVf4AAAAJ&citpid=2",
     "affiliation": "Professor of Semantics, University of Edinburgh",
     "keywords": [
@@ -134,6 +150,10 @@ var data = [
   {
     "name": "Alexander Koller",
     "url": "http://scholar.google.com/citations?user=yni3K9wAAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Professor of Computational Linguistics, Saarland University, Saarland Informatics Campus",
     "keywords": [
@@ -185,6 +205,10 @@ var data = [
   {
     "name": "Amir Globerson",
     "url": "http://scholar.google.com/citations?user=5JserkUAAAAJ",
+    "region": "europe",
+    "country": "il",
+    "region": "europe",
+    "country": "il",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=5JserkUAAAAJ&citpid=3",
     "affiliation": "Tel Aviv University",
     "keywords": [
@@ -212,6 +236,10 @@ var data = [
   {
     "name": "Anders Søgaard",
     "url": "http://scholar.google.com/citations?user=x3I4CrYAAAAJ",
+    "region": "europe",
+    "country": "dk",
+    "region": "europe",
+    "country": "dk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=x3I4CrYAAAAJ&citpid=6",
     "affiliation": "Full Professor in NLP and Machine Learning, University of Copenhagen",
     "keywords": [
@@ -237,6 +265,10 @@ var data = [
   {
     "name": "Andreas Vlachos",
     "url": "http://scholar.google.com/citations?user=XjWnyM4AAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XjWnyM4AAAAJ&citpid=3",
     "affiliation": "Senior Lecturer, University of Cambridge",
     "keywords": [
@@ -262,6 +294,8 @@ var data = [
   {
     "name": "Andrew McCallum",
     "url": "http://scholar.google.com/citations?user=yILa1y0AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=yILa1y0AAAAJ&citpid=2",
     "affiliation": "Distinguished Professor of Computer Science, University of Massachusetts Amherst",
     "keywords": [
@@ -290,6 +324,10 @@ var data = [
   {
     "name": "André F. T. Martins",
     "url": "http://scholar.google.com/citations?user=mT7ppvwAAAAJ",
+    "region": "europe",
+    "country": "pt",
+    "region": "europe",
+    "country": "pt",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Carnegie Mellon University and Instituto Superior Tecnico",
     "keywords": [
@@ -315,6 +353,8 @@ var data = [
   {
     "name": "Ani Nenkova",
     "url": "http://scholar.google.com/citations?user=vXQdb5kAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Principal Scientist at Adobe Research \\\\ on leave from the University of Pennsylvania",
     "keywords": [
@@ -342,6 +382,10 @@ var data = [
   {
     "name": "Animesh Mukherjee",
     "url": "http://scholar.google.com/citations?user=lf7-deEAAAAJ",
+    "region": "asia",
+    "country": "in",
+    "region": "asia",
+    "country": "in",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=lf7-deEAAAAJ&citpid=2",
     "affiliation": "Associate Professor of Computer Science, IIT Kharagpur",
     "keywords": [
@@ -368,6 +412,10 @@ var data = [
   {
     "name": "Anna Korhonen",
     "url": "http://scholar.google.com/citations?user=SCoVoOYAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=SCoVoOYAAAAJ&citpid=2",
     "affiliation": "Professor, Computer Science and Linguistics, University of Cambridge",
     "keywords": [
@@ -395,6 +443,8 @@ var data = [
   {
     "name": "Anna Rumshisky",
     "url": "http://scholar.google.com/citations?user=_Q1uzVYAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=_Q1uzVYAAAAJ&citpid=1",
     "affiliation": "UMass Lowell",
     "keywords": [
@@ -420,6 +470,10 @@ var data = [
   {
     "name": "Anoop Sarkar",
     "url": "http://scholar.google.com/citations?user=KhJJchQAAAAJ",
+    "region": "canada",
+    "country": "ca",
+    "region": "canada",
+    "country": "ca",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=KhJJchQAAAAJ&citpid=6",
     "affiliation": "Professor of Computing Science, Simon Fraser University",
     "keywords": [
@@ -447,6 +501,10 @@ var data = [
   {
     "name": "Antal van den Bosch",
     "url": "http://scholar.google.com/citations?user=LCuzJyYAAAAJ",
+    "region": "europe",
+    "country": "nl",
+    "region": "europe",
+    "country": "nl",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=LCuzJyYAAAAJ&citpid=9",
     "affiliation": "KNAW Meertens Institute",
     "keywords": [
@@ -475,6 +533,8 @@ var data = [
   {
     "name": "Antonios Anastasopoulos",
     "url": "http://scholar.google.com/citations?user=g_G_SNAAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=g_G_SNAAAAAJ&citpid=3",
     "affiliation": "Assistant Professor, George Mason University",
     "keywords": [
@@ -526,6 +586,8 @@ var data = [
   {
     "name": "Arjun Mukherjee",
     "url": "http://scholar.google.com/citations?user=wUNpA_sAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Department of Computer Science, University of Houston",
     "keywords": [
@@ -554,6 +616,10 @@ var data = [
   {
     "name": "Asif Ekbal",
     "url": "http://scholar.google.com/citations?user=IAL_F04AAAAJ",
+    "region": "asia",
+    "country": "in",
+    "region": "asia",
+    "country": "in",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Department of Computer Science and Engineering, IIT Patna, India",
     "keywords": [
@@ -580,6 +646,8 @@ var data = [
   {
     "name": "Barbara Di Eugenio",
     "url": "http://scholar.google.com/citations?user=I4TkqC0AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=I4TkqC0AAAAJ&citpid=5",
     "affiliation": "Professor, University of Illinois Chicago",
     "keywords": [
@@ -607,6 +675,10 @@ var data = [
   {
     "name": "Barbara Plank",
     "url": "http://scholar.google.com/citations?user=5nGlwIQAAAAJ",
+    "region": "europe",
+    "country": "dk",
+    "region": "europe",
+    "country": "dk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=5nGlwIQAAAAJ&citpid=6",
     "affiliation": "Natural Language Processing, ITU",
     "keywords": [
@@ -634,6 +706,10 @@ var data = [
   {
     "name": "Benjamin Roth",
     "url": "http://scholar.google.com/citations?user=hz5AsE0AAAAJ",
+    "region": "europe",
+    "country": "at",
+    "region": "europe",
+    "country": "at",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=hz5AsE0AAAAJ&citpid=3",
     "affiliation": "University of Vienna",
     "keywords": [
@@ -661,6 +737,8 @@ var data = [
   {
     "name": "Benjamin Van Durme",
     "url": "http://scholar.google.com/citations?user=wIujAJoAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wIujAJoAAAAJ&citpid=3",
     "affiliation": "Johns Hopkins University; Microsoft Semantic Machines",
     "keywords": [
@@ -687,6 +765,10 @@ var data = [
   {
     "name": "Bin Wang",
     "url": "http://scholar.google.com/citations?user=tDajnHEAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=medium_photo&user=tDajnHEAAAAJ&citpid=4",
     "affiliation": "AI Lab, Xiaomi Inc.",
     "keywords": [
@@ -713,6 +795,8 @@ var data = [
   {
     "name": "Bing Liu",
     "url": "http://scholar.google.com/citations?user=Kt1bjZoAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Kt1bjZoAAAAJ&citpid=3",
     "affiliation": "Distinguished Professor, University of Illinois at Chicago",
     "keywords": [
@@ -741,6 +825,10 @@ var data = [
   {
     "name": "Bing Qin",
     "url": "http://scholar.google.com/citations?user=LKnCub0AAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Professor in Harbin Institute of Technology",
     "keywords": [
@@ -767,6 +855,8 @@ var data = [
   {
     "name": "Bonnie J. Dorr",
     "url": "http://scholar.google.com/citations?user=jSjEWosAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Institute for Human-Machine Cognition, University of Maryland",
     "keywords": [
@@ -793,6 +883,10 @@ var data = [
   {
     "name": "Bonnie L. Webber",
     "url": "http://scholar.google.com/citations?user=r6JFa28AAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Professor, School of Informatics, University of Edinburgh",
     "keywords": [
@@ -819,6 +913,8 @@ var data = [
   {
     "name": "Brendan T. O'Connor",
     "url": "http://scholar.google.com/citations?user=V4LXxrQAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=V4LXxrQAAAAJ&citpid=2",
     "affiliation": "University of Massachusetts Amherst",
     "keywords": [
@@ -844,6 +940,8 @@ var data = [
   {
     "name": "Byron C. Wallace",
     "url": "http://scholar.google.com/citations?user=KTzRHmwAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=KTzRHmwAAAAJ&citpid=3",
     "affiliation": "Assistant Professor, Northeastern University",
     "keywords": [
@@ -872,6 +970,10 @@ var data = [
   {
     "name": "Carlos Gómez-Rodríguez",
     "url": "http://scholar.google.com/citations?user=BeNhySQAAAAJ",
+    "region": "europe",
+    "country": "es",
+    "region": "europe",
+    "country": "es",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BeNhySQAAAAJ&citpid=5",
     "affiliation": "Profesor Titular de Universidad, Universidade da Coruña, CITIC",
     "keywords": [
@@ -898,6 +1000,8 @@ var data = [
   {
     "name": "Carolyn Penstein Rosé",
     "url": "http://scholar.google.com/citations?user=BMydCgcAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BMydCgcAAAAJ&citpid=2",
     "affiliation": "Language Technologies Institute and Human-Computer Interaction Institute, Carnegie Mellon University",
     "keywords": [
@@ -924,6 +1028,8 @@ var data = [
   {
     "name": "ChengXiang Zhai",
     "url": "http://scholar.google.com/citations?user=YU-baPIAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=YU-baPIAAAAJ&citpid=5",
     "affiliation": "University of Illinois at Urbana-Champaign",
     "keywords": [
@@ -952,6 +1058,10 @@ var data = [
   {
     "name": "Chengqing Zong",
     "url": "http://scholar.google.com/citations?user=l8lvKOQAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=l8lvKOQAAAAJ&citpid=2",
     "affiliation": "Institute of Automation, Chinese Academy of Sciences",
     "keywords": [
@@ -978,6 +1088,8 @@ var data = [
   {
     "name": "Chenhao Tan",
     "url": "http://scholar.google.com/citations?user=KGMaP18AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=KGMaP18AAAAJ&citpid=4",
     "affiliation": "University of Chicago",
     "keywords": [
@@ -1006,6 +1118,8 @@ var data = [
   {
     "name": "Chitta Baral",
     "url": "http://scholar.google.com/citations?user=9Yd716IAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=9Yd716IAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Arizona State University",
     "keywords": [
@@ -1034,6 +1148,8 @@ var data = [
   {
     "name": "Cho-Jui Hsieh",
     "url": "http://scholar.google.com/citations?user=Wy89g4IAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Wy89g4IAAAAJ&citpid=3",
     "affiliation": "University of California, Los Angeles",
     "keywords": [
@@ -1059,6 +1175,10 @@ var data = [
   {
     "name": "Chris Biemann",
     "url": "http://scholar.google.com/citations?user=BdwP-3QAAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BdwP-3QAAAAJ&citpid=4",
     "affiliation": "Professor for Language Technology, University of Hamburg",
     "keywords": [
@@ -1087,6 +1207,8 @@ var data = [
   {
     "name": "Chris Callison-Burch",
     "url": "http://scholar.google.com/citations?user=nv-MV58AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=nv-MV58AAAAJ&citpid=4",
     "affiliation": "Associate Professor, University of Pennsylvania",
     "keywords": [
@@ -1115,6 +1237,10 @@ var data = [
   {
     "name": "Christof Monz",
     "url": "http://scholar.google.com/citations?user=0r3PWLQAAAAJ",
+    "region": "europe",
+    "country": "nl",
+    "region": "europe",
+    "country": "nl",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=0r3PWLQAAAAJ&citpid=3",
     "affiliation": "Professor, University of Amsterdam",
     "keywords": [
@@ -1141,6 +1267,8 @@ var data = [
   {
     "name": "Christopher D. Manning",
     "url": "http://scholar.google.com/citations?user=1zmDOdwAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=1zmDOdwAAAAJ&citpid=4",
     "affiliation": "Professor of Computer Science and Linguistics, Stanford University",
     "keywords": [
@@ -1167,6 +1295,8 @@ var data = [
   {
     "name": "Christopher Potts",
     "url": "http://scholar.google.com/citations?user=3j08YoAAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=3j08YoAAAAAJ&citpid=3",
     "affiliation": "Professor of Linguistics and, by courtesy, of Computer Science",
     "keywords": [
@@ -1195,6 +1325,8 @@ var data = [
   {
     "name": "Claire Cardie",
     "url": "http://scholar.google.com/citations?user=ex9BQiIAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ex9BQiIAAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science, Cornell University",
     "keywords": [
@@ -1222,6 +1354,8 @@ var data = [
   {
     "name": "Cornelia Caragea",
     "url": "http://scholar.google.com/citations?user=vkX6VV4AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=vkX6VV4AAAAJ&citpid=5",
     "affiliation": "University of Illinois at Chicago",
     "keywords": [
@@ -1249,6 +1383,8 @@ var data = [
   {
     "name": "Cristian Danescu-Niculescu-Mizil",
     "url": "http://scholar.google.com/citations?user=njczUPMAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=njczUPMAAAAJ&citpid=2",
     "affiliation": "Associate Professor, Cornell University",
     "keywords": [
@@ -1276,6 +1412,10 @@ var data = [
   {
     "name": "Daisuke Kawahara",
     "url": "http://scholar.google.com/citations?user=Cfp1XmUAAAAJ",
+    "region": "asia",
+    "country": "jp",
+    "region": "asia",
+    "country": "jp",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Cfp1XmUAAAAJ&citpid=2",
     "affiliation": "Waseda University",
     "keywords": [
@@ -1301,6 +1441,8 @@ var data = [
   {
     "name": "Dan Goldwasser",
     "url": "http://scholar.google.com/citations?user=u8358QgAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Purdue University",
     "keywords": [
@@ -1353,6 +1495,8 @@ var data = [
   {
     "name": "Daniel Jurafsky",
     "url": "http://scholar.google.com/citations?user=uZg9l58AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=uZg9l58AAAAJ&citpid=2",
     "affiliation": "Professor of Linguistics and Computer Science, Stanford University",
     "keywords": [
@@ -1381,6 +1525,8 @@ var data = [
   {
     "name": "Danqi Chen",
     "url": "http://scholar.google.com/citations?user=sVR8ktkAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=sVR8ktkAAAAJ&citpid=17",
     "affiliation": "Princeton University",
     "keywords": [
@@ -1406,6 +1552,10 @@ var data = [
   {
     "name": "Danushka Bollegala",
     "url": "http://scholar.google.com/citations?user=kLqCYLMAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=kLqCYLMAAAAJ&citpid=3",
     "affiliation": "Professor, The University of Liverpool, DMML, Amazon.com",
     "keywords": [
@@ -1434,6 +1584,8 @@ var data = [
   {
     "name": "David A. Smith",
     "url": "http://scholar.google.com/citations?user=T8k2etUAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=T8k2etUAAAAJ&citpid=2",
     "affiliation": "Associate Professor, College of Computer and Information Science, Northeastern University",
     "keywords": [
@@ -1462,6 +1614,8 @@ var data = [
   {
     "name": "David Bamman",
     "url": "http://scholar.google.com/citations?user=RkA1y54AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=RkA1y54AAAAJ&citpid=3",
     "affiliation": "UC Berkeley",
     "keywords": [
@@ -1489,6 +1643,8 @@ var data = [
   {
     "name": "David Chiang",
     "url": "http://scholar.google.com/citations?user=dok0514AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=dok0514AAAAJ&citpid=2",
     "affiliation": "Associate Professor, University of Notre Dame",
     "keywords": [
@@ -1514,6 +1670,8 @@ var data = [
   {
     "name": "David Jurgens",
     "url": "http://scholar.google.com/citations?user=sGFFr5kAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=sGFFr5kAAAAJ&citpid=4",
     "affiliation": "Assistant Professor in the School of Information, University of Michigan",
     "keywords": [
@@ -1541,6 +1699,8 @@ var data = [
   {
     "name": "David M. Mimno",
     "url": "http://scholar.google.com/citations?user=uBFV6SUAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Associate Professor, Cornell University",
     "keywords": [
@@ -1568,6 +1728,10 @@ var data = [
   {
     "name": "David Schlangen",
     "url": "http://scholar.google.com/citations?user=QoDgwZYAAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=QoDgwZYAAAAJ&citpid=1",
     "affiliation": "Professor, \"Foundations of Computational Linguistics\", University of Potsdam",
     "keywords": [
@@ -1595,6 +1759,10 @@ var data = [
   {
     "name": "David Vilares",
     "url": "http://scholar.google.com/citations?user=3KHyYsMAAAAJ",
+    "region": "europe",
+    "country": "es",
+    "region": "europe",
+    "country": "es",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=3KHyYsMAAAAJ&citpid=19",
     "affiliation": "Universidade da Coruña, CITIC",
     "keywords": [
@@ -1619,6 +1787,8 @@ var data = [
   {
     "name": "David Yarowsky",
     "url": "http://scholar.google.com/citations?user=gaO-vS4AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Professor of Computer Science, Johns Hopkins University",
     "keywords": [],
@@ -1641,6 +1811,8 @@ var data = [
   {
     "name": "Dejing Dou",
     "url": "http://scholar.google.com/citations?user=qBHsQ04AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=qBHsQ04AAAAJ&citpid=3",
     "affiliation": "Professor (on leave), University of Oregon/Head of BDL and BIL, Baidu Research",
     "keywords": [
@@ -1669,6 +1841,10 @@ var data = [
   {
     "name": "Dekai Wu",
     "url": "http://scholar.google.com/citations?user=NMkg-64AAAAJ",
+    "region": "asia",
+    "country": "hk",
+    "region": "asia",
+    "country": "hk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NMkg-64AAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science and Engineering, Human Language Technology Center, Hong Kong",
     "keywords": [
@@ -1723,6 +1899,8 @@ var data = [
   {
     "name": "Derry Wijaya",
     "url": "http://scholar.google.com/citations?user=8lmWWD0AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=8lmWWD0AAAAJ&citpid=7",
     "affiliation": "Boston University",
     "keywords": [
@@ -1749,6 +1927,10 @@ var data = [
   {
     "name": "Desmond Elliott",
     "url": "http://scholar.google.com/citations?user=OjYpMi4AAAAJ",
+    "region": "europe",
+    "country": "dk",
+    "region": "europe",
+    "country": "dk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=OjYpMi4AAAAJ&citpid=2",
     "affiliation": "University of Copenhagen",
     "keywords": [
@@ -1775,6 +1957,10 @@ var data = [
   {
     "name": "Diana Inkpen",
     "url": "http://scholar.google.com/citations?user=66pwIBcAAAAJ",
+    "region": "canada",
+    "country": "ca",
+    "region": "canada",
+    "country": "ca",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "University of Ottawa (Computer Science)",
     "keywords": [
@@ -1801,6 +1987,8 @@ var data = [
   {
     "name": "Diane J. Litman",
     "url": "http://scholar.google.com/citations?user=8MFFVgEAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=medium_photo&user=8MFFVgEAAAAJ&citpid=3",
     "affiliation": "University of Pittsburgh",
     "keywords": [
@@ -1829,6 +2017,10 @@ var data = [
   {
     "name": "Dietrich Klakow",
     "url": "http://scholar.google.com/citations?user=_HtGYmoAAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=medium_photo&user=_HtGYmoAAAAJ&citpid=2",
     "affiliation": "Saarland University, Saarland Informatics Campus",
     "keywords": [
@@ -1857,6 +2049,10 @@ var data = [
   {
     "name": "Dirk Hovy",
     "url": "http://scholar.google.com/citations?user=7xluaTAAAAAJ",
+    "region": "europe",
+    "country": "it",
+    "region": "europe",
+    "country": "it",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=7xluaTAAAAAJ&citpid=4",
     "affiliation": "Bocconi University",
     "keywords": [
@@ -1885,6 +2081,8 @@ var data = [
   {
     "name": "Diyi Yang",
     "url": "http://scholar.google.com/citations?user=j9jhYqQAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=j9jhYqQAAAAJ&citpid=5",
     "affiliation": "Georgia Tech",
     "keywords": [
@@ -1912,6 +2110,8 @@ var data = [
   {
     "name": "Doug Downey",
     "url": "http://scholar.google.com/citations?user=NpvcLukAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NpvcLukAAAAJ&citpid=2",
     "affiliation": "Ohio State University",
     "keywords": [
@@ -1938,6 +2138,8 @@ var data = [
   {
     "name": "Douglas W. Oard",
     "url": "http://scholar.google.com/citations?user=3ctKkysAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "University of Maryland",
     "keywords": [
@@ -1962,6 +2164,8 @@ var data = [
   {
     "name": "Dragomir R. Radev",
     "url": "http://scholar.google.com/citations?user=vIqWvgwAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=vIqWvgwAAAAJ&citpid=4",
     "affiliation": "Professor, Computer Science, Yale University",
     "keywords": [
@@ -1990,6 +2194,8 @@ var data = [
   {
     "name": "Eduardo Blanco",
     "url": "http://scholar.google.com/citations?user=AqGa3-MAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=AqGa3-MAAAAJ&citpid=7",
     "affiliation": "University of North Texas",
     "keywords": [
@@ -2015,6 +2221,10 @@ var data = [
   {
     "name": "Ekaterina Shutova",
     "url": "http://scholar.google.com/citations?user=jqOFBGoAAAAJ",
+    "region": "europe",
+    "country": "nl",
+    "region": "europe",
+    "country": "nl",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=jqOFBGoAAAAJ&citpid=3",
     "affiliation": "ILLC, University of Amsterdam",
     "keywords": [
@@ -2043,6 +2253,8 @@ var data = [
   {
     "name": "Ellen Riloff",
     "url": "http://scholar.google.com/citations?user=M1pa3_gAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Professor, School of Computing, University of Utah",
     "keywords": [
@@ -2067,6 +2279,8 @@ var data = [
   {
     "name": "Ellie Pavlick",
     "url": "http://scholar.google.com/citations?user=sFyrSa8AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=sFyrSa8AAAAJ&citpid=3",
     "affiliation": "Brown University",
     "keywords": [
@@ -2091,6 +2305,8 @@ var data = [
   {
     "name": "Emma Strubell",
     "url": "http://scholar.google.com/citations?user=UCDMtM0AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=UCDMtM0AAAAJ&citpid=4",
     "affiliation": "Assistant Professor, Carnegie Mellon University",
     "keywords": [
@@ -2117,6 +2333,8 @@ var data = [
   {
     "name": "Eric Fosler-Lussier",
     "url": "http://scholar.google.com/citations?user=AlsMV98AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=AlsMV98AAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science & Engineering, The Ohio State University",
     "keywords": [
@@ -2144,6 +2362,8 @@ var data = [
   {
     "name": "Eric K. Ringger",
     "url": "http://scholar.google.com/citations?user=XkkU-hwAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XkkU-hwAAAAJ&citpid=3",
     "affiliation": "Director of Machine Learning for Personalization at Zillow",
     "keywords": [
@@ -2171,6 +2391,8 @@ var data = [
   {
     "name": "Eric Nyberg",
     "url": "http://scholar.google.com/citations?user=G6XN5cRm0FIJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=G6XN5cRm0FIJ&citpid=3",
     "affiliation": "Professor of Computer Science, Carnegie Mellon University",
     "keywords": [
@@ -2198,6 +2420,8 @@ var data = [
   {
     "name": "Eric P. Xing",
     "url": "http://scholar.google.com/citations?user=5pKTRxEAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "President at Mohamed bin Zayed University of AI, Professor of Computer Science, Carnegie Mellon U",
     "keywords": [
@@ -2226,6 +2450,10 @@ var data = [
   {
     "name": "Erik Cambria",
     "url": "http://scholar.google.com/citations?user=ilSYpW0AAAAJ",
+    "region": "asia",
+    "country": "sg",
+    "region": "asia",
+    "country": "sg",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ilSYpW0AAAAJ&citpid=48",
     "affiliation": "Associate Professor, NTU Singapore",
     "keywords": [
@@ -2254,6 +2482,8 @@ var data = [
   {
     "name": "Eugene Charniak",
     "url": "http://scholar.google.com/citations?user=_XHudx4AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Professor of Computer Science, Brown University",
     "keywords": [
@@ -2280,6 +2510,8 @@ var data = [
   {
     "name": "Eunsol Choi",
     "url": "http://scholar.google.com/citations?user=dCEcahMAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "University of Texas at Austin",
     "keywords": [
@@ -2304,6 +2536,10 @@ var data = [
   {
     "name": "Frank Rudzicz",
     "url": "http://scholar.google.com/citations?user=elXOB1sAAAAJ",
+    "region": "canada",
+    "country": "ca",
+    "region": "canada",
+    "country": "ca",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "University of Toronto, Department of Computer Science; Vector Institute for Artificial Intelligence",
     "keywords": [
@@ -2332,6 +2568,10 @@ var data = [
   {
     "name": "Gabriel Stanovsky",
     "url": "http://scholar.google.com/citations?user=AtkvBFYAAAAJ",
+    "region": "europe",
+    "country": "il",
+    "region": "europe",
+    "country": "il",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=AtkvBFYAAAAJ&citpid=2",
     "affiliation": "The Hebrew University of Jerusalem",
     "keywords": [
@@ -2356,6 +2596,10 @@ var data = [
   {
     "name": "Gary Geunbae Lee",
     "url": "http://scholar.google.com/citations?user=t30saScAAAAJ",
+    "region": "asia",
+    "country": "kr",
+    "region": "asia",
+    "country": "kr",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "professor of  computer science and enginnering, postech ",
     "keywords": [
@@ -2380,6 +2624,10 @@ var data = [
   {
     "name": "Gerard de Melo",
     "url": "http://scholar.google.com/citations?user=WCQXaGkAAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=WCQXaGkAAAAJ&citpid=1",
     "affiliation": "Professor at Hasso Plattner Institute / University of Potsdam",
     "keywords": [
@@ -2406,6 +2654,10 @@ var data = [
   {
     "name": "Gertjan van Noord",
     "url": "http://scholar.google.com/citations?user=dgU9Yq0AAAAJ",
+    "region": "europe",
+    "country": "nl",
+    "region": "europe",
+    "country": "nl",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=dgU9Yq0AAAAJ&citpid=1",
     "affiliation": "Professor of Language Technology, University of Groningen",
     "keywords": [
@@ -2430,6 +2682,10 @@ var data = [
   {
     "name": "Gholamreza Haffari",
     "url": "http://scholar.google.com/citations?user=Perjx5EAAAAJ",
+    "region": "australasia",
+    "country": "au",
+    "region": "australasia",
+    "country": "au",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Perjx5EAAAAJ&citpid=2",
     "affiliation": "Associate Professor, Faculty of Information Technology, Monash University",
     "keywords": [
@@ -2456,6 +2712,10 @@ var data = [
   {
     "name": "Giovanni Da San Martino",
     "url": "http://scholar.google.com/citations?user=URABLy0AAAAJ",
+    "region": "asia",
+    "country": "qa",
+    "region": "asia",
+    "country": "qa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=URABLy0AAAAJ&citpid=1",
     "affiliation": "Senion Assistant Professor, University of Padova, Italy",
     "keywords": [
@@ -2480,6 +2740,10 @@ var data = [
   {
     "name": "Giuseppe Carenini",
     "url": "http://scholar.google.com/citations?user=HNNL22kAAAAJ",
+    "region": "canada",
+    "country": "ca",
+    "region": "canada",
+    "country": "ca",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=HNNL22kAAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science, University of British Columbia",
     "keywords": [
@@ -2507,6 +2771,10 @@ var data = [
   {
     "name": "Goran Glavas",
     "url": "http://scholar.google.com/citations?user=Ym0myOwAAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Ym0myOwAAAAJ&citpid=3",
     "affiliation": "Assistant Professor, University of Mannheim",
     "keywords": [
@@ -2533,6 +2801,10 @@ var data = [
   {
     "name": "Graeme Hirst",
     "url": "http://scholar.google.com/citations?user=VGdVdjwAAAAJ",
+    "region": "canada",
+    "country": "ca",
+    "region": "canada",
+    "country": "ca",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=VGdVdjwAAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science, University of Toronto",
     "keywords": [
@@ -2559,6 +2831,8 @@ var data = [
   {
     "name": "Graham Neubig",
     "url": "http://scholar.google.com/citations?user=wlosgkoAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wlosgkoAAAAJ&citpid=2",
     "affiliation": "Associate Professor of Computer Science, Carnegie Mellon University",
     "keywords": [
@@ -2584,6 +2858,8 @@ var data = [
   {
     "name": "Greg Durrett",
     "url": "http://scholar.google.com/citations?user=EpQ_sDEAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=EpQ_sDEAAAAJ&citpid=1",
     "affiliation": "Assistant Professor of Computer Science, UT Austin",
     "keywords": [
@@ -2608,6 +2884,10 @@ var data = [
   {
     "name": "Grzegorz Chrupala",
     "url": "http://scholar.google.com/citations?user=p6m63xoAAAAJ",
+    "region": "europe",
+    "country": "nl",
+    "region": "europe",
+    "country": "nl",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=p6m63xoAAAAJ&citpid=7",
     "affiliation": "Associate Professor at Tilburg University",
     "keywords": [
@@ -2636,6 +2916,10 @@ var data = [
   {
     "name": "Grzegorz Kondrak",
     "url": "http://scholar.google.com/citations?user=TV3Tl_sAAAAJ",
+    "region": "canada",
+    "country": "ca",
+    "region": "canada",
+    "country": "ca",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TV3Tl_sAAAAJ&citpid=6",
     "affiliation": "Professor of Computing Science, University of Alberta",
     "keywords": [
@@ -2661,6 +2945,8 @@ var data = [
   {
     "name": "H. Andrew Schwartz",
     "url": "http://scholar.google.com/citations?user=Na16PsUAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Na16PsUAAAAJ&citpid=6",
     "affiliation": "Stony Brook University",
     "keywords": [
@@ -2689,6 +2975,10 @@ var data = [
   {
     "name": "Hai Zhao",
     "url": "http://scholar.google.com/citations?user=4dU5KS0AAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "中国东北大学计算机科学教授",
     "keywords": [
@@ -2713,6 +3003,8 @@ var data = [
   {
     "name": "Hal Daumé III",
     "url": "http://scholar.google.com/citations?user=PbEw81gAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=PbEw81gAAAAJ&citpid=2",
     "affiliation": "Associate Professor of Computer Science, University of Maryland",
     "keywords": [
@@ -2738,6 +3030,8 @@ var data = [
   {
     "name": "Hannaneh Hajishirzi",
     "url": "http://scholar.google.com/citations?user=LOV6_WIAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=LOV6_WIAAAAJ&citpid=1",
     "affiliation": "Assistant Professor at University of Washington; AI fellow at AI2",
     "keywords": [
@@ -2764,6 +3058,10 @@ var data = [
   {
     "name": "Hassan Sajjad",
     "url": "http://scholar.google.com/citations?user=t3BH6NkAAAAJ",
+    "region": "asia",
+    "country": "qa",
+    "region": "asia",
+    "country": "qa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=t3BH6NkAAAAJ&citpid=2",
     "affiliation": "Qatar Computing Research Institute, HBKU",
     "keywords": [
@@ -2792,6 +3090,8 @@ var data = [
   {
     "name": "He He",
     "url": "http://scholar.google.com/citations?user=K-isjagAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "New York University",
     "keywords": [
@@ -2817,6 +3117,10 @@ var data = [
   {
     "name": "Helen Yannakoudakis",
     "url": "http://scholar.google.com/citations?user=B3WGvRsAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Lecturer, King’s College London",
     "keywords": [
@@ -2842,6 +3146,8 @@ var data = [
   {
     "name": "Heng Ji",
     "url": "http://scholar.google.com/citations?user=z7GCqT4AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=z7GCqT4AAAAJ&citpid=22",
     "affiliation": "Professor of Computer Science, University of Illinois at Urbana-Champaign, Amazon Scholar",
     "keywords": [
@@ -2866,6 +3172,10 @@ var data = [
   {
     "name": "Hermann Ney",
     "url": "http://scholar.google.com/citations?user=6C8rf-0AAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=6C8rf-0AAAAJ&citpid=2",
     "affiliation": "RWTH Aachen University",
     "keywords": [
@@ -2893,6 +3203,8 @@ var data = [
   {
     "name": "Hong Yu",
     "url": "http://scholar.google.com/citations?user=TyXe64wAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TyXe64wAAAAJ&citpid=2",
     "affiliation": "Professor, Depts Computer Science at Lowell and Amherst (Adjunct) and Medicine (Adjunct), UMass",
     "keywords": [
@@ -2918,6 +3230,10 @@ var data = [
   {
     "name": "Hsin-Hsi Chen",
     "url": "http://scholar.google.com/citations?user=CRth4q4AAAAJ",
+    "region": "asia",
+    "country": "tw",
+    "region": "asia",
+    "country": "tw",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=CRth4q4AAAAJ&citpid=1",
     "affiliation": "Professor of Computer Science, National Taiwan University",
     "keywords": [
@@ -2946,6 +3262,10 @@ var data = [
   {
     "name": "Hwee Tou Ng",
     "url": "http://scholar.google.com/citations?user=FABZCeAAAAAJ",
+    "region": "asia",
+    "country": "sg",
+    "region": "asia",
+    "country": "sg",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Provost's Chair Professor of Computer Science, National University of Singapore",
     "keywords": [
@@ -2971,6 +3291,10 @@ var data = [
   {
     "name": "Ido Dagan",
     "url": "http://scholar.google.com/citations?user=YzGAGtoAAAAJ",
+    "region": "europe",
+    "country": "il",
+    "region": "europe",
+    "country": "il",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Professor, Computer Science Department, Bar-Ilan University",
     "keywords": [
@@ -2996,6 +3320,10 @@ var data = [
   {
     "name": "Ioannis Konstas",
     "url": "http://scholar.google.com/citations?user=FAJSqSkjAoIC",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=FAJSqSkjAoIC&citpid=2",
     "affiliation": "Heriot-Watt University",
     "keywords": [
@@ -3022,6 +3350,10 @@ var data = [
   {
     "name": "Ion Androutsopoulos",
     "url": "http://scholar.google.com/citations?user=4UJm5EQAAAAJ",
+    "region": "europe",
+    "country": "gr",
+    "region": "europe",
+    "country": "gr",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=4UJm5EQAAAAJ&citpid=2",
     "affiliation": "Professor, Department of Informatics, Athens University of Economics and Business",
     "keywords": [
@@ -3048,6 +3380,10 @@ var data = [
   {
     "name": "Irwin King",
     "url": "http://scholar.google.com/citations?user=MXvC7tkAAAAJ",
+    "region": "asia",
+    "country": "hk",
+    "region": "asia",
+    "country": "hk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=MXvC7tkAAAAJ&citpid=3",
     "affiliation": "The Chinese University of Hong Kong",
     "keywords": [
@@ -3075,6 +3411,10 @@ var data = [
   {
     "name": "Iryna Gurevych",
     "url": "http://scholar.google.com/citations?user=t3A39e8AAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=t3A39e8AAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Technische Universität Darmstadt",
     "keywords": [
@@ -3101,6 +3441,10 @@ var data = [
   {
     "name": "Isabel Trancoso",
     "url": "http://scholar.google.com/citations?user=Auzu_DcAAAAJ",
+    "region": "europe",
+    "country": "pt",
+    "region": "europe",
+    "country": "pt",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Auzu_DcAAAAJ&citpid=2",
     "affiliation": "INESC-ID / IST / University of Lisbon",
     "keywords": [
@@ -3125,6 +3469,10 @@ var data = [
   {
     "name": "Isabelle Augenstein",
     "url": "http://scholar.google.com/citations?user=DjJp0dcAAAAJ",
+    "region": "europe",
+    "country": "dk",
+    "region": "europe",
+    "country": "dk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DjJp0dcAAAAJ&citpid=4",
     "affiliation": "Associate Professor, Department of Computer Science, University of Copenhagen",
     "keywords": [
@@ -3150,6 +3498,10 @@ var data = [
   {
     "name": "Ivan Titov",
     "url": "http://scholar.google.com/citations?user=FKUc3vsAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=FKUc3vsAAAAJ&citpid=3",
     "affiliation": "University of Edinburgh / University of Amsterdam",
     "keywords": [
@@ -3175,6 +3527,10 @@ var data = [
   {
     "name": "Jackie Chi Kit Cheung",
     "url": "http://scholar.google.com/citations?user=Um-wmYQAAAAJ",
+    "region": "canada",
+    "country": "ca",
+    "region": "canada",
+    "country": "ca",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Um-wmYQAAAAJ&citpid=9",
     "affiliation": "McGill University",
     "keywords": [
@@ -3200,6 +3556,8 @@ var data = [
   {
     "name": "Jacob Andreas",
     "url": "http://scholar.google.com/citations?user=dnZ8udEAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=dnZ8udEAAAAJ&citpid=3",
     "affiliation": "MIT",
     "keywords": [
@@ -3225,6 +3583,10 @@ var data = [
   {
     "name": "Jacob Goldberger",
     "url": "http://scholar.google.com/citations?user=vgzrOK4AAAAJ",
+    "region": "europe",
+    "country": "il",
+    "region": "europe",
+    "country": "il",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=vgzrOK4AAAAJ&citpid=2",
     "affiliation": "Prof. of Elec. Engineering, Bar-Ilan University, Israel",
     "keywords": [
@@ -3253,6 +3615,8 @@ var data = [
   {
     "name": "James H. Martin",
     "url": "http://scholar.google.com/citations?user=ZVxO6IIAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZVxO6IIAAAAJ&citpid=3",
     "affiliation": "Professor of  Computer Science, University of Colorado Boulder",
     "keywords": [
@@ -3279,6 +3643,8 @@ var data = [
   {
     "name": "James Pustejovsky",
     "url": "http://scholar.google.com/citations?user=56UT_6IAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=56UT_6IAAAAJ&citpid=3",
     "affiliation": "TJX Feldberg Chair of Computer Science, Brandeis University",
     "keywords": [
@@ -3307,6 +3673,10 @@ var data = [
   {
     "name": "James R. Curran",
     "url": "http://scholar.google.com/citations?user=CeNz_twAAAAJ",
+    "region": "australasia",
+    "country": "au",
+    "region": "australasia",
+    "country": "au",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "School of Information Technologies, University of Sydney",
     "keywords": [
@@ -3331,6 +3701,8 @@ var data = [
   {
     "name": "Janyce Wiebe",
     "url": "http://scholar.google.com/citations?user=EDC2EP0AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Professor Computer Science and Intelligent Systems, University of Pittsburgh",
     "keywords": [
@@ -3359,6 +3731,8 @@ var data = [
   {
     "name": "Jason Eisner",
     "url": "http://scholar.google.com/citations?user=tjb2UccAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=tjb2UccAAAAJ&citpid=4",
     "affiliation": "Professor of Computer Science, Johns Hopkins University",
     "keywords": [
@@ -3385,6 +3759,10 @@ var data = [
   {
     "name": "Jason S. Chang",
     "url": "http://scholar.google.com/citations?user=8HaVIjQAAAAJ",
+    "region": "asia",
+    "country": "tw",
+    "region": "asia",
+    "country": "tw",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "National Tsing Hua University",
     "keywords": [
@@ -3413,6 +3791,8 @@ var data = [
   {
     "name": "Jeff A. Bilmes",
     "url": "http://scholar.google.com/citations?user=L9QufAsAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=L9QufAsAAAAJ&citpid=2",
     "affiliation": "Professor of Electrical Engineering and Computer Science, University of Washington Seattle",
     "keywords": [
@@ -3441,6 +3821,10 @@ var data = [
   {
     "name": "Jey Han Lau",
     "url": "http://scholar.google.com/citations?user=MFi65f4AAAAJ",
+    "region": "australasia",
+    "country": "au",
+    "region": "australasia",
+    "country": "au",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=MFi65f4AAAAJ&citpid=5",
     "affiliation": "Computing and Information Systems, The University of Melbourne",
     "keywords": [
@@ -3469,6 +3853,10 @@ var data = [
   {
     "name": "Jian-Yun Nie",
     "url": "http://scholar.google.com/citations?user=W7uYg0UAAAAJ",
+    "region": "canada",
+    "country": "ca",
+    "region": "canada",
+    "country": "ca",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=W7uYg0UAAAAJ&citpid=1",
     "affiliation": "university of montreal",
     "keywords": [
@@ -3494,6 +3882,8 @@ var data = [
   {
     "name": "Jiawei Han",
     "url": "http://scholar.google.com/citations?user=Kv9AbjMAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Kv9AbjMAAAAJ&citpid=2",
     "affiliation": "Abel Bliss Professor of Computer Science, University of Illinois",
     "keywords": [
@@ -3521,6 +3911,10 @@ var data = [
   {
     "name": "Jie Tang",
     "url": "http://scholar.google.com/citations?user=n1zDCkQAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=n1zDCkQAAAAJ&citpid=2",
     "affiliation": "Professor of Data Mining, Tsinghua University",
     "keywords": [
@@ -3549,6 +3943,10 @@ var data = [
   {
     "name": "Jimmy Lin",
     "url": "http://scholar.google.com/citations?user=0EWw1z8AAAAJ",
+    "region": "canada",
+    "country": "ca",
+    "region": "canada",
+    "country": "ca",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=0EWw1z8AAAAJ&citpid=3",
     "affiliation": "University of Waterloo",
     "keywords": [
@@ -3576,6 +3974,10 @@ var data = [
   {
     "name": "Jing Jiang",
     "url": "http://scholar.google.com/citations?user=hVTK2YwAAAAJ",
+    "region": "asia",
+    "country": "sg",
+    "region": "asia",
+    "country": "sg",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=hVTK2YwAAAAJ&citpid=3",
     "affiliation": "School of Computing and Information Systems, Singapore Management University",
     "keywords": [
@@ -3602,6 +4004,8 @@ var data = [
   {
     "name": "Jinho D. Choi",
     "url": "http://scholar.google.com/citations?user=xdddblAAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=xdddblAAAAAJ&citpid=2",
     "affiliation": "Assistant Professor, Emory University",
     "keywords": [
@@ -3628,6 +4032,10 @@ var data = [
   {
     "name": "Joachim Niehren",
     "url": "http://scholar.google.com/citations?user=sG4pk9cAAAAJ",
+    "region": "europe",
+    "country": "fr",
+    "region": "europe",
+    "country": "fr",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "INRIA Lille",
     "keywords": [],
@@ -3650,6 +4058,10 @@ var data = [
   {
     "name": "Johan Bos",
     "url": "http://scholar.google.com/citations?user=Pkj8OSoAAAAJ",
+    "region": "europe",
+    "country": "nl",
+    "region": "europe",
+    "country": "nl",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Pkj8OSoAAAAJ&citpid=10",
     "affiliation": "Professor of Computational Semantics, University of Groningen",
     "keywords": [
@@ -3677,6 +4089,10 @@ var data = [
   {
     "name": "Johanna D. Moore",
     "url": "http://scholar.google.com/citations?user=9cb0uoAAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=9cb0uoAAAAAJ&citpid=2",
     "affiliation": "Professor of Artificial Intelligence and Head of School of Informatics, University of Edinburgh",
     "keywords": [
@@ -3705,6 +4121,10 @@ var data = [
   {
     "name": "John A. Carroll",
     "url": "http://scholar.google.com/citations?user=p_gHNi4AAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=medium_photo&user=p_gHNi4AAAAJ&citpid=2",
     "affiliation": "Professor of Computational Linguistics, University of Sussex",
     "keywords": [
@@ -3730,6 +4150,10 @@ var data = [
   {
     "name": "Jonas Kuhn",
     "url": "http://scholar.google.com/citations?user=t5vqVEkAAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Professor of Computational Linguistics, University of Stuttgart, Germany",
     "keywords": [
@@ -3756,6 +4180,10 @@ var data = [
   {
     "name": "Jonathan Berant",
     "url": "http://scholar.google.com/citations?user=xCYHonIAAAAJ",
+    "region": "europe",
+    "country": "il",
+    "region": "europe",
+    "country": "il",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=xCYHonIAAAAJ&citpid=1",
     "affiliation": "Associate Professor, Tel-Aviv University, Research Scientist, Allen Institute for AI",
     "keywords": [
@@ -3781,6 +4209,8 @@ var data = [
   {
     "name": "Jordan L. Boyd-Graber",
     "url": "http://scholar.google.com/citations?user=BT4XTP4AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BT4XTP4AAAAJ&citpid=4",
     "affiliation": "Associate Professor, University of Maryland",
     "keywords": [
@@ -3809,6 +4239,10 @@ var data = [
   {
     "name": "Josef van Genabith",
     "url": "http://scholar.google.com/citations?user=rl8S6a8AAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=rl8S6a8AAAAJ&citpid=1",
     "affiliation": "DFKI German Research Center for Artificial Intelligence",
     "keywords": [
@@ -3836,6 +4270,10 @@ var data = [
   {
     "name": "José Camacho-Collados",
     "url": "http://scholar.google.com/citations?user=NP4KdQQAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NP4KdQQAAAAJ&citpid=6",
     "affiliation": "Cardiff University",
     "keywords": [
@@ -3864,6 +4302,8 @@ var data = [
   {
     "name": "Julia Hirschberg",
     "url": "http://scholar.google.com/citations?user=Qrd7FCoAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Qrd7FCoAAAAJ&citpid=1",
     "affiliation": "Columbia University",
     "keywords": [
@@ -3890,6 +4330,8 @@ var data = [
   {
     "name": "Julia Hockenmaier",
     "url": "http://scholar.google.com/citations?user=iIiVrrQAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Associate Professor, University of Illinois at Urbana-Champaign (UIUC)",
     "keywords": [
@@ -3916,6 +4358,10 @@ var data = [
   {
     "name": "Jun Zhao",
     "url": "http://scholar.google.com/citations?user=HljRttwAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=HljRttwAAAAJ&citpid=1",
     "affiliation": "Institute of Automation, Chinese Academy of Sciences",
     "keywords": [
@@ -3943,6 +4389,8 @@ var data = [
   {
     "name": "K. Vijay-Shanker",
     "url": "http://scholar.google.com/citations?user=O1l6JGkAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Professor of Computer Science, University of Delaware",
     "keywords": [
@@ -3969,6 +4417,10 @@ var data = [
   {
     "name": "Kai Yu",
     "url": "http://scholar.google.com/citations?user=y5zkBeMAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=y5zkBeMAAAAJ&citpid=2",
     "affiliation": "Founder&CEO of Horizon Robotics , Founder of Baidu IDL and Baidu Autonomous Driving",
     "keywords": [
@@ -3997,6 +4449,8 @@ var data = [
   {
     "name": "Kai-Wei Chang",
     "url": "http://scholar.google.com/citations?user=fqDBtzYAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=fqDBtzYAAAAJ&citpid=4",
     "affiliation": "Assistant Professor, UCLA",
     "keywords": [
@@ -4024,6 +4478,10 @@ var data = [
   {
     "name": "Kang Liu",
     "url": "http://scholar.google.com/citations?user=DtZCfl0AAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DtZCfl0AAAAJ&citpid=7",
     "affiliation": "Institute of Automation, Chinese Academy of Sciences",
     "keywords": [
@@ -4050,6 +4508,10 @@ var data = [
   {
     "name": "Kareem Darwish",
     "url": "http://scholar.google.com/citations?user=y7tlR6UAAAAJ",
+    "region": "asia",
+    "country": "qa",
+    "region": "asia",
+    "country": "qa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=y7tlR6UAAAAJ&citpid=2",
     "affiliation": "Qatar Computing Research Institute, Qatar Foundation",
     "keywords": [
@@ -4078,6 +4540,8 @@ var data = [
   {
     "name": "Karen Livescu",
     "url": "http://scholar.google.com/citations?user=kCYbVq0AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=kCYbVq0AAAAJ&citpid=1",
     "affiliation": "TTI-Chicago",
     "keywords": [
@@ -4103,6 +4567,8 @@ var data = [
   {
     "name": "Karl Stratos",
     "url": "http://scholar.google.com/citations?user=Fx8-1JMAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Fx8-1JMAAAAJ&citpid=4",
     "affiliation": "Rutgers University",
     "keywords": [
@@ -4128,6 +4594,8 @@ var data = [
   {
     "name": "Karthik Narasimhan",
     "url": "http://scholar.google.com/citations?user=euc0GX4AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=euc0GX4AAAAJ&citpid=4",
     "affiliation": "Assistant Professor, Princeton University",
     "keywords": [
@@ -4154,6 +4622,8 @@ var data = [
   {
     "name": "Kate Saenko",
     "url": "http://scholar.google.com/citations?user=9xDADY4AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=9xDADY4AAAAJ&citpid=2",
     "affiliation": "Boston University & MIT-IBM Watson AI Lab",
     "keywords": [
@@ -4180,6 +4650,8 @@ var data = [
   {
     "name": "Katharina Kann",
     "url": "http://scholar.google.com/citations?user=3XF5bqEAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=3XF5bqEAAAAJ&citpid=1",
     "affiliation": "University of Colorado Boulder",
     "keywords": [
@@ -4206,6 +4678,8 @@ var data = [
   {
     "name": "Kathy McKeown",
     "url": "http://scholar.google.com/citations?user=ujDhg2sAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ujDhg2sAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science and Director, Data Science Institute, Columbia University",
     "keywords": [
@@ -4232,6 +4706,8 @@ var data = [
   {
     "name": "Katrin Erk",
     "url": "http://scholar.google.com/citations?user=v7kFHRoAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=v7kFHRoAAAAJ&citpid=3",
     "affiliation": "Professor of Computational Linguistics, University of Texas at Austin",
     "keywords": [
@@ -4257,6 +4733,8 @@ var data = [
   {
     "name": "Kemal Oflazer",
     "url": "http://scholar.google.com/citations?user=JLk0hs8AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=JLk0hs8AAAAJ&citpid=5",
     "affiliation": "Carnegie Mellon University in Qatar",
     "keywords": [
@@ -4281,6 +4759,8 @@ var data = [
   {
     "name": "Kenji Sagae",
     "url": "http://scholar.google.com/citations?user=8HdRoroAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=8HdRoroAAAAJ&citpid=1",
     "affiliation": "Associate Professor, UC Davis",
     "keywords": [
@@ -4306,6 +4786,10 @@ var data = [
   {
     "name": "Kenneth Heafield",
     "url": "http://scholar.google.com/citations?user=VEJE37AAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=VEJE37AAAAAJ&citpid=3",
     "affiliation": "Reader, University of Edinburgh",
     "keywords": [
@@ -4332,6 +4816,8 @@ var data = [
   {
     "name": "Kevin D. Seppi",
     "url": "http://scholar.google.com/citations?user=xLQan5cAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=xLQan5cAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Brigham Young University",
     "keywords": [
@@ -4360,6 +4846,8 @@ var data = [
   {
     "name": "Kevin Gimpel",
     "url": "http://scholar.google.com/citations?user=kDHs7DYAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=kDHs7DYAAAAJ&citpid=2",
     "affiliation": "Toyota Technological Institute at Chicago",
     "keywords": [
@@ -4385,6 +4873,8 @@ var data = [
   {
     "name": "Kyunghyun Cho",
     "url": "http://scholar.google.com/citations?user=0RAmmIAAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=0RAmmIAAAAAJ&citpid=1",
     "affiliation": "New York University",
     "keywords": [
@@ -4436,6 +4926,10 @@ var data = [
   {
     "name": "Le Sun",
     "url": "http://scholar.google.com/citations?user=6bFNhtwAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=6bFNhtwAAAAJ&citpid=2",
     "affiliation": "Institute of Software, CAS",
     "keywords": [
@@ -4461,6 +4955,10 @@ var data = [
   {
     "name": "Lea Frermann",
     "url": "http://scholar.google.com/citations?user=y3l6y4IAAAAJ",
+    "region": "australasia",
+    "country": "au",
+    "region": "australasia",
+    "country": "au",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=y3l6y4IAAAAJ&citpid=1",
     "affiliation": "Computing and Information Systems, The University of Melbourne",
     "keywords": [
@@ -4488,6 +4986,8 @@ var data = [
   {
     "name": "Liang Huang",
     "url": "http://scholar.google.com/citations?user=AdFeG5cAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=AdFeG5cAAAAJ&citpid=7",
     "affiliation": "Assoc. Prof., Oregon State University; Distinguished Scientist, Baidu Research USA",
     "keywords": [
@@ -4516,6 +5016,8 @@ var data = [
   {
     "name": "Lifu Huang",
     "url": "http://scholar.google.com/citations?user=76IEGtYAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=76IEGtYAAAAJ&citpid=2",
     "affiliation": "Assistant Professor, Virginia Tech",
     "keywords": [
@@ -4541,6 +5043,10 @@ var data = [
   {
     "name": "Lili Mou",
     "url": "http://scholar.google.com/citations?user=32UrMrQAAAAJ",
+    "region": "canada",
+    "country": "ca",
+    "region": "canada",
+    "country": "ca",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=32UrMrQAAAAJ&citpid=1",
     "affiliation": "Assistant Professor, University of Alberta",
     "keywords": [
@@ -4566,6 +5072,8 @@ var data = [
   {
     "name": "Lillian Lee",
     "url": "http://scholar.google.com/citations?user=oJESe-cAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=oJESe-cAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Cornell University. Pls see my homepg for data+updates+slides+etc",
     "keywords": [
@@ -4593,6 +5101,10 @@ var data = [
   {
     "name": "Lluís Màrquez",
     "url": "http://scholar.google.com/citations?user=yFNUfjsAAAAJ",
+    "region": "asia",
+    "country": "qa",
+    "region": "asia",
+    "country": "qa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=yFNUfjsAAAAJ&citpid=4",
     "affiliation": "Principal Applied Scientist",
     "keywords": [
@@ -4619,6 +5131,8 @@ var data = [
   {
     "name": "Louis-Philippe Morency",
     "url": "http://scholar.google.com/citations?user=APgaFK0AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=APgaFK0AAAAJ&citpid=3",
     "affiliation": "Associate professor,  Carnegie Mellon University",
     "keywords": [
@@ -4645,6 +5159,8 @@ var data = [
   {
     "name": "Lu Wang",
     "url": "http://scholar.google.com/citations?user=uczqEdUAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=uczqEdUAAAAJ&citpid=1",
     "affiliation": "Assistant Professor, University of Michigan",
     "keywords": [
@@ -4671,6 +5187,10 @@ var data = [
   {
     "name": "Lucia Specia",
     "url": "http://scholar.google.com/citations?user=wVl_z8kAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wVl_z8kAAAAJ&citpid=2",
     "affiliation": "Professor, Imperial College London and University of Sheffield",
     "keywords": [],
@@ -4693,6 +5213,8 @@ var data = [
   {
     "name": "Luke S. Zettlemoyer",
     "url": "http://scholar.google.com/citations?user=UjpbO6IAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=UjpbO6IAAAAJ&citpid=3",
     "affiliation": "University of Washington; Facebook",
     "keywords": [
@@ -4720,6 +5242,8 @@ var data = [
   {
     "name": "Lyle H. Ungar",
     "url": "http://scholar.google.com/citations?user=KCiDjbkAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=KCiDjbkAAAAJ&citpid=2",
     "affiliation": "University of Pennsylvania",
     "keywords": [
@@ -4745,6 +5269,10 @@ var data = [
   {
     "name": "Maarten de Rijke",
     "url": "http://scholar.google.com/citations?user=AVDkgFIAAAAJ",
+    "region": "europe",
+    "country": "nl",
+    "region": "europe",
+    "country": "nl",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=AVDkgFIAAAAJ&citpid=14",
     "affiliation": "University of Amsterdam - Ahold Delhaize - ICAI",
     "keywords": [
@@ -4771,6 +5299,10 @@ var data = [
   {
     "name": "Malvina Nissim",
     "url": "http://scholar.google.com/citations?user=hnTpEOAAAAAJ",
+    "region": "europe",
+    "country": "nl",
+    "region": "europe",
+    "country": "nl",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=hnTpEOAAAAAJ&citpid=2",
     "affiliation": "Professor of Computational Linguistics and Society, Rijksuniversiteit Groningen",
     "keywords": [
@@ -4799,6 +5331,10 @@ var data = [
   {
     "name": "Manish Shrivastava",
     "url": "http://scholar.google.com/citations?user=sIvMnGQAAAAJ",
+    "region": "asia",
+    "country": "in",
+    "region": "asia",
+    "country": "in",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=sIvMnGQAAAAJ&citpid=2",
     "affiliation": "International Institute of Information Technology Hyderabad",
     "keywords": [
@@ -4827,6 +5363,10 @@ var data = [
   {
     "name": "Maosong Sun",
     "url": "http://scholar.google.com/citations?user=zIgT0HMAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=zIgT0HMAAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science and Technology, Tsinghua University",
     "keywords": [
@@ -4853,6 +5393,10 @@ var data = [
   {
     "name": "Marek Rei",
     "url": "http://scholar.google.com/citations?user=nNeD95EAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=nNeD95EAAAAJ&citpid=3",
     "affiliation": "Lecturer, Imperial College London",
     "keywords": [
@@ -4881,6 +5425,10 @@ var data = [
   {
     "name": "Marie-Francine Moens",
     "url": "http://scholar.google.com/citations?user=O9hYMUUAAAAJ",
+    "region": "europe",
+    "country": "be",
+    "region": "europe",
+    "country": "be",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=O9hYMUUAAAAJ&citpid=4",
     "affiliation": "Professor of Computer Science KU Leuven",
     "keywords": [
@@ -4909,6 +5457,8 @@ var data = [
   {
     "name": "Marilyn A. Walker",
     "url": "http://scholar.google.com/citations?user=TMw2-csAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TMw2-csAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science and Engineering, University of California Santa Cruz",
     "keywords": [
@@ -4937,6 +5487,8 @@ var data = [
   {
     "name": "Marine Carpuat",
     "url": "http://scholar.google.com/citations?user=EAQfVXgAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Department of Computer Science, University of Maryland",
     "keywords": [
@@ -4963,6 +5515,10 @@ var data = [
   {
     "name": "Mark Dras",
     "url": "http://scholar.google.com/citations?user=r1gJsmAAAAAJ",
+    "region": "australasia",
+    "country": "au",
+    "region": "australasia",
+    "country": "au",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Associate Professor of Computing, Macquarie University",
     "keywords": [],
@@ -4985,6 +5541,8 @@ var data = [
   {
     "name": "Mark Dredze",
     "url": "http://scholar.google.com/citations?user=7jNkTbYAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=7jNkTbYAAAAJ&citpid=2",
     "affiliation": "Johns Hopkins University",
     "keywords": [
@@ -5012,6 +5570,10 @@ var data = [
   {
     "name": "Mark Johnson",
     "url": "http://scholar.google.com/citations?user=Z_kok3sAAAAJ",
+    "region": "australasia",
+    "country": "au",
+    "region": "australasia",
+    "country": "au",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Z_kok3sAAAAJ&citpid=2",
     "affiliation": "Professor of Language Sciences, Department of Computing, Macquarie University",
     "keywords": [
@@ -5039,6 +5601,10 @@ var data = [
   {
     "name": "Mark Steedman",
     "url": "http://scholar.google.com/citations?user=ccCd0_YAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ccCd0_YAAAAJ&citpid=2",
     "affiliation": "Professor of Cognitive Science, School of Informatics, University of Edinburgh",
     "keywords": [
@@ -5066,6 +5632,10 @@ var data = [
   {
     "name": "Mark Stevenson",
     "url": "http://scholar.google.com/citations?user=tXe1lgkAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=tXe1lgkAAAAJ&citpid=2",
     "affiliation": "Sheffield University",
     "keywords": [
@@ -5093,6 +5663,8 @@ var data = [
   {
     "name": "Mark Yatskar",
     "url": "http://scholar.google.com/citations?user=6RxMYNEAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=6RxMYNEAAAAJ&citpid=3",
     "affiliation": "Allen Institute for Artificial Intelligence",
     "keywords": [
@@ -5121,6 +5693,10 @@ var data = [
   {
     "name": "Mark-Jan Nederhof",
     "url": "http://scholar.google.com/citations?user=lGHn0JUAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "University of St Andrews",
     "keywords": [
@@ -5145,6 +5721,8 @@ var data = [
   {
     "name": "Martha Palmer",
     "url": "http://scholar.google.com/citations?user=pxc_-XYAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=pxc_-XYAAAAJ&citpid=2",
     "affiliation": "Professor of Linguistics, Computer Science, University of Colorado",
     "keywords": [
@@ -5200,6 +5778,10 @@ var data = [
   {
     "name": "Massimo Poesio",
     "url": "http://scholar.google.com/citations?user=89aa1X0AAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=89aa1X0AAAAJ&citpid=1",
     "affiliation": "Professor of Computational Linguistics, Queen Mary University",
     "keywords": [
@@ -5226,6 +5808,10 @@ var data = [
   {
     "name": "Mausam",
     "url": "http://scholar.google.com/citations?user=5y4YmFcAAAAJ",
+    "region": "asia",
+    "country": "in",
+    "region": "asia",
+    "country": "in",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=5y4YmFcAAAAJ&citpid=4",
     "affiliation": "Professor of Computer Science & Engineering, Indian Institute of Technology Delhi",
     "keywords": [
@@ -5253,6 +5839,8 @@ var data = [
   {
     "name": "Mehryar Mohri",
     "url": "http://scholar.google.com/citations?user=ktwwLjsAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ktwwLjsAAAAJ&citpid=4",
     "affiliation": "Head, Learning Theory Team, Google Research; Professor, Courant Institute of Mathematical Sciences",
     "keywords": [
@@ -5277,6 +5865,8 @@ var data = [
   {
     "name": "Michael Collins",
     "url": "http://scholar.google.com/citations?user=DxoenfgAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DxoenfgAAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science, Columbia University; Google NYC",
     "keywords": [
@@ -5304,6 +5894,10 @@ var data = [
   {
     "name": "Michael Elhadad",
     "url": "http://scholar.google.com/citations?user=Is0pLz0AAAAJ",
+    "region": "europe",
+    "country": "il",
+    "region": "europe",
+    "country": "il",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Is0pLz0AAAAJ&citpid=4",
     "affiliation": "Professor of Computer Science, Ben Gurion University of the Negev",
     "keywords": [
@@ -5328,6 +5922,8 @@ var data = [
   {
     "name": "Michael J. Paul",
     "url": "http://scholar.google.com/citations?user=_pRB0HIAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=_pRB0HIAAAAJ&citpid=5",
     "affiliation": "University of Colorado Boulder",
     "keywords": [
@@ -5354,6 +5950,10 @@ var data = [
   {
     "name": "Michael R. Lyu",
     "url": "http://scholar.google.com/citations?user=uQnBgK0AAAAJ",
+    "region": "asia",
+    "country": "hk",
+    "region": "asia",
+    "country": "hk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=uQnBgK0AAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science & Engineering, The Chinese University of Hong Kong",
     "keywords": [
@@ -5382,6 +5982,8 @@ var data = [
   {
     "name": "Mihai Surdeanu",
     "url": "http://scholar.google.com/citations?user=a3133-8AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=a3133-8AAAAJ&citpid=2",
     "affiliation": "Associate Professor, Computer Science, University of Arizona",
     "keywords": [
@@ -5408,6 +6010,10 @@ var data = [
   {
     "name": "Milica Gasic",
     "url": "http://scholar.google.com/citations?user=yDSBDJoAAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=yDSBDJoAAAAJ&citpid=3",
     "affiliation": "Professor, Heinrich-Heine-University Düsseldorf",
     "keywords": [
@@ -5433,6 +6039,10 @@ var data = [
   {
     "name": "Min-Yen Kan",
     "url": "http://scholar.google.com/citations?user=aNVcd3EAAAAJ",
+    "region": "asia",
+    "country": "sg",
+    "region": "asia",
+    "country": "sg",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=aNVcd3EAAAAJ&citpid=4",
     "affiliation": "Associate Professor, National University of Singapore",
     "keywords": [
@@ -5461,6 +6071,10 @@ var data = [
   {
     "name": "Ming Zhang",
     "url": "http://scholar.google.com/citations?user=LbzoQBsAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=LbzoQBsAAAAJ&citpid=2",
     "affiliation": "Professor,Peking University",
     "keywords": [
@@ -5488,6 +6102,10 @@ var data = [
   {
     "name": "Minlie Huang",
     "url": "http://scholar.google.com/citations?user=mWS1pY4AAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "computer science, Tsinghua University",
     "keywords": [
@@ -5514,6 +6132,10 @@ var data = [
   {
     "name": "Mirella Lapata",
     "url": "http://scholar.google.com/citations?user=j67B9Q4AAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=j67B9Q4AAAAJ&citpid=3",
     "affiliation": "School of Informatics, Edinburgh University",
     "keywords": [
@@ -5542,6 +6164,8 @@ var data = [
   {
     "name": "Mitchell P. Marcus",
     "url": "http://scholar.google.com/citations?user=niE2OkIAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Professor of Computer and Information Science, University of Pennsylvania",
     "keywords": [
@@ -5566,6 +6190,10 @@ var data = [
   {
     "name": "Mitesh M. Khapra",
     "url": "http://scholar.google.com/citations?user=DV8z8DYAAAAJ",
+    "region": "asia",
+    "country": "in",
+    "region": "asia",
+    "country": "in",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Indian Institute of Technology Madras",
     "keywords": [
@@ -5591,6 +6219,8 @@ var data = [
   {
     "name": "Mohit Bansal",
     "url": "http://scholar.google.com/citations?user=DN8QtscAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DN8QtscAAAAJ&citpid=5",
     "affiliation": "Professor, Computer Science, UNC Chapel Hill",
     "keywords": [
@@ -5618,6 +6248,8 @@ var data = [
   {
     "name": "Mohit Iyyer",
     "url": "http://scholar.google.com/citations?user=rBVA5tcAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=rBVA5tcAAAAJ&citpid=1",
     "affiliation": "Assistant Professor, University of Massachusetts Amherst",
     "keywords": [
@@ -5644,6 +6276,10 @@ var data = [
   {
     "name": "Nadir Durrani",
     "url": "http://scholar.google.com/citations?user=K6uisFAAAAAJ",
+    "region": "asia",
+    "country": "qa",
+    "region": "asia",
+    "country": "qa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=K6uisFAAAAAJ&citpid=4",
     "affiliation": "Qatar Computing Research Institute (QCRI), HBKU",
     "keywords": [
@@ -5672,6 +6308,8 @@ var data = [
   {
     "name": "Nanyun Peng",
     "url": "http://scholar.google.com/citations?user=XxRXvX0AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XxRXvX0AAAAJ&citpid=5",
     "affiliation": "Assistant Professor, UCLA",
     "keywords": [
@@ -5697,6 +6335,8 @@ var data = [
   {
     "name": "Nathan Schneider",
     "url": "http://scholar.google.com/citations?user=3cozMf4AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=3cozMf4AAAAJ&citpid=5",
     "affiliation": "Assistant Professor, Linguistics and Computer Science • Georgetown University",
     "keywords": [
@@ -5723,6 +6363,10 @@ var data = [
   {
     "name": "Ngoc Thang Vu",
     "url": "http://scholar.google.com/citations?user=Nxbi5YgAAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Nxbi5YgAAAAJ&citpid=6",
     "affiliation": "University of Stuttgart",
     "keywords": [
@@ -5749,6 +6393,8 @@ var data = [
   {
     "name": "Nianwen Xue",
     "url": "http://scholar.google.com/citations?user=KlVbOkMAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Professor, Computer Science Department, Brandeis University",
     "keywords": [
@@ -5775,6 +6421,10 @@ var data = [
   {
     "name": "Nikolaos Aletras",
     "url": "http://scholar.google.com/citations?user=uxRWFhoAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=uxRWFhoAAAAJ&citpid=20",
     "affiliation": "University of Sheffield",
     "keywords": [
@@ -5802,6 +6452,8 @@ var data = [
   {
     "name": "Niranjan Balasubramanian",
     "url": "http://scholar.google.com/citations?user=X3JCGVIAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=X3JCGVIAAAAJ&citpid=2",
     "affiliation": "Assistant Professor, Computer Science, Stony Brook University",
     "keywords": [
@@ -5826,6 +6478,8 @@ var data = [
   {
     "name": "Noah A. Smith",
     "url": "http://scholar.google.com/citations?user=TjdFs3EAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TjdFs3EAAAAJ&citpid=3",
     "affiliation": "University of Washington; Allen Institute for Artificial Intelligence",
     "keywords": [
@@ -5852,6 +6506,10 @@ var data = [
   {
     "name": "Oliver Lemon",
     "url": "http://scholar.google.com/citations?user=YYWptO4AAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=YYWptO4AAAAJ&citpid=5",
     "affiliation": "Professor of Artificial Intelligence, Heriot-Watt University, Edinburgh, Director of Interaction Lab",
     "keywords": [
@@ -5880,6 +6538,10 @@ var data = [
   {
     "name": "Omer Levy",
     "url": "http://scholar.google.com/citations?user=PZVd2h8AAAAJ",
+    "region": "europe",
+    "country": "il",
+    "region": "europe",
+    "country": "il",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=PZVd2h8AAAAJ&citpid=3",
     "affiliation": "Tel Aviv University",
     "keywords": [
@@ -5906,6 +6568,10 @@ var data = [
   {
     "name": "Omri Abend",
     "url": "http://scholar.google.com/citations?user=BD_hRzYAAAAJ",
+    "region": "europe",
+    "country": "il",
+    "region": "europe",
+    "country": "il",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BD_hRzYAAAAJ&citpid=1",
     "affiliation": "Faculty member, Hebrew University of Jerusalem",
     "keywords": [
@@ -5931,6 +6597,10 @@ var data = [
   {
     "name": "Partha P. Talukdar",
     "url": "http://scholar.google.com/citations?user=CIZwXAcAAAAJ",
+    "region": "asia",
+    "country": "in",
+    "region": "asia",
+    "country": "in",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=CIZwXAcAAAAJ&citpid=3",
     "affiliation": "Google Research and IISc Bangalore",
     "keywords": [
@@ -5957,6 +6627,10 @@ var data = [
   {
     "name": "Pascal Denis",
     "url": "http://scholar.google.com/citations?user=Y1nQ6eUAAAAJ",
+    "region": "europe",
+    "country": "fr",
+    "region": "europe",
+    "country": "fr",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Y1nQ6eUAAAAJ&citpid=2",
     "affiliation": "Research Scientist INRIA",
     "keywords": [
@@ -5984,6 +6658,10 @@ var data = [
   {
     "name": "Pascale Fung",
     "url": "http://scholar.google.com/citations?user=QEMJWzEAAAAJ",
+    "region": "asia",
+    "country": "hk",
+    "region": "asia",
+    "country": "hk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=QEMJWzEAAAAJ&citpid=4",
     "affiliation": "Dept. of Electronic & Computer Engineering, the Hong Kong University of Science & Technology",
     "keywords": [
@@ -6011,6 +6689,10 @@ var data = [
   {
     "name": "Paul Cook",
     "url": "http://scholar.google.com/citations?user=lJzulN0AAAAJ",
+    "region": "canada",
+    "country": "ca",
+    "region": "canada",
+    "country": "ca",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Faculty of Computer Science, University of New Brunswick",
     "keywords": [
@@ -6035,6 +6717,10 @@ var data = [
   {
     "name": "Pawan Goyal",
     "url": "http://scholar.google.com/citations?user=F14FHsIAAAAJ",
+    "region": "asia",
+    "country": "in",
+    "region": "asia",
+    "country": "in",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=F14FHsIAAAAJ&citpid=5",
     "affiliation": "Associate Professor, Computer Science and Engineering, IIT Kharagpur",
     "keywords": [
@@ -6061,6 +6747,8 @@ var data = [
   {
     "name": "Peter A. Heeman",
     "url": "http://scholar.google.com/citations?user=hbS0Dc4AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=hbS0Dc4AAAAJ&citpid=3",
     "affiliation": "Oregon Health & Science University",
     "keywords": [],
@@ -6083,6 +6771,10 @@ var data = [
   {
     "name": "Phil Blunsom",
     "url": "http://scholar.google.com/citations?user=eJwbbXEAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "DeepMind and Oxford University",
     "keywords": [
@@ -6110,6 +6802,8 @@ var data = [
   {
     "name": "Philip Resnik",
     "url": "http://scholar.google.com/citations?user=71BFWc0AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=71BFWc0AAAAJ&citpid=2",
     "affiliation": "Professor, Linguistics and UMIACS, University of Maryland",
     "keywords": [
@@ -6135,6 +6829,8 @@ var data = [
   {
     "name": "Philipp Koehn",
     "url": "http://scholar.google.com/citations?user=OsIZgIYAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Professor, Johns Hopkins University",
     "keywords": [
@@ -6160,6 +6856,10 @@ var data = [
   {
     "name": "Preslav Nakov",
     "url": "http://scholar.google.com/citations?user=DfXsKZ4AAAAJ",
+    "region": "asia",
+    "country": "qa",
+    "region": "asia",
+    "country": "qa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DfXsKZ4AAAAJ&citpid=3",
     "affiliation": "Principal Scientist, Qatar Computing Research Institute (QCRI), HBKU",
     "keywords": [
@@ -6188,6 +6888,10 @@ var data = [
   {
     "name": "Pushpak Bhattacharyya",
     "url": "http://scholar.google.com/citations?user=vvg-pAkAAAAJ",
+    "region": "asia",
+    "country": "in",
+    "region": "asia",
+    "country": "in",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=vvg-pAkAAAAJ&citpid=6",
     "affiliation": "Professor of Computer Science and Engineering, IIT Bombay",
     "keywords": [
@@ -6216,6 +6920,10 @@ var data = [
   {
     "name": "Qi Zhang",
     "url": "http://scholar.google.com/citations?user=XfqR3yYAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XfqR3yYAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Fudan University",
     "keywords": [
@@ -6241,6 +6949,8 @@ var data = [
   {
     "name": "Qiaozhu Mei",
     "url": "http://scholar.google.com/citations?user=zr22WkQAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=zr22WkQAAAAJ&citpid=3",
     "affiliation": "Professor, University of Michigan",
     "keywords": [
@@ -6269,6 +6979,8 @@ var data = [
   {
     "name": "Rachel Rudinger",
     "url": "http://scholar.google.com/citations?user=QKCHaHUAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=QKCHaHUAAAAJ&citpid=6",
     "affiliation": "Assistant Professor, Department of Computer Science, University of Maryland",
     "keywords": [],
@@ -6291,6 +7003,8 @@ var data = [
   {
     "name": "Rada Mihalcea",
     "url": "http://scholar.google.com/citations?user=UetM7FgAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=UetM7FgAAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science, University of Michigan",
     "keywords": [
@@ -6317,6 +7031,10 @@ var data = [
   {
     "name": "Raffaella Bernardi",
     "url": "http://scholar.google.com/citations?user=bMavvosAAAAJ",
+    "region": "europe",
+    "country": "it",
+    "region": "europe",
+    "country": "it",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=bMavvosAAAAJ&citpid=2",
     "affiliation": "University of Trento",
     "keywords": [
@@ -6344,6 +7062,8 @@ var data = [
   {
     "name": "Ralph Grishman",
     "url": "http://scholar.google.com/citations?user=blwKAkUAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=blwKAkUAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, New York University",
     "keywords": [
@@ -6368,6 +7088,10 @@ var data = [
   {
     "name": "Raquel Fernández",
     "url": "http://scholar.google.com/citations?user=XbosWYQAAAAJ",
+    "region": "europe",
+    "country": "nl",
+    "region": "europe",
+    "country": "nl",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XbosWYQAAAAJ&citpid=3",
     "affiliation": "Institute for Logic, Language and Computation, University of Amsterdam",
     "keywords": [
@@ -6396,6 +7120,8 @@ var data = [
   {
     "name": "Raymond J. Mooney",
     "url": "http://scholar.google.com/citations?user=p9RsPG4AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=p9RsPG4AAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science, University of Texas at Austin",
     "keywords": [
@@ -6424,6 +7150,10 @@ var data = [
   {
     "name": "Raymond T. Ng",
     "url": "http://scholar.google.com/citations?user=reYJaYMAAAAJ",
+    "region": "canada",
+    "country": "ca",
+    "region": "canada",
+    "country": "ca",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=reYJaYMAAAAJ&citpid=2",
     "affiliation": "University of British Columbia",
     "keywords": [
@@ -6452,6 +7182,8 @@ var data = [
   {
     "name": "Razvan C. Bunescu",
     "url": "http://scholar.google.com/citations?user=fi4HWW8AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=fi4HWW8AAAAJ&citpid=3",
     "affiliation": "UNC Charlotte",
     "keywords": [
@@ -6479,6 +7211,8 @@ var data = [
   {
     "name": "Rebecca Hwa",
     "url": "http://scholar.google.com/citations?user=T8-BGRsAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=T8-BGRsAAAAJ&citpid=2",
     "affiliation": "Computer Science, University of Pittsburgh",
     "keywords": [
@@ -6503,6 +7237,8 @@ var data = [
   {
     "name": "Rebecca J. Passonneau",
     "url": "http://scholar.google.com/citations?user=jb9VOp0AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=jb9VOp0AAAAJ&citpid=2",
     "affiliation": "Department of Computer Science and Engineering, Penn State",
     "keywords": [
@@ -6528,6 +7264,10 @@ var data = [
   {
     "name": "Richard Johansson",
     "url": "http://scholar.google.com/citations?user=FvhWYU8AAAAJ",
+    "region": "europe",
+    "country": "se",
+    "region": "europe",
+    "country": "se",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "University of Gothenburg and Chalmers University of Technology",
     "keywords": [
@@ -6552,6 +7292,10 @@ var data = [
   {
     "name": "Rico Sennrich",
     "url": "http://scholar.google.com/citations?user=XTpJvCgAAAAJ",
+    "region": "europe",
+    "country": "ch",
+    "region": "europe",
+    "country": "ch",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XTpJvCgAAAAJ&citpid=3",
     "affiliation": "University of Zurich; University of Edinburgh",
     "keywords": [
@@ -6579,6 +7323,10 @@ var data = [
   {
     "name": "Robert J. Gaizauskas",
     "url": "http://scholar.google.com/citations?user=HY8ATOgAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=HY8ATOgAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, University of Sheffield",
     "keywords": [
@@ -6604,6 +7352,10 @@ var data = [
   {
     "name": "Roberto Navigli",
     "url": "http://scholar.google.com/citations?user=BsgVJ-EAAAAJ",
+    "region": "europe",
+    "country": "it",
+    "region": "europe",
+    "country": "it",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BsgVJ-EAAAAJ&citpid=14",
     "affiliation": "Professor, Sapienza University of Rome",
     "keywords": [
@@ -6632,6 +7384,8 @@ var data = [
   {
     "name": "Robin Jia",
     "url": "http://scholar.google.com/citations?user=ajZ-_O0AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ajZ-_O0AAAAJ&citpid=1",
     "affiliation": "Facebook AI Research / USC",
     "keywords": [
@@ -6656,6 +7410,10 @@ var data = [
   {
     "name": "Roi Reichart",
     "url": "http://scholar.google.com/citations?user=xXJIsh4AAAAJ",
+    "region": "europe",
+    "country": "il",
+    "region": "europe",
+    "country": "il",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=xXJIsh4AAAAJ&citpid=1",
     "affiliation": "Technion - Israel Institute of Technology",
     "keywords": [
@@ -6682,6 +7440,10 @@ var data = [
   {
     "name": "Roman Klinger",
     "url": "http://scholar.google.com/citations?user=1flvefwAAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=1flvefwAAAAJ&citpid=11",
     "affiliation": "Senior lecturer, Institut für Maschinelle Sprachverarbeitung, Uni Stuttgart",
     "keywords": [
@@ -6710,6 +7472,10 @@ var data = [
   {
     "name": "Roy Schwartz",
     "url": "http://scholar.google.com/citations?user=wvfWo9IAAAAJ",
+    "region": "europe",
+    "country": "il",
+    "region": "europe",
+    "country": "il",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wvfWo9IAAAAJ&citpid=4",
     "affiliation": "Senior lecturer, the School of Computer Science, the Hebrew University of Jerusalem",
     "keywords": [
@@ -6736,6 +7502,10 @@ var data = [
   {
     "name": "Rui Wang",
     "url": "http://scholar.google.com/citations?user=oTU0v5IAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=oTU0v5IAAAAJ&citpid=10",
     "affiliation": "Associate Professor of Computer Science, Shanghai Jiao Tong University",
     "keywords": [
@@ -6761,6 +7531,8 @@ var data = [
   {
     "name": "Rui Zhang",
     "url": "http://scholar.google.com/citations?user=8GCLiUwAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=8GCLiUwAAAAJ&citpid=1",
     "affiliation": "Assistant Professor, Penn State University",
     "keywords": [
@@ -6786,6 +7558,10 @@ var data = [
   {
     "name": "Ruifeng Xu",
     "url": "http://scholar.google.com/citations?user=mObXnNIAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Professor, Harbin Institute of Technology at Shenzhen",
     "keywords": [
@@ -6814,6 +7590,8 @@ var data = [
   {
     "name": "Ruihong Huang",
     "url": "http://scholar.google.com/citations?user=NU2aHWUAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=NU2aHWUAAAAJ&citpid=2",
     "affiliation": "Assistant Professor, Computer Science & Engineering Department, Texas A&M University",
     "keywords": [
@@ -6840,6 +7618,10 @@ var data = [
   {
     "name": "Ryan Cotterell",
     "url": "http://scholar.google.com/citations?user=DexOqtoAAAAJ",
+    "region": "europe",
+    "country": "ch",
+    "region": "europe",
+    "country": "ch",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DexOqtoAAAAJ&citpid=3",
     "affiliation": "ETH Zürich, University of Cambridge",
     "keywords": [
@@ -6866,6 +7648,10 @@ var data = [
   {
     "name": "Sabine Schulte im Walde",
     "url": "http://scholar.google.com/citations?user=kObRYIAAAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=kObRYIAAAAAJ&citpid=7",
     "affiliation": "University of Stuttgart, Germany",
     "keywords": [
@@ -6890,6 +7676,10 @@ var data = [
   {
     "name": "Sadao Kurohashi",
     "url": "http://scholar.google.com/citations?user=gpKS5P0AAAAJ",
+    "region": "asia",
+    "country": "jp",
+    "region": "asia",
+    "country": "jp",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Kyoto University",
     "keywords": [
@@ -6914,6 +7704,8 @@ var data = [
   {
     "name": "Sameer Singh",
     "url": "http://scholar.google.com/citations?user=2RFiH8oAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=2RFiH8oAAAAJ&citpid=2",
     "affiliation": "Director, Railvision",
     "keywords": [],
@@ -6936,6 +7728,8 @@ var data = [
   {
     "name": "Samuel R. Bowman",
     "url": "http://scholar.google.com/citations?user=kV9XRxYAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=kV9XRxYAAAAJ&citpid=10",
     "affiliation": "Assistant Professor, NYU",
     "keywords": [
@@ -6989,6 +7783,10 @@ var data = [
   {
     "name": "Sebastian Padó",
     "url": "http://scholar.google.com/citations?user=vKqag_AAAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=vKqag_AAAAAJ&citpid=2",
     "affiliation": "Professor of Computational Linguistics, Computer Science Department, Stuttgart University",
     "keywords": [
@@ -7015,6 +7813,10 @@ var data = [
   {
     "name": "Seung-won Hwang",
     "url": "http://scholar.google.com/citations?user=63bBmc3mYrAC",
+    "region": "asia",
+    "country": "kr",
+    "region": "asia",
+    "country": "kr",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=63bBmc3mYrAC&citpid=2",
     "affiliation": "Seoul National University",
     "keywords": [
@@ -7039,6 +7841,10 @@ var data = [
   {
     "name": "Shafiq R. Joty",
     "url": "http://scholar.google.com/citations?user=hR249csAAAAJ",
+    "region": "asia",
+    "country": "sg",
+    "region": "asia",
+    "country": "sg",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=hR249csAAAAJ&citpid=2",
     "affiliation": "Assistant Professor at NTU, Senior Manager at Salesforce AI Research",
     "keywords": [
@@ -7064,6 +7870,10 @@ var data = [
   {
     "name": "Sharon Goldwater",
     "url": "http://scholar.google.com/citations?user=_ZxvlzoAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "School of Informatics, University of Edinburgh",
     "keywords": [
@@ -7090,6 +7900,8 @@ var data = [
   {
     "name": "Shashank Srivastava",
     "url": "http://scholar.google.com/citations?user=-vKI5s0AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "UNC Chapel Hill, CMU, Microsoft Research",
     "keywords": [],
@@ -7112,6 +7924,8 @@ var data = [
   {
     "name": "Shomir Wilson",
     "url": "http://scholar.google.com/citations?user=0GHjBSUAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=0GHjBSUAAAAJ&citpid=3",
     "affiliation": "Assistant Professor, Pennsylvania State University",
     "keywords": [
@@ -7140,6 +7954,10 @@ var data = [
   {
     "name": "Shou-De Lin",
     "url": "http://scholar.google.com/citations?user=_82xf3QAAAAJ",
+    "region": "asia",
+    "country": "tw",
+    "region": "asia",
+    "country": "tw",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=_82xf3QAAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science Department, National Taiwan University",
     "keywords": [
@@ -7167,6 +7985,10 @@ var data = [
   {
     "name": "Shujian Huang",
     "url": "http://scholar.google.com/citations?user=HF3-E9kAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=HF3-E9kAAAAJ&citpid=4",
     "affiliation": "Department of Computer Science and Technology, Nanjing University",
     "keywords": [
@@ -7192,6 +8014,10 @@ var data = [
   {
     "name": "Shuly Wintner",
     "url": "http://scholar.google.com/citations?user=LFEmlnsAAAAJ",
+    "region": "europe",
+    "country": "il",
+    "region": "europe",
+    "country": "il",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "University of Haifa, Department of Computer Science",
     "keywords": [
@@ -7218,6 +8044,10 @@ var data = [
   {
     "name": "Simone Paolo Ponzetto",
     "url": "http://scholar.google.com/citations?user=VmIFG0EAAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=VmIFG0EAAAAJ&citpid=3",
     "affiliation": "Professor of Information Systems, University of Mannheim",
     "keywords": [
@@ -7244,6 +8074,10 @@ var data = [
   {
     "name": "Simone Teufel",
     "url": "http://scholar.google.com/citations?user=GnKIYCcAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Professor of Computer Science, Cambridge University",
     "keywords": [
@@ -7268,6 +8102,10 @@ var data = [
   {
     "name": "Sina Zarrieß",
     "url": "http://scholar.google.com/citations?user=7OOP0iAAAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=7OOP0iAAAAAJ&citpid=4",
     "affiliation": "Professor for Digital Humanities, Machine Learning and Language Technology, University of Jena",
     "keywords": [
@@ -7295,6 +8133,10 @@ var data = [
   {
     "name": "Siva Reddy",
     "url": "http://scholar.google.com/citations?user=LZZAAtoAAAAJ",
+    "region": "canada",
+    "country": "ca",
+    "region": "canada",
+    "country": "ca",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=LZZAAtoAAAAJ&citpid=5",
     "affiliation": "Assistant Professor, McGill University, Mila",
     "keywords": [
@@ -7322,6 +8164,8 @@ var data = [
   {
     "name": "Snigdha Chaturvedi",
     "url": "http://scholar.google.com/citations?user=gZD3EesAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=gZD3EesAAAAJ&citpid=2",
     "affiliation": "Assistant Professor, University of North Carolina, Chapel Hill",
     "keywords": [
@@ -7346,6 +8190,10 @@ var data = [
   {
     "name": "Sophia Ananiadou",
     "url": "http://scholar.google.com/citations?user=quhi-K0AAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=quhi-K0AAAAJ&citpid=6",
     "affiliation": "Professor, Computer Science, Manchester University, National Centre for Text Mining",
     "keywords": [
@@ -7374,6 +8222,10 @@ var data = [
   {
     "name": "Soujanya Poria",
     "url": "http://scholar.google.com/citations?user=oS6gRc4AAAAJ",
+    "region": "asia",
+    "country": "sg",
+    "region": "asia",
+    "country": "sg",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=oS6gRc4AAAAJ&citpid=15",
     "affiliation": "Assistant Professor, Singapore University of Technology and Design",
     "keywords": [
@@ -7401,6 +8253,10 @@ var data = [
   {
     "name": "Soumen Chakrabarti",
     "url": "http://scholar.google.com/citations?user=LfF2zfQAAAAJ",
+    "region": "asia",
+    "country": "in",
+    "region": "asia",
+    "country": "in",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=medium_photo&user=LfF2zfQAAAAJ&citpid=2",
     "affiliation": "IIT Bombay",
     "keywords": [
@@ -7428,6 +8284,10 @@ var data = [
   {
     "name": "Stephan Vogel",
     "url": "http://scholar.google.com/citations?user=BffFdd0AAAAJ",
+    "region": "asia",
+    "country": "qa",
+    "region": "asia",
+    "country": "qa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BffFdd0AAAAJ&citpid=2",
     "affiliation": "Research Director Arabic Language Technologies, Qatar Computing Research Institute",
     "keywords": [
@@ -7453,6 +8313,8 @@ var data = [
   {
     "name": "Steven Bethard",
     "url": "http://scholar.google.com/citations?user=sXM8J5EAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=sXM8J5EAAAAJ&citpid=4",
     "affiliation": "Associate Professor, University of Arizona",
     "keywords": [
@@ -7481,6 +8343,8 @@ var data = [
   {
     "name": "Stuart M. Shieber",
     "url": "http://scholar.google.com/citations?user=oq8WAwsAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=oq8WAwsAAAAJ&citpid=3",
     "affiliation": "Harvard University",
     "keywords": [
@@ -7506,6 +8370,10 @@ var data = [
   {
     "name": "Sujian Li",
     "url": "http://scholar.google.com/citations?user=RvBDhSwAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Peking Univ.",
     "keywords": [
@@ -7558,6 +8426,8 @@ var data = [
   {
     "name": "Tal Linzen",
     "url": "http://scholar.google.com/citations?user=5mJDXjoAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=5mJDXjoAAAAJ&citpid=3",
     "affiliation": "New York University",
     "keywords": [
@@ -7584,6 +8454,10 @@ var data = [
   {
     "name": "Tat-Seng Chua",
     "url": "http://scholar.google.com/citations?user=Z9DWCBEAAAAJ",
+    "region": "asia",
+    "country": "sg",
+    "region": "asia",
+    "country": "sg",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Z9DWCBEAAAAJ&citpid=3",
     "affiliation": "National University of Singapore",
     "keywords": [
@@ -7609,6 +8483,10 @@ var data = [
   {
     "name": "Tatsuya Kawahara",
     "url": "http://scholar.google.com/citations?user=o3AmlFYAAAAJ",
+    "region": "asia",
+    "country": "jp",
+    "region": "asia",
+    "country": "jp",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=o3AmlFYAAAAJ&citpid=6",
     "affiliation": "Professor, School of Informatics, Kyoto University",
     "keywords": [
@@ -7636,6 +8514,8 @@ var data = [
   {
     "name": "Taylor Berg-Kirkpatrick",
     "url": "http://scholar.google.com/citations?user=mN6_BKAAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "University of California San Diego",
     "keywords": [
@@ -7660,6 +8540,10 @@ var data = [
   {
     "name": "Ted Briscoe",
     "url": "http://scholar.google.com/citations?user=qNP6lAwAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=qNP6lAwAAAAJ&citpid=3",
     "affiliation": "Professor of Computational Linguistics, University of Cambridge",
     "keywords": [
@@ -7687,6 +8571,8 @@ var data = [
   {
     "name": "Thamar Solorio",
     "url": "http://scholar.google.com/citations?user=Gmjwy-IAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Gmjwy-IAAAAJ&citpid=6",
     "affiliation": "Associate Professor of Computer Science, University of Houston",
     "keywords": [
@@ -7711,6 +8597,8 @@ var data = [
   {
     "name": "Thien Huu Nguyen",
     "url": "http://scholar.google.com/citations?user=Da2FhegAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Da2FhegAAAAJ&citpid=4",
     "affiliation": "University of Oregon",
     "keywords": [
@@ -7765,6 +8653,10 @@ var data = [
   {
     "name": "Ting Liu",
     "url": "http://scholar.google.com/citations?user=zyMJ1V0AAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=zyMJ1V0AAAAJ&citpid=2",
     "affiliation": "Harbin Institute of Technology",
     "keywords": [
@@ -7819,6 +8711,10 @@ var data = [
   {
     "name": "Tong Zhang",
     "url": "http://scholar.google.com/citations?user=LurWtuYAAAAJ",
+    "region": "asia",
+    "country": "hk",
+    "region": "asia",
+    "country": "hk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=LurWtuYAAAAJ&citpid=5",
     "affiliation": "HKUST",
     "keywords": [
@@ -7843,6 +8739,10 @@ var data = [
   {
     "name": "Trevor Cohn",
     "url": "http://scholar.google.com/citations?user=FCom398AAAAJ",
+    "region": "australasia",
+    "country": "au",
+    "region": "australasia",
+    "country": "au",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=FCom398AAAAJ&citpid=2",
     "affiliation": "School of Computing and Information Systems, University of Melbourne",
     "keywords": [
@@ -7871,6 +8771,10 @@ var data = [
   {
     "name": "Vera Demberg",
     "url": "http://scholar.google.com/citations?user=l2CFSAMAAAAJ",
+    "region": "europe",
+    "country": "de",
+    "region": "europe",
+    "country": "de",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=l2CFSAMAAAAJ&citpid=2",
     "affiliation": "Saarland University, Saarland Informatics Campus",
     "keywords": [
@@ -7898,6 +8802,10 @@ var data = [
   {
     "name": "Verena Rieser",
     "url": "http://scholar.google.com/citations?user=4c2k2LEAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=4c2k2LEAAAAJ&citpid=10",
     "affiliation": "Professor of Artificial Intelligence, Heriot-Watt University, Edinburgh",
     "keywords": [
@@ -7926,6 +8834,8 @@ var data = [
   {
     "name": "Vicente Ordonez",
     "url": "http://scholar.google.com/citations?user=TtA_j4YAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TtA_j4YAAAAJ&citpid=25",
     "affiliation": "University of Virginia, Assistant Professor, Computer Science",
     "keywords": [
@@ -7952,6 +8862,8 @@ var data = [
   {
     "name": "Vincent Ng",
     "url": "http://scholar.google.com/citations?user=4UyniXYAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=4UyniXYAAAAJ&citpid=22",
     "affiliation": "Professor of Computer Science, University of Texas at Dallas",
     "keywords": [
@@ -7977,6 +8889,8 @@ var data = [
   {
     "name": "Vivek Srikumar",
     "url": "http://scholar.google.com/citations?user=TsTUfOIAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TsTUfOIAAAAJ&citpid=4",
     "affiliation": "Associate Professor, School of Computing, University of Utah",
     "keywords": [
@@ -8004,6 +8918,10 @@ var data = [
   {
     "name": "Wanxiang Che",
     "url": "http://scholar.google.com/citations?user=SVlQ6IEAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=SVlQ6IEAAAAJ&citpid=5",
     "affiliation": "Professor of Harbin Institute of Technology",
     "keywords": [
@@ -8028,6 +8946,10 @@ var data = [
   {
     "name": "Wayne Xin Zhao",
     "url": "http://scholar.google.com/citations?user=JNhNacoAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=JNhNacoAAAAJ&citpid=3",
     "affiliation": "Professor, Renmin University of China",
     "keywords": [
@@ -8054,6 +8976,10 @@ var data = [
   {
     "name": "Wee Sun Lee",
     "url": "http://scholar.google.com/citations?user=8PCrLgwAAAAJ",
+    "region": "asia",
+    "country": "sg",
+    "region": "asia",
+    "country": "sg",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=8PCrLgwAAAAJ&citpid=2",
     "affiliation": "Professor, Department of Computer Science, National University of Singapore",
     "keywords": [
@@ -8080,6 +9006,10 @@ var data = [
   {
     "name": "Wei Gao",
     "url": "http://scholar.google.com/citations?user=8uaZwkwAAAAJ",
+    "region": "asia",
+    "country": "sg",
+    "region": "asia",
+    "country": "sg",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=medium_photo&user=8uaZwkwAAAAJ&citpid=3",
     "affiliation": "Singapore Management University",
     "keywords": [
@@ -8107,6 +9037,8 @@ var data = [
   {
     "name": "Wei Xu",
     "url": "http://scholar.google.com/citations?user=BfOdG-oAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BfOdG-oAAAAJ&citpid=4",
     "affiliation": "Georgia Institute of Technology",
     "keywords": [
@@ -8133,6 +9065,10 @@ var data = [
   {
     "name": "Weinan Zhang",
     "url": "http://scholar.google.com/citations?user=DBLdEf4AAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DBLdEf4AAAAJ&citpid=3",
     "affiliation": "Harbin Institute of Technology",
     "keywords": [
@@ -8159,6 +9095,10 @@ var data = [
   {
     "name": "Wenjie Li",
     "url": "http://scholar.google.com/citations?user=Rx5swD4AAAAJ",
+    "region": "asia",
+    "country": "hk",
+    "region": "asia",
+    "country": "hk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Rx5swD4AAAAJ&citpid=9",
     "affiliation": "The Hong Kong Polytechnic University",
     "keywords": [
@@ -8187,6 +9127,10 @@ var data = [
   {
     "name": "Willem H. Zuidema",
     "url": "http://scholar.google.com/citations?user=MBkG_FYAAAAJ",
+    "region": "europe",
+    "country": "nl",
+    "region": "europe",
+    "country": "nl",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Associate Professor of Computational Linguistics and Cognitive Science, University of Amsterdam",
     "keywords": [
@@ -8214,6 +9158,8 @@ var data = [
   {
     "name": "William Yang Wang",
     "url": "http://scholar.google.com/citations?user=gf8Ms_8AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=gf8Ms_8AAAAJ&citpid=8",
     "affiliation": "Mellichamp Chair Professor, University of California, Santa Barbara",
     "keywords": [
@@ -8241,6 +9187,8 @@ var data = [
   {
     "name": "Xiang Ren",
     "url": "http://scholar.google.com/citations?user=_moJlrIAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=_moJlrIAAAAJ&citpid=4",
     "affiliation": "Assistant Professor of Computer Science, USC",
     "keywords": [
@@ -8268,6 +9216,10 @@ var data = [
   {
     "name": "Xianpei Han",
     "url": "http://scholar.google.com/citations?user=pA88bm4AAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=pA88bm4AAAAJ&citpid=5",
     "affiliation": "Professor, Institute of Software, Chinese Academy of Sciences",
     "keywords": [
@@ -8295,6 +9247,10 @@ var data = [
   {
     "name": "Xiao-Dan Zhu",
     "url": "http://scholar.google.com/citations?user=a6MYnuUAAAAJ",
+    "region": "canada",
+    "country": "ca",
+    "region": "canada",
+    "country": "ca",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=a6MYnuUAAAAJ&citpid=11",
     "affiliation": "ECE & Ingenuity Labs Research Institute, Queen's University, Canada",
     "keywords": [
@@ -8321,6 +9277,8 @@ var data = [
   {
     "name": "Xiaojin Zhu",
     "url": "http://scholar.google.com/citations?user=hqTu-QcAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=medium_photo&user=hqTu-QcAAAAJ&citpid=3",
     "affiliation": "Professor in Computer Science at University of Wisconsin-Madison",
     "keywords": [
@@ -8345,6 +9303,10 @@ var data = [
   {
     "name": "Xiaojun Wan",
     "url": "http://scholar.google.com/citations?user=lTTeBdkAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=lTTeBdkAAAAJ&citpid=5",
     "affiliation": "Peking University",
     "keywords": [
@@ -8371,6 +9333,8 @@ var data = [
   {
     "name": "Xiaoli Z. Fern",
     "url": "http://scholar.google.com/citations?user=rnDD_oEAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Oregon State University",
     "keywords": [
@@ -8396,6 +9360,8 @@ var data = [
   {
     "name": "Xifeng Yan",
     "url": "http://scholar.google.com/citations?user=XZV2eogAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XZV2eogAAAAJ&citpid=2",
     "affiliation": "Professor, Computer Science, Univ. of California at Santa Barbara",
     "keywords": [
@@ -8423,6 +9389,8 @@ var data = [
   {
     "name": "Xin Wang",
     "url": "http://scholar.google.com/citations?user=YjqluE0AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=YjqluE0AAAAJ&citpid=9",
     "affiliation": "Assistant Professor, University of California, Santa Cruz",
     "keywords": [
@@ -8451,6 +9419,10 @@ var data = [
   {
     "name": "Xinyu Dai",
     "url": "http://scholar.google.com/citations?user=zpWB1CgAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=zpWB1CgAAAAJ&citpid=3",
     "affiliation": "Nanjing University",
     "keywords": [],
@@ -8473,6 +9445,10 @@ var data = [
   {
     "name": "Xipeng Qiu",
     "url": "http://scholar.google.com/citations?user=Pq4Yp_kAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Pq4Yp_kAAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science, Fudan University",
     "keywords": [
@@ -8500,6 +9476,10 @@ var data = [
   {
     "name": "Xuanjing Huang",
     "url": "http://scholar.google.com/citations?user=RGsMgZA4H78C",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=RGsMgZA4H78C&citpid=1",
     "affiliation": "Professor of Computer Science, Fudan University",
     "keywords": [
@@ -8525,6 +9505,8 @@ var data = [
   {
     "name": "Yangfeng Ji",
     "url": "http://scholar.google.com/citations?user=pg02-e8AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=pg02-e8AAAAJ&citpid=1",
     "affiliation": "Computer Science, University of Virginia",
     "keywords": [
@@ -8550,6 +9532,10 @@ var data = [
   {
     "name": "Yangqiu Song",
     "url": "http://scholar.google.com/citations?user=MdQZ-q8AAAAJ",
+    "region": "asia",
+    "country": "hk",
+    "region": "asia",
+    "country": "hk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=MdQZ-q8AAAAJ&citpid=3",
     "affiliation": "HKUST",
     "keywords": [
@@ -8578,6 +9564,10 @@ var data = [
   {
     "name": "Yansong Feng",
     "url": "http://scholar.google.com/citations?user=67qAw_wAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "Peking University",
     "keywords": [
@@ -8603,6 +9593,8 @@ var data = [
   {
     "name": "Yejin Choi",
     "url": "http://scholar.google.com/citations?user=vhP-tlcAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=vhP-tlcAAAAJ&citpid=4",
     "affiliation": "University of Washington / Allen Institute for Artificial Intelligence",
     "keywords": [
@@ -8630,6 +9622,8 @@ var data = [
   {
     "name": "Yiming Yang",
     "url": "http://scholar.google.com/citations?user=MlZq4XwAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=MlZq4XwAAAAJ&citpid=2",
     "affiliation": "Professor, Carnegie Mellon University",
     "keywords": [
@@ -8655,6 +9649,10 @@ var data = [
   {
     "name": "Yoav Goldberg",
     "url": "http://scholar.google.com/citations?user=0rskDKgAAAAJ",
+    "region": "europe",
+    "country": "il",
+    "region": "europe",
+    "country": "il",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=0rskDKgAAAAJ&citpid=2",
     "affiliation": "Professor, Bar Ilan University",
     "keywords": [
@@ -8681,6 +9679,8 @@ var data = [
   {
     "name": "Yonatan Bisk",
     "url": "http://scholar.google.com/citations?user=bWoGh8UAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=bWoGh8UAAAAJ&citpid=9",
     "affiliation": "Carnegie Mellon University",
     "keywords": [
@@ -8706,6 +9706,10 @@ var data = [
   {
     "name": "Yong Yu",
     "url": "http://scholar.google.com/citations?user=-84M1m0AAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=-84M1m0AAAAJ&citpid=2",
     "affiliation": "Professor, Shanghai Jiao Tong University",
     "keywords": [
@@ -8734,6 +9738,10 @@ var data = [
   {
     "name": "Yoshimasa Tsuruoka",
     "url": "http://scholar.google.com/citations?user=J2CkFngAAAAJ",
+    "region": "asia",
+    "country": "jp",
+    "region": "asia",
+    "country": "jp",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=J2CkFngAAAAJ&citpid=3",
     "affiliation": "The University of Tokyo",
     "keywords": [
@@ -8759,6 +9767,10 @@ var data = [
   {
     "name": "Yoshua Bengio",
     "url": "http://scholar.google.com/citations?user=kukA0LcAAAAJ",
+    "region": "canada",
+    "country": "ca",
+    "region": "canada",
+    "country": "ca",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
     "affiliation": "Professor of computer science, University of Montreal, Mila, IVADO, CIFAR",
     "keywords": [
@@ -8785,6 +9797,8 @@ var data = [
   {
     "name": "Yu Su",
     "url": "http://scholar.google.com/citations?user=rIh5OqoAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=rIh5OqoAAAAJ&citpid=3",
     "affiliation": "Assistant Professor, OSU",
     "keywords": [
@@ -8811,6 +9825,10 @@ var data = [
   {
     "name": "Yue Zhang",
     "url": "http://scholar.google.com/citations?user=6hA7WmUAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=6hA7WmUAAAAJ&citpid=3",
     "affiliation": "Westlake University",
     "keywords": [
@@ -8839,6 +9857,10 @@ var data = [
   {
     "name": "Yueting Zhuang",
     "url": "http://scholar.google.com/citations?user=1RD7UJAAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=1RD7UJAAAAAJ&citpid=2",
     "affiliation": "Professor of Computer Science, Zhejiang University",
     "keywords": [
@@ -8866,6 +9888,10 @@ var data = [
   {
     "name": "Yuki Arase",
     "url": "http://scholar.google.com/citations?user=uoL1Wr0AAAAJ",
+    "region": "asia",
+    "country": "jp",
+    "region": "asia",
+    "country": "jp",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=uoL1Wr0AAAAJ&citpid=5",
     "affiliation": "Osaka University",
     "keywords": [
@@ -8892,6 +9918,10 @@ var data = [
   {
     "name": "Yulan He",
     "url": "http://scholar.google.com/citations?user=SP9r32UAAAAJ",
+    "region": "europe",
+    "country": "uk",
+    "region": "europe",
+    "country": "uk",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=SP9r32UAAAAJ&citpid=4",
     "affiliation": "Professor, University of Warwick; Turing AI Fellow",
     "keywords": [
@@ -8919,6 +9949,8 @@ var data = [
   {
     "name": "Yulia Tsvetkov",
     "url": "http://scholar.google.com/citations?user=SEDPkrsAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=SEDPkrsAAAAJ&citpid=2",
     "affiliation": "Carnegie Mellon University",
     "keywords": [
@@ -8943,6 +9975,10 @@ var data = [
   {
     "name": "Yun-Nung Chen",
     "url": "http://scholar.google.com/citations?user=jQLg-_UAAAAJ",
+    "region": "asia",
+    "country": "tw",
+    "region": "asia",
+    "country": "tw",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=jQLg-_UAAAAJ&citpid=19",
     "affiliation": "National Taiwan University",
     "keywords": [
@@ -8971,6 +10007,8 @@ var data = [
   {
     "name": "Zhiting Hu",
     "url": "http://scholar.google.com/citations?user=N7_xhHoAAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=N7_xhHoAAAAJ&citpid=4",
     "affiliation": "PhD in MLD, Carnegie Mellon University; Incoming Assistant Professor at UC San Diego",
     "keywords": [
@@ -8995,6 +10033,10 @@ var data = [
   {
     "name": "Zhiyuan Liu",
     "url": "http://scholar.google.com/citations?user=dT0v5u0AAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=dT0v5u0AAAAJ&citpid=26",
     "affiliation": "Associate Professor, Tsinghua University",
     "keywords": [
@@ -9022,6 +10064,10 @@ var data = [
   {
     "name": "Zhongyu Wei",
     "url": "http://scholar.google.com/citations?user=AjLDxxgAAAAJ",
+    "region": "asia",
+    "country": "cn",
+    "region": "asia",
+    "country": "cn",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=AjLDxxgAAAAJ&citpid=8",
     "affiliation": "Associate Professor at School of Data Science, Fudan University",
     "keywords": [
@@ -9049,6 +10095,8 @@ var data = [
   {
     "name": "Zhou Yu",
     "url": "http://scholar.google.com/citations?user=jee2Dy0AAAAJ",
+    "region": "usa",
+    "country": "usa",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=jee2Dy0AAAAJ&citpid=3",
     "affiliation": "Columbia University",
     "keywords": [

@@ -4,57 +4,70 @@
 <!-- from http://www.menucool.com/tooltip/css-tooltip -->
 <link rel="stylesheet" href="tooltip/tooltip.css" type="text/css"/>
 <link rel="stylesheet" href="tablesorter/style.css" type="text/css" media="print, projection, screen" />
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="tablesorter/jquery.tablesorter.min.js"></script>
-<script type="text/javascript" src="stats-nlp-faculty.js"></script></script>
+
+<!--script src="tablesorter2/jquery-latest.min.js"></script>
+<script src="tablesorter2/jquery.tablesorter.js"></script>
+<script src="tablesorter2/widget-filter.js"></script>
+<script src="tablesorter2/widget-storage.js"></script-->
+
+<script src="tablesorter2/jquery-latest.min.js"></script>
+<script src="tablesorter2/jquery.tablesorter.min.js"></script>
+<script src="tablesorter2/jquery.tablesorter.widgets.min.js"></script>
+
+<!--script src="tablesorter2/widget-resizable.min.js"></script>
+<script src="tablesorter2/widget-storage.js"></script-->
+
+<link rel="stylesheet" href="tablesorter2/theme.blue.css">
+
+
+
+<script src="stats-nlp-faculty.js"></script></script>
 </head>
 <body>
 
 <a href="https://github.com/lintool/scholar-scraper/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://github-camo.global.ssl.fastly.net/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"></a>
 
-<h1>Citations Statistics of Natural Language Processing Faculty</h1>
+<h1>Citation Statistics: NLP (CSRankings Faculty)</h1>
 
-<p>by <a href="https://cs.uwaterloo.ca/~jimmylin/">Jimmy Lin</a> (University of Waterloo)</p>
+<p>or, NLP big cows 🐮</p>
 
-<p><b>Disicipline-specific lists:</b> [<a href="index.html">Information Retrieval</a>] [<a href="index-db.html">Databases</a>] [Natural Language Processing] [<a href="index-hci.html">Human-Computer Interaction</a>]<br/>
-<b>See also:</b> [<a href="index-stratosphere.html">Overall Top CS Researchers</a>]</p>
+<p>This list contains a list of NLP faculty
+from <a href="https://github.com/emeryberger/CSrankings">CSRankings</a>,
+culled in the following manner: (1) started
+with <a href="https://github.com/emeryberger/CSrankings/blob/gh-pages/generated-author-info.csv">this
+file</a> and retained only names that had more than 5 entries in "NLP"
+(defined as "emnlp", "acl", and "naacl"), (2) removed all faculty
+without Google scholar profiles, and (3) manually verified all
+names.<p>
 
-<div style="width:800px">
-<p><b>Editorial note:</b> This list contains only researchers who have
-a Google Scholar profile; names were identified by snowball sampling
-and various other <i>ad hoc</i> techniques. If you wish to see a name
-added, please email me or send a pull request. I will endeavor to
-periodically run the crawl to gather updated statistics. Of course,
-scholarly achievement is only partially measured by citation counts,
-which are known to be flawed in many ways. Evaluations of scholars
-should include comprehensive examination of their research
-contributions.
-<p>
-</div>
-
-<div id="date" style="width:800px"><small>Data scraped from Google
-Scholar: "name", "citations", "h-index", and "i10-index" are from
-author profile; "year" denotes year of first citation. The columns
-marked "/y" indicates division by years since first
-citation.</small></div>
+<div id="date"><small>Data scraped from Google Scholar: "name", "citations",
+"h-index", and "i10-index" are from author profile; "year" denotes
+year of first citation. The columns marked "/y" indicates division by
+years since first citation.</small></div>
 
 <p/>
 
-<table id="stats" border="0" class="tablesorter" width="300">
+<table id="main" border="0" class="tablesorter" style="width:100%">
 <thead>
 <tr>
-    <th/>
+    <th style="width:20px" class="filter-false"/>
     <th>name</th>
-    <th>year</th>
-    <th>citations</th>
-    <th>/y</th>
-    <th>h-index</th>
-    <th>/y</th>
-    <th>i10-index</th>
-    <th>/y</th>
+    <th class="filter-false">year</th>
+    <th class="filter-false">citations</th>
+    <th class="filter-false">/y</th>
+    <th class="filter-false">h-index</th>
+    <th class="filter-false">/y</th>
+    <th class="filter-false">i10-index</th>
+    <th class="filter-false">/y</th>
+    <th>region</th>
+    <th>country</th>
 </tr>
 </thead>
+<tbody id="stats">
+</tbody>
 </table>
+
+<!-- Example primarily adapted from https://mottie.github.io/tablesorter/docs/example-widget-filter-any-match.html -->
 
 <script>
 function round(n) {
@@ -84,19 +97,51 @@ for (var i=0; i< data.length; i++) {
   row.append($('<td/>').html(round(data[i].stats.hindex[0]/y)));
   row.append($('<td/>').html(data[i].stats.i10index[0]));
   row.append($('<td/>').html(round(data[i].stats.i10index[0]/y)));
+  row.append($('<td/>').html(data[i].region));
+  row.append($('<td/>').html(data[i].country));
   $("#stats").append(row);
 }
 
 // http://tablesorter.com/docs/
 $(document).ready(function() {
+
   $("#date").append("<p><small>Last updated: " + date + "</small></p>");
-  $("#stats").tablesorter({sortList: [[5,1], [3,1]]});
+
+  var $table = $('table').tablesorter({
+    widthFixed: false,
+    sortList: [[5,1], [3,1]],
+    theme: 'blue',
+    widgets: ["zebra", "resizable", "filter"],
+    widgetOptions : {
+      resizable: true,
+      resizable_widths : [ '10px' ],
+      // filter_anyMatch replaced! Instead use the filter_external option
+      // Set to use a jQuery selector (or jQuery object) pointing to the
+      // external filter (column specific or any match)
+      filter_external : '.search',
+      // add a default type search to the first name column
+      //filter_defaultFilter: { 1 : '~{query}' },
+      // include column filters
+      filter_columnFilters: true,
+      filter_placeholder: { search : 'Search...' },
+      filter_saveFilters : true,
+      filter_reset: '.reset'
+    }
+  });
 
   // https://stackoverflow.com/questions/6549518/jquery-tablesorter-with-row-numbers
-  var table = $("#stats");
+  var table = $("#main");
+  var i = 0;
+  table.find("tr:gt(0)").each(function(){
+    if (i != 0 )
+    $(this).find("td:eq(0)").text(i);
+    i++;
+  });
+
   table.bind("sortEnd",function() {
-    var i = 1;
+    var i = 0;
     table.find("tr:gt(0)").each(function(){
+      if (i != 0 )
       $(this).find("td:eq(0)").text(i);
       i++;
     });
