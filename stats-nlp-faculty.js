@@ -285,7 +285,7 @@ var data = [
         "205"
       ]
     },
-    "year": "1999"
+    "year": "1990"
   },
   {
     "name": "André F. T. Martins",
@@ -736,7 +736,7 @@ var data = [
         "198"
       ]
     },
-    "year": "2001"
+    "year": "1988"
   },
   {
     "name": "Bing Qin",
@@ -947,7 +947,7 @@ var data = [
         "199"
       ]
     },
-    "year": "2002"
+    "year": "1990"
   },
   {
     "name": "Chengqing Zong",
@@ -1162,7 +1162,7 @@ var data = [
         "301"
       ]
     },
-    "year": "2002"
+    "year": "1992"
   },
   {
     "name": "Christopher Potts",
@@ -1348,7 +1348,7 @@ var data = [
         "219"
       ]
     },
-    "year": "1999"
+    "year": "1992"
   },
   {
     "name": "Daniel Jurafsky",
@@ -1376,7 +1376,7 @@ var data = [
         "196"
       ]
     },
-    "year": "2000"
+    "year": "1988"
   },
   {
     "name": "Danqi Chen",
@@ -2221,7 +2221,7 @@ var data = [
         "298"
       ]
     },
-    "year": "2002"
+    "year": "1998"
   },
   {
     "name": "Erik Cambria",
@@ -2249,7 +2249,7 @@ var data = [
         "189"
       ]
     },
-    "year": "2011"
+    "year": "2009"
   },
   {
     "name": "Eugene Charniak",
@@ -2579,7 +2579,7 @@ var data = [
         "175"
       ]
     },
-    "year": "2011"
+    "year": "2009"
   },
   {
     "name": "Greg Durrett",
@@ -2684,7 +2684,7 @@ var data = [
         "56"
       ]
     },
-    "year": "2014"
+    "year": "2006"
   },
   {
     "name": "Hai Zhao",
@@ -3516,7 +3516,7 @@ var data = [
         "678"
       ]
     },
-    "year": "1997"
+    "year": "1985"
   },
   {
     "name": "Jie Tang",
@@ -3544,7 +3544,7 @@ var data = [
         "193"
       ]
     },
-    "year": "2007"
+    "year": "2003"
   },
   {
     "name": "Jimmy Lin",
@@ -4175,7 +4175,7 @@ var data = [
         "103"
       ]
     },
-    "year": "2009"
+    "year": "2004"
   },
   {
     "name": "Katharina Kann",
@@ -4405,7 +4405,7 @@ var data = [
         "162"
       ]
     },
-    "year": "2014"
+    "year": "2010"
   },
   {
     "name": "Lawrence Carin",
@@ -4431,7 +4431,7 @@ var data = [
         "271"
       ]
     },
-    "year": "1996"
+    "year": "1986"
   },
   {
     "name": "Le Sun",
@@ -4715,7 +4715,7 @@ var data = [
         "120"
       ]
     },
-    "year": "2008"
+    "year": "1998"
   },
   {
     "name": "Lyle H. Ungar",
@@ -4740,7 +4740,7 @@ var data = [
         "182"
       ]
     },
-    "year": "1992"
+    "year": "1980"
   },
   {
     "name": "Maarten de Rijke",
@@ -5007,7 +5007,7 @@ var data = [
         "148"
       ]
     },
-    "year": "2008"
+    "year": "2003"
   },
   {
     "name": "Mark Johnson",
@@ -5377,7 +5377,7 @@ var data = [
         "284"
       ]
     },
-    "year": "1997"
+    "year": "1985"
   },
   {
     "name": "Mihai Surdeanu",
@@ -5537,7 +5537,7 @@ var data = [
         "144"
       ]
     },
-    "year": "2003"
+    "year": "1999"
   },
   {
     "name": "Mitchell P. Marcus",
@@ -5847,7 +5847,7 @@ var data = [
         "205"
       ]
     },
-    "year": "2005"
+    "year": "2000"
   },
   {
     "name": "Oliver Lemon",
@@ -5901,7 +5901,7 @@ var data = [
         "45"
       ]
     },
-    "year": "2014"
+    "year": "2012"
   },
   {
     "name": "Omri Abend",
@@ -6419,7 +6419,7 @@ var data = [
         "155"
       ]
     },
-    "year": "1989"
+    "year": "1985"
   },
   {
     "name": "Raymond T. Ng",
@@ -6958,7 +6958,7 @@ var data = [
         "47"
       ]
     },
-    "year": "2014"
+    "year": "2010"
   },
   {
     "name": "Sanda M. Harabagiu",
@@ -7396,7 +7396,7 @@ var data = [
         "71"
       ]
     },
-    "year": "2013"
+    "year": "2010"
   },
   {
     "name": "Soumen Chakrabarti",
@@ -7604,7 +7604,7 @@ var data = [
         "278"
       ]
     },
-    "year": "2000"
+    "year": "1984"
   },
   {
     "name": "Tatsuya Kawahara",
@@ -7814,7 +7814,7 @@ var data = [
         "155"
       ]
     },
-    "year": "1985"
+    "year": "1977"
   },
   {
     "name": "Tong Zhang",
@@ -7838,7 +7838,7 @@ var data = [
         "220"
       ]
     },
-    "year": "2002"
+    "year": "1996"
   },
   {
     "name": "Trevor Cohn",
@@ -8676,7 +8676,7 @@ var data = [
         "92"
       ]
     },
-    "year": "2010"
+    "year": "2006"
   },
   {
     "name": "Yonatan Bisk",
@@ -8729,7 +8729,7 @@ var data = [
         "145"
       ]
     },
-    "year": "2005"
+    "year": "2001"
   },
   {
     "name": "Yoshimasa Tsuruoka",
@@ -8780,7 +8780,7 @@ var data = [
         "563"
       ]
     },
-    "year": "2007"
+    "year": "1986"
   },
   {
     "name": "Yu Su",
@@ -8990,7 +8990,7 @@ var data = [
         "45"
       ]
     },
-    "year": "2014"
+    "year": "2013"
   },
   {
     "name": "Zhiyuan Liu",
@@ -9017,7 +9017,7 @@ var data = [
         "130"
       ]
     },
-    "year": "2010"
+    "year": "2008"
   },
   {
     "name": "Zhongyu Wei",
