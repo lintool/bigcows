@@ -1,4 +1,4 @@
-var date = "Sat Apr 02 2022 09:59:18 GMT-0400 (EDT)"
+var date = "Tue Jun 07 2022 14:49:55 GMT-0400 (EDT)"
 var data = [
   {
     "name": "Eugene Agichtein",
@@ -14,16 +14,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13694",
-        "4467"
+        "13873",
+        "4635"
       ],
       "hindex": [
-        "47",
-        "31"
+        "48",
+        "32"
       ],
       "i10index": [
-        "98",
-        "63"
+        "102",
+        "68"
       ]
     },
     "year": "2002"
@@ -42,16 +42,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16065",
-        "8249"
+        "16513",
+        "8681"
       ],
       "hindex": [
-        "54",
-        "33"
+        "55",
+        "35"
       ],
       "i10index": [
-        "157",
-        "78"
+        "159",
+        "83"
       ]
     },
     "year": "1998"
@@ -68,8 +68,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4316",
-        "4008"
+        "4556",
+        "4239"
       ],
       "hindex": [
         "9",
@@ -90,8 +90,8 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "3132",
-        "2832"
+        "3277",
+        "2976"
       ],
       "hindex": [
         "23",
@@ -117,16 +117,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15715",
-        "6501"
+        "16100",
+        "6866"
       ],
       "hindex": [
-        "60",
-        "38"
+        "61",
+        "39"
       ],
       "i10index": [
-        "216",
-        "129"
+        "217",
+        "131"
       ]
     },
     "year": "1999"
@@ -142,16 +142,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4939",
-        "4490"
+        "5247",
+        "4798"
       ],
       "hindex": [
-        "29",
-        "28"
+        "30",
+        "29"
       ],
       "i10index": [
-        "44",
-        "40"
+        "48",
+        "44"
       ]
     },
     "year": "2013"
@@ -167,16 +167,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4933",
-        "4277"
+        "5346",
+        "4689"
       ],
       "hindex": [
-        "28",
-        "28"
+        "29",
+        "29"
       ],
       "i10index": [
-        "38",
-        "36"
+        "39",
+        "37"
       ]
     },
     "year": "2013"
@@ -192,16 +192,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3061",
-        "2837"
+        "3331",
+        "3106"
       ],
       "hindex": [
-        "27",
+        "28",
         "25"
       ],
       "i10index": [
-        "52",
-        "48"
+        "57",
+        "53"
       ]
     },
     "year": "2013"
@@ -218,16 +218,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7094",
-        "5201"
+        "7496",
+        "5591"
       ],
       "hindex": [
         "37",
-        "29"
+        "31"
       ],
       "i10index": [
-        "89",
-        "78"
+        "92",
+        "81"
       ]
     },
     "year": "2008"
@@ -245,16 +245,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18204",
-        "10584"
+        "18692",
+        "11052"
       ],
       "hindex": [
         "65",
         "47"
       ],
       "i10index": [
-        "229",
-        "150"
+        "236",
+        "157"
       ]
     },
     "year": "2003"
@@ -272,16 +272,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8084",
-        "7252"
+        "8484",
+        "7650"
       ],
       "hindex": [
-        "28",
-        "25"
+        "29",
+        "26"
       ],
       "i10index": [
-        "50",
-        "40"
+        "53",
+        "43"
       ]
     },
     "year": "2012"
@@ -299,16 +299,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10050",
-        "9261"
+        "10974",
+        "10187"
       ],
       "hindex": [
-        "48",
-        "45"
+        "50",
+        "49"
       ],
       "i10index": [
-        "104",
-        "100"
+        "117",
+        "111"
       ]
     },
     "year": "2012"
@@ -325,16 +325,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1662",
-        "1286"
+        "1739",
+        "1362"
       ],
       "hindex": [
         "22",
-        "19"
+        "21"
       ],
       "i10index": [
-        "33",
-        "30"
+        "35",
+        "32"
       ]
     },
     "year": "2011"
@@ -350,16 +350,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6074",
-        "2617"
+        "6425",
+        "2974"
       ],
       "hindex": [
         "32",
-        "19"
+        "21"
       ],
       "i10index": [
         "67",
-        "39"
+        "40"
       ]
     },
     "year": "1999"
@@ -368,23 +368,23 @@ var data = [
     "name": "Jonathan Berant",
     "url": "https://scholar.google.com/citations?user=xCYHonIAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=xCYHonIAAAAJ&citpid=1",
-    "affiliation": "Associate Professor, Tel-Aviv University, Research Scientist, Allen Institute for AI",
+    "affiliation": "Associate Professor, Tel-Aviv University",
     "keywords": [
       "Natural Language Processing",
       "Machine Learning"
     ],
     "stats": {
       "citations": [
-        "6614",
-        "5559"
+        "7087",
+        "6030"
       ],
       "hindex": [
-        "36",
-        "31"
+        "38",
+        "33"
       ],
       "i10index": [
-        "73",
-        "65"
+        "76",
+        "68"
       ]
     },
     "year": "2010"
@@ -403,8 +403,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2045",
-        "768"
+        "2071",
+        "790"
       ],
       "hindex": [
         "23",
@@ -412,7 +412,7 @@ var data = [
       ],
       "i10index": [
         "32",
-        "20"
+        "21"
       ]
     },
     "year": "2006"
@@ -431,16 +431,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13614",
-        "9951"
+        "14014",
+        "10335"
       ],
       "hindex": [
-        "44",
-        "32"
+        "45",
+        "33"
       ],
       "i10index": [
         "88",
-        "73"
+        "74"
       ]
     },
     "year": "2008"
@@ -459,16 +459,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2839",
-        "2796"
+        "3211",
+        "3167"
       ],
       "hindex": [
-        "21",
-        "20"
+        "23",
+        "23"
       ],
       "i10index": [
-        "29",
-        "29"
+        "33",
+        "33"
       ]
     },
     "year": "2015"
@@ -486,16 +486,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "807",
-        "507"
+        "833",
+        "535"
       ],
       "hindex": [
         "11",
-        "8"
+        "9"
       ],
       "i10index": [
-        "11",
-        "7"
+        "13",
+        "9"
       ]
     },
     "year": "2009"
@@ -514,16 +514,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9747",
-        "6423"
+        "10219",
+        "6873"
       ],
       "hindex": [
-        "47",
-        "34"
+        "48",
+        "36"
       ],
       "i10index": [
-        "253",
-        "180"
+        "263",
+        "192"
       ]
     },
     "year": "2003"
@@ -542,16 +542,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7351",
-        "4860"
+        "7653",
+        "5154"
       ],
       "hindex": [
-        "41",
-        "35"
+        "42",
+        "36"
       ],
       "i10index": [
-        "130",
-        "101"
+        "134",
+        "107"
       ]
     },
     "year": "2004"
@@ -569,16 +569,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3321",
-        "3105"
+        "3594",
+        "3377"
       ],
       "hindex": [
         "28",
-        "25"
+        "28"
       ],
       "i10index": [
-        "58",
-        "51"
+        "63",
+        "56"
       ]
     },
     "year": "2012"
@@ -594,16 +594,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3436",
-        "3320"
+        "3760",
+        "3645"
       ],
       "hindex": [
-        "25",
-        "22"
+        "26",
+        "23"
       ],
       "i10index": [
-        "32",
-        "30"
+        "33",
+        "31"
       ]
     },
     "year": "2013"
@@ -618,16 +618,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2043",
-        "1560"
+        "2127",
+        "1644"
       ],
       "hindex": [
-        "19",
+        "20",
         "18"
       ],
       "i10index": [
-        "28",
-        "24"
+        "29",
+        "25"
       ]
     },
     "year": "2010"
@@ -642,16 +642,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14141",
-        "6056"
+        "14467",
+        "6367"
       ],
       "hindex": [
         "56",
         "40"
       ],
       "i10index": [
-        "165",
-        "95"
+        "167",
+        "97"
       ]
     },
     "year": "2001"
@@ -669,16 +669,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13180",
-        "7387"
+        "13575",
+        "7768"
       ],
       "hindex": [
         "37",
         "29"
       ],
       "i10index": [
-        "108",
-        "71"
+        "113",
+        "76"
       ]
     },
     "year": "2006"
@@ -694,16 +694,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7385",
-        "2424"
+        "7486",
+        "2518"
       ],
       "hindex": [
         "41",
-        "24"
+        "25"
       ],
       "i10index": [
-        "109",
-        "60"
+        "110",
+        "62"
       ]
     },
     "year": "1995"
@@ -722,16 +722,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9364",
-        "2904"
+        "9482",
+        "3006"
       ],
       "hindex": [
         "41",
-        "25"
+        "26"
       ],
       "i10index": [
         "152",
-        "58"
+        "59"
       ]
     },
     "year": "1996"
@@ -748,16 +748,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1652",
-        "1649"
+        "2032",
+        "2028"
       ],
       "hindex": [
-        "19",
-        "19"
+        "20",
+        "20"
       ],
       "i10index": [
-        "22",
-        "22"
+        "24",
+        "24"
       ]
     },
     "year": "2018"
@@ -774,11 +774,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1492",
-        "977"
+        "1581",
+        "1050"
       ],
       "hindex": [
-        "16",
+        "17",
         "14"
       ],
       "i10index": [
@@ -802,16 +802,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10001",
-        "6879"
+        "10348",
+        "7223"
       ],
       "hindex": [
-        "43",
-        "37"
+        "44",
+        "38"
       ],
       "i10index": [
-        "98",
-        "83"
+        "100",
+        "85"
       ]
     },
     "year": "2008"
@@ -825,20 +825,21 @@ var data = [
       "natural language processing",
       "representation learning",
       "computational linguistics",
-      "crowdsourcing"
+      "crowdsourcing",
+      "AI alignment"
     ],
     "stats": {
       "citations": [
-        "15322",
-        "14844"
+        "16711",
+        "16231"
       ],
       "hindex": [
-        "37",
-        "35"
+        "39",
+        "36"
       ],
       "i10index": [
-        "55",
-        "53"
+        "57",
+        "55"
       ]
     },
     "year": "2015"
@@ -856,16 +857,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1120",
-        "836"
+        "1165",
+        "882"
       ],
       "hindex": [
         "13",
         "13"
       ],
       "i10index": [
-        "16",
-        "14"
+        "17",
+        "15"
       ]
     },
     "year": "2012"
@@ -883,11 +884,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19855",
-        "15935"
+        "20490",
+        "16564"
       ],
       "hindex": [
-        "52",
+        "53",
         "43"
       ],
       "i10index": [
@@ -909,16 +910,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7936",
-        "2996"
+        "8072",
+        "3116"
       ],
       "hindex": [
         "45",
-        "29"
+        "30"
       ],
       "i10index": [
         "86",
-        "63"
+        "66"
       ]
     },
     "year": "2000"
@@ -936,8 +937,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6012",
-        "1370"
+        "6085",
+        "1442"
       ],
       "hindex": [
         "41",
@@ -961,16 +962,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2331",
-        "1064"
+        "2393",
+        "1079"
       ],
       "hindex": [
         "27",
         "17"
       ],
       "i10index": [
-        "49",
-        "25"
+        "50",
+        "26"
       ]
     },
     "year": "2002"
@@ -989,16 +990,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21849",
-        "9753"
+        "22304",
+        "10169"
       ],
       "hindex": [
         "54",
         "43"
       ],
       "i10index": [
-        "142",
-        "98"
+        "147",
+        "103"
       ]
     },
     "year": "2006"
@@ -1017,16 +1018,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2577",
-        "2485"
+        "2743",
+        "2651"
       ],
       "hindex": [
         "24",
         "24"
       ],
       "i10index": [
-        "38",
-        "36"
+        "39",
+        "37"
       ]
     },
     "year": "2015"
@@ -1045,12 +1046,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "732",
-        "673"
+        "773",
+        "713"
       ],
       "hindex": [
-        "13",
-        "13"
+        "14",
+        "14"
       ],
       "i10index": [
         "15",
@@ -1072,16 +1073,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "38768",
-        "15316"
+        "39792",
+        "16309"
       ],
       "hindex": [
-        "80",
-        "43"
+        "81",
+        "45"
       ],
       "i10index": [
-        "307",
-        "148"
+        "309",
+        "150"
       ]
     },
     "year": "1983"
@@ -1099,16 +1100,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "26006",
-        "11880"
+        "26647",
+        "12503"
       ],
       "hindex": [
-        "74",
-        "53"
+        "75",
+        "54"
       ],
       "i10index": [
-        "163",
-        "119"
+        "165",
+        "122"
       ]
     },
     "year": "1997"
@@ -1126,16 +1127,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6239",
-        "2905"
+        "6383",
+        "3045"
       ],
       "hindex": [
-        "45",
-        "32"
+        "46",
+        "33"
       ],
       "i10index": [
-        "110",
-        "67"
+        "111",
+        "69"
       ]
     },
     "year": "1995"
@@ -1144,23 +1145,23 @@ var data = [
     "name": "Asli Celikyilmaz",
     "url": "https://scholar.google.com/citations?user=aLHWnHsAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=aLHWnHsAAAAJ&citpid=3",
-    "affiliation": "Researcher @ Facebook AI Research",
+    "affiliation": "Researcher @ FAIR at Meta AI",
     "keywords": [
       "Deep Learning",
       "Natural Language Processing"
     ],
     "stats": {
       "citations": [
-        "5613",
-        "4343"
+        "5932",
+        "4662"
       ],
       "hindex": [
-        "36",
-        "30"
+        "37",
+        "31"
       ],
       "i10index": [
-        "76",
-        "55"
+        "81",
+        "61"
       ]
     },
     "year": "2007"
@@ -1179,16 +1180,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7296",
-        "5621"
+        "7782",
+        "6104"
       ],
       "hindex": [
         "27",
         "19"
       ],
       "i10index": [
-        "32",
-        "27"
+        "36",
+        "31"
       ]
     },
     "year": "2007"
@@ -1204,8 +1205,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10891",
-        "9313"
+        "11409",
+        "9827"
       ],
       "hindex": [
         "35",
@@ -1231,16 +1232,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19240",
-        "12141"
+        "20198",
+        "13087"
       ],
       "hindex": [
-        "42",
-        "38"
+        "43",
+        "40"
       ],
       "i10index": [
-        "76",
-        "71"
+        "81",
+        "76"
       ]
     },
     "year": "2009"
@@ -1257,16 +1258,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "24437",
-        "3503"
+        "24616",
+        "3641"
       ],
       "hindex": [
-        "65",
+        "66",
         "31"
       ],
       "i10index": [
         "125",
-        "65"
+        "66"
       ]
     },
     "year": "1983"
@@ -1282,16 +1283,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17451",
-        "16394"
+        "19590",
+        "18527"
       ],
       "hindex": [
-        "23",
-        "23"
+        "25",
+        "25"
       ],
       "i10index": [
-        "27",
-        "27"
+        "28",
+        "28"
       ]
     },
     "year": "2014"
@@ -1310,8 +1311,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "575",
-        "375"
+        "592",
+        "392"
       ],
       "hindex": [
         "13",
@@ -1335,12 +1336,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1593",
-        "1182"
+        "1697",
+        "1287"
       ],
       "hindex": [
-        "22",
-        "20"
+        "23",
+        "21"
       ],
       "i10index": [
         "36",
@@ -1360,8 +1361,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7989",
-        "2438"
+        "8078",
+        "2519"
       ],
       "hindex": [
         "33",
@@ -1369,7 +1370,7 @@ var data = [
       ],
       "i10index": [
         "65",
-        "39"
+        "40"
       ]
     },
     "year": "2002"
@@ -1385,16 +1386,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "93195",
-        "86978"
+        "97590",
+        "91336"
       ],
       "hindex": [
-        "81",
-        "78"
+        "84",
+        "81"
       ],
       "i10index": [
-        "187",
-        "182"
+        "192",
+        "187"
       ]
     },
     "year": "2015"
@@ -1410,16 +1411,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10820",
-        "2979"
+        "10948",
+        "3102"
       ],
       "hindex": [
-        "44",
-        "26"
+        "45",
+        "27"
       ],
       "i10index": [
         "78",
-        "48"
+        "50"
       ]
     },
     "year": "1987"
@@ -1434,16 +1435,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3468",
-        "3287"
+        "3775",
+        "3594"
       ],
       "hindex": [
         "19",
         "19"
       ],
       "i10index": [
-        "21",
-        "21"
+        "23",
+        "23"
       ]
     },
     "year": "2014"
@@ -1460,16 +1461,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2284",
-        "1624"
+        "2377",
+        "1717"
       ],
       "hindex": [
-        "27",
-        "22"
+        "28",
+        "23"
       ],
       "i10index": [
-        "44",
-        "34"
+        "45",
+        "35"
       ]
     },
     "year": "2009"
@@ -1487,16 +1488,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19430",
-        "15345"
+        "21030",
+        "16939"
       ],
       "hindex": [
-        "65",
-        "60"
+        "66",
+        "61"
       ],
       "i10index": [
-        "130",
-        "129"
+        "143",
+        "142"
       ]
     },
     "year": "2008"
@@ -1515,8 +1516,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "649",
-        "336"
+        "668",
+        "355"
       ],
       "hindex": [
         "13",
@@ -1541,16 +1542,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "26388",
-        "5596"
+        "26667",
+        "5881"
       ],
       "hindex": [
         "67",
         "33"
       ],
       "i10index": [
-        "138",
-        "82"
+        "140",
+        "86"
       ]
     },
     "year": "1990"
@@ -1566,16 +1567,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2049",
-        "1338"
+        "2136",
+        "1425"
       ],
       "hindex": [
         "13",
-        "9"
+        "10"
       ],
       "i10index": [
-        "15",
-        "9"
+        "17",
+        "10"
       ]
     },
     "year": "2007"
@@ -1593,16 +1594,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9470",
-        "4062"
+        "9621",
+        "4202"
       ],
       "hindex": [
         "51",
-        "35"
+        "36"
       ],
       "i10index": [
         "111",
-        "83"
+        "85"
       ]
     },
     "year": "2003"
@@ -1621,16 +1622,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7902",
-        "2987"
+        "8054",
+        "3125"
       ],
       "hindex": [
         "47",
         "30"
       ],
       "i10index": [
-        "98",
-        "59"
+        "99",
+        "60"
       ]
     },
     "year": "2004"
@@ -1649,16 +1650,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "40752",
-        "15381"
+        "41540",
+        "16129"
       ],
       "hindex": [
-        "88",
+        "89",
         "56"
       ],
       "i10index": [
-        "269",
-        "157"
+        "271",
+        "159"
       ]
     },
     "year": "1994"
@@ -1677,16 +1678,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8228",
-        "5675"
+        "8502",
+        "5949"
       ],
       "hindex": [
         "50",
-        "40"
+        "42"
       ],
       "i10index": [
-        "122",
-        "106"
+        "125",
+        "109"
       ]
     },
     "year": "2007"
@@ -1705,16 +1706,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8381",
-        "3894"
+        "8609",
+        "4115"
       ],
       "hindex": [
         "45",
-        "31"
+        "32"
       ],
       "i10index": [
-        "113",
-        "72"
+        "118",
+        "77"
       ]
     },
     "year": "2000"
@@ -1732,12 +1733,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "27029",
-        "7512"
+        "27448",
+        "7907"
       ],
       "hindex": [
         "61",
-        "39"
+        "40"
       ],
       "i10index": [
         "100",
@@ -1758,16 +1759,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3345",
-        "3159"
+        "3658",
+        "3477"
       ],
       "hindex": [
-        "34",
-        "32"
+        "35",
+        "33"
       ],
       "i10index": [
-        "68",
-        "66"
+        "74",
+        "72"
       ]
     },
     "year": "2014"
@@ -1786,12 +1787,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11849",
-        "2207"
+        "11921",
+        "2263"
       ],
       "hindex": [
         "47",
-        "20"
+        "21"
       ],
       "i10index": [
         "117",
@@ -1810,16 +1811,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8117",
-        "2524"
+        "8222",
+        "2617"
       ],
       "hindex": [
         "41",
-        "24"
+        "25"
       ],
       "i10index": [
         "91",
-        "45"
+        "46"
       ]
     },
     "year": "2003"
@@ -1836,16 +1837,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15774",
-        "5625"
+        "16047",
+        "5872"
       ],
       "hindex": [
         "63",
-        "39"
+        "40"
       ],
       "i10index": [
-        "226",
-        "118"
+        "228",
+        "120"
       ]
     },
     "year": "1994"
@@ -1861,16 +1862,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18571",
-        "7680"
+        "19011",
+        "8104"
       ],
       "hindex": [
         "59",
-        "36"
+        "37"
       ],
       "i10index": [
-        "156",
-        "95"
+        "157",
+        "98"
       ]
     },
     "year": "1994"
@@ -1886,16 +1887,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19110",
-        "11781"
+        "19735",
+        "12405"
       ],
       "hindex": [
-        "63",
-        "52"
+        "65",
+        "53"
       ],
       "i10index": [
-        "162",
-        "120"
+        "165",
+        "125"
       ]
     },
     "year": "2006"
@@ -1904,23 +1905,23 @@ var data = [
     "name": "Dipanjan Das",
     "url": "https://scholar.google.com/citations?user=Xlv5PDYAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Xlv5PDYAAAAJ&citpid=2",
-    "affiliation": "Senior Staff Research Scientist, Google Research",
+    "affiliation": "Principal Scientist, Google Research",
     "keywords": [
       "Natural Language Processing",
       "Machine Learning"
     ],
     "stats": {
       "citations": [
-        "9687",
-        "6348"
+        "10146",
+        "6795"
       ],
       "hindex": [
-        "36",
-        "30"
+        "38",
+        "31"
       ],
       "i10index": [
-        "50",
-        "42"
+        "53",
+        "45"
       ]
     },
     "year": "2009"
@@ -1938,16 +1939,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2854",
-        "1407"
+        "2940",
+        "1491"
       ],
       "hindex": [
-        "25",
+        "27",
         "19"
       ],
       "i10index": [
-        "45",
-        "37"
+        "46",
+        "38"
       ]
     },
     "year": "2008"
@@ -1963,8 +1964,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1440",
-        "1433"
+        "1575",
+        "1568"
       ],
       "hindex": [
         "5",
@@ -1991,16 +1992,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11935",
-        "7043"
+        "12324",
+        "7426"
       ],
       "hindex": [
         "51",
         "35"
       ],
       "i10index": [
-        "139",
-        "101"
+        "141",
+        "102"
       ]
     },
     "year": "2003"
@@ -2018,16 +2019,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2237",
-        "1506"
+        "2344",
+        "1612"
       ],
       "hindex": [
-        "26",
-        "20"
+        "27",
+        "21"
       ],
       "i10index": [
-        "45",
-        "36"
+        "47",
+        "39"
       ]
     },
     "year": "2007"
@@ -2042,19 +2043,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6975",
-        "6480"
+        "7665",
+        "7169"
       ],
       "hindex": [
-        "30",
-        "30"
+        "31",
+        "31"
       ],
       "i10index": [
-        "44",
-        "43"
+        "46",
+        "45"
       ]
     },
-    "year": "2013"
+    "year": "2014"
   },
   {
     "name": "Bonnie Dorr",
@@ -2068,15 +2069,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11334",
-        "3257"
+        "11484",
+        "3389"
       ],
       "hindex": [
         "49",
         "24"
       ],
       "i10index": [
-        "139",
+        "140",
         "47"
       ]
     },
@@ -2094,16 +2095,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7223",
-        "3138"
+        "7545",
+        "3457"
       ],
       "hindex": [
         "29",
         "23"
       ],
       "i10index": [
-        "44",
-        "38"
+        "45",
+        "39"
       ]
     },
     "year": "2004"
@@ -2121,16 +2122,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "20599",
-        "13701"
+        "21301",
+        "14401"
       ],
       "hindex": [
-        "66",
-        "56"
+        "67",
+        "58"
       ],
       "i10index": [
-        "184",
-        "165"
+        "186",
+        "167"
       ]
     },
     "year": "2008"
@@ -2146,16 +2147,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5510",
-        "3940"
+        "5728",
+        "4157"
       ],
       "hindex": [
-        "40",
+        "42",
         "32"
       ],
       "i10index": [
-        "101",
-        "76"
+        "105",
+        "80"
       ]
     },
     "year": "2006"
@@ -2170,16 +2171,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2361",
-        "1975"
+        "2627",
+        "2242"
       ],
       "hindex": [
-        "25",
-        "23"
+        "27",
+        "25"
       ],
       "i10index": [
-        "38",
-        "37"
+        "43",
+        "43"
       ]
     },
     "year": "2011"
@@ -2195,16 +2196,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "36092",
-        "26743"
+        "37167",
+        "27813"
       ],
       "hindex": [
         "76",
-        "66"
+        "67"
       ],
       "i10index": [
-        "172",
-        "145"
+        "176",
+        "149"
       ]
     },
     "year": "2008"
@@ -2221,12 +2222,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17922",
-        "6095"
+        "18204",
+        "6376"
       ],
       "hindex": [
-        "55",
-        "34"
+        "56",
+        "35"
       ],
       "i10index": [
         "118",
@@ -2248,8 +2249,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1586",
-        "876"
+        "1628",
+        "913"
       ],
       "hindex": [
         "19",
@@ -2274,16 +2275,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "42956",
-        "13010"
+        "43552",
+        "13573"
       ],
       "hindex": [
         "96",
-        "49"
+        "50"
       ],
       "i10index": [
-        "192",
-        "124"
+        "194",
+        "127"
       ]
     },
     "year": "1992"
@@ -2291,7 +2292,7 @@ var data = [
   {
     "name": "Heshaam Faili",
     "url": "https://scholar.google.com/citations?user=m5tCFEoAAAAJ",
-    "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=m5tCFEoAAAAJ&citpid=1",
     "affiliation": "Full Professor, University of Tehran",
     "keywords": [
       "Natural Language Processing",
@@ -2299,12 +2300,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1036",
-        "653"
+        "1058",
+        "674"
       ],
       "hindex": [
         "17",
-        "12"
+        "13"
       ],
       "i10index": [
         "37",
@@ -2323,16 +2324,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4417",
-        "3749"
+        "4543",
+        "3878"
       ],
       "hindex": [
         "26",
-        "24"
+        "25"
       ],
       "i10index": [
-        "34",
-        "31"
+        "35",
+        "32"
       ]
     },
     "year": "2012"
@@ -2340,8 +2341,8 @@ var data = [
   {
     "name": "Marcelo Fiszman",
     "url": "https://scholar.google.com/citations?user=lN2Or8cAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=lN2Or8cAAAAJ&citpid=3",
-    "affiliation": "Reserach Scientist, National Library of Medicine",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=lN2Or8cAAAAJ&citpid=6",
+    "affiliation": "Scientist, NLM, National Institutes of Health",
     "keywords": [
       "Biomedical Informatics",
       "Artificial Intelligence",
@@ -2350,16 +2351,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3813",
-        "1622"
+        "3888",
+        "1692"
       ],
       "hindex": [
-        "31",
+        "32",
         "23"
       ],
       "i10index": [
-        "59",
-        "36"
+        "60",
+        "37"
       ]
     },
     "year": "2000"
@@ -2377,15 +2378,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1599",
-        "546"
+        "1630",
+        "573"
       ],
       "hindex": [
         "19",
         "11"
       ],
       "i10index": [
-        "31",
+        "32",
         "15"
       ]
     },
@@ -2402,16 +2403,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2038",
-        "331"
+        "2050",
+        "342"
       ],
       "hindex": [
         "22",
         "8"
       ],
       "i10index": [
-        "37",
-        "7"
+        "38",
+        "8"
       ]
     },
     "year": "1992"
@@ -2429,16 +2430,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9165",
-        "4447"
+        "9556",
+        "4836"
       ],
       "hindex": [
-        "50",
-        "35"
+        "51",
+        "36"
       ],
       "i10index": [
-        "172",
-        "101"
+        "180",
+        "110"
       ]
     },
     "year": "1993"
@@ -2456,8 +2457,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1310",
-        "831"
+        "1341",
+        "862"
       ],
       "hindex": [
         "16",
@@ -2482,16 +2483,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7488",
-        "7013"
+        "8255",
+        "7779"
       ],
       "hindex": [
-        "40",
-        "39"
+        "42",
+        "41"
       ],
       "i10index": [
-        "83",
-        "77"
+        "87",
+        "81"
       ]
     },
     "year": "2011"
@@ -2507,16 +2508,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12678",
-        "3037"
+        "12794",
+        "3138"
       ],
       "hindex": [
         "54",
         "28"
       ],
       "i10index": [
-        "181",
-        "69"
+        "180",
+        "72"
       ]
     },
     "year": "1996"
@@ -2533,16 +2534,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "469",
-        "362"
+        "516",
+        "408"
       ],
       "hindex": [
-        "11",
-        "9"
+        "13",
+        "10"
       ],
       "i10index": [
-        "14",
-        "9"
+        "16",
+        "12"
       ]
     },
     "year": "2010"
@@ -2560,19 +2561,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "41948",
-        "33761"
+        "44504",
+        "36297"
       ],
       "hindex": [
-        "89",
-        "73"
+        "90",
+        "75"
       ],
       "i10index": [
-        "308",
-        "241"
+        "313",
+        "246"
       ]
     },
-    "year": "2004"
+    "year": "2005"
   },
   {
     "name": "Wei Gao",
@@ -2587,16 +2588,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3779",
-        "2965"
+        "4008",
+        "3195"
       ],
       "hindex": [
         "28",
-        "21"
+        "22"
       ],
       "i10index": [
-        "58",
-        "38"
+        "59",
+        "40"
       ]
     },
     "year": "2006"
@@ -2613,16 +2614,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15254",
-        "14858"
+        "16318",
+        "15915"
       ],
       "hindex": [
-        "30",
-        "30"
+        "32",
+        "32"
       ],
       "i10index": [
-        "51",
-        "49"
+        "53",
+        "51"
       ]
     },
     "year": "2015"
@@ -2639,19 +2640,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1918",
-        "1910"
+        "2143",
+        "2136"
       ],
       "hindex": [
-        "17",
-        "17"
+        "18",
+        "18"
       ],
       "i10index": [
-        "21",
-        "20"
+        "24",
+        "23"
       ]
     },
-    "year": "2016"
+    "year": "2017"
   },
   {
     "name": "Daniel Gildea",
@@ -2663,8 +2664,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11927",
-        "3879"
+        "12116",
+        "4045"
       ],
       "hindex": [
         "43",
@@ -2688,16 +2689,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13001",
-        "10744"
+        "13880",
+        "11621"
       ],
       "hindex": [
-        "37",
-        "33"
+        "38",
+        "34"
       ],
       "i10index": [
-        "71",
-        "60"
+        "73",
+        "62"
       ]
     },
     "year": "2010"
@@ -2716,16 +2717,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5505",
-        "2090"
+        "5647",
+        "2221"
       ],
       "hindex": [
         "30",
         "22"
       ],
       "i10index": [
-        "93",
-        "46"
+        "94",
+        "49"
       ]
     },
     "year": "1985"
@@ -2742,16 +2743,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21202",
-        "18224"
+        "22168",
+        "19195"
       ],
       "hindex": [
-        "56",
-        "49"
+        "57",
+        "50"
       ],
       "i10index": [
-        "119",
-        "103"
+        "125",
+        "110"
       ]
     },
     "year": "2010"
@@ -2767,16 +2768,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2112",
-        "1341"
+        "2188",
+        "1420"
       ],
       "hindex": [
-        "23",
+        "24",
         "19"
       ],
       "i10index": [
-        "38",
-        "30"
+        "40",
+        "32"
       ]
     },
     "year": "2008"
@@ -2793,16 +2794,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7231",
-        "3234"
+        "7357",
+        "3353"
       ],
       "hindex": [
         "42",
         "32"
       ],
       "i10index": [
-        "79",
-        "63"
+        "80",
+        "64"
       ]
     },
     "year": "2004"
@@ -2811,26 +2812,25 @@ var data = [
     "name": "Edward Grefenstette",
     "url": "https://scholar.google.com/citations?user=ezllEwMAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ezllEwMAAAAJ&citpid=3",
-    "affiliation": "Research Scientist and Area Lead, Facebook AI Research; Honorary Professor, UCL",
+    "affiliation": "Head of Machine Learning, Cohere; Honorary Professor, UCL",
     "keywords": [
       "Machine Learning",
       "Deep Learning",
-      "Computational Linguistics",
-      "Artificial Intelligence",
-      "Category Theory"
+      "Natural Language Processing",
+      "Artificial Intelligence"
     ],
     "stats": {
       "citations": [
-        "12783",
-        "11040"
+        "13265",
+        "11517"
       ],
       "hindex": [
-        "35",
-        "31"
+        "36",
+        "33"
       ],
       "i10index": [
         "49",
-        "44"
+        "45"
       ]
     },
     "year": "2012"
@@ -2845,16 +2845,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21054",
-        "6132"
+        "21352",
+        "6415"
       ],
       "hindex": [
-        "64",
-        "35"
+        "65",
+        "36"
       ],
       "i10index": [
         "207",
-        "84"
+        "85"
       ]
     },
     "year": "1985"
@@ -2870,19 +2870,45 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1924",
-        "1159"
+        "2003",
+        "1238"
       ],
       "hindex": [
-        "24",
-        "18"
+        "25",
+        "19"
       ],
       "i10index": [
-        "51",
-        "39"
+        "53",
+        "43"
       ]
     },
     "year": "2008"
+  },
+  {
+    "name": "Yuhong Guo",
+    "url": "https://scholar.google.com/citations?user=Q7VKnRYAAAAJ",
+    "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
+    "affiliation": "Professor,  Carleton University",
+    "keywords": [
+      "Machine Learning",
+      "Natural Language Processing",
+      "Computer Vision"
+    ],
+    "stats": {
+      "citations": [
+        "5319",
+        "3782"
+      ],
+      "hindex": [
+        "34",
+        "29"
+      ],
+      "i10index": [
+        "64",
+        "51"
+      ]
+    },
+    "year": "2007"
   },
   {
     "name": "Iryna Gurevych",
@@ -2896,16 +2922,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18728",
-        "13353"
+        "20011",
+        "14623"
       ],
       "hindex": [
-        "66",
-        "54"
+        "68",
+        "56"
       ],
       "i10index": [
-        "250",
-        "193"
+        "259",
+        "201"
       ]
     },
     "year": "2006"
@@ -2923,16 +2949,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12783",
-        "6840"
+        "13067",
+        "7120"
       ],
       "hindex": [
-        "56",
+        "58",
         "42"
       ],
       "i10index": [
-        "198",
-        "138"
+        "201",
+        "142"
       ]
     },
     "year": "2002"
@@ -2949,15 +2975,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3962",
-        "647"
+        "3976",
+        "657"
       ],
       "hindex": [
         "28",
         "13"
       ],
       "i10index": [
-        "39",
+        "40",
         "18"
       ]
     },
@@ -2976,16 +3002,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13656",
-        "11597"
+        "14327",
+        "12258"
       ],
       "hindex": [
-        "33",
-        "26"
+        "35",
+        "27"
       ],
       "i10index": [
-        "63",
-        "42"
+        "65",
+        "45"
       ]
     },
     "year": "2008"
@@ -3004,16 +3030,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11703",
-        "5241"
+        "11939",
+        "5462"
       ],
       "hindex": [
         "47",
-        "30"
+        "31"
       ],
       "i10index": [
-        "117",
-        "66"
+        "118",
+        "67"
       ]
     },
     "year": "2000"
@@ -3032,8 +3058,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5723",
-        "1011"
+        "5758",
+        "1036"
       ],
       "hindex": [
         "32",
@@ -3058,25 +3084,25 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14776",
-        "14649"
+        "16153",
+        "16029"
       ],
       "hindex": [
-        "28",
-        "27"
+        "31",
+        "29"
       ],
       "i10index": [
-        "41",
-        "41"
+        "42",
+        "42"
       ]
     },
-    "year": "2016"
+    "year": "2017"
   },
   {
     "name": "Sadid A. Hasan",
     "url": "https://scholar.google.com/citations?user=AQKGDZYAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=AQKGDZYAAAAJ&citpid=4",
-    "affiliation": "Executive Director of AI at CVS Health",
+    "affiliation": "AI Lead at Microsoft",
     "keywords": [
       "Computational Linguistics",
       "Natural Language Processing",
@@ -3086,16 +3112,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2021",
-        "1771"
+        "2102",
+        "1852"
       ],
       "hindex": [
         "26",
         "23"
       ],
       "i10index": [
-        "37",
-        "34"
+        "38",
+        "35"
       ]
     },
     "year": "2011"
@@ -3112,16 +3138,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14994",
-        "7357"
+        "13213",
+        "7230"
       ],
       "hindex": [
-        "50",
-        "31"
+        "46",
+        "32"
       ],
       "i10index": [
-        "254",
-        "117"
+        "236",
+        "112"
       ]
     },
     "year": "1996"
@@ -3138,19 +3164,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1195",
-        "1126"
+        "1260",
+        "1191"
       ],
       "hindex": [
-        "15",
+        "16",
         "14"
       ],
       "i10index": [
-        "20",
-        "19"
+        "21",
+        "20"
       ]
     },
-    "year": "2012"
+    "year": "2014"
   },
   {
     "name": "He He",
@@ -3163,8 +3189,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2831",
-        "2509"
+        "3058",
+        "2737"
       ],
       "hindex": [
         "20",
@@ -3190,16 +3216,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9872",
-        "6441"
+        "10194",
+        "6753"
       ],
       "hindex": [
         "45",
-        "37"
+        "38"
       ],
       "i10index": [
-        "124",
-        "95"
+        "128",
+        "101"
       ]
     },
     "year": "2005"
@@ -3218,19 +3244,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "33591",
-        "29382"
+        "35040",
+        "30810"
       ],
       "hindex": [
-        "64",
-        "57"
+        "65",
+        "58"
       ],
       "i10index": [
-        "159",
-        "126"
+        "161",
+        "128"
       ]
     },
-    "year": "2009"
+    "year": "2010"
   },
   {
     "name": "Marti A. Hearst",
@@ -3245,16 +3271,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "36794",
-        "9317"
+        "37216",
+        "9699"
       ],
       "hindex": [
         "73",
-        "36"
+        "38"
       ],
       "i10index": [
-        "165",
-        "93"
+        "167",
+        "97"
       ]
     },
     "year": "1995"
@@ -3271,19 +3297,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "24369",
-        "8460"
+        "24785",
+        "8848"
       ],
       "hindex": [
-        "76",
+        "77",
         "39"
       ],
       "i10index": [
-        "228",
-        "135"
+        "229",
+        "137"
       ]
     },
-    "year": "1991"
+    "year": "1992"
   },
   {
     "name": "Graeme Hirst",
@@ -3297,15 +3323,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16182",
-        "4445"
+        "16356",
+        "4602"
       ],
       "hindex": [
         "57",
-        "32"
+        "33"
       ],
       "i10index": [
-        "158",
+        "159",
         "90"
       ]
     },
@@ -3322,8 +3348,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8475",
-        "7332"
+        "8748",
+        "7608"
       ],
       "hindex": [
         "24",
@@ -3348,16 +3374,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8815",
-        "5293"
+        "9094",
+        "5551"
       ],
       "hindex": [
         "32",
         "21"
       ],
       "i10index": [
-        "51",
-        "30"
+        "52",
+        "32"
       ]
     },
     "year": "2002"
@@ -3375,16 +3401,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "53915",
-        "28656"
+        "55686",
+        "30365"
       ],
       "hindex": [
-        "95",
-        "63"
+        "96",
+        "64"
       ],
       "i10index": [
-        "339",
-        "205"
+        "348",
+        "217"
       ]
     },
     "year": "1992"
@@ -3400,16 +3426,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4764",
-        "3949"
+        "5014",
+        "4195"
       ],
       "hindex": [
-        "26",
-        "24"
+        "28",
+        "26"
       ],
       "i10index": [
-        "37",
-        "33"
+        "38",
+        "34"
       ]
     },
     "year": "2012"
@@ -3425,19 +3451,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10567",
-        "8775"
+        "11332",
+        "9539"
       ],
       "hindex": [
-        "50",
-        "45"
+        "51",
+        "47"
       ],
       "i10index": [
-        "159",
-        "127"
+        "167",
+        "135"
       ]
     },
-    "year": "2005"
+    "year": "2006"
   },
   {
     "name": "Rebecca Hwa",
@@ -3449,16 +3475,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3311",
-        "891"
+        "3367",
+        "943"
       ],
       "hindex": [
         "28",
-        "16"
+        "17"
       ],
       "i10index": [
         "45",
-        "26"
+        "27"
       ]
     },
     "year": "2000"
@@ -3476,16 +3502,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "980",
-        "712"
+        "1067",
+        "800"
       ],
       "hindex": [
-        "17",
-        "16"
+        "18",
+        "17"
       ],
       "i10index": [
-        "27",
-        "21"
+        "30",
+        "24"
       ]
     },
     "year": "2008"
@@ -3501,8 +3527,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "787",
-        "727"
+        "800",
+        "740"
       ],
       "hindex": [
         "7",
@@ -3525,16 +3551,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8384",
-        "1624"
+        "8439",
+        "1673"
       ],
       "hindex": [
-        "45",
+        "46",
         "22"
       ],
       "i10index": [
-        "113",
-        "40"
+        "114",
+        "41"
       ]
     },
     "year": "1992"
@@ -3551,16 +3577,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7593",
-        "4540"
+        "7845",
+        "4786"
       ],
       "hindex": [
-        "39",
+        "40",
         "30"
       ],
       "i10index": [
-        "108",
-        "69"
+        "110",
+        "72"
       ]
     },
     "year": "2006"
@@ -3577,16 +3603,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14581",
-        "14084"
+        "15497",
+        "14995"
       ],
       "hindex": [
-        "25",
-        "25"
+        "26",
+        "26"
       ],
       "i10index": [
-        "32",
-        "32"
+        "33",
+        "33"
       ]
     },
     "year": "2015"
@@ -3594,23 +3620,23 @@ var data = [
   {
     "name": "Heng Ji",
     "url": "https://scholar.google.com/citations?user=z7GCqT4AAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=z7GCqT4AAAAJ&citpid=28",
-    "affiliation": "Professor of Computer Science, University of Illinois at Urbana-Champaign, Amazon Scholar",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=z7GCqT4AAAAJ&citpid=29",
+    "affiliation": "Professor of Computer Science, University of Illinois Urbana-Champaign, Amazon Scholar",
     "keywords": [
       "Natural Language Processing"
     ],
     "stats": {
       "citations": [
-        "10913",
-        "7733"
+        "11467",
+        "8288"
       ],
       "hindex": [
-        "55",
-        "46"
+        "56",
+        "47"
       ],
       "i10index": [
-        "193",
-        "152"
+        "200",
+        "161"
       ]
     },
     "year": "2007"
@@ -3625,16 +3651,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3802",
-        "3777"
+        "4182",
+        "4156"
       ],
       "hindex": [
-        "14",
-        "14"
-      ],
-      "i10index": [
         "15",
         "15"
+      ],
+      "i10index": [
+        "18",
+        "18"
       ]
     },
     "year": "2016"
@@ -3652,16 +3678,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8759",
-        "5816"
+        "9003",
+        "6057"
       ],
       "hindex": [
-        "37",
+        "38",
         "27"
       ],
       "i10index": [
-        "91",
-        "49"
+        "93",
+        "51"
       ]
     },
     "year": "2001"
@@ -3678,16 +3704,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14731",
-        "7997"
+        "15130",
+        "8387"
       ],
       "hindex": [
-        "46",
-        "35"
+        "47",
+        "36"
       ],
       "i10index": [
-        "91",
-        "76"
+        "93",
+        "81"
       ]
     },
     "year": "2005"
@@ -3704,12 +3730,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3207",
-        "3031"
+        "3329",
+        "3153"
       ],
       "hindex": [
         "26",
-        "23"
+        "24"
       ],
       "i10index": [
         "35",
@@ -3731,16 +3757,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3664",
-        "2763"
+        "3810",
+        "2902"
       ],
       "hindex": [
         "30",
         "27"
       ],
       "i10index": [
-        "44",
-        "38"
+        "47",
+        "41"
       ]
     },
     "year": "2011"
@@ -3757,8 +3783,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14616",
-        "2951"
+        "14739",
+        "3055"
       ],
       "hindex": [
         "39",
@@ -3782,8 +3808,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3228",
-        "1150"
+        "3283",
+        "1200"
       ],
       "hindex": [
         "28",
@@ -3791,7 +3817,7 @@ var data = [
       ],
       "i10index": [
         "70",
-        "25"
+        "26"
       ]
     },
     "year": "2002"
@@ -3808,16 +3834,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "26876",
-        "20294"
+        "27909",
+        "21318"
       ],
       "hindex": [
-        "60",
+        "61",
         "46"
       ],
       "i10index": [
-        "173",
-        "113"
+        "176",
+        "116"
       ]
     },
     "year": "2000"
@@ -3836,16 +3862,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2620",
-        "1251"
+        "2680",
+        "1307"
       ],
       "hindex": [
-        "26",
-        "20"
+        "27",
+        "21"
       ],
       "i10index": [
-        "52",
-        "38"
+        "53",
+        "39"
       ]
     },
     "year": "2005"
@@ -3862,16 +3888,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19565",
-        "18489"
+        "20363",
+        "19273"
       ],
       "hindex": [
         "18",
         "17"
       ],
       "i10index": [
-        "19",
-        "19"
+        "20",
+        "20"
       ]
     },
     "year": "2015"
@@ -3887,16 +3913,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5722",
-        "2007"
+        "5818",
+        "2099"
       ],
       "hindex": [
         "45",
         "25"
       ],
       "i10index": [
-        "90",
-        "56"
+        "93",
+        "58"
       ]
     },
     "year": "1998"
@@ -3915,16 +3941,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7624",
-        "5824"
+        "7898",
+        "6091"
       ],
       "hindex": [
         "33",
         "30"
       ],
       "i10index": [
-        "42",
-        "39"
+        "43",
+        "40"
       ]
     },
     "year": "2005"
@@ -3937,16 +3963,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "30649",
-        "11624"
+        "31158",
+        "12114"
       ],
       "hindex": [
-        "76",
-        "49"
+        "77",
+        "50"
       ],
       "i10index": [
-        "174",
-        "129"
+        "173",
+        "130"
       ]
     },
     "year": "1998"
@@ -3961,16 +3987,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "25492",
-        "8372"
+        "26168",
+        "8907"
       ],
       "hindex": [
-        "81",
-        "47"
+        "83",
+        "48"
       ],
       "i10index": [
-        "206",
-        "141"
+        "210",
+        "146"
       ]
     },
     "year": "1993"
@@ -3986,16 +4012,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "39327",
-        "17089"
+        "40171",
+        "17873"
       ],
       "hindex": [
-        "65",
+        "66",
         "49"
       ],
       "i10index": [
-        "180",
-        "126"
+        "182",
+        "129"
       ]
     },
     "year": "2004"
@@ -4011,16 +4037,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4213",
-        "1468"
+        "4277",
+        "1525"
       ],
       "hindex": [
         "33",
         "20"
       ],
       "i10index": [
-        "59",
-        "40"
+        "60",
+        "43"
       ]
     },
     "year": "1996"
@@ -4038,19 +4064,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9272",
-        "6052"
+        "9544",
+        "6317"
       ],
       "hindex": [
-        "46",
-        "36"
+        "47",
+        "37"
       ],
       "i10index": [
-        "134",
-        "92"
+        "137",
+        "96"
       ]
     },
-    "year": "2002"
+    "year": "2003"
   },
   {
     "name": "Leila Kosseim",
@@ -4064,16 +4090,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1540",
-        "534"
+        "1562",
+        "554"
       ],
       "hindex": [
-        "20",
+        "21",
         "12"
       ],
       "i10index": [
-        "40",
-        "17"
+        "41",
+        "19"
       ]
     },
     "year": "1995"
@@ -4092,16 +4118,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10488",
-        "5313"
+        "10806",
+        "5619"
       ],
       "hindex": [
-        "49",
+        "50",
         "35"
       ],
       "i10index": [
-        "198",
-        "113"
+        "203",
+        "121"
       ]
     },
     "year": "1998"
@@ -4116,16 +4142,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6276",
-        "2317"
+        "6398",
+        "2432"
       ],
       "hindex": [
         "38",
-        "23"
+        "24"
       ],
       "i10index": [
-        "136",
-        "55"
+        "137",
+        "58"
       ]
     },
     "year": "1996"
@@ -4143,16 +4169,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19763",
-        "9199"
+        "20291",
+        "9688"
       ],
       "hindex": [
         "65",
-        "37"
+        "38"
       ],
       "i10index": [
-        "172",
-        "103"
+        "174",
+        "104"
       ]
     },
     "year": "1991"
@@ -4171,16 +4197,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "58220",
-        "28401"
+        "59680",
+        "29815"
       ],
       "hindex": [
-        "104",
-        "75"
+        "107",
+        "77"
       ],
       "i10index": [
-        "257",
-        "201"
+        "259",
+        "205"
       ]
     },
     "year": "2001"
@@ -4197,8 +4223,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9337",
-        "4532"
+        "9560",
+        "4739"
       ],
       "hindex": [
         "38",
@@ -4225,16 +4251,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "23090",
-        "13794"
+        "23889",
+        "14579"
       ],
       "hindex": [
-        "82",
-        "60"
+        "84",
+        "61"
       ],
       "i10index": [
-        "177",
-        "156"
+        "182",
+        "161"
       ]
     },
     "year": "2003"
@@ -4251,16 +4277,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2730",
-        "1070"
+        "2801",
+        "1137"
       ],
       "hindex": [
         "29",
-        "16"
+        "17"
       ],
       "i10index": [
-        "55",
-        "25"
+        "57",
+        "26"
       ]
     },
     "year": "1995"
@@ -4276,16 +4302,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12292",
-        "5839"
+        "12710",
+        "6244"
       ],
       "hindex": [
         "45",
-        "22"
+        "23"
       ],
       "i10index": [
-        "124",
-        "37"
+        "126",
+        "40"
       ]
     },
     "year": "1995"
@@ -4304,19 +4330,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2145",
-        "1982"
+        "2496",
+        "2333"
       ],
       "hindex": [
-        "20",
-        "18"
+        "23",
+        "20"
       ],
       "i10index": [
-        "37",
-        "30"
+        "41",
+        "34"
       ]
     },
-    "year": "2012"
+    "year": "2013"
   },
   {
     "name": "Gary Geunbae Lee",
@@ -4328,12 +4354,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4331",
-        "1775"
+        "4378",
+        "1826"
       ],
       "hindex": [
-        "31",
-        "20"
+        "32",
+        "21"
       ],
       "i10index": [
         "108",
@@ -4353,19 +4379,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "42568",
-        "42089"
+        "57595",
+        "57002"
       ],
       "hindex": [
         "29",
         "28"
       ],
       "i10index": [
-        "33",
-        "33"
+        "35",
+        "35"
       ]
     },
-    "year": "2016"
+    "year": "2017"
   },
   {
     "name": "Lillian Lee",
@@ -4380,16 +4406,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "40116",
-        "16731"
+        "40729",
+        "17280"
       ],
       "hindex": [
         "40",
-        "29"
+        "30"
       ],
       "i10index": [
-        "53",
-        "45"
+        "54",
+        "46"
       ]
     },
     "year": "2001"
@@ -4406,16 +4432,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3344",
-        "780"
+        "3385",
+        "818"
       ],
       "hindex": [
         "35",
         "13"
       ],
       "i10index": [
-        "85",
-        "20"
+        "86",
+        "21"
       ]
     },
     "year": "1989"
@@ -4432,16 +4458,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "26189",
-        "24706"
+        "29127",
+        "27642"
       ],
       "hindex": [
         "39",
         "37"
       ],
       "i10index": [
-        "48",
-        "47"
+        "50",
+        "49"
       ]
     },
     "year": "2015"
@@ -4458,16 +4484,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13915",
-        "13649"
+        "16119",
+        "15855"
       ],
       "hindex": [
-        "29",
-        "27"
+        "31",
+        "29"
       ],
       "i10index": [
-        "43",
-        "41"
+        "48",
+        "46"
       ]
     },
     "year": "2014"
@@ -4486,16 +4512,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "20376",
-        "11696"
+        "21006",
+        "12307"
       ],
       "hindex": [
-        "62",
-        "48"
+        "63",
+        "50"
       ],
       "i10index": [
-        "415",
-        "260"
+        "424",
+        "268"
       ]
     },
     "year": "2006"
@@ -4513,16 +4539,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "24360",
-        "13894"
+        "24940",
+        "14464"
       ],
       "hindex": [
         "72",
-        "47"
+        "49"
       ],
       "i10index": [
-        "191",
-        "128"
+        "192",
+        "131"
       ]
     },
     "year": "2002"
@@ -4541,16 +4567,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8895",
-        "6386"
+        "9327",
+        "6811"
       ],
       "hindex": [
         "44",
         "35"
       ],
       "i10index": [
-        "154",
-        "93"
+        "157",
+        "96"
       ]
     },
     "year": "2006"
@@ -4568,16 +4594,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16132",
-        "3914"
+        "16359",
+        "4095"
       ],
       "hindex": [
         "49",
-        "28"
+        "29"
       ],
       "i10index": [
-        "122",
-        "72"
+        "125",
+        "73"
       ]
     },
     "year": "1983"
@@ -4596,16 +4622,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "22626",
-        "11301"
+        "22923",
+        "11799"
       ],
       "hindex": [
-        "56",
-        "36"
+        "54",
+        "37"
       ],
       "i10index": [
-        "137",
-        "97"
+        "132",
+        "94"
       ]
     },
     "year": "2001"
@@ -4620,11 +4646,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18552",
-        "3442"
+        "18667",
+        "3542"
       ],
       "hindex": [
-        "42",
+        "43",
         "24"
       ],
       "i10index": [
@@ -4647,16 +4673,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "22641",
-        "11635"
+        "23553",
+        "12517"
       ],
       "hindex": [
-        "81",
-        "53"
+        "82",
+        "55"
       ],
       "i10index": [
-        "280",
-        "208"
+        "287",
+        "215"
       ]
     },
     "year": "2002"
@@ -4674,16 +4700,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2993",
-        "1822"
+        "3069",
+        "1893"
       ],
       "hindex": [
         "30",
-        "23"
+        "24"
       ],
       "i10index": [
-        "66",
-        "45"
+        "68",
+        "47"
       ]
     },
     "year": "2001"
@@ -4701,16 +4727,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13909",
-        "3282"
+        "14059",
+        "3426"
       ],
       "hindex": [
         "60",
         "30"
       ],
       "i10index": [
-        "189",
-        "92"
+        "191",
+        "96"
       ]
     },
     "year": "1989"
@@ -4729,16 +4755,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "80698",
-        "40054"
+        "82651",
+        "41913"
       ],
       "hindex": [
-        "104",
-        "75"
+        "105",
+        "78"
       ],
       "i10index": [
-        "276",
-        "210"
+        "283",
+        "219"
       ]
     },
     "year": "2001"
@@ -4755,19 +4781,45 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1060",
-        "1051"
+        "1097",
+        "1088"
       ],
       "hindex": [
         "13",
         "13"
       ],
       "i10index": [
-        "16",
-        "15"
+        "17",
+        "16"
       ]
     },
     "year": "2016"
+  },
+  {
+    "name": "Kang Liu",
+    "url": "https://scholar.google.com/citations?user=DtZCfl0AAAAJ",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DtZCfl0AAAAJ&citpid=7",
+    "affiliation": "Institute of Automation, Chinese Academy of Sciences",
+    "keywords": [
+      "natural language processing",
+      "information extraction",
+      "artificial intelligence"
+    ],
+    "stats": {
+      "citations": [
+        "12911",
+        "11491"
+      ],
+      "hindex": [
+        "45",
+        "41"
+      ],
+      "i10index": [
+        "87",
+        "76"
+      ]
+    },
+    "year": "2011"
   },
   {
     "name": "Liu Ting",
@@ -4783,19 +4835,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21528",
-        "14631"
+        "22202",
+        "15283"
       ],
       "hindex": [
-        "65",
-        "52"
+        "68",
+        "53"
       ],
       "i10index": [
-        "306",
-        "182"
+        "308",
+        "185"
       ]
     },
-    "year": "2004"
+    "year": "2005"
   },
   {
     "name": "Xiaodong Liu",
@@ -4808,12 +4860,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6473",
-        "6382"
+        "7190",
+        "7099"
       ],
       "hindex": [
-        "29",
-        "29"
+        "31",
+        "30"
       ],
       "i10index": [
         "43",
@@ -4835,16 +4887,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "20957",
-        "19400"
+        "22556",
+        "20993"
       ],
       "hindex": [
-        "62",
-        "60"
+        "63",
+        "62"
       ],
       "i10index": [
-        "184",
-        "168"
+        "194",
+        "178"
       ]
     },
     "year": "2011"
@@ -4859,16 +4911,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2791",
-        "1334"
+        "2861",
+        "1401"
       ],
       "hindex": [
         "27",
-        "17"
+        "18"
       ],
       "i10index": [
-        "45",
-        "30"
+        "47",
+        "32"
       ]
     },
     "year": "2003"
@@ -4887,11 +4939,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12391",
-        "7487"
+        "12806",
+        "7906"
       ],
       "hindex": [
-        "38",
+        "39",
         "34"
       ],
       "i10index": [
@@ -4915,16 +4967,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "962",
-        "528"
+        "996",
+        "560"
       ],
       "hindex": [
         "13",
-        "11"
+        "12"
       ],
       "i10index": [
-        "14",
-        "13"
+        "15",
+        "14"
       ]
     },
     "year": "2003"
@@ -4941,16 +4993,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2826",
-        "1488"
+        "2877",
+        "1536"
       ],
       "hindex": [
-        "27",
-        "21"
+        "28",
+        "22"
       ],
       "i10index": [
         "55",
-        "39"
+        "40"
       ]
     },
     "year": "2007"
@@ -4966,8 +5018,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1263",
-        "1260"
+        "1374",
+        "1371"
       ],
       "hindex": [
         "10",
@@ -4991,16 +5043,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4876",
-        "2027"
+        "4951",
+        "2099"
       ],
       "hindex": [
-        "35",
-        "26"
+        "36",
+        "27"
       ],
       "i10index": [
         "66",
-        "52"
+        "54"
       ]
     },
     "year": "2002"
@@ -5017,16 +5069,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "184881",
-        "112986"
+        "189982",
+        "117922"
       ],
       "hindex": [
-        "143",
-        "103"
+        "144",
+        "105"
       ],
       "i10index": [
-        "367",
-        "299"
+        "370",
+        "304"
       ]
     },
     "year": "2002"
@@ -5039,16 +5091,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "25227",
-        "6754"
+        "25480",
+        "6979"
       ],
       "hindex": [
         "73",
         "44"
       ],
       "i10index": [
-        "150",
-        "92"
+        "151",
+        "95"
       ]
     },
     "year": "1998"
@@ -5063,16 +5115,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "22907",
-        "6125"
+        "23210",
+        "6405"
       ],
       "hindex": [
-        "38",
+        "39",
         "21"
       ],
       "i10index": [
-        "66",
-        "29"
+        "67",
+        "30"
       ]
     },
     "year": "1985"
@@ -5089,16 +5141,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9805",
-        "3423"
+        "10185",
+        "3643"
       ],
       "hindex": [
         "49",
-        "31"
+        "32"
       ],
       "i10index": [
-        "129",
-        "63"
+        "135",
+        "66"
       ]
     },
     "year": "2000"
@@ -5114,16 +5166,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5491",
-        "3538"
+        "5716",
+        "3761"
       ],
       "hindex": [
         "36",
         "29"
       ],
       "i10index": [
-        "75",
-        "58"
+        "76",
+        "59"
       ]
     },
     "year": "2006"
@@ -5140,16 +5192,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "20732",
-        "7452"
+        "21147",
+        "7801"
       ],
       "hindex": [
-        "46",
+        "47",
         "25"
       ],
       "i10index": [
-        "86",
-        "45"
+        "87",
+        "46"
       ]
     },
     "year": "1999"
@@ -5166,16 +5218,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17996",
-        "5025"
+        "18252",
+        "5270"
       ],
       "hindex": [
         "59",
-        "31"
+        "32"
       ],
       "i10index": [
-        "293",
-        "97"
+        "294",
+        "98"
       ]
     },
     "year": "1988"
@@ -5192,11 +5244,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7974",
-        "1180"
+        "8009",
+        "1211"
       ],
       "hindex": [
-        "34",
+        "33",
         "14"
       ],
       "i10index": [
@@ -5220,16 +5272,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10312",
-        "2886"
+        "10452",
+        "3013"
       ],
       "hindex": [
         "42",
-        "24"
+        "25"
       ],
       "i10index": [
-        "109",
-        "50"
+        "110",
+        "51"
       ]
     },
     "year": "2000"
@@ -5248,16 +5300,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "89283",
-        "32389"
+        "90733",
+        "33760"
       ],
       "hindex": [
         "113",
-        "74"
+        "76"
       ],
       "i10index": [
-        "276",
-        "210"
+        "281",
+        "216"
       ]
     },
     "year": "1999"
@@ -5273,16 +5325,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19294",
-        "8122"
+        "19631",
+        "8434"
       ],
       "hindex": [
         "55",
         "41"
       ],
       "i10index": [
-        "78",
-        "66"
+        "79",
+        "67"
       ]
     },
     "year": "2005"
@@ -5299,16 +5351,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3866",
-        "1385"
+        "3931",
+        "1449"
       ],
       "hindex": [
         "31",
         "18"
       ],
       "i10index": [
-        "65",
-        "26"
+        "66",
+        "27"
       ]
     },
     "year": "2000"
@@ -5325,16 +5377,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "25492",
-        "6923"
+        "25879",
+        "7292"
       ],
       "hindex": [
-        "73",
-        "41"
+        "74",
+        "42"
       ],
       "i10index": [
-        "228",
-        "117"
+        "230",
+        "120"
       ]
     },
     "year": "1986"
@@ -5350,8 +5402,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7116",
-        "5450"
+        "7305",
+        "5638"
       ],
       "hindex": [
         "36",
@@ -5376,16 +5428,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "31313",
-        "15156"
+        "32153",
+        "15973"
       ],
       "hindex": [
         "80",
-        "57"
+        "59"
       ],
       "i10index": [
-        "236",
-        "173"
+        "242",
+        "180"
       ]
     },
     "year": "2001"
@@ -5404,19 +5456,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1933",
-        "1880"
+        "2125",
+        "2072"
       ],
       "hindex": [
-        "16",
-        "15"
+        "17",
+        "16"
       ],
       "i10index": [
-        "22",
-        "22"
+        "23",
+        "23"
       ]
     },
-    "year": "2013"
+    "year": "2014"
   },
   {
     "name": "Teruko Mitamura",
@@ -5432,8 +5484,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5568",
-        "2089"
+        "5699",
+        "2215"
       ],
       "hindex": [
         "40",
@@ -5441,7 +5493,7 @@ var data = [
       ],
       "i10index": [
         "107",
-        "50"
+        "51"
       ]
     },
     "year": "1993"
@@ -5458,16 +5510,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "62205",
-        "22858"
+        "64187",
+        "24543"
       ],
       "hindex": [
-        "92",
-        "59"
+        "93",
+        "60"
       ],
       "i10index": [
-        "247",
-        "155"
+        "248",
+        "158"
       ]
     },
     "year": "1985"
@@ -5476,7 +5528,7 @@ var data = [
     "name": "Saif M. Mohammad",
     "url": "https://scholar.google.com/citations?user=zJHymXh9EVwC",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=zJHymXh9EVwC&citpid=9",
-    "affiliation": "Senior Research Scientist, National Research Council Canada",
+    "affiliation": "Senior Research Scientist (Emotions and Language, Affective Science, NLP), National Research Council",
     "keywords": [
       "Natural Language Processing",
       "Lexical Semantics",
@@ -5486,16 +5538,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15214",
-        "11838"
+        "15772",
+        "12386"
       ],
       "hindex": [
-        "54",
+        "55",
         "46"
       ],
       "i10index": [
-        "76",
-        "66"
+        "77",
+        "67"
       ]
     },
     "year": "2009"
@@ -5512,16 +5564,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7599",
-        "4077"
+        "7834",
+        "4297"
       ],
       "hindex": [
         "36",
         "25"
       ],
       "i10index": [
-        "77",
-        "43"
+        "79",
+        "44"
       ]
     },
     "year": "2002"
@@ -5540,16 +5592,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "41434",
-        "13926"
+        "41952",
+        "14422"
       ],
       "hindex": [
-        "92",
-        "56"
+        "93",
+        "57"
       ],
       "i10index": [
-        "233",
-        "145"
+        "235",
+        "147"
       ]
     },
     "year": "1989"
@@ -5568,16 +5620,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12523",
-        "3158"
+        "12653",
+        "3287"
       ],
       "hindex": [
-        "56",
-        "26"
+        "57",
+        "27"
       ],
       "i10index": [
-        "164",
-        "56"
+        "165",
+        "58"
       ]
     },
     "year": "1987"
@@ -5594,15 +5646,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13133",
-        "2707"
+        "13171",
+        "2786"
       ],
       "hindex": [
         "53",
-        "26"
+        "27"
       ],
       "i10index": [
-        "102",
+        "101",
         "40"
       ]
     },
@@ -5619,11 +5671,11 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4324",
-        "4070"
+        "4564",
+        "4310"
       ],
       "hindex": [
-        "26",
+        "27",
         "26"
       ],
       "i10index": [
@@ -5647,19 +5699,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14006",
-        "10194"
+        "14666",
+        "10846"
       ],
       "hindex": [
-        "57",
-        "49"
+        "59",
+        "51"
       ],
       "i10index": [
-        "178",
-        "150"
+        "190",
+        "160"
       ]
     },
-    "year": "2004"
+    "year": "2005"
   },
   {
     "name": "Courtney Napoles",
@@ -5671,12 +5723,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1762",
-        "1497"
+        "1854",
+        "1581"
       ],
       "hindex": [
         "17",
-        "15"
+        "16"
       ],
       "i10index": [
         "19",
@@ -5697,8 +5749,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6057",
-        "5929"
+        "6507",
+        "6378"
       ],
       "hindex": [
         "19",
@@ -5725,16 +5777,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19418",
-        "10029"
+        "19855",
+        "10456"
       ],
       "hindex": [
-        "63",
-        "47"
+        "64",
+        "48"
       ],
       "i10index": [
-        "149",
-        "119"
+        "154",
+        "124"
       ]
     },
     "year": "2004"
@@ -5743,7 +5795,7 @@ var data = [
     "name": "Ani Nenkova",
     "url": "https://scholar.google.com/citations?user=vXQdb5kAAAAJ",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
-    "affiliation": "Principal Scientist at Adobe Research \\\\ on leave from the University of Pennsylvania",
+    "affiliation": "Principal Scientist at Adobe Research",
     "keywords": [
       "natural language processing",
       "summarization",
@@ -5752,12 +5804,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10210",
-        "4935"
+        "10425",
+        "5141"
       ],
       "hindex": [
         "50",
-        "34"
+        "35"
       ],
       "i10index": [
         "98",
@@ -5777,16 +5829,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13280",
-        "11740"
+        "14456",
+        "12920"
       ],
       "hindex": [
-        "61",
-        "56"
+        "63",
+        "59"
       ],
       "i10index": [
-        "235",
-        "209"
+        "245",
+        "219"
       ]
     },
     "year": "2011"
@@ -5804,16 +5856,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3775",
-        "2381"
+        "3893",
+        "2497"
       ],
       "hindex": [
-        "33",
+        "34",
         "24"
       ],
       "i10index": [
-        "79",
-        "52"
+        "80",
+        "54"
       ]
     },
     "year": "2005"
@@ -5831,16 +5883,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "60841",
-        "18476"
+        "61666",
+        "19220"
       ],
       "hindex": [
-        "109",
-        "59"
+        "110",
+        "61"
       ],
       "i10index": [
-        "666",
-        "278"
+        "671",
+        "287"
       ]
     },
     "year": "1994"
@@ -5856,16 +5908,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12744",
-        "5011"
+        "13064",
+        "5306"
       ],
       "hindex": [
-        "50",
-        "30"
+        "51",
+        "32"
       ],
       "i10index": [
         "157",
-        "87"
+        "90"
       ]
     },
     "year": "1995"
@@ -5884,12 +5936,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1468",
-        "860"
+        "1498",
+        "890"
       ],
       "hindex": [
         "19",
-        "15"
+        "16"
       ],
       "i10index": [
         "35",
@@ -5911,16 +5963,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7858",
-        "1109"
+        "7913",
+        "1158"
       ],
       "hindex": [
         "43",
         "15"
       ],
       "i10index": [
-        "137",
-        "27"
+        "138",
+        "29"
       ]
     },
     "year": "1987"
@@ -5939,16 +5991,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3261",
-        "1549"
+        "3379",
+        "1659"
       ],
       "hindex": [
         "32",
-        "18"
+        "20"
       ],
       "i10index": [
-        "68",
-        "45"
+        "71",
+        "47"
       ]
     },
     "year": "2003"
@@ -5965,16 +6017,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "20789",
-        "8933"
+        "21167",
+        "9282"
       ],
       "hindex": [
         "64",
-        "44"
+        "45"
       ],
       "i10index": [
-        "176",
-        "116"
+        "178",
+        "118"
       ]
     },
     "year": "2005"
@@ -5990,16 +6042,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14967",
-        "6117"
+        "15261",
+        "6396"
       ],
       "hindex": [
         "63",
-        "40"
+        "41"
       ],
       "i10index": [
         "125",
-        "92"
+        "94"
       ]
     },
     "year": "1997"
@@ -6018,16 +6070,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "32303",
-        "10325"
+        "32795",
+        "10794"
       ],
       "hindex": [
         "67",
-        "37"
+        "38"
       ],
       "i10index": [
-        "191",
-        "105"
+        "194",
+        "108"
       ]
     },
     "year": "1995"
@@ -6043,16 +6095,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8212",
-        "4106"
+        "8403",
+        "4298"
       ],
       "hindex": [
-        "48",
-        "36"
+        "49",
+        "37"
       ],
       "i10index": [
         "101",
-        "80"
+        "83"
       ]
     },
     "year": "2002"
@@ -6069,15 +6121,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "26063",
-        "6133"
+        "26314",
+        "6342"
       ],
       "hindex": [
         "50",
         "29"
       ],
       "i10index": [
-        "80",
+        "81",
         "57"
       ]
     },
@@ -6095,16 +6147,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9976",
-        "8390"
+        "10438",
+        "8844"
       ],
       "hindex": [
-        "24",
-        "23"
+        "25",
+        "24"
       ],
       "i10index": [
-        "37",
-        "36"
+        "38",
+        "37"
       ]
     },
     "year": "2012"
@@ -6121,16 +6173,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6784",
-        "2914"
+        "6950",
+        "3072"
       ],
       "hindex": [
-        "36",
+        "37",
         "24"
       ],
       "i10index": [
-        "86",
-        "53"
+        "88",
+        "59"
       ]
     },
     "year": "2004"
@@ -6149,16 +6201,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "62889",
-        "27285"
+        "64187",
+        "28490"
       ],
       "hindex": [
         "53",
         "44"
       ],
       "i10index": [
-        "109",
-        "89"
+        "112",
+        "94"
       ]
     },
     "year": "2001"
@@ -6177,16 +6229,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "27383",
-        "9586"
+        "27816",
+        "9989"
       ],
       "hindex": [
         "66",
-        "38"
+        "40"
       ],
       "i10index": [
-        "221",
-        "113"
+        "223",
+        "116"
       ]
     },
     "year": "1999"
@@ -6202,16 +6254,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21528",
-        "9321"
+        "21870",
+        "9635"
       ],
       "hindex": [
         "25",
-        "18"
+        "19"
       ],
       "i10index": [
-        "37",
-        "27"
+        "38",
+        "28"
       ]
     },
     "year": "2004"
@@ -6222,20 +6274,21 @@ var data = [
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=saQkRvAAAAAJ&citpid=4",
     "affiliation": "Facebook AI",
     "keywords": [
-      "Natural Language Processing"
+      "Natural Language Processing",
+      "Artificial Intelligence"
     ],
     "stats": {
       "citations": [
-        "13726",
-        "4740"
+        "13903",
+        "4913"
       ],
       "hindex": [
         "41",
-        "25"
+        "26"
       ],
       "i10index": [
-        "72",
-        "49"
+        "74",
+        "50"
       ]
     },
     "year": "2003"
@@ -6253,8 +6306,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "20319",
-        "11589"
+        "21080",
+        "12327"
       ],
       "hindex": [
         "21",
@@ -6277,15 +6330,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1228",
-        "545"
+        "1264",
+        "579"
       ],
       "hindex": [
         "17",
-        "10"
+        "11"
       ],
       "i10index": [
-        "42",
+        "43",
         "13"
       ]
     },
@@ -6305,16 +6358,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4449",
-        "2891"
+        "4650",
+        "3092"
       ],
       "hindex": [
         "36",
-        "27"
+        "28"
       ],
       "i10index": [
-        "91",
-        "58"
+        "95",
+        "60"
       ]
     },
     "year": "2000"
@@ -6329,16 +6382,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3565",
-        "3417"
+        "3910",
+        "3764"
       ],
       "hindex": [
-        "22",
-        "21"
+        "25",
+        "23"
       ],
       "i10index": [
-        "37",
-        "35"
+        "40",
+        "38"
       ]
     },
     "year": "2015"
@@ -6354,12 +6407,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8104",
-        "3145"
+        "8213",
+        "3250"
       ],
       "hindex": [
         "40",
-        "20"
+        "21"
       ],
       "i10index": [
         "84",
@@ -6380,16 +6433,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6091",
-        "4209"
+        "6243",
+        "4355"
       ],
       "hindex": [
         "35",
-        "31"
+        "32"
       ],
       "i10index": [
-        "61",
-        "58"
+        "62",
+        "59"
       ]
     },
     "year": "2010"
@@ -6408,12 +6461,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11891",
-        "2993"
+        "11994",
+        "3082"
       ],
       "hindex": [
         "42",
-        "24"
+        "25"
       ],
       "i10index": [
         "87",
@@ -6434,8 +6487,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6762",
-        "3599"
+        "6897",
+        "3732"
       ],
       "hindex": [
         "31",
@@ -6443,7 +6496,7 @@ var data = [
       ],
       "i10index": [
         "65",
-        "29"
+        "30"
       ]
     },
     "year": "1994"
@@ -6459,16 +6512,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3005",
-        "2885"
+        "3345",
+        "3225"
       ],
       "hindex": [
-        "26",
-        "25"
+        "28",
+        "26"
       ],
       "i10index": [
-        "47",
-        "46"
+        "51",
+        "50"
       ]
     },
     "year": "2014"
@@ -6487,16 +6540,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "62664",
-        "19703"
+        "63545",
+        "20540"
       ],
       "hindex": [
         "87",
         "45"
       ],
       "i10index": [
-        "194",
-        "98"
+        "195",
+        "100"
       ]
     },
     "year": "1985"
@@ -6512,16 +6565,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15371",
-        "14577"
+        "16502",
+        "15699"
       ],
       "hindex": [
-        "23",
-        "20"
+        "24",
+        "22"
       ],
       "i10index": [
-        "29",
-        "28"
+        "30",
+        "29"
       ]
     },
     "year": "2008"
@@ -6537,16 +6590,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11772",
-        "7052"
+        "12089",
+        "7352"
       ],
       "hindex": [
         "37",
-        "26"
+        "27"
       ],
       "i10index": [
-        "48",
-        "38"
+        "49",
+        "39"
       ]
     },
     "year": "2007"
@@ -6563,15 +6616,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10479",
-        "3901"
+        "10620",
+        "4026"
       ],
       "hindex": [
         "30",
         "13"
       ],
       "i10index": [
-        "50",
+        "49",
         "20"
       ]
     },
@@ -6590,19 +6643,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3132",
-        "2754"
+        "3265",
+        "2886"
       ],
       "hindex": [
-        "25",
-        "23"
+        "26",
+        "24"
       ],
       "i10index": [
-        "43",
-        "40"
+        "44",
+        "41"
       ]
     },
-    "year": "2011"
+    "year": "2014"
   },
   {
     "name": "David Eduardo Pinto Avendaño",
@@ -6618,16 +6671,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2094",
-        "1182"
+        "2148",
+        "1233"
       ],
       "hindex": [
         "23",
         "16"
       ],
       "i10index": [
-        "48",
-        "28"
+        "49",
+        "29"
       ]
     },
     "year": "2005"
@@ -6645,12 +6698,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5997",
-        "3426"
+        "6206",
+        "3635"
       ],
       "hindex": [
         "32",
-        "27"
+        "28"
       ],
       "i10index": [
         "39",
@@ -6672,16 +6725,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14958",
-        "13596"
+        "16044",
+        "14650"
       ],
       "hindex": [
-        "54",
-        "53"
+        "56",
+        "55"
       ],
       "i10index": [
-        "81",
-        "77"
+        "86",
+        "82"
       ]
     },
     "year": "2013"
@@ -6698,16 +6751,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6520",
-        "4929"
+        "6869",
+        "5269"
       ],
       "hindex": [
-        "28",
-        "25"
+        "30",
+        "27"
       ],
       "i10index": [
         "53",
-        "41"
+        "42"
       ]
     },
     "year": "2010"
@@ -6726,16 +6779,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "23012",
-        "15963"
+        "23883",
+        "16821"
       ],
       "hindex": [
         "50",
-        "39"
+        "40"
       ],
       "i10index": [
-        "98",
-        "83"
+        "103",
+        "88"
       ]
     },
     "year": "2005"
@@ -6750,12 +6803,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6676",
-        "3341"
+        "6853",
+        "3513"
       ],
       "hindex": [
         "36",
-        "27"
+        "28"
       ],
       "i10index": [
         "45",
@@ -6776,16 +6829,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1235",
-        "976"
+        "1346",
+        "1086"
       ],
       "hindex": [
-        "16",
-        "14"
+        "18",
+        "16"
       ],
       "i10index": [
-        "30",
-        "23"
+        "31",
+        "25"
       ]
     },
     "year": "2011"
@@ -6801,12 +6854,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5453",
-        "1517"
+        "5511",
+        "1572"
       ],
       "hindex": [
         "40",
-        "20"
+        "21"
       ],
       "i10index": [
         "94",
@@ -6829,19 +6882,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "26898",
-        "7063"
+        "27187",
+        "7317"
       ],
       "hindex": [
         "68",
-        "37"
+        "38"
       ],
       "i10index": [
-        "225",
-        "112"
+        "226",
+        "117"
       ]
     },
-    "year": "1991"
+    "year": "1992"
   },
   {
     "name": "Xipeng Qiu",
@@ -6856,16 +6909,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8033",
-        "7492"
+        "8786",
+        "8243"
       ],
       "hindex": [
-        "40",
-        "39"
+        "42",
+        "40"
       ],
       "i10index": [
-        "100",
-        "88"
+        "105",
+        "93"
       ]
     },
     "year": "2009"
@@ -6881,16 +6934,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "617",
-        "451"
+        "659",
+        "493"
       ],
       "hindex": [
         "16",
         "13"
       ],
       "i10index": [
-        "22",
-        "15"
+        "23",
+        "16"
       ]
     },
     "year": "2007"
@@ -6909,16 +6962,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "25158",
-        "10857"
+        "25798",
+        "11468"
       ],
       "hindex": [
         "69",
         "49"
       ],
       "i10index": [
-        "169",
-        "109"
+        "174",
+        "114"
       ]
     },
     "year": "1998"
@@ -6933,12 +6986,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14000",
-        "13594"
+        "15721",
+        "15313"
       ],
       "hindex": [
-        "38",
-        "35"
+        "41",
+        "38"
       ],
       "i10index": [
         "67",
@@ -6959,16 +7012,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13831",
-        "5587"
+        "14017",
+        "5766"
       ],
       "hindex": [
         "59",
-        "34"
+        "35"
       ],
       "i10index": [
-        "184",
-        "103"
+        "185",
+        "105"
       ]
     },
     "year": "1993"
@@ -6986,16 +7039,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3071",
-        "2715"
+        "3280",
+        "2922"
       ],
       "hindex": [
         "21",
-        "19"
+        "21"
       ],
       "i10index": [
-        "26",
-        "24"
+        "28",
+        "26"
       ]
     },
     "year": "2010"
@@ -7014,12 +7067,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1414",
-        "1346"
+        "1490",
+        "1422"
       ],
       "hindex": [
         "18",
-        "17"
+        "18"
       ],
       "i10index": [
         "23",
@@ -7042,16 +7095,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12236",
-        "4827"
+        "12528",
+        "5116"
       ],
       "hindex": [
         "54",
         "35"
       ],
       "i10index": [
-        "124",
-        "73"
+        "125",
+        "75"
       ]
     },
     "year": "1992"
@@ -7064,22 +7117,22 @@ var data = [
     "keywords": [
       "Natural Language Processing",
       "Commonsense Reasoning",
+      "Machine Learning",
       "Knowledge Graph",
-      "Information Extraction",
-      "Machine Learning"
+      "Information Extraction"
     ],
     "stats": {
       "citations": [
-        "7183",
-        "6618"
+        "7778",
+        "7214"
       ],
       "hindex": [
-        "37",
-        "36"
+        "41",
+        "38"
       ],
       "i10index": [
-        "96",
-        "88"
+        "107",
+        "99"
       ]
     },
     "year": "2012"
@@ -7095,16 +7148,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21013",
-        "5463"
+        "21212",
+        "5654"
       ],
       "hindex": [
         "59",
-        "37"
+        "38"
       ],
       "i10index": [
-        "135",
-        "84"
+        "136",
+        "87"
       ]
     },
     "year": "1994"
@@ -7122,16 +7175,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "503",
-        "411"
+        "576",
+        "484"
       ],
       "hindex": [
-        "13",
-        "11"
+        "14",
+        "14"
       ],
       "i10index": [
-        "16",
-        "14"
+        "20",
+        "18"
       ]
     },
     "year": "2010"
@@ -7148,12 +7201,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "20108",
-        "7868"
+        "20411",
+        "8148"
       ],
       "hindex": [
         "44",
-        "31"
+        "32"
       ],
       "i10index": [
         "74",
@@ -7174,16 +7227,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13627",
-        "10549"
+        "14649",
+        "11559"
       ],
       "hindex": [
         "54",
-        "44"
+        "46"
       ],
       "i10index": [
-        "103",
-        "89"
+        "107",
+        "93"
       ]
     },
     "year": "2007"
@@ -7198,16 +7251,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14853",
-        "3646"
+        "15012",
+        "3791"
       ],
       "hindex": [
         "56",
         "30"
       ],
       "i10index": [
-        "94",
-        "63"
+        "95",
+        "64"
       ]
     },
     "year": "1994"
@@ -7225,8 +7278,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3923",
-        "1361"
+        "3966",
+        "1402"
       ],
       "hindex": [
         "30",
@@ -7248,21 +7301,20 @@ var data = [
       "Natural Language Processing",
       "Machine Learning",
       "Dialogue",
-      "Information Extraction",
-      "Computational Social Science"
+      "Information Extraction"
     ],
     "stats": {
       "citations": [
-        "10264",
-        "7310"
+        "10514",
+        "7548"
       ],
       "hindex": [
         "31",
         "28"
       ],
       "i10index": [
-        "43",
-        "40"
+        "44",
+        "41"
       ]
     },
     "year": "2010"
@@ -7277,16 +7329,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6216",
-        "1971"
+        "6305",
+        "2055"
       ],
       "hindex": [
         "38",
-        "23"
+        "24"
       ],
       "i10index": [
-        "103",
-        "48"
+        "104",
+        "50"
       ]
     },
     "year": "2001"
@@ -7303,16 +7355,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3167",
-        "2404"
+        "3325",
+        "2561"
       ],
       "hindex": [
-        "28",
-        "24"
+        "29",
+        "26"
       ],
       "i10index": [
-        "63",
-        "55"
+        "66",
+        "58"
       ]
     },
     "year": "2006"
@@ -7330,16 +7382,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2001",
-        "1128"
+        "2080",
+        "1204"
       ],
       "hindex": [
         "24",
         "19"
       ],
       "i10index": [
-        "55",
-        "39"
+        "58",
+        "40"
       ]
     },
     "year": "2006"
@@ -7356,16 +7408,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13753",
-        "6637"
+        "14127",
+        "6992"
       ],
       "hindex": [
-        "59",
+        "60",
         "39"
       ],
       "i10index": [
-        "219",
-        "136"
+        "223",
+        "141"
       ]
     },
     "year": "1995"
@@ -7384,16 +7436,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16673",
-        "10302"
+        "17209",
+        "10822"
       ],
       "hindex": [
-        "64",
-        "52"
+        "66",
+        "53"
       ],
       "i10index": [
-        "287",
-        "196"
+        "292",
+        "201"
       ]
     },
     "year": "2005"
@@ -7411,16 +7463,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "33159",
-        "14030"
+        "33944",
+        "14799"
       ],
       "hindex": [
         "87",
-        "58"
+        "60"
       ],
       "i10index": [
-        "339",
-        "227"
+        "345",
+        "236"
       ]
     },
     "year": "1999"
@@ -7438,16 +7490,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "32555",
-        "13574"
+        "33419",
+        "14416"
       ],
       "hindex": [
         "59",
-        "27"
+        "28"
       ],
       "i10index": [
-        "123",
-        "48"
+        "125",
+        "49"
       ]
     },
     "year": "1988"
@@ -7460,16 +7512,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "1714",
-        "1654"
+        "1830",
+        "1771"
       ],
       "hindex": [
-        "16",
-        "16"
+        "17",
+        "17"
       ],
       "i10index": [
-        "22",
-        "19"
+        "23",
+        "20"
       ]
     },
     "year": "2014"
@@ -7488,16 +7540,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3777",
-        "3076"
+        "4029",
+        "3326"
       ],
       "hindex": [
-        "33",
-        "28"
+        "34",
+        "29"
       ],
       "i10index": [
-        "81",
-        "71"
+        "86",
+        "77"
       ]
     },
     "year": "2005"
@@ -7513,16 +7565,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3687",
-        "2587"
+        "3926",
+        "2827"
       ],
       "hindex": [
         "29",
-        "23"
+        "24"
       ],
       "i10index": [
-        "58",
-        "38"
+        "60",
+        "40"
       ]
     },
     "year": "2002"
@@ -7538,16 +7590,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17068",
-        "15487"
+        "18107",
+        "16526"
       ],
       "hindex": [
-        "43",
-        "40"
+        "44",
+        "42"
       ],
       "i10index": [
-        "86",
-        "80"
+        "88",
+        "82"
       ]
     },
     "year": "2011"
@@ -7564,16 +7616,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5378",
-        "2567"
+        "5502",
+        "2694"
       ],
       "hindex": [
-        "31",
+        "33",
         "22"
       ],
       "i10index": [
-        "62",
-        "34"
+        "65",
+        "37"
       ]
     },
     "year": "2005"
@@ -7589,8 +7641,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4286",
-        "1724"
+        "4349",
+        "1785"
       ],
       "hindex": [
         "34",
@@ -7615,16 +7667,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7695",
-        "3821"
+        "7863",
+        "3978"
       ],
       "hindex": [
-        "43",
+        "44",
         "33"
       ],
       "i10index": [
         "144",
-        "84"
+        "85"
       ]
     },
     "year": "2001"
@@ -7640,19 +7692,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1493",
-        "1387"
+        "1640",
+        "1530"
       ],
       "hindex": [
         "20",
         "18"
       ],
       "i10index": [
-        "23",
-        "21"
+        "25",
+        "23"
       ]
     },
-    "year": "2013"
+    "year": "2014"
   },
   {
     "name": "Anoop Sarkar",
@@ -7667,16 +7719,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4140",
-        "1060"
+        "4190",
+        "1107"
       ],
       "hindex": [
         "32",
         "18"
       ],
       "i10index": [
-        "66",
-        "28"
+        "67",
+        "31"
       ]
     },
     "year": "1998"
@@ -7695,15 +7747,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "440",
-        "346"
+        "459",
+        "363"
       ],
       "hindex": [
         "11",
         "9"
       ],
       "i10index": [
-        "13",
+        "14",
         "9"
       ]
     },
@@ -7721,16 +7773,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5323",
-        "3247"
+        "5489",
+        "3431"
       ],
       "hindex": [
         "22",
-        "19"
+        "20"
       ],
       "i10index": [
-        "38",
-        "31"
+        "40",
+        "34"
       ]
     },
     "year": "2011"
@@ -7745,16 +7797,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9780",
-        "3187"
+        "9964",
+        "3357"
       ],
       "hindex": [
         "39",
-        "23"
+        "24"
       ],
       "i10index": [
-        "98",
-        "47"
+        "100",
+        "49"
       ]
     },
     "year": "1997"
@@ -7772,12 +7824,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12810",
-        "12032"
+        "13514",
+        "12729"
       ],
       "hindex": [
-        "39",
-        "37"
+        "40",
+        "38"
       ],
       "i10index": [
         "72",
@@ -7798,12 +7850,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2835",
-        "1357"
+        "2912",
+        "1432"
       ],
       "hindex": [
         "29",
-        "18"
+        "19"
       ],
       "i10index": [
         "59",
@@ -7826,16 +7878,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3836",
-        "2314"
+        "4033",
+        "2509"
       ],
       "hindex": [
-        "34",
+        "35",
         "25"
       ],
       "i10index": [
-        "89",
-        "63"
+        "90",
+        "65"
       ]
     },
     "year": "2003"
@@ -7851,16 +7903,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15457",
-        "3147"
+        "15614",
+        "3298"
       ],
       "hindex": [
-        "56",
-        "28"
+        "57",
+        "29"
       ],
       "i10index": [
-        "120",
-        "55"
+        "121",
+        "59"
       ]
     },
     "year": "1985"
@@ -7877,8 +7929,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "957",
-        "761"
+        "999",
+        "803"
       ],
       "hindex": [
         "12",
@@ -7905,16 +7957,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1252",
-        "1223"
+        "1386",
+        "1357"
       ],
       "hindex": [
-        "17",
+        "18",
         "17"
       ],
       "i10index": [
-        "26",
-        "25"
+        "28",
+        "28"
       ]
     },
     "year": "2016"
@@ -7932,16 +7984,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16406",
-        "15358"
+        "17944",
+        "16879"
       ],
       "hindex": [
         "40",
-        "37"
+        "38"
       ],
       "i10index": [
-        "84",
-        "70"
+        "87",
+        "73"
       ]
     },
     "year": "2011"
@@ -7960,19 +8012,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7060",
-        "2125"
+        "7585",
+        "2350"
       ],
       "hindex": [
-        "36",
+        "38",
         "22"
       ],
       "i10index": [
-        "155",
-        "57"
+        "162",
+        "59"
       ]
     },
-    "year": "1985"
+    "year": "1984"
   },
   {
     "name": "Noah A. Smith",
@@ -7986,16 +8038,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "33433",
-        "21522"
+        "34842",
+        "22930"
       ],
       "hindex": [
-        "88",
+        "91",
         "73"
       ],
       "i10index": [
-        "270",
-        "227"
+        "279",
+        "236"
       ]
     },
     "year": "2005"
@@ -8014,16 +8066,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "109293",
-        "95330"
+        "114665",
+        "100640"
       ],
       "hindex": [
-        "71",
-        "70"
+        "74",
+        "73"
       ],
       "i10index": [
-        "179",
-        "177"
+        "184",
+        "182"
       ]
     },
     "year": "2011"
@@ -8040,12 +8092,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "581",
-        "533"
+        "625",
+        "576"
       ],
       "hindex": [
-        "12",
-        "11"
+        "13",
+        "13"
       ],
       "i10index": [
         "16",
@@ -8064,16 +8116,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3899",
-        "2836"
+        "4027",
+        "2961"
       ],
       "hindex": [
-        "32",
+        "33",
         "27"
       ],
       "i10index": [
-        "80",
-        "64"
+        "82",
+        "68"
       ]
     },
     "year": "2004"
@@ -8089,19 +8141,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6690",
-        "5659"
+        "6985",
+        "5950"
       ],
       "hindex": [
         "39",
-        "33"
+        "35"
       ],
       "i10index": [
-        "108",
-        "91"
+        "111",
+        "95"
       ]
     },
-    "year": "2008"
+    "year": "2009"
   },
   {
     "name": "Yangqiu Song",
@@ -8117,16 +8169,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8492",
-        "5813"
+        "8820",
+        "6143"
       ],
       "hindex": [
-        "46",
+        "47",
         "41"
       ],
       "i10index": [
-        "111",
-        "97"
+        "116",
+        "102"
       ]
     },
     "year": "2009"
@@ -8139,16 +8191,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "12466",
-        "8051"
+        "12971",
+        "8537"
       ],
       "hindex": [
-        "49",
-        "41"
+        "50",
+        "42"
       ],
       "i10index": [
-        "158",
-        "119"
+        "160",
+        "124"
       ]
     },
     "year": "2006"
@@ -8164,15 +8216,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21702",
-        "4280"
+        "21938",
+        "4476"
       ],
       "hindex": [
         "56",
-        "18"
+        "20"
       ],
       "i10index": [
-        "125",
+        "126",
         "31"
       ]
     },
@@ -8192,15 +8244,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13333",
-        "3426"
+        "13508",
+        "3577"
       ],
       "hindex": [
         "50",
-        "28"
+        "29"
       ],
       "i10index": [
-        "150",
+        "152",
         "61"
       ]
     },
@@ -8219,16 +8271,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "23433",
-        "5421"
+        "23682",
+        "5664"
       ],
       "hindex": [
-        "64",
+        "65",
         "37"
       ],
       "i10index": [
-        "154",
-        "87"
+        "156",
+        "90"
       ]
     },
     "year": "1987"
@@ -8245,8 +8297,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2627",
-        "2582"
+        "2868",
+        "2823"
       ],
       "hindex": [
         "14",
@@ -8271,12 +8323,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1533",
-        "741"
+        "1574",
+        "784"
       ],
       "hindex": [
         "20",
-        "13"
+        "14"
       ],
       "i10index": [
         "39",
@@ -8297,16 +8349,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "23184",
-        "18831"
+        "24596",
+        "20245"
       ],
       "hindex": [
-        "68",
-        "60"
+        "71",
+        "61"
       ],
       "i10index": [
-        "255",
-        "174"
+        "267",
+        "187"
       ]
     },
     "year": "2001"
@@ -8324,16 +8376,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4984",
-        "4479"
+        "5339",
+        "4835"
       ],
       "hindex": [
-        "40",
-        "36"
+        "41",
+        "38"
       ],
       "i10index": [
-        "98",
-        "90"
+        "101",
+        "94"
       ]
     },
     "year": "2009"
@@ -8350,15 +8402,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16578",
-        "9895"
+        "16902",
+        "10210"
       ],
       "hindex": [
         "41",
         "28"
       ],
       "i10index": [
-        "87",
+        "88",
         "61"
       ]
     },
@@ -8375,16 +8427,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19669",
-        "6545"
+        "19880",
+        "6733"
       ],
       "hindex": [
-        "71",
-        "37"
+        "72",
+        "38"
       ],
       "i10index": [
-        "318",
-        "152"
+        "319",
+        "155"
       ]
     },
     "year": "2001"
@@ -8401,16 +8453,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19116",
-        "6153"
+        "19332",
+        "6353"
       ],
       "hindex": [
         "59",
-        "38"
+        "39"
       ],
       "i10index": [
         "103",
-        "74"
+        "76"
       ]
     },
     "year": "2003"
@@ -8428,16 +8480,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7032",
-        "4543"
+        "7278",
+        "4785"
       ],
       "hindex": [
         "42",
         "31"
       ],
       "i10index": [
-        "89",
-        "60"
+        "90",
+        "63"
       ]
     },
     "year": "2004"
@@ -8453,16 +8505,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9879",
-        "7638"
+        "10477",
+        "8234"
       ],
       "hindex": [
-        "42",
-        "34"
+        "43",
+        "35"
       ],
       "i10index": [
         "78",
-        "67"
+        "68"
       ]
     },
     "year": "2008"
@@ -8478,16 +8530,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "50708",
-        "43693"
+        "55703",
+        "48635"
       ],
       "hindex": [
-        "45",
+        "46",
         "31"
       ],
       "i10index": [
-        "86",
-        "54"
+        "88",
+        "58"
       ]
     },
     "year": "2005"
@@ -8506,16 +8558,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14679",
-        "4285"
+        "14861",
+        "4466"
       ],
       "hindex": [
-        "57",
+        "58",
         "32"
       ],
       "i10index": [
-        "203",
-        "102"
+        "205",
+        "104"
       ]
     },
     "year": "1994"
@@ -8531,16 +8583,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2845",
-        "1127"
+        "2901",
+        "1178"
       ],
       "hindex": [
         "25",
         "15"
       ],
       "i10index": [
-        "60",
-        "29"
+        "62",
+        "31"
       ]
     },
     "year": "2005"
@@ -8558,16 +8610,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "20852",
-        "5125"
+        "21079",
+        "5326"
       ],
       "hindex": [
-        "66",
-        "33"
+        "67",
+        "34"
       ],
       "i10index": [
         "266",
-        "101"
+        "102"
       ]
     },
     "year": "1992"
@@ -8583,8 +8635,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6996",
-        "2794"
+        "7113",
+        "2906"
       ],
       "hindex": [
         "41",
@@ -8592,7 +8644,7 @@ var data = [
       ],
       "i10index": [
         "76",
-        "46"
+        "47"
       ]
     },
     "year": "2002"
@@ -8607,19 +8659,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3555",
-        "3110"
+        "3826",
+        "3385"
       ],
       "hindex": [
-        "30",
-        "28"
+        "32",
+        "29"
       ],
       "i10index": [
-        "54",
-        "49"
+        "55",
+        "50"
       ]
     },
-    "year": "2012"
+    "year": "2013"
   },
   {
     "name": "Zhaopeng Tu",
@@ -8632,16 +8684,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3963",
-        "3694"
+        "4192",
+        "3921"
       ],
       "hindex": [
-        "31",
-        "30"
+        "32",
+        "31"
       ],
       "i10index": [
-        "66",
-        "61"
+        "69",
+        "64"
       ]
     },
     "year": "2013"
@@ -8657,16 +8709,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "879",
-        "831"
+        "952",
+        "904"
       ],
       "hindex": [
         "15",
         "14"
       ],
       "i10index": [
-        "21",
-        "18"
+        "22",
+        "19"
       ]
     },
     "year": "2015"
@@ -8682,12 +8734,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1320",
-        "995"
+        "1379",
+        "1052"
       ],
       "hindex": [
         "19",
-        "16"
+        "17"
       ],
       "i10index": [
         "24",
@@ -8708,16 +8760,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9121",
-        "6727"
+        "9471",
+        "7078"
       ],
       "hindex": [
-        "51",
-        "40"
+        "52",
+        "42"
       ],
       "i10index": [
-        "130",
-        "107"
+        "134",
+        "111"
       ]
     },
     "year": "2007"
@@ -8735,16 +8787,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6532",
-        "2398"
+        "6696",
+        "2478"
       ],
       "hindex": [
         "41",
         "23"
       ],
       "i10index": [
-        "176",
-        "68"
+        "178",
+        "70"
       ]
     },
     "year": "1998"
@@ -8760,12 +8812,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2687",
-        "1330"
+        "2785",
+        "1428"
       ],
       "hindex": [
         "21",
-        "15"
+        "16"
       ],
       "i10index": [
         "35",
@@ -8788,16 +8840,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8295",
-        "5507"
+        "8559",
+        "5762"
       ],
       "hindex": [
-        "40",
+        "41",
         "32"
       ],
       "i10index": [
-        "128",
-        "96"
+        "134",
+        "101"
       ]
     },
     "year": "2001"
@@ -8813,16 +8865,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4392",
-        "3363"
+        "4672",
+        "3646"
       ],
       "hindex": [
-        "34",
+        "35",
         "28"
       ],
       "i10index": [
-        "65",
-        "52"
+        "66",
+        "53"
       ]
     },
     "year": "2007"
@@ -8838,8 +8890,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9096",
-        "2554"
+        "9207",
+        "2656"
       ],
       "hindex": [
         "51",
@@ -8847,7 +8899,7 @@ var data = [
       ],
       "i10index": [
         "145",
-        "62"
+        "63"
       ]
     },
     "year": "1998"
@@ -8866,16 +8918,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2630",
-        "2297"
+        "2767",
+        "2434"
       ],
       "hindex": [
         "22",
         "21"
       ],
       "i10index": [
-        "41",
-        "38"
+        "43",
+        "40"
       ]
     },
     "year": "2013"
@@ -8891,8 +8943,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2442",
-        "1964"
+        "2548",
+        "2067"
       ],
       "hindex": [
         "24",
@@ -8900,10 +8952,10 @@ var data = [
       ],
       "i10index": [
         "44",
-        "32"
+        "33"
       ]
     },
-    "year": "1994"
+    "year": "1995"
   },
   {
     "name": "Ivan Vulić",
@@ -8918,16 +8970,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5414",
-        "5019"
+        "5847",
+        "5452"
       ],
       "hindex": [
-        "40",
-        "38"
+        "41",
+        "39"
       ],
       "i10index": [
-        "95",
-        "91"
+        "98",
+        "94"
       ]
     },
     "year": "2012"
@@ -8945,16 +8997,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "35706",
-        "8618"
+        "37834",
+        "9999"
       ],
       "hindex": [
-        "92",
-        "40"
+        "93",
+        "42"
       ],
       "i10index": [
-        "454",
-        "166"
+        "458",
+        "172"
       ]
     },
     "year": "1989"
@@ -8973,16 +9025,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21669",
-        "19502"
+        "22681",
+        "20486"
       ],
       "hindex": [
-        "45",
-        "41"
+        "46",
+        "42"
       ],
       "i10index": [
-        "81",
-        "75"
+        "87",
+        "82"
       ]
     },
     "year": "2011"
@@ -9001,16 +9053,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17334",
-        "6197"
+        "17571",
+        "6427"
       ],
       "hindex": [
         "74",
-        "42"
+        "43"
       ],
       "i10index": [
-        "197",
-        "126"
+        "199",
+        "127"
       ]
     },
     "year": "1994"
@@ -9028,16 +9080,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7261",
-        "6852"
+        "7928",
+        "7522"
       ],
       "hindex": [
-        "45",
-        "43"
+        "46",
+        "44"
       ],
       "i10index": [
-        "103",
-        "97"
+        "106",
+        "99"
       ]
     },
     "year": "2012"
@@ -9054,16 +9106,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13707",
-        "3091"
+        "13808",
+        "3190"
       ],
       "hindex": [
-        "56",
-        "28"
+        "57",
+        "29"
       ],
       "i10index": [
         "166",
-        "65"
+        "67"
       ]
     },
     "year": "1983"
@@ -9082,19 +9134,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16562",
-        "13701"
+        "17747",
+        "14880"
       ],
       "hindex": [
-        "64",
-        "59"
+        "66",
+        "60"
       ],
       "i10index": [
-        "137",
-        "126"
+        "143",
+        "132"
       ]
     },
-    "year": "2010"
+    "year": "2011"
   },
   {
     "name": "Ralph Weischedel",
@@ -9107,8 +9159,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12336",
-        "3464"
+        "12534",
+        "3639"
       ],
       "hindex": [
         "48",
@@ -9135,16 +9187,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "89062",
-        "53671"
+        "91636",
+        "56206"
       ],
       "hindex": [
-        "98",
-        "78"
+        "99",
+        "79"
       ],
       "i10index": [
-        "220",
-        "191"
+        "223",
+        "197"
       ]
     },
     "year": "2002"
@@ -9163,16 +9215,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "24653",
-        "8380"
+        "24974",
+        "8678"
       ],
       "hindex": [
         "59",
-        "37"
+        "38"
       ],
       "i10index": [
         "114",
-        "73"
+        "74"
       ]
     },
     "year": "1997"
@@ -9189,8 +9241,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "24282",
-        "3854"
+        "24475",
+        "4035"
       ],
       "hindex": [
         "78",
@@ -9198,7 +9250,7 @@ var data = [
       ],
       "i10index": [
         "270",
-        "73"
+        "77"
       ]
     },
     "year": "1983"
@@ -9215,16 +9267,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2469",
-        "1005"
+        "2528",
+        "1063"
       ],
       "hindex": [
-        "28",
-        "17"
+        "29",
+        "18"
       ],
       "i10index": [
         "67",
-        "33"
+        "34"
       ]
     },
     "year": "1997"
@@ -9240,19 +9292,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8382",
-        "4711"
+        "8693",
+        "5013"
       ],
       "hindex": [
-        "40",
+        "41",
         "28"
       ],
       "i10index": [
-        "135",
-        "69"
+        "136",
+        "71"
       ]
     },
-    "year": "1999"
+    "year": "2000"
   },
   {
     "name": "Dekai Wu",
@@ -9268,19 +9320,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5957",
-        "795"
+        "5996",
+        "828"
       ],
       "hindex": [
         "38",
         "13"
       ],
       "i10index": [
-        "78",
+        "80",
         "18"
       ]
     },
-    "year": "1991"
+    "year": "1992"
   },
   {
     "name": "Fei Xia",
@@ -9292,16 +9344,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4626",
-        "1696"
+        "4760",
+        "1822"
       ],
       "hindex": [
         "36",
-        "23"
+        "24"
       ],
       "i10index": [
-        "83",
-        "52"
+        "84",
+        "54"
       ]
     },
     "year": "1999"
@@ -9320,16 +9372,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16129",
-        "15371"
+        "17544",
+        "16783"
       ],
       "hindex": [
-        "50",
-        "49"
+        "52",
+        "52"
       ],
       "i10index": [
-        "144",
-        "138"
+        "155",
+        "148"
       ]
     },
     "year": "2013"
@@ -9346,16 +9398,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2463",
-        "1914"
+        "2628",
+        "2075"
       ],
       "hindex": [
         "23",
-        "20"
+        "21"
       ],
       "i10index": [
-        "39",
-        "33"
+        "40",
+        "34"
       ]
     },
     "year": "2007"
@@ -9372,16 +9424,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8486",
-        "4139"
+        "8740",
+        "4379"
       ],
       "hindex": [
         "42",
-        "29"
+        "30"
       ],
       "i10index": [
-        "78",
-        "60"
+        "82",
+        "61"
       ]
     },
     "year": "2002"
@@ -9400,16 +9452,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6881",
-        "6142"
+        "7332",
+        "6595"
       ],
       "hindex": [
-        "38",
-        "38"
+        "40",
+        "39"
       ],
       "i10index": [
-        "130",
-        "124"
+        "132",
+        "126"
       ]
     },
     "year": "2011"
@@ -9427,16 +9479,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7759",
-        "6978"
+        "8203",
+        "7417"
       ],
       "hindex": [
-        "33",
-        "29"
+        "35",
+        "30"
       ],
       "i10index": [
-        "53",
-        "50"
+        "54",
+        "52"
       ]
     },
     "year": "2014"
@@ -9452,16 +9504,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1612",
-        "1357"
+        "1709",
+        "1453"
       ],
       "hindex": [
         "18",
         "17"
       ],
       "i10index": [
-        "26",
-        "25"
+        "27",
+        "26"
       ]
     },
     "year": "2012"
@@ -9474,12 +9526,12 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "16658",
-        "4286"
+        "16833",
+        "4446"
       ],
       "hindex": [
         "55",
-        "30"
+        "31"
       ],
       "i10index": [
         "95",
@@ -9501,16 +9553,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1947",
-        "1035"
+        "2006",
+        "1093"
       ],
       "hindex": [
         "21",
-        "18"
+        "19"
       ],
       "i10index": [
-        "36",
-        "31"
+        "37",
+        "32"
       ]
     },
     "year": "2004"
@@ -9526,16 +9578,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8627",
-        "7561"
+        "9170",
+        "8104"
       ],
       "hindex": [
         "29",
-        "28"
+        "29"
       ],
       "i10index": [
-        "37",
-        "35"
+        "39",
+        "37"
       ]
     },
     "year": "2011"
@@ -9552,16 +9604,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19766",
-        "13006"
+        "20664",
+        "13898"
       ],
       "hindex": [
-        "59",
+        "60",
         "42"
       ],
       "i10index": [
-        "104",
-        "90"
+        "105",
+        "92"
       ]
     },
     "year": "2004"
@@ -9578,16 +9630,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "46573",
-        "33560"
+        "48037",
+        "34986"
       ],
       "hindex": [
         "77",
-        "64"
+        "65"
       ],
       "i10index": [
-        "261",
-        "200"
+        "269",
+        "209"
       ]
     },
     "year": "2009"
@@ -9605,16 +9657,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3616",
-        "1644"
+        "3688",
+        "1713"
       ],
       "hindex": [
-        "30",
-        "23"
+        "31",
+        "24"
       ],
       "i10index": [
-        "58",
-        "44"
+        "60",
+        "46"
       ]
     },
     "year": "2007"
@@ -9632,16 +9684,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "42028",
-        "37288"
+        "45949",
+        "41207"
       ],
       "hindex": [
-        "78",
-        "68"
+        "79",
+        "69"
       ],
       "i10index": [
-        "157",
-        "140"
+        "165",
+        "148"
       ]
     },
     "year": "2008"
@@ -9649,7 +9701,7 @@ var data = [
   {
     "name": "Qi Zhang",
     "url": "https://scholar.google.com/citations?user=XfqR3yYAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XfqR3yYAAAAJ&citpid=2",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XfqR3yYAAAAJ&citpid=3",
     "affiliation": "Professor of Computer Science, Fudan University",
     "keywords": [
       "Natural Language Processing",
@@ -9657,16 +9709,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4240",
-        "3137"
+        "4478",
+        "3375"
       ],
       "hindex": [
-        "33",
-        "29"
+        "34",
+        "30"
       ],
       "i10index": [
-        "79",
-        "60"
+        "84",
+        "65"
       ]
     },
     "year": "2008"
@@ -9685,16 +9737,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10061",
-        "8300"
+        "10694",
+        "8927"
       ],
       "hindex": [
-        "51",
-        "49"
+        "52",
+        "51"
       ],
       "i10index": [
-        "145",
-        "135"
+        "157",
+        "147"
       ]
     },
     "year": "2009"
@@ -9712,16 +9764,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6536",
-        "5847"
+        "6968",
+        "6282"
       ],
       "hindex": [
-        "39",
-        "38"
+        "41",
+        "40"
       ],
       "i10index": [
-        "115",
-        "107"
+        "119",
+        "110"
       ]
     },
     "year": "2012"
@@ -9740,16 +9792,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12506",
-        "10877"
+        "12989",
+        "11357"
       ],
       "hindex": [
         "38",
         "33"
       ],
       "i10index": [
-        "96",
-        "66"
+        "99",
+        "70"
       ]
     },
     "year": "2004"
@@ -9765,16 +9817,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11448",
-        "5693"
+        "11775",
+        "6014"
       ],
       "hindex": [
         "50",
-        "36"
+        "37"
       ],
       "i10index": [
-        "192",
-        "128"
+        "196",
+        "132"
       ]
     },
     "year": "2003"
@@ -9791,16 +9843,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7687",
-        "6086"
+        "8021",
+        "6417"
       ],
       "hindex": [
-        "33",
-        "28"
+        "34",
+        "30"
       ],
       "i10index": [
-        "56",
-        "47"
+        "60",
+        "52"
       ]
     },
     "year": "2008"
@@ -9817,16 +9869,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6299",
-        "3873"
+        "6499",
+        "4066"
       ],
       "hindex": [
         "34",
-        "29"
+        "30"
       ],
       "i10index": [
-        "132",
-        "79"
+        "133",
+        "80"
       ]
     },
     "year": "2002"
@@ -9845,16 +9897,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7290",
-        "2744"
+        "7462",
+        "2912"
       ],
       "hindex": [
-        "43",
-        "25"
+        "44",
+        "26"
       ],
       "i10index": [
         "169",
-        "73"
+        "74"
       ]
     },
     "year": "1994"
