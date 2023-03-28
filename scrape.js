@@ -59,7 +59,7 @@ var scrapeEntry = function(person, doneCallback) {
     // Adding a timeout to regulate scraping speed.
     setTimeout(function() {
       doneCallback(null, data);
-    }, 1000);
+    }, 5000);
   });
 };
 
