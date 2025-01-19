@@ -1,4 +1,4 @@
-var date = "Thu Jun 13 2024 21:24:21 GMT-0400 (EDT)"
+var date = "Sat Jan 18 2025 23:08:22 GMT-0500 (EST)"
 var data = [
   {
     "name": "Eugene Agichtein",
@@ -13,16 +13,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15312",
-        "4112"
+        "15758",
+        "3621"
       ],
       "hindex": [
-        "51",
-        "31"
+        "52",
+        "30"
       ],
       "i10index": [
-        "111",
-        "64"
+        "115",
+        "63"
       ]
     },
     "year": "2002"
@@ -41,16 +41,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21666",
-        "11357"
+        "23601",
+        "11506"
       ],
       "hindex": [
-        "60",
-        "40"
+        "64",
+        "38"
       ],
       "i10index": [
-        "175",
-        "89"
+        "184",
+        "90"
       ]
     },
     "year": "2000"
@@ -69,16 +69,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7800",
-        "6454"
+        "8968",
+        "6791"
       ],
       "hindex": [
-        "12",
-        "12"
+        "14",
+        "13"
       ],
       "i10index": [
-        "13",
-        "12"
+        "17",
+        "16"
       ]
     },
     "year": "2015"
@@ -91,16 +91,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "4902",
-        "3977"
+        "5391",
+        "3851"
       ],
       "hindex": [
         "24",
-        "21"
+        "19"
       ],
       "i10index": [
-        "32",
-        "26"
+        "34",
+        "27"
       ]
     },
     "year": "2012"
@@ -113,24 +113,24 @@ var data = [
     "keywords": [
       "Natural Language Processing",
       "Text Mining",
-      "Biomedical Text Mining",
+      "Computational Linguistics",
       "Artificial Intelligence"
     ],
     "stats": {
       "citations": [
-        "21018",
-        "9457"
+        "23062",
+        "9922"
       ],
       "hindex": [
-        "70",
-        "45"
+        "74",
+        "47"
       ],
       "i10index": [
-        "261",
-        "156"
+        "283",
+        "170"
       ]
     },
-    "year": "1999"
+    "year": "2000"
   },
   {
     "name": "Jacob Andreas",
@@ -143,16 +143,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10010",
-        "8524"
+        "11935",
+        "9601"
       ],
       "hindex": [
-        "48",
-        "44"
+        "51",
+        "46"
       ],
       "i10index": [
-        "80",
-        "74"
+        "92",
+        "86"
       ]
     },
     "year": "2013"
@@ -160,24 +160,26 @@ var data = [
   {
     "name": "Yoav Artzi",
     "url": "https://scholar.google.com/citations?user=XuQW7ogAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XuQW7ogAAAAJ&citpid=8",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XuQW7ogAAAAJ&citpid=9",
     "affiliation": "Cornell University; ASAPP",
     "keywords": [
+      "Language Modeling",
       "Natural Language Processing",
-      "Machine Learning"
+      "Machine Learning",
+      "Artificial Intelligence"
     ],
     "stats": {
       "citations": [
-        "11168",
-        "9738"
+        "13482",
+        "11334"
       ],
       "hindex": [
-        "35",
-        "31"
+        "37",
+        "32"
       ],
       "i10index": [
-        "51",
-        "48"
+        "56",
+        "53"
       ]
     },
     "year": "2013"
@@ -193,19 +195,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6439",
-        "5661"
+        "7698",
+        "6404"
       ],
       "hindex": [
-        "40",
-        "39"
+        "45",
+        "42"
       ],
       "i10index": [
-        "89",
-        "81"
+        "100",
+        "86"
       ]
     },
-    "year": "2013"
+    "year": "2014"
   },
   {
     "name": "Ahmed Hassan Awadallah",
@@ -219,19 +221,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12253",
-        "8600"
+        "15145",
+        "10567"
       ],
       "hindex": [
-        "51",
-        "42"
+        "55",
+        "45"
       ],
       "i10index": [
-        "141",
-        "117"
+        "158",
+        "130"
       ]
     },
-    "year": "2009"
+    "year": "2010"
   },
   {
     "name": "Timothy Baldwin",
@@ -245,16 +247,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "25259",
-        "13847"
+        "27726",
+        "14077"
       ],
       "hindex": [
-        "74",
-        "54"
+        "77",
+        "55"
       ],
       "i10index": [
-        "294",
-        "196"
+        "314",
+        "202"
       ]
     },
     "year": "2003"
@@ -271,19 +273,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11512",
-        "8450"
+        "12231",
+        "7420"
       ],
       "hindex": [
-        "35",
-        "32"
+        "37",
+        "30"
       ],
       "i10index": [
         "69",
-        "55"
+        "52"
       ]
     },
-    "year": "2012"
+    "year": "2013"
   },
   {
     "name": "Mohit Bansal",
@@ -298,19 +300,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "24729",
-        "22379"
+        "31120",
+        "27194"
       ],
       "hindex": [
-        "72",
-        "69"
+        "83",
+        "79"
       ],
       "i10index": [
-        "210",
-        "203"
+        "238",
+        "226"
       ]
     },
-    "year": "2013"
+    "year": "2015"
   },
   {
     "name": "Asma Ben Abacha",
@@ -324,16 +326,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3191",
-        "2569"
+        "3884",
+        "2984"
       ],
       "hindex": [
-        "30",
-        "29"
+        "33",
+        "31"
       ],
       "i10index": [
-        "49",
-        "45"
+        "59",
+        "50"
       ]
     },
     "year": "2011"
@@ -351,16 +353,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "422",
-        "349"
+        "528",
+        "449"
       ],
       "hindex": [
-        "10",
-        "8"
+        "11",
+        "9"
       ],
       "i10index": [
-        "10",
-        "7"
+        "12",
+        "8"
       ]
     },
     "year": "2013"
@@ -376,15 +378,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12472",
-        "8416"
+        "15395",
+        "10963"
       ],
       "hindex": [
-        "36",
-        "23"
+        "38",
+        "24"
       ],
       "i10index": [
-        "77",
+        "81",
         "48"
       ]
     },
@@ -393,7 +395,7 @@ var data = [
   {
     "name": "Jonathan Berant",
     "url": "https://scholar.google.com/citations?user=xCYHonIAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=xCYHonIAAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=xCYHonIAAAAJ&citpid=4",
     "affiliation": "Associate Professor, Tel-Aviv University, Visiting Faculty Researcher, Google DeepMInd",
     "keywords": [
       "Natural Language Processing",
@@ -401,16 +403,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14225",
-        "11981"
+        "17383",
+        "14182"
       ],
       "hindex": [
-        "51",
-        "49"
+        "57",
+        "52"
       ],
       "i10index": [
-        "109",
-        "97"
+        "116",
+        "104"
       ]
     },
     "year": "2011"
@@ -427,16 +429,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2314",
-        "689"
+        "2402",
+        "612"
       ],
       "hindex": [
-        "23",
-        "14"
+        "24",
+        "13"
       ],
       "i10index": [
-        "33",
-        "16"
+        "37",
+        "19"
       ]
     },
     "year": "2005"
@@ -455,16 +457,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17851",
-        "10672"
+        "18877",
+        "9548"
       ],
       "hindex": [
-        "49",
-        "38"
+        "51",
+        "35"
       ],
       "i10index": [
-        "104",
-        "78"
+        "112",
+        "80"
       ]
     },
     "year": "2009"
@@ -483,16 +485,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8117",
-        "7875"
+        "10170",
+        "9550"
       ],
       "hindex": [
-        "35",
-        "35"
+        "38",
+        "38"
       ],
       "i10index": [
-        "48",
-        "47"
+        "51",
+        "50"
       ]
     },
     "year": "2017"
@@ -510,8 +512,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1061",
-        "558"
+        "1127",
+        "521"
       ],
       "hindex": [
         "13",
@@ -538,16 +540,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15967",
-        "10934"
+        "17738",
+        "11603"
       ],
       "hindex": [
-        "59",
-        "46"
+        "63",
+        "48"
       ],
       "i10index": [
-        "375",
-        "272"
+        "406",
+        "290"
       ]
     },
     "year": "2003"
@@ -566,51 +568,50 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10788",
-        "6817"
+        "11816",
+        "6856"
       ],
       "hindex": [
-        "50",
-        "40"
+        "51",
+        "39"
       ],
       "i10index": [
-        "164",
-        "128"
+        "178",
+        "124"
       ]
     },
-    "year": "2004"
+    "year": "2006"
   },
   {
     "name": "Lidong Bing",
     "url": "https://scholar.google.com/citations?user=_oYzrzAAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=_oYzrzAAAAAJ&citpid=5",
-    "affiliation": "Alibaba DAMO, Tencent, CMU, CUHK",
+    "affiliation": "Shanda Group, Alibaba DAMO, Tencent, CMU, CUHK",
     "keywords": [
       "Natural Language Processing",
       "Large Language Models",
-      "Large Multimodal Models",
-      "Embodied AI"
+      "Large Multimodal Models"
     ],
     "stats": {
       "citations": [
-        "9509",
-        "8851"
+        "13120",
+        "11896"
       ],
       "hindex": [
-        "47",
-        "45"
+        "55",
+        "51"
       ],
       "i10index": [
-        "117",
-        "108"
+        "141",
+        "125"
       ]
     },
-    "year": "2014"
+    "year": "2015"
   },
   {
     "name": "Yonatan Bisk",
     "url": "https://scholar.google.com/citations?user=bWoGh8UAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=bWoGh8UAAAAJ&citpid=9",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=bWoGh8UAAAAJ&citpid=11",
     "affiliation": "Assistant Professor, Carnegie Mellon University",
     "keywords": [
       "Natural Language Processing",
@@ -619,16 +620,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9186",
-        "8836"
+        "12782",
+        "11947"
       ],
       "hindex": [
-        "36",
-        "34"
+        "41",
+        "41"
       ],
       "i10index": [
-        "63",
-        "61"
+        "71",
+        "66"
       ]
     },
     "year": "2015"
@@ -646,16 +647,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "624",
-        "623"
+        "719",
+        "710"
       ],
       "hindex": [
-        "13",
-        "13"
+        "14",
+        "14"
       ],
       "i10index": [
-        "18",
-        "18"
+        "19",
+        "19"
       ]
     },
     "year": "2019"
@@ -670,16 +671,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3051",
-        "2040"
+        "3329",
+        "1995"
       ],
       "hindex": [
         "23",
-        "19"
+        "18"
       ],
       "i10index": [
-        "37",
-        "29"
+        "40",
+        "28"
       ]
     },
     "year": "2010"
@@ -694,16 +695,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17547",
-        "7350"
+        "18466",
+        "7067"
       ],
       "hindex": [
-        "63",
-        "43"
+        "64",
+        "42"
       ],
       "i10index": [
-        "188",
-        "111"
+        "195",
+        "110"
       ]
     },
     "year": "2001"
@@ -721,16 +722,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17589",
-        "9305"
+        "18690",
+        "9056"
       ],
       "hindex": [
-        "42",
-        "33"
+        "44",
+        "34"
       ],
       "i10index": [
-        "149",
-        "90"
+        "160",
+        "95"
       ]
     },
     "year": "2007"
@@ -746,16 +747,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8758",
-        "2702"
+        "9029",
+        "2462"
       ],
       "hindex": [
-        "46",
-        "27"
+        "47",
+        "26"
       ],
       "i10index": [
-        "121",
-        "64"
+        "123",
+        "61"
       ]
     },
     "year": "1995"
@@ -774,16 +775,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10970",
-        "3134"
+        "11309",
+        "2890"
       ],
       "hindex": [
-        "45",
+        "46",
         "26"
       ],
       "i10index": [
-        "176",
-        "70"
+        "185",
+        "68"
       ]
     },
     "year": "1996"
@@ -800,16 +801,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8429",
-        "8360"
+        "11747",
+        "11448"
       ],
       "hindex": [
-        "31",
-        "31"
+        "30",
+        "30"
       ],
       "i10index": [
-        "44",
-        "44"
+        "54",
+        "52"
       ]
     },
     "year": "2018"
@@ -817,7 +818,7 @@ var data = [
   {
     "name": "Florian Boudin",
     "url": "https://scholar.google.ca/citations?user=Vk68rbkAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Vk68rbkAAAAJ&citpid=8",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Vk68rbkAAAAJ&citpid=9",
     "affiliation": "Associate Professor, LS2N - Nantes Université and JFLI - National Institute of Informatics / Tokyo",
     "keywords": [
       "Natural Language Processing",
@@ -826,16 +827,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2245",
-        "1416"
+        "2428",
+        "1441"
       ],
       "hindex": [
         "20",
-        "14"
+        "15"
       ],
       "i10index": [
-        "35",
-        "21"
+        "37",
+        "23"
       ]
     },
     "year": "2007"
@@ -844,7 +845,7 @@ var data = [
     "name": "Jordan Boyd-Graber",
     "url": "https://scholar.google.com/citations?user=BT4XTP4AAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BT4XTP4AAAAJ&citpid=4",
-    "affiliation": "Associate Professor, University of Maryland",
+    "affiliation": "Full Professor, University of Maryland",
     "keywords": [
       "Machine Learning",
       "Computational Linguistics",
@@ -854,16 +855,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14437",
-        "9186"
+        "15731",
+        "9097"
       ],
       "hindex": [
-        "52",
-        "45"
+        "55",
+        "42"
       ],
       "i10index": [
-        "126",
-        "108"
+        "133",
+        "106"
       ]
     },
     "year": "2009"
@@ -872,26 +873,25 @@ var data = [
     "name": "Samuel R. Bowman",
     "url": "https://scholar.google.ca/citations?user=kV9XRxYAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=kV9XRxYAAAAJ&citpid=10",
-    "affiliation": "NYU and Anthropic",
+    "affiliation": "Anthropic and NYU",
     "keywords": [
+      "ai alignment",
       "natural language processing",
-      "computational linguistics",
-      "language model evaluation",
-      "AI alignment",
-      "scalable oversight"
+      "large language models",
+      "computational linguistics"
     ],
     "stats": {
       "citations": [
-        "35018",
-        "32811"
+        "42336",
+        "37553"
       ],
       "hindex": [
-        "55",
-        "52"
+        "61",
+        "59"
       ],
       "i10index": [
-        "99",
-        "95"
+        "108",
+        "102"
       ]
     },
     "year": "2016"
@@ -909,16 +909,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1665",
-        "1067"
+        "1815",
+        "1020"
       ],
       "hindex": [
         "17",
         "14"
       ],
       "i10index": [
-        "20",
-        "18"
+        "23",
+        "19"
       ]
     },
     "year": "2012"
@@ -927,7 +927,7 @@ var data = [
     "name": "Phil Blunsom",
     "url": "https://scholar.google.com/citations?user=eJwbbXEAAAAJ",
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
-    "affiliation": "Cohere & Oxford University",
+    "affiliation": "Cohere & St Hugh’s College Oxford",
     "keywords": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -936,16 +936,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "27337",
-        "18148"
+        "29459",
+        "16749"
       ],
       "hindex": [
-        "58",
+        "61",
         "48"
       ],
       "i10index": [
-        "124",
-        "98"
+        "127",
+        "96"
       ]
     },
     "year": "2009"
@@ -962,16 +962,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9517",
-        "3398"
+        "10192",
+        "3346"
       ],
       "hindex": [
-        "50",
-        "31"
+        "51",
+        "32"
       ],
       "i10index": [
-        "99",
-        "70"
+        "103",
+        "69"
       ]
     },
     "year": "2000"
@@ -989,16 +989,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7100",
-        "1971"
+        "7451",
+        "2043"
       ],
       "hindex": [
-        "43",
+        "45",
         "23"
       ],
       "i10index": [
-        "144",
-        "47"
+        "148",
+        "46"
       ]
     },
     "year": "1994"
@@ -1014,16 +1014,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2825",
-        "1070"
+        "3008",
+        "1035"
       ],
       "hindex": [
-        "28",
-        "16"
+        "29",
+        "17"
       ],
       "i10index": [
-        "54",
-        "22"
+        "57",
+        "24"
       ]
     },
     "year": "2002"
@@ -1032,7 +1032,7 @@ var data = [
     "name": "Chris Callison-Burch",
     "url": "https://scholar.google.com/citations?user=nv-MV58AAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=nv-MV58AAAAJ&citpid=8",
-    "affiliation": "Associate Professor, University of Pennsylvania",
+    "affiliation": "Professor, University of Pennsylvania",
     "keywords": [
       "Natural Language Processing",
       "Crowdsourcing",
@@ -1040,16 +1040,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "28508",
-        "12625"
+        "29685",
+        "12447"
       ],
       "hindex": [
-        "64",
+        "68",
         "47"
       ],
       "i10index": [
-        "177",
-        "124"
+        "187",
+        "121"
       ]
     },
     "year": "2006"
@@ -1067,19 +1067,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5599",
-        "5017"
+        "6817",
+        "5755"
       ],
       "hindex": [
-        "34",
+        "36",
         "33"
       ],
       "i10index": [
-        "62",
-        "59"
+        "76",
+        "71"
       ]
     },
-    "year": "2015"
+    "year": "2016"
   },
   {
     "name": "Yanshuai Cao",
@@ -1095,16 +1095,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1281",
-        "1104"
+        "1443",
+        "1138"
       ],
       "hindex": [
-        "17",
-        "16"
+        "18",
+        "18"
       ],
       "i10index": [
-        "19",
-        "18"
+        "23",
+        "21"
       ]
     },
     "year": "2014"
@@ -1122,16 +1122,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "33671",
-        "15354"
+        "36322",
+        "15149"
       ],
       "hindex": [
-        "82",
-        "57"
+        "86",
+        "58"
       ],
       "i10index": [
-        "181",
-        "127"
+        "186",
+        "129"
       ]
     },
     "year": "1997"
@@ -1149,16 +1149,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8939",
-        "3987"
+        "9550",
+        "3880"
       ],
       "hindex": [
-        "51",
-        "35"
+        "53",
+        "34"
       ],
       "i10index": [
-        "135",
-        "89"
+        "147",
+        "95"
       ]
     },
     "year": "1995"
@@ -1167,26 +1167,26 @@ var data = [
     "name": "Asli Celikyilmaz",
     "url": "https://scholar.google.com/citations?user=aLHWnHsAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=aLHWnHsAAAAJ&citpid=3",
-    "affiliation": "Researcher @ FAIR at Meta AI",
+    "affiliation": "Researcher @ FAIR at Meta",
     "keywords": [
       "Deep Learning",
       "Natural Language Processing"
     ],
     "stats": {
       "citations": [
-        "12098",
-        "10028"
+        "16771",
+        "13914"
       ],
       "hindex": [
-        "49",
-        "43"
+        "53",
+        "47"
       ],
       "i10index": [
-        "115",
-        "90"
+        "123",
+        "96"
       ]
     },
-    "year": "2008"
+    "year": "2009"
   },
   {
     "name": "Daniel Cer",
@@ -1202,16 +1202,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12919",
-        "10181"
+        "15619",
+        "11782"
       ],
       "hindex": [
-        "36",
-        "26"
+        "39",
+        "28"
       ],
       "i10index": [
-        "44",
-        "37"
+        "50",
+        "41"
       ]
     },
     "year": "2007"
@@ -1227,16 +1227,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21434",
-        "18050"
+        "25261",
+        "20189"
       ],
       "hindex": [
-        "43",
-        "39"
+        "48",
+        "44"
       ],
       "i10index": [
-        "68",
-        "61"
+        "77",
+        "71"
       ]
     },
     "year": "2012"
@@ -1254,16 +1254,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "34605",
-        "24318"
+        "41567",
+        "29176"
       ],
       "hindex": [
-        "63",
-        "58"
+        "70",
+        "64"
       ],
       "i10index": [
-        "171",
-        "162"
+        "206",
+        "194"
       ]
     },
     "year": "2009"
@@ -1279,16 +1279,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "49907",
-        "46880"
+        "62118",
+        "57238"
       ],
       "hindex": [
-        "42",
-        "40"
+        "48",
+        "46"
       ],
       "i10index": [
-        "60",
-        "59"
+        "72",
+        "71"
       ]
     },
     "year": "2015"
@@ -1307,19 +1307,45 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "810",
-        "476"
+        "906",
+        "492"
       ],
       "hindex": [
-        "15",
+        "16",
         "11"
       ],
       "i10index": [
-        "26",
-        "13"
+        "29",
+        "14"
       ]
     },
     "year": "2011"
+  },
+  {
+    "name": "Wenhu Chen",
+    "url": "https://scholar.google.com/citations?user=U8ShbhUAAAAJ",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=U8ShbhUAAAAJ&citpid=16",
+    "affiliation": "Assistant Professor at University of Waterloo",
+    "keywords": [
+      "Natural Language Processing",
+      "Artificial Intelligence",
+      "Deep Learning"
+    ],
+    "stats": {
+      "citations": [
+        "9309",
+        "9037"
+      ],
+      "hindex": [
+        "46",
+        "45"
+      ],
+      "i10index": [
+        "79",
+        "79"
+      ]
+    },
+    "year": "2018"
   },
   {
     "name": "Jackie Chi Kit Cheung",
@@ -1332,16 +1358,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3150",
-        "2525"
+        "3653",
+        "2811"
       ],
       "hindex": [
-        "30",
+        "31",
         "27"
       ],
       "i10index": [
-        "58",
-        "53"
+        "63",
+        "55"
       ]
     },
     "year": "2008"
@@ -1357,16 +1383,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9460",
-        "2601"
+        "9792",
+        "2329"
       ],
       "hindex": [
-        "37",
+        "38",
         "24"
       ],
       "i10index": [
-        "74",
-        "47"
+        "80",
+        "43"
       ]
     },
     "year": "2002"
@@ -1382,16 +1408,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "150155",
-        "121172"
+        "166263",
+        "119016"
       ],
       "hindex": [
-        "101",
+        "106",
         "94"
       ],
       "i10index": [
-        "251",
-        "237"
+        "269",
+        "249"
       ]
     },
     "year": "2015"
@@ -1400,22 +1426,22 @@ var data = [
     "name": "Martin Chodorow",
     "url": "https://scholar.google.com/citations?user=PuwfixYAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=PuwfixYAAAAJ&citpid=1",
-    "affiliation": "Professor of Psychology and Linguistics, Hunter College and the Graduate Center of CUNY",
+    "affiliation": "Emeritus Professor of Psychology and Linguistics, Hunter College and the Graduate Center of CUNY",
     "keywords": [
       "Computational Linguistics",
       "Cognitive Psychology"
     ],
     "stats": {
       "citations": [
-        "12202",
-        "2960"
+        "9844",
+        "2328"
       ],
       "hindex": [
-        "45",
-        "26"
+        "46",
+        "24"
       ],
       "i10index": [
-        "82",
+        "84",
         "48"
       ]
     },
@@ -1423,24 +1449,25 @@ var data = [
   },
   {
     "name": "Eunsol Choi",
-    "url": "https://scholar.google.com/citations?hl=en&user=aczkJSgAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=aczkJSgAAAAJ&citpid=1",
-    "affiliation": "The University of Texas at Austin",
+    "url": "https://scholar.google.com/citations?user=6wulN88AAAAJ",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=6wulN88AAAAJ&citpid=5",
+    "affiliation": "New York University",
     "keywords": [
-      "natural language processing"
+      "natural language processing",
+      "machine learning"
     ],
     "stats": {
       "citations": [
-        "7428",
-        "6865"
+        "8973",
+        "7781"
       ],
       "hindex": [
-        "32",
-        "30"
+        "34",
+        "31"
       ],
       "i10index": [
-        "40",
-        "40"
+        "47",
+        "46"
       ]
     },
     "year": "2014"
@@ -1457,16 +1484,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3790",
-        "2457"
+        "4178",
+        "2528"
       ],
       "hindex": [
-        "34",
+        "35",
         "28"
       ],
       "i10index": [
-        "59",
-        "46"
+        "65",
+        "50"
       ]
     },
     "year": "2011"
@@ -1484,16 +1511,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "46634",
-        "39718"
+        "58068",
+        "48705"
       ],
       "hindex": [
-        "101",
-        "91"
+        "110",
+        "98"
       ],
       "i10index": [
-        "230",
-        "225"
+        "267",
+        "258"
       ]
     },
     "year": "2010"
@@ -1512,16 +1539,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "979",
-        "536"
+        "1095",
+        "590"
       ],
       "hindex": [
-        "16",
-        "12"
+        "17",
+        "11"
       ],
       "i10index": [
-        "24",
-        "14"
+        "25",
+        "13"
       ]
     },
     "year": "2011"
@@ -1538,16 +1565,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "29864",
-        "6738"
+        "31110",
+        "6758"
       ],
       "hindex": [
-        "71",
+        "72",
         "35"
       ],
       "i10index": [
-        "154",
-        "90"
+        "162",
+        "87"
       ]
     },
     "year": "1990"
@@ -1563,16 +1590,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4224",
-        "3134"
+        "5211",
+        "3829"
       ],
       "hindex": [
-        "17",
-        "15"
+        "19",
+        "14"
       ],
       "i10index": [
-        "24",
-        "16"
+        "26",
+        "17"
       ]
     },
     "year": "2011"
@@ -1590,16 +1617,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11047",
-        "4181"
+        "11464",
+        "3725"
       ],
       "hindex": [
         "56",
-        "35"
+        "34"
       ],
       "i10index": [
-        "116",
-        "83"
+        "117",
+        "80"
       ]
     },
     "year": "2003"
@@ -1618,16 +1645,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9228",
-        "3094"
+        "9579",
+        "2789"
       ],
       "hindex": [
-        "50",
+        "52",
         "31"
       ],
       "i10index": [
-        "115",
-        "62"
+        "116",
+        "54"
       ]
     },
     "year": "2004"
@@ -1646,16 +1673,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "50354",
-        "19742"
+        "53694",
+        "19796"
       ],
       "hindex": [
-        "96",
-        "60"
+        "100",
+        "59"
       ],
       "i10index": [
         "293",
-        "165"
+        "153"
       ]
     },
     "year": "1994"
@@ -1673,16 +1700,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11491",
-        "7283"
+        "12362",
+        "6944"
       ],
       "hindex": [
-        "57",
-        "44"
+        "59",
+        "43"
       ],
       "i10index": [
-        "161",
-        "129"
+        "168",
+        "130"
       ]
     },
     "year": "2007"
@@ -1690,7 +1717,7 @@ var data = [
   {
     "name": "Nigel Collier",
     "url": "https://scholar.google.com/citations?user=ZMelBa0AAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZMelBa0AAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZMelBa0AAAAJ&citpid=5",
     "affiliation": "Professor of Natural Language Processing, University of Cambridge",
     "keywords": [
       "Natural language processing",
@@ -1701,16 +1728,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11626",
-        "5786"
+        "12881",
+        "6201"
       ],
       "hindex": [
-        "54",
-        "40"
+        "57",
+        "43"
       ],
       "i10index": [
-        "149",
-        "101"
+        "159",
+        "102"
       ]
     },
     "year": "2000"
@@ -1728,16 +1755,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "32599",
-        "10127"
+        "34490",
+        "10478"
       ],
       "hindex": [
-        "67",
-        "43"
+        "69",
+        "40"
       ],
       "i10index": [
-        "110",
-        "82"
+        "113",
+        "76"
       ]
     },
     "year": "1998"
@@ -1754,16 +1781,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7327",
-        "6578"
+        "9044",
+        "7770"
       ],
       "hindex": [
-        "48",
-        "44"
+        "55",
+        "50"
       ],
       "i10index": [
-        "135",
-        "131"
+        "154",
+        "146"
       ]
     },
     "year": "2015"
@@ -1782,16 +1809,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12709",
-        "1901"
+        "12917",
+        "1647"
       ],
       "hindex": [
-        "46",
-        "19"
+        "47",
+        "18"
       ],
       "i10index": [
         "120",
-        "32"
+        "29"
       ]
     },
     "year": "1997"
@@ -1806,16 +1833,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9118",
-        "2453"
+        "9389",
+        "2150"
       ],
       "hindex": [
-        "43",
-        "24"
+        "44",
+        "22"
       ],
       "i10index": [
-        "96",
-        "45"
+        "97",
+        "42"
       ]
     },
     "year": "2003"
@@ -1832,19 +1859,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19173",
-        "6765"
+        "19924",
+        "6186"
       ],
       "hindex": [
-        "71",
-        "43"
+        "73",
+        "40"
       ],
       "i10index": [
-        "265",
-        "137"
+        "268",
+        "125"
       ]
     },
-    "year": "1996"
+    "year": "1993"
   },
   {
     "name": "Ido Dagan",
@@ -1857,16 +1884,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "23326",
-        "9989"
+        "24987",
+        "9852"
       ],
       "hindex": [
-        "63",
-        "39"
+        "65",
+        "38"
       ],
       "i10index": [
-        "187",
-        "120"
+        "198",
+        "119"
       ]
     },
     "year": "1995"
@@ -1882,16 +1909,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "27157",
-        "15992"
+        "29547",
+        "16069"
       ],
       "hindex": [
-        "72",
+        "74",
         "53"
       ],
       "i10index": [
-        "186",
-        "133"
+        "196",
+        "137"
       ]
     },
     "year": "2006"
@@ -1906,19 +1933,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15567",
-        "10282"
+        "19577",
+        "13085"
       ],
       "hindex": [
-        "46",
+        "47",
         "38"
       ],
       "i10index": [
-        "64",
-        "50"
+        "68",
+        "51"
       ]
     },
-    "year": "2009"
+    "year": "2010"
   },
   {
     "name": "Hongbo Deng",
@@ -1933,44 +1960,69 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3954",
-        "1921"
+        "4274",
+        "1976"
       ],
       "hindex": [
-        "29",
-        "21"
+        "31",
+        "22"
       ],
       "i10index": [
-        "60",
+        "65",
         "46"
       ]
     },
     "year": "2008"
   },
   {
+    "name": "Yuntian Deng",
+    "url": "https://scholar.google.com/citations?user=tk0e5lYAAAAJ",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=tk0e5lYAAAAJ&citpid=4",
+    "affiliation": "Assistant Professor, University of Waterloo",
+    "keywords": [
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "stats": {
+      "citations": [
+        "5408",
+        "4096"
+      ],
+      "hindex": [
+        "22",
+        "20"
+      ],
+      "i10index": [
+        "31",
+        "30"
+      ]
+    },
+    "year": "2016"
+  },
+  {
     "name": "Tim Dettmers",
     "url": "https://scholar.google.com/citations?user=lHI3w5kAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=lHI3w5kAAAAJ&citpid=5",
-    "affiliation": "University of Washington",
+    "affiliation": "Allen Institute for AI; Carnegie Mellon University",
     "keywords": [
       "Deep Learning",
       "Natural Language Processing"
     ],
     "stats": {
       "citations": [
-        "6564",
-        "6450"
+        "9784",
+        "9475"
       ],
       "hindex": [
-        "13",
-        "13"
+        "14",
+        "14"
       ],
       "i10index": [
-        "15",
+        "16",
         "15"
       ]
     },
-    "year": "2017"
+    "year": "2018"
   },
   {
     "name": "Mona Diab",
@@ -1985,16 +2037,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18995",
-        "11818"
+        "21640",
+        "13047"
       ],
       "hindex": [
-        "58",
-        "40"
+        "59",
+        "41"
       ],
       "i10index": [
-        "173",
-        "122"
+        "179",
+        "121"
       ]
     },
     "year": "2004"
@@ -2012,16 +2064,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3400",
-        "2262"
+        "3728",
+        "2318"
       ],
       "hindex": [
-        "31",
-        "28"
+        "33",
+        "29"
       ],
       "i10index": [
-        "67",
-        "57"
+        "71",
+        "58"
       ]
     },
     "year": "2008"
@@ -2036,19 +2088,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21713",
-        "20117"
+        "27736",
+        "25035"
       ],
       "hindex": [
-        "53",
-        "51"
+        "57",
+        "54"
       ],
       "i10index": [
-        "92",
-        "90"
+        "98",
+        "96"
       ]
     },
-    "year": "2014"
+    "year": "2015"
   },
   {
     "name": "Bonnie Dorr",
@@ -2062,16 +2114,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12875",
-        "3475"
+        "13315",
+        "3216"
       ],
       "hindex": [
-        "50",
-        "26"
+        "51",
+        "23"
       ],
       "i10index": [
-        "146",
-        "50"
+        "147",
+        "47"
       ]
     },
     "year": "1992"
@@ -2088,16 +2140,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11060",
-        "6120"
+        "12395",
+        "7001"
       ],
       "hindex": [
-        "35",
-        "25"
+        "37",
+        "29"
       ],
       "i10index": [
-        "71",
-        "58"
+        "77",
+        "61"
       ]
     },
     "year": "2004"
@@ -2105,7 +2157,7 @@ var data = [
   {
     "name": "Mark Dredze",
     "url": "https://scholar.google.com/citations?user=7jNkTbYAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=7jNkTbYAAAAJ&citpid=3",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=7jNkTbYAAAAJ&citpid=4",
     "affiliation": "Johns Hopkins University",
     "keywords": [
       "Machine Learning",
@@ -2115,16 +2167,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "28222",
-        "16965"
+        "30904",
+        "16929"
       ],
       "hindex": [
-        "76",
-        "58"
+        "78",
+        "59"
       ],
       "i10index": [
-        "213",
-        "180"
+        "223",
+        "175"
       ]
     },
     "year": "2008"
@@ -2140,23 +2192,23 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8012",
-        "5412"
+        "8659",
+        "5249"
       ],
       "hindex": [
-        "47",
-        "38"
+        "48",
+        "40"
       ],
       "i10index": [
-        "124",
-        "86"
+        "127",
+        "82"
       ]
     },
     "year": "2006"
   },
   {
     "name": "Greg Durrett",
-    "url": "https://scholar.google.com/citations?hl=en&user=EpQ_sDEAAAAJ",
+    "url": "https://scholar.google.com/citations?user=EpQ_sDEAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=EpQ_sDEAAAAJ&citpid=1",
     "affiliation": "Associate Professor of Computer Science, UT Austin",
     "keywords": [
@@ -2164,16 +2216,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5501",
-        "4647"
+        "6836",
+        "5638"
       ],
       "hindex": [
-        "40",
-        "38"
+        "46",
+        "41"
       ],
       "i10index": [
-        "79",
-        "78"
+        "86",
+        "85"
       ]
     },
     "year": "2013"
@@ -2189,16 +2241,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "48593",
-        "31008"
+        "52639",
+        "28911"
       ],
       "hindex": [
-        "84",
-        "64"
+        "86",
+        "62"
       ],
       "i10index": [
-        "186",
-        "144"
+        "191",
+        "136"
       ]
     },
     "year": "2008"
@@ -2215,16 +2267,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21436",
-        "7414"
+        "22495",
+        "7227"
       ],
       "hindex": [
-        "61",
-        "37"
+        "63",
+        "35"
       ],
       "i10index": [
-        "134",
-        "85"
+        "138",
+        "84"
       ]
     },
     "year": "1999"
@@ -2242,16 +2294,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1938",
-        "930"
+        "2042",
+        "858"
       ],
       "hindex": [
-        "22",
+        "23",
         "17"
       ],
       "i10index": [
         "32",
-        "29"
+        "28"
       ]
     },
     "year": "2007"
@@ -2269,41 +2321,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4391",
-        "1196"
+        "4523",
+        "1177"
       ],
       "hindex": [
-        "32",
-        "15"
+        "33",
+        "16"
       ],
       "i10index": [
-        "91",
+        "96",
         "33"
-      ]
-    },
-    "year": "1992"
-  },
-  {
-    "name": "Oren Etzioni",
-    "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=-hmxit8AAAAJ&citpid=3",
-    "affiliation": "Professor, University of Washington",
-    "keywords": [
-      "AI",
-      "Disinformation"
-    ],
-    "stats": {
-      "citations": [
-        "49829",
-        "14957"
-      ],
-      "hindex": [
-        "100",
-        "49"
-      ],
-      "i10index": [
-        "208",
-        "116"
       ]
     },
     "year": "1992"
@@ -2319,16 +2346,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1410",
-        "825"
+        "1502",
+        "791"
       ],
       "hindex": [
         "19",
         "15"
       ],
       "i10index": [
-        "49",
-        "26"
+        "55",
+        "25"
       ]
     },
     "year": "2009"
@@ -2337,22 +2364,22 @@ var data = [
     "name": "Manaal Faruqui",
     "url": "https://scholar.google.com/citations?user=W-CxZCgAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=W-CxZCgAAAAJ&citpid=8",
-    "affiliation": "Research Scientist, Google",
+    "affiliation": "Research Scientist, Meta",
     "keywords": [
       "natural language processing"
     ],
     "stats": {
       "citations": [
-        "7504",
-        "5478"
+        "10943",
+        "8095"
       ],
       "hindex": [
-        "31",
+        "33",
         "29"
       ],
       "i10index": [
-        "43",
-        "38"
+        "46",
+        "40"
       ]
     },
     "year": "2013"
@@ -2370,16 +2397,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4595",
-        "1825"
+        "4771",
+        "1665"
       ],
       "hindex": [
-        "33",
-        "20"
+        "34",
+        "17"
       ],
       "i10index": [
         "62",
-        "37"
+        "36"
       ]
     },
     "year": "2001"
@@ -2397,15 +2424,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1875",
-        "575"
+        "1962",
+        "554"
       ],
       "hindex": [
-        "21",
+        "20",
         "11"
       ],
       "i10index": [
-        "40",
+        "41",
         "12"
       ]
     },
@@ -2422,16 +2449,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2191",
-        "276"
+        "2215",
+        "238"
       ],
       "hindex": [
         "23",
         "7"
       ],
       "i10index": [
-        "39",
-        "6"
+        "38",
+        "5"
       ]
     },
     "year": "1992"
@@ -2446,23 +2473,23 @@ var data = [
       "conversational AI",
       "speech recognition",
       "natural language processing",
-      "AI ethics"
+      "AI"
     ],
     "stats": {
       "citations": [
-        "22896",
-        "17329"
+        "29842",
+        "23529"
       ],
       "hindex": [
-        "66",
-        "52"
+        "70",
+        "56"
       ],
       "i10index": [
-        "235",
-        "161"
+        "246",
+        "165"
       ]
     },
-    "year": "1994"
+    "year": "1997"
   },
   {
     "name": "Alona Fyshe",
@@ -2477,19 +2504,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1830",
-        "1114"
+        "2036",
+        "1156"
       ],
       "hindex": [
         "19",
         "14"
       ],
       "i10index": [
-        "22",
-        "18"
+        "24",
+        "16"
       ]
     },
-    "year": "2004"
+    "year": "2005"
   },
   {
     "name": "Hannaneh Hajishirzi",
@@ -2503,16 +2530,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "23259",
-        "21802"
+        "32136",
+        "29519"
       ],
       "hindex": [
-        "68",
-        "66"
+        "77",
+        "74"
       ],
       "i10index": [
-        "146",
-        "138"
+        "162",
+        "152"
       ]
     },
     "year": "2015"
@@ -2528,19 +2555,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14093",
-        "2995"
+        "16326",
+        "2861"
       ],
       "hindex": [
-        "56",
-        "27"
+        "57",
+        "25"
       ],
       "i10index": [
-        "190",
-        "61"
+        "193",
+        "59"
       ]
     },
-    "year": "1997"
+    "year": "1995"
   },
   {
     "name": "Matthias Gallé",
@@ -2554,16 +2581,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2391",
-        "2208"
+        "3147",
+        "2919"
       ],
       "hindex": [
-        "21",
-        "19"
+        "24",
+        "21"
       ],
       "i10index": [
-        "36",
-        "30"
+        "37",
+        "28"
       ]
     },
     "year": "2011"
@@ -2581,16 +2608,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "82457",
-        "67334"
+        "99014",
+        "77840"
       ],
       "hindex": [
-        "117",
-        "104"
+        "128",
+        "116"
       ],
       "i10index": [
-        "452",
-        "370"
+        "497",
+        "405"
       ]
     },
     "year": "2006"
@@ -2608,16 +2635,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6358",
-        "4945"
+        "7022",
+        "4980"
       ],
       "hindex": [
-        "32",
-        "25"
+        "35",
+        "24"
       ],
       "i10index": [
-        "70",
-        "49"
+        "74",
+        "51"
       ]
     },
     "year": "2008"
@@ -2634,16 +2661,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "26630",
-        "25204"
+        "29531",
+        "24858"
       ],
       "hindex": [
-        "44",
-        "43"
+        "46",
+        "45"
       ],
       "i10index": [
-        "71",
-        "67"
+        "73",
+        "69"
       ]
     },
     "year": "2016"
@@ -2652,7 +2679,7 @@ var data = [
     "name": "Sebastian Gehrmann",
     "url": "https://scholar.google.com/citations?user=x6KQCV8AAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=x6KQCV8AAAAJ&citpid=2",
-    "affiliation": "Head of NLP, CTO Office, Bloomberg LP",
+    "affiliation": "Head of Responsible AI, CTO Office, Bloomberg LP",
     "keywords": [
       "Natural Language Processing",
       "Natural Language Generation",
@@ -2660,16 +2687,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12363",
-        "12209"
+        "17428",
+        "16939"
       ],
       "hindex": [
-        "31",
-        "31"
+        "35",
+        "35"
       ],
       "i10index": [
-        "48",
-        "47"
+        "52",
+        "51"
       ]
     },
     "year": "2018"
@@ -2684,16 +2711,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13837",
-        "4312"
+        "14276",
+        "3903"
       ],
       "hindex": [
-        "45",
-        "28"
+        "46",
+        "27"
       ],
       "i10index": [
         "97",
-        "50"
+        "47"
       ]
     },
     "year": "2002"
@@ -2709,19 +2736,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "27101",
-        "22900"
+        "31618",
+        "25891"
       ],
       "hindex": [
         "47",
         "41"
       ],
       "i10index": [
-        "90",
-        "76"
+        "94",
+        "74"
       ]
     },
-    "year": "2011"
+    "year": "2012"
   },
   {
     "name": "Randy Goebel",
@@ -2737,16 +2764,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7499",
-        "3378"
+        "8187",
+        "3659"
       ],
       "hindex": [
-        "37",
+        "40",
         "25"
       ],
       "i10index": [
-        "121",
-        "65"
+        "126",
+        "64"
       ]
     },
     "year": "1986"
@@ -2763,16 +2790,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "33313",
-        "25063"
+        "37264",
+        "24990"
       ],
       "hindex": [
-        "72",
-        "64"
+        "76",
+        "66"
       ],
       "i10index": [
-        "162",
-        "141"
+        "174",
+        "148"
       ]
     },
     "year": "2012"
@@ -2788,16 +2815,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3171",
-        "2008"
+        "3517",
+        "2095"
       ],
       "hindex": [
-        "30",
-        "25"
+        "32",
+        "26"
       ],
       "i10index": [
-        "57",
-        "49"
+        "63",
+        "54"
       ]
     },
     "year": "2008"
@@ -2808,22 +2835,22 @@ var data = [
     "photo": "http://scholar.google.com/citations/images/avatar_scholar_128.png",
     "affiliation": "School of Informatics, University of Edinburgh",
     "keywords": [
-      "natural language processing",
-      "models of language acquisition",
+      "speech and language processing",
+      "cognitive models",
       "unsupervised learning"
     ],
     "stats": {
       "citations": [
-        "8604",
-        "3460"
+        "9052",
+        "3198"
       ],
       "hindex": [
-        "44",
-        "33"
+        "46",
+        "32"
       ],
       "i10index": [
-        "86",
-        "71"
+        "90",
+        "70"
       ]
     },
     "year": "2004"
@@ -2841,16 +2868,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18853",
-        "13792"
+        "20618",
+        "13217"
       ],
       "hindex": [
-        "43",
-        "38"
+        "46",
+        "40"
       ],
       "i10index": [
-        "64",
-        "60"
+        "67",
+        "62"
       ]
     },
     "year": "2013"
@@ -2865,19 +2892,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "24619",
-        "7085"
+        "25277",
+        "6437"
       ],
       "hindex": [
         "69",
-        "39"
+        "38"
       ],
       "i10index": [
-        "211",
-        "81"
+        "212",
+        "73"
       ]
     },
-    "year": "1985"
+    "year": "1986"
   },
   {
     "name": "Cyril Grouin",
@@ -2890,16 +2917,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2571",
-        "1414"
+        "2704",
+        "1301"
       ],
       "hindex": [
-        "28",
-        "19"
+        "29",
+        "17"
       ],
       "i10index": [
-        "63",
-        "43"
+        "65",
+        "39"
       ]
     },
     "year": "2008"
@@ -2917,16 +2944,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8490",
-        "5906"
+        "9731",
+        "6561"
       ],
       "hindex": [
         "38",
-        "29"
+        "27"
       ],
       "i10index": [
-        "77",
-        "62"
+        "82",
+        "59"
       ]
     },
     "year": "2009"
@@ -2935,22 +2962,22 @@ var data = [
     "name": "Iryna Gurevych",
     "url": "https://scholar.google.com/citations?user=t3A39e8AAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=t3A39e8AAAAJ&citpid=5",
-    "affiliation": "Full Professor, TU Darmstadt; Adjunct Professor, MBZUAI, Abu Dhabi",
+    "affiliation": "Full Professor, TU Darmstadt; Adjunct Professor, MBZUAI, UAE; Affiliated Professor, INSAIT, Bulgaria",
     "keywords": [
       "Natural Language Processing and Artificial Intelligence"
     ],
     "stats": {
       "citations": [
-        "38198",
-        "29669"
+        "45604",
+        "34833"
       ],
       "hindex": [
-        "84",
-        "67"
+        "89",
+        "69"
       ],
       "i10index": [
-        "332",
-        "256"
+        "357",
+        "268"
       ]
     },
     "year": "2008"
@@ -2958,26 +2985,25 @@ var data = [
   {
     "name": "Nizar Habash",
     "url": "https://scholar.google.com/citations?user=DGb-sBwAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DGb-sBwAAAAJ&citpid=4",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DGb-sBwAAAAJ&citpid=6",
     "affiliation": "Professor of Computer Science, New York University Abu Dhabi",
     "keywords": [
-      "Arabic Natural Language Processing",
       "Natural Language Processing",
       "Computational Linguistics",
       "Artificial Intelligence"
     ],
     "stats": {
       "citations": [
-        "16586",
-        "8039"
+        "17817",
+        "7947"
       ],
       "hindex": [
-        "67",
-        "45"
+        "70",
+        "46"
       ],
       "i10index": [
-        "233",
-        "158"
+        "244",
+        "162"
       ]
     },
     "year": "2003"
@@ -2994,16 +3020,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4207",
-        "531"
+        "4237",
+        "431"
       ],
       "hindex": [
-        "28",
-        "12"
+        "27",
+        "11"
       ],
       "i10index": [
-        "41",
-        "13"
+        "40",
+        "15"
       ]
     },
     "year": "2001"
@@ -3021,16 +3047,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21187",
-        "16252"
+        "23570",
+        "16254"
       ],
       "hindex": [
-        "41",
-        "31"
+        "43",
+        "33"
       ],
       "i10index": [
-        "83",
-        "55"
+        "90",
+        "59"
       ]
     },
     "year": "2008"
@@ -3049,16 +3075,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15090",
-        "6205"
+        "15746",
+        "5719"
       ],
       "hindex": [
         "51",
-        "33"
+        "31"
       ],
       "i10index": [
-        "152",
-        "81"
+        "155",
+        "76"
       ]
     },
     "year": "2000"
@@ -3077,16 +3103,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6688",
-        "846"
+        "6851",
+        "715"
       ],
       "hindex": [
         "35",
-        "14"
+        "12"
       ],
       "i10index": [
-        "78",
-        "19"
+        "81",
+        "16"
       ]
     },
     "year": "1985"
@@ -3103,16 +3129,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "36291",
-        "35206"
+        "43151",
+        "39982"
       ],
       "hindex": [
-        "44",
-        "41"
+        "45",
+        "43"
       ],
       "i10index": [
-        "56",
-        "56"
+        "59",
+        "59"
       ]
     },
     "year": "2017"
@@ -3131,16 +3157,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3139",
-        "2518"
+        "3532",
+        "2505"
       ],
       "hindex": [
         "30",
         "23"
       ],
       "i10index": [
-        "47",
-        "42"
+        "53",
+        "44"
       ]
     },
     "year": "2011"
@@ -3148,7 +3174,7 @@ var data = [
   {
     "name": "Mark Hasegawa-Johnson",
     "url": "https://scholar.google.com/citations?user=18O0OAwAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=18O0OAwAAAAJ&citpid=5",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=18O0OAwAAAAJ&citpid=7",
     "affiliation": "Professor of Electrical and Computer Engineering, University of Illinois",
     "keywords": [
       "Speech",
@@ -3157,16 +3183,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17885",
-        "8560"
+        "18646",
+        "8160"
       ],
       "hindex": [
-        "49",
-        "36"
+        "51",
+        "37"
       ],
       "i10index": [
-        "343",
-        "155"
+        "341",
+        "143"
       ]
     },
     "year": "1995"
@@ -3183,16 +3209,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2075",
-        "1779"
+        "2356",
+        "1811"
       ],
       "hindex": [
-        "21",
+        "22",
         "20"
       ],
       "i10index": [
-        "28",
-        "26"
+        "32",
+        "29"
       ]
     },
     "year": "2014"
@@ -3208,19 +3234,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5984",
-        "5257"
+        "7429",
+        "6254"
       ],
       "hindex": [
-        "32",
-        "30"
+        "38",
+        "35"
       ],
       "i10index": [
-        "49",
-        "44"
+        "57",
+        "51"
       ]
     },
-    "year": "2012"
+    "year": "2013"
   },
   {
     "name": "Yulan He",
@@ -3235,16 +3261,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13730",
-        "8106"
+        "14965",
+        "7972"
       ],
       "hindex": [
-        "56",
+        "59",
         "45"
       ],
       "i10index": [
-        "169",
-        "135"
+        "185",
+        "146"
       ]
     },
     "year": "2005"
@@ -3261,16 +3287,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "52818",
-        "41832"
+        "57528",
+        "40330"
       ],
       "hindex": [
-        "81",
-        "69"
+        "84",
+        "71"
       ],
       "i10index": [
-        "214",
-        "176"
+        "222",
+        "180"
       ]
     },
     "year": "2011"
@@ -3288,16 +3314,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "42677",
-        "11218"
+        "44552",
+        "11133"
       ],
       "hindex": [
-        "76",
+        "78",
         "42"
       ],
       "i10index": [
-        "189",
-        "111"
+        "195",
+        "106"
       ]
     },
     "year": "1995"
@@ -3314,16 +3340,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "32126",
-        "10828"
+        "33652",
+        "10473"
       ],
       "hindex": [
-        "81",
+        "82",
         "39"
       ],
       "i10index": [
-        "243",
-        "138"
+        "244",
+        "131"
       ]
     },
     "year": "1992"
@@ -3340,16 +3366,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18342",
-        "4679"
+        "18908",
+        "4240"
       ],
       "hindex": [
-        "62",
-        "33"
+        "63",
+        "32"
       ],
       "i10index": [
-        "176",
-        "99"
+        "178",
+        "94"
       ]
     },
     "year": "1988"
@@ -3365,19 +3391,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11717",
-        "8208"
+        "12547",
+        "7371"
       ],
       "hindex": [
         "27",
-        "26"
+        "24"
       ],
       "i10index": [
         "37",
-        "32"
+        "31"
       ]
     },
-    "year": "2013"
+    "year": "2014"
   },
   {
     "name": "Julia Hockenmaier",
@@ -3391,19 +3417,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12522",
-        "7251"
+        "13733",
+        "7353"
       ],
       "hindex": [
-        "36",
+        "35",
         "20"
       ],
       "i10index": [
-        "56",
-        "35"
+        "57",
+        "32"
       ]
     },
-    "year": "2002"
+    "year": "2003"
   },
   {
     "name": "Eduard Hovy",
@@ -3416,16 +3442,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "61976",
-        "32571"
+        "66432",
+        "32164"
       ],
       "hindex": [
-        "106",
-        "67"
+        "107",
+        "69"
       ],
       "i10index": [
-        "391",
-        "238"
+        "405",
+        "228"
       ]
     },
     "year": "1993"
@@ -3442,16 +3468,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9819",
-        "7797"
+        "11851",
+        "9056"
       ],
       "hindex": [
-        "33",
-        "30"
+        "35",
+        "31"
       ],
       "i10index": [
-        "43",
-        "36"
+        "46",
+        "38"
       ]
     },
     "year": "2012"
@@ -3463,20 +3489,20 @@ var data = [
     "affiliation": "Professor of Computer Science, Fudan University",
     "keywords": [
       "Natural language processing",
-      "information retrieval"
+      "Large language model"
     ],
     "stats": {
       "citations": [
-        "21894",
-        "18518"
+        "26244",
+        "21446"
       ],
       "hindex": [
-        "64",
-        "57"
+        "71",
+        "61"
       ],
       "i10index": [
-        "238",
-        "196"
+        "286",
+        "233"
       ]
     },
     "year": "2008"
@@ -3491,15 +3517,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3753",
-        "985"
+        "3865",
+        "901"
       ],
       "hindex": [
-        "30",
+        "31",
         "17"
       ],
       "i10index": [
-        "52",
+        "54",
         "29"
       ]
     },
@@ -3518,41 +3544,41 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2674",
-        "2220"
+        "3442",
+        "2884"
       ],
       "hindex": [
-        "26",
-        "21"
+        "28",
+        "24"
       ],
       "i10index": [
-        "49",
-        "38"
+        "53",
+        "41"
       ]
     },
-    "year": "2009"
+    "year": "2010"
   },
   {
     "name": "Ignacio Iacobacci",
     "url": "https://scholar.google.com/citations?user=zOmsu9EAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=zOmsu9EAAAAJ&citpid=2",
-    "affiliation": "Huawei Noah's Ark Lab",
+    "affiliation": "ELM Europe",
     "keywords": [
       "Natural Language Processing",
       "Machine Learning"
     ],
     "stats": {
       "citations": [
-        "1086",
-        "746"
+        "1201",
+        "699"
       ],
       "hindex": [
         "12",
         "12"
       ],
       "i10index": [
-        "12",
-        "12"
+        "14",
+        "14"
       ]
     },
     "year": "2015"
@@ -3567,16 +3593,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9122",
-        "1510"
+        "9271",
+        "1360"
       ],
       "hindex": [
         "45",
-        "20"
+        "18"
       ],
       "i10index": [
-        "113",
-        "36"
+        "114",
+        "33"
       ]
     },
     "year": "1992"
@@ -3593,16 +3619,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10300",
-        "5979"
+        "10986",
+        "5585"
       ],
       "hindex": [
-        "44",
-        "32"
+        "46",
+        "31"
       ],
       "i10index": [
-        "119",
-        "74"
+        "126",
+        "77"
       ]
     },
     "year": "2006"
@@ -3617,19 +3643,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8567",
-        "8554"
+        "13349",
+        "13305"
       ],
       "hindex": [
-        "29",
-        "29"
+        "32",
+        "31"
       ],
       "i10index": [
-        "36",
-        "36"
+        "41",
+        "40"
       ]
     },
-    "year": "2019"
+    "year": "2020"
   },
   {
     "name": "Mohit Iyyer",
@@ -3643,16 +3669,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "24738",
-        "22805"
+        "27765",
+        "22501"
       ],
       "hindex": [
-        "40",
-        "39"
+        "43",
+        "42"
       ],
       "i10index": [
-        "66",
-        "65"
+        "77",
+        "75"
       ]
     },
     "year": "2015"
@@ -3660,26 +3686,26 @@ var data = [
   {
     "name": "Heng Ji",
     "url": "https://scholar.google.com/citations?user=z7GCqT4AAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=z7GCqT4AAAAJ&citpid=29",
-    "affiliation": "Professor of Computer Science, University of Illinois Urbana-Champaign, Amazon Scholar",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=z7GCqT4AAAAJ&citpid=32",
+    "affiliation": "Professor, Siebel School of Computing and Data Science, AICE Director, UIUC, Amazon Scholar",
     "keywords": [
       "Natural Language Processing"
     ],
     "stats": {
       "citations": [
-        "19317",
-        "13880"
+        "23231",
+        "16195"
       ],
       "hindex": [
-        "71",
-        "60"
+        "81",
+        "67"
       ],
       "i10index": [
-        "307",
-        "243"
+        "336",
+        "263"
       ]
     },
-    "year": "2008"
+    "year": "2009"
   },
   {
     "name": "Robin Jia",
@@ -3691,19 +3717,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7904",
-        "7498"
+        "9077",
+        "7982"
       ],
       "hindex": [
-        "22",
-        "22"
+        "24",
+        "24"
       ],
       "i10index": [
-        "33",
-        "32"
+        "38",
+        "37"
       ]
     },
-    "year": "2016"
+    "year": "2017"
   },
   {
     "name": "Hui Jiang",
@@ -3718,16 +3744,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11098",
-        "6169"
+        "11645",
+        "5432"
       ],
       "hindex": [
-        "40",
-        "27"
+        "41",
+        "26"
       ],
       "i10index": [
-        "99",
-        "50"
+        "98",
+        "45"
       ]
     },
     "year": "2001"
@@ -3736,7 +3762,7 @@ var data = [
     "name": "Jing Jiang",
     "url": "https://scholar.google.com.sg/citations?user=hVTK2YwAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=hVTK2YwAAAAJ&citpid=3",
-    "affiliation": "School of Computing and Information Systems, Singapore Management University",
+    "affiliation": "School of Computing, ANU; School of Computing and Information Systems, SMU",
     "keywords": [
       "Natural Language Processing",
       "Text Mining",
@@ -3744,16 +3770,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18456",
-        "8752"
+        "19601",
+        "8100"
       ],
       "hindex": [
-        "56",
-        "44"
+        "58",
+        "42"
       ],
       "i10index": [
-        "104",
-        "79"
+        "112",
+        "80"
       ]
     },
     "year": "2005"
@@ -3770,19 +3796,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5016",
-        "4026"
+        "5466",
+        "3747"
       ],
       "hindex": [
         "29",
-        "26"
+        "25"
       ],
       "i10index": [
-        "36",
-        "30"
+        "37",
+        "29"
       ]
     },
-    "year": "2013"
+    "year": "2014"
   },
   {
     "name": "David Jurgens",
@@ -3796,16 +3822,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6692",
-        "4948"
+        "7925",
+        "5650"
       ],
       "hindex": [
-        "37",
-        "34"
+        "41",
+        "36"
       ],
       "i10index": [
-        "71",
-        "62"
+        "82",
+        "72"
       ]
     },
     "year": "2011"
@@ -3822,19 +3848,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16184",
-        "2950"
+        "16589",
+        "2600"
       ],
       "hindex": [
         "39",
-        "19"
+        "16"
       ],
       "i10index": [
         "50",
-        "26"
+        "24"
       ]
     },
-    "year": "1985"
+    "year": "1986"
   },
   {
     "name": "Daisuke Kawahara",
@@ -3847,7 +3873,7 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4077",
+        "4329",
         "1518"
       ],
       "hindex": [
@@ -3855,8 +3881,8 @@ var data = [
         "18"
       ],
       "i10index": [
-        "90",
-        "39"
+        "94",
+        "37"
       ]
     },
     "year": "2002"
@@ -3873,16 +3899,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "38800",
-        "27033"
+        "42310",
+        "26474"
       ],
       "hindex": [
-        "66",
-        "50"
+        "68",
+        "49"
       ],
       "i10index": [
-        "199",
-        "122"
+        "203",
+        "121"
       ]
     },
     "year": "2003"
@@ -3901,16 +3927,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3440",
-        "1634"
+        "3692",
+        "1621"
       ],
       "hindex": [
-        "30",
-        "22"
+        "31",
+        "21"
       ],
       "i10index": [
-        "60",
-        "42"
+        "61",
+        "38"
       ]
     },
     "year": "2005"
@@ -3927,16 +3953,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "29173",
-        "23197"
+        "32318",
+        "21927"
       ],
       "hindex": [
-        "29",
-        "28"
+        "36",
+        "34"
       ],
       "i10index": [
-        "43",
-        "43"
+        "53",
+        "52"
       ]
     },
     "year": "2015"
@@ -3948,23 +3974,24 @@ var data = [
     "affiliation": "Amazon",
     "keywords": [
       "Natural Language Processing",
-      "Speech Recognition"
+      "Speech Recognition",
+      "AI"
     ],
     "stats": {
       "citations": [
-        "7490",
-        "3061"
+        "8125",
+        "3286"
       ],
       "hindex": [
-        "47",
-        "29"
+        "48",
+        "28"
       ],
       "i10index": [
-        "113",
-        "66"
+        "117",
+        "64"
       ]
     },
-    "year": "1998"
+    "year": "2000"
   },
   {
     "name": "Svetlana Kiritchenko",
@@ -3980,16 +4007,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10799",
-        "7109"
+        "11731",
+        "6753"
       ],
       "hindex": [
         "37",
-        "31"
+        "32"
       ],
       "i10index": [
-        "53",
-        "49"
+        "56",
+        "52"
       ]
     },
     "year": "2006"
@@ -4002,16 +4029,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "38039",
-        "14055"
+        "40249",
+        "13856"
       ],
       "hindex": [
-        "86",
-        "55"
+        "87",
+        "56"
       ],
       "i10index": [
-        "201",
-        "142"
+        "210",
+        "143"
       ]
     },
     "year": "2002"
@@ -4026,16 +4053,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "29745",
-        "9535"
+        "31242",
+        "8938"
       ],
       "hindex": [
-        "89",
-        "45"
+        "90",
+        "43"
       ],
       "i10index": [
-        "222",
-        "140"
+        "223",
+        "124"
       ]
     },
     "year": "1993"
@@ -4051,16 +4078,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "48423",
-        "19903"
+        "51152",
+        "18918"
       ],
       "hindex": [
-        "73",
-        "53"
+        "77",
+        "49"
       ],
       "i10index": [
-        "203",
-        "129"
+        "210",
+        "126"
       ]
     },
     "year": "2005"
@@ -4076,15 +4103,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4975",
-        "1596"
+        "5218",
+        "1477"
       ],
       "hindex": [
         "35",
         "21"
       ],
       "i10index": [
-        "69",
+        "73",
         "42"
       ]
     },
@@ -4093,29 +4120,30 @@ var data = [
   {
     "name": "Anna Korhonen",
     "url": "https://scholar.google.com/citations?user=SCoVoOYAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=SCoVoOYAAAAJ&citpid=2",
-    "affiliation": "Professor, Computer Science and Linguistics, University of Cambridge",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=SCoVoOYAAAAJ&citpid=4",
+    "affiliation": "Professor, Artificial Intelligence, University of Cambridge",
     "keywords": [
       "Natural Language Processing",
-      "Computational Linguistics",
       "Artificial Intelligence",
-      "Biomedical Informatics"
+      "Responsible AI",
+      "Machine Learning",
+      "Health AI"
     ],
     "stats": {
       "citations": [
-        "12811",
-        "7696"
+        "14029",
+        "7600"
       ],
       "hindex": [
-        "56",
-        "43"
+        "59",
+        "42"
       ],
       "i10index": [
-        "166",
-        "115"
+        "179",
+        "121"
       ]
     },
-    "year": "2003"
+    "year": "2004"
   },
   {
     "name": "Leila Kosseim",
@@ -4129,16 +4157,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1822",
-        "619"
+        "1920",
+        "615"
       ],
       "hindex": [
-        "23",
-        "12"
+        "24",
+        "13"
       ],
       "i10index": [
-        "45",
-        "18"
+        "47",
+        "16"
       ]
     },
     "year": "1995"
@@ -4157,15 +4185,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14134",
-        "7351"
+        "15278",
+        "7353"
       ],
       "hindex": [
-        "56",
+        "59",
         "41"
       ],
       "i10index": [
-        "243",
+        "250",
         "145"
       ]
     },
@@ -4181,15 +4209,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7899",
-        "3054"
+        "8446",
+        "3140"
       ],
       "hindex": [
-        "41",
+        "42",
         "25"
       ],
       "i10index": [
-        "164",
+        "171",
         "69"
       ]
     },
@@ -4208,16 +4236,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "26032",
-        "13587"
+        "27995",
+        "13610"
       ],
       "hindex": [
         "69",
-        "39"
+        "38"
       ],
       "i10index": [
-        "193",
-        "107"
+        "197",
+        "103"
       ]
     },
     "year": "1992"
@@ -4236,16 +4264,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "79612",
-        "39891"
+        "87799",
+        "42048"
       ],
       "hindex": [
-        "116",
-        "85"
+        "122",
+        "87"
       ],
       "i10index": [
-        "306",
-        "244"
+        "324",
+        "258"
       ]
     },
     "year": "2001"
@@ -4262,16 +4290,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11592",
-        "5282"
+        "12375",
+        "5075"
       ],
       "hindex": [
         "40",
         "15"
       ],
       "i10index": [
-        "114",
-        "31"
+        "115",
+        "24"
       ]
     },
     "year": "1989"
@@ -4286,16 +4314,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "32501",
-        "19336"
+        "34789",
+        "18866"
       ],
       "hindex": [
-        "90",
-        "65"
+        "92",
+        "61"
       ],
       "i10index": [
-        "218",
-        "185"
+        "222",
+        "181"
       ]
     },
     "year": "2004"
@@ -4312,19 +4340,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3849",
-        "1762"
+        "4268",
+        "2001"
       ],
       "hindex": [
         "33",
         "18"
       ],
       "i10index": [
-        "67",
-        "31"
+        "70",
+        "32"
       ]
     },
-    "year": "1998"
+    "year": "1999"
   },
   {
     "name": "Alon Lavie",
@@ -4338,16 +4366,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18245",
-        "10184"
+        "20685",
+        "11456"
       ],
       "hindex": [
-        "49",
+        "50",
         "24"
       ],
       "i10index": [
-        "136",
-        "48"
+        "141",
+        "45"
       ]
     },
     "year": "1996"
@@ -4366,16 +4394,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9385",
-        "9093"
+        "13141",
+        "12691"
       ],
       "hindex": [
-        "37",
-        "36"
+        "42",
+        "39"
       ],
       "i10index": [
-        "61",
-        "52"
+        "65",
+        "54"
       ]
     },
     "year": "2015"
@@ -4390,16 +4418,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5185",
-        "1963"
+        "5421",
+        "1811"
       ],
       "hindex": [
-        "35",
-        "20"
+        "37",
+        "19"
       ],
       "i10index": [
-        "120",
-        "44"
+        "119",
+        "41"
       ]
     },
     "year": "2002"
@@ -4415,16 +4443,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "130768",
-        "128749"
+        "140620",
+        "133941"
       ],
       "hindex": [
-        "36",
-        "33"
+        "39",
+        "35"
       ],
       "i10index": [
-        "45",
-        "45"
+        "50",
+        "50"
       ]
     },
     "year": "2018"
@@ -4441,16 +4469,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "46362",
-        "15590"
+        "47737",
+        "13484"
       ],
       "hindex": [
-        "43",
-        "31"
+        "44",
+        "30"
       ],
       "i10index": [
         "58",
-        "48"
+        "47"
       ]
     },
     "year": "2001"
@@ -4467,16 +4495,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4065",
-        "1168"
+        "4216",
+        "1153"
       ],
       "hindex": [
         "36",
-        "15"
+        "16"
       ],
       "i10index": [
-        "93",
-        "29"
+        "94",
+        "22"
       ]
     },
     "year": "1989"
@@ -4485,7 +4513,7 @@ var data = [
     "name": "Omer Levy",
     "url": "https://scholar.google.com/citations?user=PZVd2h8AAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=PZVd2h8AAAAJ&citpid=3",
-    "affiliation": "Meta",
+    "affiliation": "Google DeepMind",
     "keywords": [
       "Language Modeling",
       "Natural Language Processing",
@@ -4494,16 +4522,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "68694",
-        "64552"
+        "83027",
+        "75948"
       ],
       "hindex": [
-        "53",
-        "51"
+        "57",
+        "54"
       ],
       "i10index": [
-        "81",
-        "79"
+        "86",
+        "85"
       ]
     },
     "year": "2015"
@@ -4520,19 +4548,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "52051",
-        "51065"
+        "70953",
+        "68884"
       ],
       "hindex": [
-        "53",
-        "53"
+        "59",
+        "54"
       ],
       "i10index": [
-        "80",
-        "78"
+        "84",
+        "82"
       ]
     },
-    "year": "2017"
+    "year": "2018"
   },
   {
     "name": "Haizhou Li",
@@ -4548,16 +4576,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "29631",
-        "17006"
+        "33233",
+        "18275"
       ],
       "hindex": [
-        "78",
-        "60"
+        "83",
+        "62"
       ],
       "i10index": [
-        "547",
-        "343"
+        "575",
+        "351"
       ]
     },
     "year": "2006"
@@ -4575,16 +4603,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "30692",
-        "15495"
+        "33408",
+        "14649"
       ],
       "hindex": [
-        "77",
-        "49"
+        "79",
+        "52"
       ],
       "i10index": [
-        "215",
-        "137"
+        "225",
+        "130"
       ]
     },
     "year": "2003"
@@ -4592,7 +4620,7 @@ var data = [
   {
     "name": "Wenjie Li",
     "url": "https://scholar.google.ca/citations?user=Rx5swD4AAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Rx5swD4AAAAJ&citpid=9",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Rx5swD4AAAAJ&citpid=10",
     "affiliation": "The Hong Kong Polytechnic University",
     "keywords": [
       "Text Summarization",
@@ -4601,16 +4629,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14791",
-        "10742"
+        "16562",
+        "11261"
       ],
       "hindex": [
-        "50",
-        "36"
+        "53",
+        "38"
       ],
       "i10index": [
-        "190",
-        "118"
+        "208",
+        "128"
       ]
     },
     "year": "2006"
@@ -4628,19 +4656,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18679",
-        "4726"
+        "19449",
+        "4613"
       ],
       "hindex": [
-        "52",
-        "34"
+        "54",
+        "32"
       ],
       "i10index": [
-        "152",
-        "86"
+        "158",
+        "88"
       ]
     },
-    "year": "1985"
+    "year": "1986"
   },
   {
     "name": "Chin-Yew Lin",
@@ -4656,16 +4684,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "32594",
-        "18173"
+        "36733",
+        "19998"
       ],
       "hindex": [
-        "62",
-        "43"
+        "66",
+        "41"
       ],
       "i10index": [
-        "158",
-        "105"
+        "160",
+        "95"
       ]
     },
     "year": "2002"
@@ -4680,19 +4708,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19566",
-        "2780"
+        "19804",
+        "2243"
       ],
       "hindex": [
-        "43",
-        "21"
+        "44",
+        "19"
       ],
       "i10index": [
         "73",
-        "30"
+        "29"
       ]
     },
-    "year": "1999"
+    "year": "2000"
   },
   {
     "name": "Jimmy Lin",
@@ -4707,16 +4735,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "33657",
-        "18901"
+        "37154",
+        "20486"
       ],
       "hindex": [
-        "94",
-        "66"
+        "99",
+        "69"
       ],
       "i10index": [
-        "386",
-        "279"
+        "409",
+        "283"
       ]
     },
     "year": "2002"
@@ -4733,19 +4761,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4042",
-        "2168"
+        "4324",
+        "2121"
       ],
       "hindex": [
-        "33",
+        "34",
         "24"
       ],
       "i10index": [
-        "81",
-        "49"
+        "85",
+        "46"
       ]
     },
-    "year": "2001"
+    "year": "2002"
   },
   {
     "name": "Diane Litman",
@@ -4760,16 +4788,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15650",
-        "3732"
+        "16099",
+        "3500"
       ],
       "hindex": [
-        "64",
-        "32"
+        "66",
+        "31"
       ],
       "i10index": [
-        "208",
-        "109"
+        "212",
+        "103"
       ]
     },
     "year": "1989"
@@ -4788,16 +4816,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "101148",
-        "45251"
+        "106523",
+        "42094"
       ],
       "hindex": [
-        "115",
-        "84"
+        "119",
+        "82"
       ],
       "i10index": [
-        "324",
-        "241"
+        "330",
+        "234"
       ]
     },
     "year": "2002"
@@ -4814,16 +4842,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1355",
-        "1136"
+        "1469",
+        "988"
       ],
       "hindex": [
-        "15",
+        "16",
         "14"
       ],
       "i10index": [
-        "20",
-        "18"
+        "22",
+        "17"
       ]
     },
     "year": "2016"
@@ -4840,16 +4868,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "20257",
-        "16424"
+        "23152",
+        "17043"
       ],
       "hindex": [
-        "56",
-        "50"
+        "60",
+        "49"
       ],
       "i10index": [
-        "120",
-        "106"
+        "146",
+        "128"
       ]
     },
     "year": "2012"
@@ -4868,16 +4896,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "30087",
-        "19113"
+        "32590",
+        "18313"
       ],
       "hindex": [
-        "76",
-        "58"
+        "79",
+        "57"
       ],
       "i10index": [
-        "319",
-        "173"
+        "322",
+        "156"
       ]
     },
     "year": "2005"
@@ -4895,16 +4923,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19644",
-        "11830"
+        "21948",
+        "13086"
       ],
       "hindex": [
-        "62",
-        "45"
+        "64",
+        "48"
       ],
       "i10index": [
-        "258",
-        "156"
+        "281",
+        "165"
       ]
     },
     "year": "2004"
@@ -4920,16 +4948,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18051",
-        "17565"
+        "23041",
+        "21622"
       ],
       "hindex": [
-        "42",
-        "41"
+        "46",
+        "44"
       ],
       "i10index": [
-        "73",
-        "70"
+        "97",
+        "92"
       ]
     },
     "year": "2017"
@@ -4947,19 +4975,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "46292",
-        "41760"
+        "56488",
+        "48654"
       ],
       "hindex": [
-        "98",
-        "96"
+        "107",
+        "105"
       ],
       "i10index": [
-        "296",
-        "271"
+        "343",
+        "315"
       ]
     },
-    "year": "2013"
+    "year": "2014"
   },
   {
     "name": "Adam Lopez",
@@ -4971,19 +4999,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3750",
-        "1874"
+        "4007",
+        "1826"
       ],
       "hindex": [
-        "30",
-        "19"
+        "31",
+        "18"
       ],
       "i10index": [
-        "51",
+        "54",
         "29"
       ]
     },
-    "year": "2005"
+    "year": "2007"
   },
   {
     "name": "Hao Ma",
@@ -4999,16 +5027,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17644",
-        "10471"
+        "19178",
+        "10574"
       ],
       "hindex": [
-        "45",
-        "35"
+        "46",
+        "34"
       ],
       "i10index": [
-        "58",
-        "50"
+        "61",
+        "52"
       ]
     },
     "year": "2009"
@@ -5027,16 +5055,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1284",
-        "877"
+        "1373",
+        "899"
       ],
       "hindex": [
         "14",
         "11"
       ],
       "i10index": [
-        "17",
-        "13"
+        "19",
+        "11"
       ]
     },
     "year": "2003"
@@ -5045,7 +5073,7 @@ var data = [
     "name": "Nitin Madnani",
     "url": "https://scholar.google.com/citations?user=ow3PIFcAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ow3PIFcAAAAJ&citpid=7",
-    "affiliation": "Distinguished AI Engineer at ETS",
+    "affiliation": "Staff AI Research Scientist @ Duolingo",
     "keywords": [
       "Natural Language Processing",
       "Machine Learning",
@@ -5053,15 +5081,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3602",
-        "1718"
+        "3801",
+        "1584"
       ],
       "hindex": [
         "32",
-        "23"
+        "21"
       ],
       "i10index": [
-        "69",
+        "71",
         "44"
       ]
     },
@@ -5078,16 +5106,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2358",
-        "2225"
+        "3628",
+        "3352"
       ],
       "hindex": [
-        "11",
-        "11"
+        "13",
+        "13"
       ],
       "i10index": [
-        "11",
-        "11"
+        "15",
+        "15"
       ]
     },
     "year": "2017"
@@ -5103,16 +5131,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6589",
-        "3056"
+        "7238",
+        "3222"
       ],
       "hindex": [
-        "41",
-        "30"
+        "42",
+        "28"
       ],
       "i10index": [
-        "77",
-        "58"
+        "78",
+        "52"
       ]
     },
     "year": "2002"
@@ -5129,16 +5157,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "250286",
-        "141621"
+        "273126",
+        "138615"
       ],
       "hindex": [
-        "161",
-        "113"
+        "165",
+        "112"
       ],
       "i10index": [
-        "406",
-        "319"
+        "440",
+        "324"
       ]
     },
     "year": "2003"
@@ -5151,16 +5179,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "27492",
-        "5996"
+        "27978",
+        "4764"
       ],
       "hindex": [
-        "74",
-        "39"
+        "75",
+        "34"
       ],
       "i10index": [
         "154",
-        "90"
+        "82"
       ]
     },
     "year": "1998"
@@ -5175,19 +5203,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "26382",
-        "7023"
+        "27192",
+        "6442"
       ],
       "hindex": [
         "40",
-        "20"
+        "18"
       ],
       "i10index": [
-        "72",
-        "30"
+        "71",
+        "28"
       ]
     },
-    "year": "1985"
+    "year": "1986"
   },
   {
     "name": "Lluís Màrquez",
@@ -5201,16 +5229,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11983",
-        "3974"
+        "12534",
+        "3559"
       ],
       "hindex": [
-        "55",
-        "32"
+        "56",
+        "33"
       ],
       "i10index": [
-        "145",
-        "65"
+        "150",
+        "66"
       ]
     },
     "year": "2000"
@@ -5226,16 +5254,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9251",
-        "6385"
+        "10803",
+        "7292"
       ],
       "hindex": [
-        "47",
-        "40"
+        "53",
+        "41"
       ],
       "i10index": [
-        "113",
-        "93"
+        "129",
+        "104"
       ]
     },
     "year": "2008"
@@ -5252,16 +5280,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "25493",
-        "9207"
+        "27372",
+        "9315"
       ],
       "hindex": [
-        "49",
-        "27"
+        "51",
+        "29"
       ],
       "i10index": [
-        "101",
-        "53"
+        "106",
+        "55"
       ]
     },
     "year": "2000"
@@ -5278,16 +5306,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21545",
-        "6237"
+        "22584",
+        "5955"
       ],
       "hindex": [
-        "63",
-        "32"
+        "64",
+        "31"
       ],
       "i10index": [
-        "330",
-        "108"
+        "341",
+        "106"
       ]
     },
     "year": "1994"
@@ -5304,16 +5332,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8611",
-        "1148"
+        "8746",
+        "1032"
       ],
       "hindex": [
         "35",
-        "16"
+        "15"
       ],
       "i10index": [
         "80",
-        "23"
+        "20"
       ]
     },
     "year": "1995"
@@ -5332,16 +5360,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11756",
-        "2864"
+        "12117",
+        "2617"
       ],
       "hindex": [
-        "46",
+        "47",
         "27"
       ],
       "i10index": [
-        "118",
-        "51"
+        "121",
+        "50"
       ]
     },
     "year": "2001"
@@ -5359,19 +5387,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "103840",
-        "36773"
+        "108370",
+        "34499"
       ],
       "hindex": [
-        "120",
-        "79"
+        "123",
+        "77"
       ],
       "i10index": [
-        "325",
-        "237"
+        "332",
+        "232"
       ]
     },
-    "year": "1999"
+    "year": "2000"
   },
   {
     "name": "Ryan McDonald",
@@ -5384,16 +5412,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "22955",
-        "8331"
+        "23972",
+        "7605"
       ],
       "hindex": [
         "57",
-        "39"
+        "37"
       ],
       "i10index": [
-        "88",
-        "68"
+        "89",
+        "66"
       ]
     },
     "year": "2005"
@@ -5410,16 +5438,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4612",
-        "1567"
+        "4821",
+        "1475"
       ],
       "hindex": [
-        "33",
+        "34",
         "20"
       ],
       "i10index": [
-        "72",
-        "27"
+        "71",
+        "24"
       ]
     },
     "year": "2001"
@@ -5436,16 +5464,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "30367",
-        "8879"
+        "31902",
+        "8916"
       ],
       "hindex": [
-        "82",
+        "84",
         "48"
       ],
       "i10index": [
-        "264",
-        "144"
+        "276",
+        "146"
       ]
     },
     "year": "1987"
@@ -5461,16 +5489,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9652",
-        "5914"
+        "10404",
+        "5508"
       ],
       "hindex": [
-        "41",
-        "30"
+        "40",
+        "28"
       ],
       "i10index": [
-        "56",
-        "41"
+        "55",
+        "37"
       ]
     },
     "year": "2008"
@@ -5487,16 +5515,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "43191",
-        "21563"
+        "46830",
+        "22123"
       ],
       "hindex": [
-        "89",
-        "61"
+        "93",
+        "60"
       ],
       "i10index": [
-        "304",
-        "219"
+        "322",
+        "225"
       ]
     },
     "year": "2001"
@@ -5505,29 +5533,27 @@ var data = [
     "name": "Pasquale Minervini",
     "url": "https://scholar.google.com/citations?user=9sk6CSgAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=9sk6CSgAAAAJ&citpid=12",
-    "affiliation": "University of Edinburgh, ELLIS",
+    "affiliation": "University of Edinburgh, Miniml.AI, ELLIS Scholar",
     "keywords": [
       "Machine Learning",
-      "Knowledge Graphs",
-      "Relational Learning",
       "Natural Language Processing",
-      "Reading"
+      "Machine Reasoning"
     ],
     "stats": {
       "citations": [
-        "4616",
-        "4423"
+        "5545",
+        "5107"
       ],
       "hindex": [
-        "21",
-        "19"
+        "24",
+        "22"
       ],
       "i10index": [
-        "35",
-        "31"
+        "46",
+        "42"
       ]
     },
-    "year": "2015"
+    "year": "2016"
   },
   {
     "name": "Teruko Mitamura",
@@ -5543,16 +5569,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7201",
-        "2836"
+        "7660",
+        "2811"
       ],
       "hindex": [
-        "43",
-        "23"
+        "44",
+        "21"
       ],
       "i10index": [
-        "118",
-        "49"
+        "124",
+        "46"
       ]
     },
     "year": "1993"
@@ -5569,16 +5595,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "81062",
-        "30788"
+        "125579",
+        "40451"
       ],
       "hindex": [
-        "100",
-        "62"
+        "105",
+        "60"
       ],
       "i10index": [
-        "301",
-        "172"
+        "313",
+        "171"
       ]
     },
     "year": "1986"
@@ -5587,26 +5613,26 @@ var data = [
     "name": "Saif M. Mohammad",
     "url": "https://scholar.google.com/citations?user=zJHymXh9EVwC",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=zJHymXh9EVwC&citpid=9",
-    "affiliation": "Senior Research Scientist (Emotions and Language, Affective Science, NLP), National Research Council",
+    "affiliation": "Principal Research Scientist (NLP,Computational Affective Science), National Research Council Canada",
     "keywords": [
       "Natural Language Processing",
       "Lexical Semantics",
-      "Emotion Analysis",
+      "Affective Science",
       "Emotion Recognition",
-      "Sentiment Analysis"
+      "Sentiment"
     ],
     "stats": {
       "citations": [
-        "23057",
-        "15903"
+        "25608",
+        "15887"
       ],
       "hindex": [
-        "60",
+        "62",
         "48"
       ],
       "i10index": [
-        "101",
-        "93"
+        "108",
+        "98"
       ]
     },
     "year": "2009"
@@ -5623,16 +5649,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10462",
-        "5754"
+        "11411",
+        "5919"
       ],
       "hindex": [
-        "40",
+        "43",
         "28"
       ],
       "i10index": [
-        "92",
-        "51"
+        "98",
+        "52"
       ]
     },
     "year": "2002"
@@ -5651,16 +5677,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "47020",
-        "13747"
+        "48347",
+        "12127"
       ],
       "hindex": [
         "98",
-        "60"
+        "58"
       ],
       "i10index": [
-        "251",
-        "144"
+        "260",
+        "139"
       ]
     },
     "year": "1989"
@@ -5679,19 +5705,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14710",
-        "3662"
+        "18557",
+        "3693"
       ],
       "hindex": [
-        "62",
-        "31"
+        "64",
+        "32"
       ],
       "i10index": [
-        "180",
+        "186",
         "70"
       ]
     },
-    "year": "1987"
+    "year": "1989"
   },
   {
     "name": "Robert C. Moore",
@@ -5705,19 +5731,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14004",
-        "2304"
+        "14139",
+        "1806"
       ],
       "hindex": [
         "54",
-        "23"
+        "20"
       ],
       "i10index": [
-        "103",
-        "38"
+        "104",
+        "37"
       ]
     },
-    "year": "1985"
+    "year": "1986"
   },
   {
     "name": "Lili Mou",
@@ -5730,16 +5756,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7064",
-        "5948"
+        "7695",
+        "5748"
       ],
       "hindex": [
-        "34",
+        "36",
         "31"
       ],
       "i10index": [
-        "58",
-        "57"
+        "63",
+        "62"
       ]
     },
     "year": "2015"
@@ -5748,26 +5774,25 @@ var data = [
     "name": "Preslav Nakov",
     "url": "https://scholar.google.com/citations?user=DfXsKZ4AAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DfXsKZ4AAAAJ&citpid=3",
-    "affiliation": "MBZUAI",
+    "affiliation": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
     "keywords": [
       "Computational Linguistics",
-      "NLP",
       "Large Language Models",
       "Fact-checking",
       "Fake News"
     ],
     "stats": {
       "citations": [
-        "22982",
-        "16715"
+        "26555",
+        "18187"
       ],
       "hindex": [
-        "75",
-        "66"
+        "83",
+        "70"
       ],
       "i10index": [
-        "257",
-        "215"
+        "289",
+        "231"
       ]
     },
     "year": "2007"
@@ -5782,8 +5807,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2754",
-        "2068"
+        "2995",
+        "1993"
       ],
       "hindex": [
         "20",
@@ -5791,7 +5816,7 @@ var data = [
       ],
       "i10index": [
         "22",
-        "19"
+        "17"
       ]
     },
     "year": "2011"
@@ -5800,7 +5825,7 @@ var data = [
     "name": "Karthik Narasimhan",
     "url": "https://scholar.google.com/citations?user=euc0GX4AAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=euc0GX4AAAAJ&citpid=4",
-    "affiliation": "Assistant Professor, Princeton University",
+    "affiliation": "Associate Professor, Princeton University",
     "keywords": [
       "Natural Language Processing",
       "Reinforcement Learning",
@@ -5808,16 +5833,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18078",
-        "17262"
+        "25592",
+        "23523"
       ],
       "hindex": [
-        "34",
-        "34"
+        "40",
+        "39"
       ],
       "i10index": [
-        "64",
-        "63"
+        "76",
+        "73"
       ]
     },
     "year": "2016"
@@ -5836,16 +5861,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "25605",
-        "12244"
+        "27817",
+        "12436"
       ],
       "hindex": [
-        "71",
-        "53"
+        "73",
+        "51"
       ],
       "i10index": [
-        "191",
-        "150"
+        "198",
+        "152"
       ]
     },
     "year": "2004"
@@ -5863,16 +5888,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12997",
-        "5747"
+        "13847",
+        "5434"
       ],
       "hindex": [
-        "56",
-        "37"
+        "57",
+        "35"
       ],
       "i10index": [
-        "111",
-        "81"
+        "117",
+        "82"
       ]
     },
     "year": "2004"
@@ -5881,7 +5906,7 @@ var data = [
     "name": "Graham Neubig",
     "url": "https://scholar.google.de/citations?user=wlosgkoAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wlosgkoAAAAJ&citpid=5",
-    "affiliation": "Carnegie Mellon University",
+    "affiliation": "Carnegie Mellon University, All Hands AI",
     "keywords": [
       "Natural Language Processing",
       "Machine Learning",
@@ -5889,19 +5914,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "33536",
-        "29868"
+        "41792",
+        "36197"
       ],
       "hindex": [
-        "87",
-        "81"
+        "93",
+        "85"
       ],
       "i10index": [
-        "351",
-        "301"
+        "387",
+        "327"
       ]
     },
-    "year": "2012"
+    "year": "2013"
   },
   {
     "name": "Aurelie Neveol",
@@ -5916,16 +5941,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6584",
-        "4243"
+        "7492",
+        "4700"
       ],
       "hindex": [
         "39",
-        "26"
+        "28"
       ],
       "i10index": [
-        "100",
-        "65"
+        "107",
+        "63"
       ]
     },
     "year": "2005"
@@ -5943,16 +5968,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "66581",
-        "18678"
+        "68480",
+        "17284"
       ],
       "hindex": [
-        "114",
-        "61"
+        "116",
+        "59"
       ],
       "i10index": [
-        "704",
-        "253"
+        "713",
+        "244"
       ]
     },
     "year": "1994"
@@ -5968,16 +5993,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18239",
-        "8974"
+        "22815",
+        "12517"
       ],
       "hindex": [
-        "57",
-        "35"
+        "60",
+        "39"
       ],
       "i10index": [
-        "199",
-        "121"
+        "210",
+        "119"
       ]
     },
     "year": "1998"
@@ -5996,19 +6021,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1928",
-        "998"
+        "2066",
+        "957"
       ],
       "hindex": [
         "22",
         "16"
       ],
       "i10index": [
-        "40",
-        "22"
+        "44",
+        "26"
       ]
     },
-    "year": "2005"
+    "year": "2007"
   },
   {
     "name": "Sergei Nirenburg",
@@ -6023,16 +6048,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8604",
-        "1144"
+        "8813",
+        "1058"
       ],
       "hindex": [
-        "44",
-        "17"
+        "46",
+        "16"
       ],
       "i10index": [
-        "148",
-        "25"
+        "151",
+        "24"
       ]
     },
     "year": "1987"
@@ -6051,16 +6076,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4665",
-        "2412"
+        "5177",
+        "2616"
       ],
       "hindex": [
-        "37",
-        "25"
+        "40",
+        "23"
       ],
       "i10index": [
-        "83",
-        "53"
+        "94",
+        "60"
       ]
     },
     "year": "2003"
@@ -6077,16 +6102,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "24743",
-        "9116"
+        "25821",
+        "8324"
       ],
       "hindex": [
-        "67",
+        "69",
         "42"
       ],
       "i10index": [
-        "194",
-        "114"
+        "198",
+        "111"
       ]
     },
     "year": "2005"
@@ -6102,15 +6127,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18604",
-        "7692"
+        "19980",
+        "7653"
       ],
       "hindex": [
-        "69",
-        "42"
+        "71",
+        "41"
       ],
       "i10index": [
-        "136",
+        "144",
         "96"
       ]
     },
@@ -6130,15 +6155,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "38076",
-        "12146"
+        "39739",
+        "11586"
       ],
       "hindex": [
         "73",
-        "38"
+        "36"
       ],
       "i10index": [
-        "212",
+        "219",
         "111"
       ]
     },
@@ -6155,16 +6180,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10711",
-        "5157"
+        "11548",
+        "5165"
       ],
       "hindex": [
-        "54",
-        "40"
+        "59",
+        "42"
       ],
       "i10index": [
-        "126",
-        "94"
+        "130",
+        "93"
       ]
     },
     "year": "2003"
@@ -6177,24 +6202,24 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "28493",
-        "5595"
+        "29067",
+        "4896"
       ],
       "hindex": [
         "52",
-        "28"
+        "26"
       ],
       "i10index": [
-        "85",
-        "51"
+        "86",
+        "44"
       ]
     },
-    "year": "2001"
+    "year": "2002"
   },
   {
     "name": "Vicente Ordonez",
     "url": "https://scholar.google.com/citations?user=TtA_j4YAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TtA_j4YAAAAJ&citpid=25",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=TtA_j4YAAAAJ&citpid=31",
     "affiliation": "Associate Professor, Computer Science, Rice University",
     "keywords": [
       "Vision and Language",
@@ -6204,16 +6229,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16418",
-        "12675"
+        "18423",
+        "13007"
       ],
       "hindex": [
-        "34",
-        "33"
+        "36",
+        "34"
       ],
       "i10index": [
-        "47",
-        "44"
+        "52",
+        "46"
       ]
     },
     "year": "2012"
@@ -6230,16 +6255,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8347",
-        "3341"
+        "8718",
+        "3085"
       ],
       "hindex": [
-        "39",
-        "26"
+        "40",
+        "25"
       ],
       "i10index": [
-        "104",
-        "66"
+        "114",
+        "65"
       ]
     },
     "year": "2004"
@@ -6258,16 +6283,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "76705",
-        "31247"
+        "79970",
+        "28787"
       ],
       "hindex": [
-        "62",
-        "55"
+        "64",
+        "56"
       ],
       "i10index": [
-        "141",
-        "116"
+        "147",
+        "121"
       ]
     },
     "year": "2002"
@@ -6286,16 +6311,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "32818",
-        "10818"
+        "34271",
+        "10089"
       ],
       "hindex": [
-        "72",
-        "42"
+        "73",
+        "40"
       ],
       "i10index": [
-        "261",
-        "134"
+        "267",
+        "131"
       ]
     },
     "year": "2000"
@@ -6314,16 +6339,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2801",
-        "2167"
+        "3505",
+        "2615"
       ],
       "hindex": [
-        "30",
-        "25"
+        "33",
+        "26"
       ],
       "i10index": [
-        "79",
-        "70"
+        "95",
+        "79"
       ]
     },
     "year": "2012"
@@ -6339,8 +6364,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "38912",
-        "13714"
+        "40033",
+        "11765"
       ],
       "hindex": [
         "30",
@@ -6348,7 +6373,7 @@ var data = [
       ],
       "i10index": [
         "42",
-        "32"
+        "28"
       ]
     },
     "year": "2005"
@@ -6364,16 +6389,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15543",
-        "4592"
+        "16114",
+        "4065"
       ],
       "hindex": [
         "45",
-        "27"
+        "24"
       ],
       "i10index": [
-        "77",
-        "44"
+        "80",
+        "43"
       ]
     },
     "year": "2003"
@@ -6391,16 +6416,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "30479",
-        "18705"
+        "34295",
+        "20101"
       ],
       "hindex": [
-        "21",
-        "12"
+        "24",
+        "14"
       ],
       "i10index": [
-        "28",
-        "15"
+        "31",
+        "16"
       ]
     },
     "year": "2002"
@@ -6415,16 +6440,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1671",
-        "778"
+        "1828",
+        "816"
       ],
       "hindex": [
-        "20",
-        "13"
+        "21",
+        "14"
       ],
       "i10index": [
-        "57",
-        "23"
+        "59",
+        "21"
       ]
     },
     "year": "2002"
@@ -6443,16 +6468,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7451",
-        "5182"
+        "8298",
+        "5568"
       ],
       "hindex": [
-        "45",
+        "47",
         "35"
       ],
       "i10index": [
-        "115",
-        "73"
+        "122",
+        "75"
       ]
     },
     "year": "2002"
@@ -6467,16 +6492,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10449",
-        "9930"
+        "12941",
+        "11916"
       ],
       "hindex": [
-        "37",
-        "34"
+        "40",
+        "37"
       ],
       "i10index": [
-        "72",
-        "69"
+        "77",
+        "68"
       ]
     },
     "year": "2015"
@@ -6492,16 +6517,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9637",
-        "3383"
+        "10071",
+        "3168"
       ],
       "hindex": [
-        "42",
-        "22"
+        "43",
+        "21"
       ],
       "i10index": [
-        "92",
-        "42"
+        "98",
+        "44"
       ]
     },
     "year": "1992"
@@ -6518,16 +6543,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7417",
-        "4014"
+        "7744",
+        "3481"
       ],
       "hindex": [
         "40",
-        "32"
+        "29"
       ],
       "i10index": [
         "69",
-        "62"
+        "55"
       ]
     },
     "year": "2011"
@@ -6535,7 +6560,7 @@ var data = [
   {
     "name": "Ted Pedersen",
     "url": "https://scholar.google.com/citations?user=GwJdLSAAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=GwJdLSAAAAAJ&citpid=22",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=GwJdLSAAAAAJ&citpid=23",
     "affiliation": "Professor of Computer Science, University of Minnesota Duluth",
     "keywords": [
       "Natural Language Processing",
@@ -6546,16 +6571,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12844",
-        "2447"
+        "13053",
+        "1940"
       ],
       "hindex": [
-        "43",
-        "23"
+        "45",
+        "20"
       ],
       "i10index": [
-        "92",
-        "38"
+        "93",
+        "36"
       ]
     },
     "year": "2000"
@@ -6572,15 +6597,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8121",
-        "3702"
+        "8489",
+        "3302"
       ],
       "hindex": [
-        "31",
+        "33",
         "17"
       ],
       "i10index": [
-        "70",
+        "74",
         "31"
       ]
     },
@@ -6588,25 +6613,27 @@ var data = [
   },
   {
     "name": "Nanyun (Violet) Peng",
-    "url": "https://scholar.google.com/citations?hl=en&user=XxRXvX0AAAAJ",
+    "url": "https://scholar.google.com/citations?user=XxRXvX0AAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=XxRXvX0AAAAJ&citpid=7",
-    "affiliation": "Assistant Professor, UCLA",
+    "affiliation": "Associate Professor, UCLA",
     "keywords": [
       "Natural Language Processing",
-      "Machine Learning"
+      "Controllable Generation",
+      "Multimodal Foundation Models",
+      "Evaluation"
     ],
     "stats": {
       "citations": [
-        "8766",
-        "8325"
+        "11317",
+        "10400"
       ],
       "hindex": [
-        "44",
-        "44"
+        "50",
+        "49"
       ],
       "i10index": [
-        "108",
-        "103"
+        "122",
+        "116"
       ]
     },
     "year": "2015"
@@ -6625,19 +6652,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "71578",
-        "22892"
+        "75060",
+        "22140"
       ],
       "hindex": [
-        "88",
+        "90",
         "42"
       ],
       "i10index": [
-        "197",
-        "98"
+        "203",
+        "91"
       ]
     },
-    "year": "1985"
+    "year": "1986"
   },
   {
     "name": "Matthew E Peters",
@@ -6650,15 +6677,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "28080",
-        "26447"
+        "31681",
+        "26828"
       ],
       "hindex": [
-        "34",
-        "31"
+        "37",
+        "34"
       ],
       "i10index": [
-        "45",
+        "47",
         "44"
       ]
     },
@@ -6675,16 +6702,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "22976",
-        "15571"
+        "30840",
+        "21928"
       ],
       "hindex": [
         "48",
-        "32"
+        "33"
       ],
       "i10index": [
-        "63",
-        "46"
+        "65",
+        "43"
       ]
     },
     "year": "2008"
@@ -6701,16 +6728,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12027",
-        "3830"
+        "12577",
+        "3453"
       ],
       "hindex": [
-        "31",
+        "32",
         "13"
       ],
       "i10index": [
-        "50",
-        "18"
+        "52",
+        "19"
       ]
     },
     "year": "1999"
@@ -6719,7 +6746,7 @@ var data = [
     "name": "Mohammad Taher Pilehvar",
     "url": "https://scholar.google.com/citations?user=P-c9CsIAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=P-c9CsIAAAAJ&citpid=5",
-    "affiliation": "Cardiff University / Tehran Institute for Advanced Studies",
+    "affiliation": "Cardiff University / TeIAS / Cambridge",
     "keywords": [
       "Artificial Intelligence",
       "Natural Language Processing",
@@ -6728,16 +6755,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4901",
-        "3738"
+        "5468",
+        "3677"
       ],
       "hindex": [
-        "32",
+        "34",
         "29"
       ],
       "i10index": [
-        "60",
-        "57"
+        "68",
+        "63"
       ]
     },
     "year": "2014"
@@ -6756,16 +6783,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2622",
-        "1235"
+        "2759",
+        "1081"
       ],
       "hindex": [
         "24",
-        "15"
+        "14"
       ],
       "i10index": [
-        "58",
-        "26"
+        "59",
+        "18"
       ]
     },
     "year": "2005"
@@ -6783,16 +6810,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10077",
-        "4271"
+        "10634",
+        "3938"
       ],
       "hindex": [
-        "38",
+        "39",
         "30"
       ],
       "i10index": [
-        "102",
-        "81"
+        "106",
+        "79"
       ]
     },
     "year": "2007"
@@ -6803,23 +6830,23 @@ var data = [
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=yqqmVbkAAAAJ&citpid=2",
     "affiliation": "General Manager, Microsoft Health Futures",
     "keywords": [
-      "Artificial intelligence",
-      "machine learning",
-      "natural language processing",
-      "precision medicine"
+      "precision health",
+      "real-world evidence",
+      "large language models",
+      "multimodal GenAI"
     ],
     "stats": {
       "citations": [
-        "10411",
-        "6883"
+        "13170",
+        "9038"
       ],
       "hindex": [
-        "40",
-        "33"
+        "43",
+        "34"
       ],
       "i10index": [
-        "61",
-        "56"
+        "73",
+        "67"
       ]
     },
     "year": "2007"
@@ -6837,16 +6864,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "29353",
-        "25378"
+        "34785",
+        "28378"
       ],
       "hindex": [
-        "71",
-        "67"
+        "76",
+        "68"
       ],
       "i10index": [
-        "125",
-        "118"
+        "148",
+        "140"
       ]
     },
     "year": "2014"
@@ -6863,16 +6890,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10327",
-        "7645"
+        "11434",
+        "7872"
       ],
       "hindex": [
         "35",
-        "30"
+        "32"
       ],
       "i10index": [
-        "62",
-        "48"
+        "63",
+        "45"
       ]
     },
     "year": "2010"
@@ -6891,16 +6918,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "38219",
-        "26205"
+        "44295",
+        "29002"
       ],
       "hindex": [
-        "58",
-        "47"
+        "64",
+        "49"
       ],
       "i10index": [
-        "136",
-        "116"
+        "152",
+        "123"
       ]
     },
     "year": "2006"
@@ -6915,16 +6942,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8518",
-        "3980"
+        "8965",
+        "3717"
       ],
       "hindex": [
         "38",
-        "27"
+        "25"
       ],
       "i10index": [
-        "53",
-        "43"
+        "54",
+        "44"
       ]
     },
     "year": "2002"
@@ -6933,7 +6960,7 @@ var data = [
     "name": "Jay Pujara",
     "url": "https://scholar.google.com/citations?user=yvdSr4AAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=yvdSr4AAAAAJ&citpid=2",
-    "affiliation": "Research Assistant Professor, University of Southern California",
+    "affiliation": "Research Associate Professor, University of Southern California",
     "keywords": [
       "Machine Learning",
       "Knowledge Graphs",
@@ -6941,16 +6968,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2443",
-        "1966"
+        "2920",
+        "2256"
       ],
       "hindex": [
-        "26",
-        "22"
+        "28",
+        "24"
       ],
       "i10index": [
-        "54",
-        "43"
+        "65",
+        "51"
       ]
     },
     "year": "2012"
@@ -6966,8 +6993,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6073",
-        "1395"
+        "6256",
+        "1226"
       ],
       "hindex": [
         "42",
@@ -6975,7 +7002,7 @@ var data = [
       ],
       "i10index": [
         "97",
-        "30"
+        "26"
       ]
     },
     "year": "1987"
@@ -6994,16 +7021,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "30956",
-        "7564"
+        "32039",
+        "7067"
       ],
       "hindex": [
-        "73",
-        "37"
+        "75",
+        "36"
       ],
       "i10index": [
-        "245",
-        "113"
+        "251",
+        "111"
       ]
     },
     "year": "1992"
@@ -7022,16 +7049,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "20734",
-        "19023"
+        "26370",
+        "23540"
       ],
       "hindex": [
-        "59",
-        "57"
+        "69",
+        "62"
       ],
       "i10index": [
-        "176",
-        "159"
+        "208",
+        "185"
       ]
     },
     "year": "2015"
@@ -7047,16 +7074,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1070",
-        "804"
+        "1202",
+        "855"
       ],
       "hindex": [
         "19",
-        "14"
+        "13"
       ],
       "i10index": [
-        "24",
-        "15"
+        "27",
+        "17"
       ]
     },
     "year": "2008"
@@ -7075,16 +7102,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "35452",
-        "17582"
+        "39426",
+        "19012"
       ],
       "hindex": [
-        "82",
-        "61"
+        "88",
+        "64"
       ],
       "i10index": [
-        "210",
-        "141"
+        "214",
+        "140"
       ]
     },
     "year": "2001"
@@ -7099,16 +7126,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "50024",
-        "48038"
+        "64677",
+        "61157"
       ],
       "hindex": [
-        "60",
-        "59"
+        "62",
+        "60"
       ],
       "i10index": [
-        "89",
-        "85"
+        "96",
+        "91"
       ]
     },
     "year": "2016"
@@ -7125,25 +7152,25 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15881",
-        "5449"
+        "16280",
+        "4623"
       ],
       "hindex": [
-        "61",
-        "33"
+        "62",
+        "30"
       ],
       "i10index": [
-        "191",
-        "95"
+        "192",
+        "84"
       ]
     },
     "year": "1994"
   },
   {
     "name": "Siva Reddy",
-    "url": "https://scholar.google.com/citations?hl=en&user=LZZAAtoAAAAJ",
+    "url": "https://scholar.google.com/citations?user=LZZAAtoAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=LZZAAtoAAAAJ&citpid=5",
-    "affiliation": "Assistant Professor, Computer Science and Linguistics, McGill University, Mila",
+    "affiliation": "McGill University, Mila Quebec AI Institute",
     "keywords": [
       "Natural Language Processing",
       "Computational Linguistics",
@@ -7152,16 +7179,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7568",
-        "6576"
+        "9865",
+        "8273"
       ],
       "hindex": [
-        "34",
-        "32"
+        "38",
+        "37"
       ],
       "i10index": [
-        "55",
-        "51"
+        "63",
+        "56"
       ]
     },
     "year": "2012"
@@ -7170,29 +7197,28 @@ var data = [
     "name": "Marek Rei",
     "url": "https://scholar.google.ca/citations?user=nNeD95EAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=nNeD95EAAAAJ&citpid=3",
-    "affiliation": "Lecturer, Imperial College London",
+    "affiliation": "Senior Lecturer, Imperial College London",
     "keywords": [
+      "Artificial Intelligence",
+      "Language Modeling",
       "Machine Learning",
-      "Natural Language Processing",
-      "Neural Networks",
-      "Compositional Models",
-      "Language Modeling"
+      "Natural Language Processing"
     ],
     "stats": {
       "citations": [
-        "2340",
-        "1944"
+        "2620",
+        "1872"
       ],
       "hindex": [
-        "23",
+        "26",
         "22"
       ],
       "i10index": [
-        "30",
-        "28"
+        "35",
+        "33"
       ]
     },
-    "year": "2011"
+    "year": "2015"
   },
   {
     "name": "Ehud Reiter",
@@ -7208,15 +7234,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16108",
-        "7150"
+        "17287",
+        "7433"
       ],
       "hindex": [
-        "57",
-        "38"
+        "58",
+        "40"
       ],
       "i10index": [
-        "143",
+        "150",
         "89"
       ]
     },
@@ -7235,19 +7261,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18478",
-        "16169"
+        "22150",
+        "18604"
       ],
       "hindex": [
-        "64",
-        "58"
+        "70",
+        "62"
       ],
       "i10index": [
-        "218",
-        "204"
+        "236",
+        "216"
       ]
     },
-    "year": "2009"
+    "year": "2012"
   },
   {
     "name": "Philip Resnik",
@@ -7260,16 +7286,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "23981",
-        "6009"
+        "24893",
+        "5714"
       ],
       "hindex": [
-        "61",
-        "37"
+        "64",
+        "39"
       ],
       "i10index": [
-        "151",
-        "96"
+        "156",
+        "88"
       ]
     },
     "year": "1995"
@@ -7281,22 +7307,22 @@ var data = [
     "affiliation": "Principal Research Scientist, Noah's Ark Lab, Huawei Technologies",
     "keywords": [
       "Machine Learning",
-      "Natural Language Processing",
+      "Efficient NLP/LLMs",
       "Computer Vision",
       "Deep Learning"
     ],
     "stats": {
       "citations": [
-        "1553",
-        "1434"
+        "2066",
+        "1893"
       ],
       "hindex": [
-        "21",
-        "21"
+        "25",
+        "25"
       ],
       "i10index": [
-        "33",
-        "30"
+        "45",
+        "41"
       ]
     },
     "year": "2011"
@@ -7313,16 +7339,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21711",
-        "7940"
+        "22474",
+        "7247"
       ],
       "hindex": [
-        "48",
-        "32"
+        "47",
+        "28"
       ],
       "i10index": [
         "80",
-        "53"
+        "48"
       ]
     },
     "year": "2003"
@@ -7339,19 +7365,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "29908",
-        "24961"
+        "39925",
+        "33248"
       ],
       "hindex": [
-        "68",
-        "56"
+        "73",
+        "61"
       ],
       "i10index": [
-        "134",
-        "115"
+        "142",
+        "118"
       ]
     },
-    "year": "2008"
+    "year": "2009"
   },
   {
     "name": "Ellen Riloff",
@@ -7363,12 +7389,12 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16472",
-        "3485"
+        "16842",
+        "3148"
       ],
       "hindex": [
-        "57",
-        "28"
+        "58",
+        "27"
       ],
       "i10index": [
         "99",
@@ -7390,16 +7416,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4753",
-        "1257"
+        "4840",
+        "1047"
       ],
       "hindex": [
         "33",
-        "19"
+        "18"
       ],
       "i10index": [
         "64",
-        "27"
+        "25"
       ]
     },
     "year": "1996"
@@ -7417,16 +7443,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13033",
-        "7396"
+        "13835",
+        "6608"
       ],
       "hindex": [
-        "36",
-        "30"
+        "39",
+        "31"
       ],
       "i10index": [
-        "56",
-        "53"
+        "62",
+        "58"
       ]
     },
     "year": "2010"
@@ -7441,16 +7467,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7204",
-        "2149"
+        "7491",
+        "2030"
       ],
       "hindex": [
-        "40",
+        "42",
         "25"
       ],
       "i10index": [
-        "113",
-        "49"
+        "114",
+        "43"
       ]
     },
     "year": "2001"
@@ -7467,16 +7493,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5276",
-        "3938"
+        "5796",
+        "4163"
       ],
       "hindex": [
-        "36",
-        "29"
+        "37",
+        "32"
       ],
       "i10index": [
-        "87",
-        "73"
+        "95",
+        "78"
       ]
     },
     "year": "2007"
@@ -7485,26 +7511,26 @@ var data = [
     "name": "Haggai Roitman",
     "url": "https://scholar.google.com/citations?user=a6h-qIkAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=a6h-qIkAAAAJ&citpid=17",
-    "affiliation": "eBay & Ben Gurion University of the Negev",
+    "affiliation": "Ben Gurion University of the Negev",
     "keywords": [
       "Information Retrieval",
-      "NLP",
       "Recommender Systems",
-      "Social Media",
-      "Trance DJ"
+      "NLP",
+      "eCommerce",
+      "Social Media"
     ],
     "stats": {
       "citations": [
-        "2667",
-        "1446"
+        "2821",
+        "1389"
       ],
       "hindex": [
         "29",
-        "21"
+        "20"
       ],
       "i10index": [
-        "66",
-        "42"
+        "71",
+        "43"
       ]
     },
     "year": "2006"
@@ -7512,8 +7538,8 @@ var data = [
   {
     "name": "Carolyn Penstein Rose",
     "url": "https://scholar.google.com/citations?user=BMydCgcAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BMydCgcAAAAJ&citpid=2",
-    "affiliation": "Language Technologies Institute and Human-Computer Interaction Institute, Carnegie Mellon University",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=BMydCgcAAAAJ&citpid=3",
+    "affiliation": "Kavcic-Moura Professor of Language Technologies and HCI, Carnegie Mellon University",
     "keywords": [
       "Computational Linguistics",
       "Discourse Analysis",
@@ -7521,16 +7547,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17796",
-        "8305"
+        "18971",
+        "8088"
       ],
       "hindex": [
-        "64",
-        "43"
+        "67",
+        "42"
       ],
       "i10index": [
-        "266",
-        "169"
+        "280",
+        "166"
       ]
     },
     "year": "2000"
@@ -7549,16 +7575,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "23341",
-        "13289"
+        "25319",
+        "13088"
       ],
       "hindex": [
-        "78",
-        "59"
+        "80",
+        "57"
       ],
       "i10index": [
-        "351",
-        "233"
+        "368",
+        "234"
       ]
     },
     "year": "2006"
@@ -7576,16 +7602,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "42371",
-        "19659"
+        "46617",
+        "21055"
       ],
       "hindex": [
-        "100",
-        "71"
+        "106",
+        "72"
       ],
       "i10index": [
-        "419",
-        "285"
+        "445",
+        "297"
       ]
     },
     "year": "1999"
@@ -7603,16 +7629,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "44839",
-        "20951"
+        "48760",
+        "22149"
       ],
       "hindex": [
-        "62",
-        "28"
+        "61",
+        "31"
       ],
       "i10index": [
-        "137",
-        "55"
+        "144",
+        "58"
       ]
     },
     "year": "1988"
@@ -7625,16 +7651,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "3259",
-        "3006"
+        "3817",
+        "3223"
       ],
       "hindex": [
-        "23",
-        "22"
+        "24",
+        "23"
       ],
       "i10index": [
-        "29",
-        "26"
+        "33",
+        "30"
       ]
     },
     "year": "2015"
@@ -7653,16 +7679,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6940",
-        "5610"
+        "7987",
+        "6158"
       ],
       "hindex": [
-        "41",
-        "36"
+        "43",
+        "37"
       ],
       "i10index": [
-        "116",
-        "102"
+        "126",
+        "106"
       ]
     },
     "year": "2011"
@@ -7678,16 +7704,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6368",
-        "4780"
+        "7288",
+        "5336"
       ],
       "hindex": [
-        "34",
+        "38",
         "28"
       ],
       "i10index": [
-        "71",
-        "46"
+        "72",
+        "45"
       ]
     },
     "year": "2004"
@@ -7703,16 +7729,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "34020",
-        "29099"
+        "40122",
+        "32075"
       ],
       "hindex": [
-        "62",
-        "57"
+        "66",
+        "58"
       ],
       "i10index": [
-        "121",
-        "113"
+        "129",
+        "120"
       ]
     },
     "year": "2012"
@@ -7729,16 +7755,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6514",
-        "2833"
+        "6743",
+        "2541"
       ],
       "hindex": [
-        "35",
-        "23"
+        "36",
+        "22"
       ],
       "i10index": [
         "66",
-        "34"
+        "28"
       ]
     },
     "year": "2005"
@@ -7754,16 +7780,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5139",
-        "1882"
+        "5340",
+        "1754"
       ],
       "hindex": [
-        "35",
-        "25"
+        "37",
+        "23"
       ],
       "i10index": [
-        "74",
-        "44"
+        "79",
+        "46"
       ]
     },
     "year": "2005"
@@ -7780,16 +7806,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10051",
-        "4513"
+        "10709",
+        "4370"
       ],
       "hindex": [
-        "49",
-        "32"
+        "51",
+        "33"
       ],
       "i10index": [
-        "168",
-        "100"
+        "178",
+        "103"
       ]
     },
     "year": "2001"
@@ -7806,15 +7832,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3801",
-        "3426"
+        "4890",
+        "4280"
       ],
       "hindex": [
-        "27",
-        "25"
+        "29",
+        "27"
       ],
       "i10index": [
-        "36",
+        "39",
         "32"
       ]
     },
@@ -7833,16 +7859,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4685",
-        "1176"
+        "4821",
+        "1073"
       ],
       "hindex": [
-        "33",
+        "34",
         "18"
       ],
       "i10index": [
-        "74",
-        "37"
+        "78",
+        "30"
       ]
     },
     "year": "1998"
@@ -7861,15 +7887,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "745",
-        "552"
+        "846",
+        "557"
       ],
       "hindex": [
-        "14",
-        "10"
+        "15",
+        "11"
       ],
       "i10index": [
-        "20",
+        "21",
         "12"
       ]
     },
@@ -7887,16 +7913,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6789",
-        "3365"
+        "7160",
+        "3062"
       ],
       "hindex": [
-        "27",
+        "28",
         "21"
       ],
       "i10index": [
-        "55",
-        "48"
+        "58",
+        "47"
       ]
     },
     "year": "2011"
@@ -7911,16 +7937,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11334",
-        "3449"
+        "11720",
+        "3182"
       ],
       "hindex": [
-        "44",
-        "22"
+        "45",
+        "20"
       ],
       "i10index": [
-        "101",
-        "42"
+        "103",
+        "41"
       ]
     },
     "year": "1997"
@@ -7938,16 +7964,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21516",
-        "18205"
+        "24126",
+        "18396"
       ],
       "hindex": [
-        "47",
-        "42"
+        "50",
+        "45"
       ],
       "i10index": [
-        "100",
-        "87"
+        "105",
+        "90"
       ]
     },
     "year": "2013"
@@ -7964,19 +7990,46 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6230",
-        "4238"
+        "11243",
+        "8958"
       ],
       "hindex": [
-        "32",
-        "21"
+        "36",
+        "24"
       ],
       "i10index": [
-        "70",
-        "38"
+        "77",
+        "43"
       ]
     },
-    "year": "2004"
+    "year": "2006"
+  },
+  {
+    "name": "Freda Shi",
+    "url": "https://scholar.google.com/citations?user=jkDd-3QAAAAJ",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=jkDd-3QAAAAJ&citpid=17",
+    "affiliation": "Assistant Professor of Computer Science, University of Waterloo",
+    "keywords": [
+      "Grounded Language Learning",
+      "Multilingualism",
+      "Computational Linguistics",
+      "Artificial Intelligence"
+    ],
+    "stats": {
+      "citations": [
+        "2799",
+        "2760"
+      ],
+      "hindex": [
+        "14",
+        "14"
+      ],
+      "i10index": [
+        "17",
+        "16"
+      ]
+    },
+    "year": "2018"
   },
   {
     "name": "Shuming Shi",
@@ -7992,16 +8045,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7703",
-        "5897"
+        "9688",
+        "7447"
       ],
       "hindex": [
-        "46",
-        "38"
+        "50",
+        "44"
       ],
       "i10index": [
-        "143",
-        "113"
+        "170",
+        "134"
       ]
     },
     "year": "2004"
@@ -8017,19 +8070,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "18788",
-        "5177"
+        "19965",
+        "5567"
       ],
       "hindex": [
         "63",
-        "32"
+        "29"
       ],
       "i10index": [
-        "131",
-        "66"
+        "134",
+        "61"
       ]
     },
-    "year": "1985"
+    "year": "1986"
   },
   {
     "name": "Chaitanya Shivade",
@@ -8043,15 +8096,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1619",
-        "1226"
+        "1812",
+        "1228"
       ],
       "hindex": [
         "17",
-        "16"
+        "17"
       ],
       "i10index": [
-        "22",
+        "23",
         "19"
       ]
     },
@@ -8071,16 +8124,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2710",
-        "2481"
+        "3189",
+        "2724"
       ],
       "hindex": [
-        "25",
-        "24"
+        "26",
+        "23"
       ],
       "i10index": [
-        "36",
-        "34"
+        "38",
+        "33"
       ]
     },
     "year": "2016"
@@ -8098,16 +8151,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3151",
-        "2432"
+        "3832",
+        "2757"
       ],
       "hindex": [
-        "33",
-        "27"
+        "35",
+        "28"
       ],
       "i10index": [
-        "66",
-        "52"
+        "80",
+        "58"
       ]
     },
     "year": "2006"
@@ -8116,7 +8169,7 @@ var data = [
     "name": "Sameer Singh",
     "url": "https://scholar.google.com/citations?user=-hGZC54AAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=-hGZC54AAAAJ&citpid=8",
-    "affiliation": "Associate Professor, UC Irvine",
+    "affiliation": "Professor, UC Irvine | CTO, Spiffy AI",
     "keywords": [
       "AI",
       "Machine Learning",
@@ -8125,19 +8178,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "37600",
-        "34682"
+        "45202",
+        "39977"
       ],
       "hindex": [
-        "58",
-        "54"
+        "65",
+        "58"
       ],
       "i10index": [
-        "137",
-        "115"
+        "147",
+        "126"
       ]
     },
-    "year": "2013"
+    "year": "2014"
   },
   {
     "name": "David A. Smith",
@@ -8153,16 +8206,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6272",
-        "1496"
+        "6416",
+        "1338"
       ],
       "hindex": [
         "34",
         "16"
       ],
       "i10index": [
-        "106",
-        "27"
+        "108",
+        "23"
       ]
     },
     "year": "1987"
@@ -8175,23 +8228,24 @@ var data = [
     "keywords": [
       "natural language processing",
       "machine learning",
-      "computational social science"
+      "computational social science",
+      "computer music"
     ],
     "stats": {
       "citations": [
-        "53009",
-        "35177"
+        "61009",
+        "39178"
       ],
       "hindex": [
-        "113",
-        "90"
+        "119",
+        "89"
       ],
       "i10index": [
-        "342",
-        "283"
+        "354",
+        "288"
       ]
     },
-    "year": "2006"
+    "year": "2007"
   },
   {
     "name": "Richard Socher",
@@ -8207,19 +8261,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "180409",
-        "144414"
+        "203608",
+        "147860"
       ],
       "hindex": [
-        "101",
-        "100"
+        "109",
+        "105"
       ],
       "i10index": [
-        "230",
-        "221"
+        "239",
+        "226"
       ]
     },
-    "year": "2012"
+    "year": "2013"
   },
   {
     "name": "Luca Soldaini",
@@ -8227,22 +8281,22 @@ var data = [
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=3KPvwcgAAAAJ&citpid=8",
     "affiliation": "Allen Institute for AI",
     "keywords": [
-      "Natural Language Processing",
-      "Information Retrieval",
-      "Open Source Science"
+      "Large Language Models",
+      "Open Source AI",
+      "Information Retrieval"
     ],
     "stats": {
       "citations": [
-        "1336",
-        "1188"
+        "2265",
+        "2014"
       ],
       "hindex": [
-        "19",
-        "18"
+        "23",
+        "21"
       ],
       "i10index": [
-        "35",
-        "31"
+        "47",
+        "42"
       ]
     },
     "year": "2015"
@@ -8257,19 +8311,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "5639",
-        "3812"
+        "6277",
+        "3896"
       ],
       "hindex": [
-        "38",
-        "30"
+        "40",
+        "31"
       ],
       "i10index": [
-        "101",
-        "74"
+        "108",
+        "73"
       ]
     },
-    "year": "2004"
+    "year": "2005"
   },
   {
     "name": "Anders Søgaard",
@@ -8282,16 +8336,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10365",
-        "7822"
+        "11427",
+        "7614"
       ],
       "hindex": [
-        "47",
-        "42"
+        "50",
+        "41"
       ],
       "i10index": [
-        "157",
-        "128"
+        "164",
+        "129"
       ]
     },
     "year": "2009"
@@ -8310,41 +8364,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14337",
-        "9867"
-      ],
-      "hindex": [
-        "56",
-        "49"
-      ],
-      "i10index": [
-        "159",
-        "137"
-      ]
-    },
-    "year": "2008"
-  },
-  {
-    "name": "Lucia Specia",
-    "url": "https://scholar.google.com/citations?user=wVl_z8kAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=wVl_z8kAAAAJ&citpid=2",
-    "affiliation": "Professor, Imperial College London and Chief Scientist at Contex.ai",
-    "keywords": [],
-    "stats": {
-      "citations": [
-        "18072",
-        "11321"
+        "16452",
+        "10890"
       ],
       "hindex": [
         "59",
-        "51"
+        "50"
       ],
       "i10index": [
-        "196",
-        "138"
+        "178",
+        "148"
       ]
     },
-    "year": "2007"
+    "year": "2008"
   },
   {
     "name": "Karen Spärck Jones",
@@ -8357,44 +8389,40 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "25022",
-        "5122"
+        "25751",
+        "4859"
       ],
       "hindex": [
         "58",
-        "19"
+        "18"
       ],
       "i10index": [
-        "132",
-        "30"
+        "131",
+        "29"
       ]
     },
-    "year": "1985"
+    "year": "1986"
   },
   {
     "name": "Richard Sproat",
-    "url": "https://scholar.google.com/citations?user=LNDGglkAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=LNDGglkAAAAJ&citpid=2",
-    "affiliation": "Google",
+    "url": "https://scholar.google.com/citations?user=b7W7wR0AAAAJ",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=b7W7wR0AAAAJ&citpid=1",
+    "affiliation": "Sakana.ai",
     "keywords": [
-      "Computational linguistics",
-      "computational morphology",
-      "finite-state algorithms",
-      "text-to-speech synthesis",
-      "writing systems"
+      "computational linguistics"
     ],
     "stats": {
       "citations": [
-        "15180",
-        "3539"
+        "18580",
+        "3706"
       ],
       "hindex": [
-        "51",
-        "27"
+        "63",
+        "29"
       ],
       "i10index": [
-        "160",
-        "65"
+        "200",
+        "69"
       ]
     },
     "year": "1989"
@@ -8412,16 +8440,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "26368",
-        "5635"
+        "27108",
+        "5084"
       ],
       "hindex": [
         "69",
-        "38"
+        "34"
       ],
       "i10index": [
-        "177",
-        "96"
+        "178",
+        "95"
       ]
     },
     "year": "1987"
@@ -8438,16 +8466,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6436",
-        "6194"
+        "8112",
+        "7469"
       ],
       "hindex": [
-        "22",
-        "21"
+        "23",
+        "22"
       ],
       "i10index": [
-        "33",
-        "29"
+        "37",
+        "32"
       ]
     },
     "year": "2016"
@@ -8463,16 +8491,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1960",
-        "949"
+        "2117",
+        "944"
       ],
       "hindex": [
         "22",
         "14"
       ],
       "i10index": [
-        "44",
-        "22"
+        "49",
+        "23"
       ]
     },
     "year": "2006"
@@ -8489,16 +8517,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "44833",
-        "37132"
+        "53605",
+        "42496"
       ],
       "hindex": [
-        "95",
-        "86"
+        "103",
+        "92"
       ],
       "i10index": [
-        "366",
-        "270"
+        "409",
+        "309"
       ]
     },
     "year": "2005"
@@ -8516,19 +8544,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11050",
-        "9840"
+        "13777",
+        "11874"
       ],
       "hindex": [
-        "57",
-        "50"
+        "61",
+        "52"
       ],
       "i10index": [
-        "151",
-        "138"
+        "170",
+        "148"
       ]
     },
-    "year": "2010"
+    "year": "2011"
   },
   {
     "name": "Mihai Surdeanu",
@@ -8542,15 +8570,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "20070",
-        "9414"
+        "21025",
+        "8191"
       ],
       "hindex": [
-        "46",
-        "31"
+        "47",
+        "30"
       ],
       "i10index": [
-        "104",
+        "110",
         "69"
       ]
     },
@@ -8567,16 +8595,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21961",
-        "5992"
+        "22559",
+        "5225"
       ],
       "hindex": [
         "75",
-        "34"
+        "31"
       ],
       "i10index": [
-        "321",
-        "130"
+        "325",
+        "106"
       ]
     },
     "year": "2001"
@@ -8593,16 +8621,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "21274",
-        "5766"
+        "21764",
+        "5049"
       ],
       "hindex": [
         "62",
-        "33"
+        "31"
       ],
       "i10index": [
         "103",
-        "70"
+        "66"
       ]
     },
     "year": "2003"
@@ -8620,16 +8648,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10251",
-        "6246"
+        "11227",
+        "6226"
       ],
       "hindex": [
-        "45",
-        "34"
+        "47",
+        "35"
       ],
       "i10index": [
-        "114",
-        "79"
+        "117",
+        "82"
       ]
     },
     "year": "2004"
@@ -8641,23 +8669,24 @@ var data = [
     "affiliation": "University of Edinburgh / University of Amsterdam",
     "keywords": [
       "natural language processing",
-      "machine learning"
+      "machine learning",
+      "interpretability"
     ],
     "stats": {
       "citations": [
-        "17615",
-        "14115"
+        "19804",
+        "14970"
       ],
       "hindex": [
         "52",
         "42"
       ],
       "i10index": [
-        "94",
-        "75"
+        "96",
+        "72"
       ]
     },
-    "year": "2008"
+    "year": "2009"
   },
   {
     "name": "Kristina Toutanova",
@@ -8670,19 +8699,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "123274",
-        "113708"
+        "147906",
+        "132907"
       ],
       "hindex": [
-        "51",
+        "53",
         "31"
       ],
       "i10index": [
-        "98",
-        "59"
+        "99",
+        "54"
       ]
     },
-    "year": "2008"
+    "year": "2009"
   },
   {
     "name": "David Traum",
@@ -8698,16 +8727,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17343",
-        "4957"
+        "18237",
+        "4951"
       ],
       "hindex": [
-        "64",
-        "33"
+        "67",
+        "32"
       ],
       "i10index": [
-        "219",
-        "102"
+        "224",
+        "101"
       ]
     },
     "year": "1994"
@@ -8723,16 +8752,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3591",
-        "1448"
+        "3805",
+        "1413"
       ],
       "hindex": [
         "28",
         "18"
       ],
       "i10index": [
-        "67",
-        "27"
+        "70",
+        "26"
       ]
     },
     "year": "2005"
@@ -8750,19 +8779,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "23118",
-        "5244"
+        "23728",
+        "4678"
       ],
       "hindex": [
         "70",
-        "33"
+        "31"
       ],
       "i10index": [
         "279",
-        "88"
+        "73"
       ]
     },
-    "year": "1998"
+    "year": "1994"
   },
   {
     "name": "Yoshimasa Tsuruoka",
@@ -8776,16 +8805,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8293",
-        "3027"
+        "8622",
+        "2670"
       ],
       "hindex": [
         "43",
-        "25"
+        "23"
       ],
       "i10index": [
-        "93",
-        "54"
+        "95",
+        "47"
       ]
     },
     "year": "2003"
@@ -8800,16 +8829,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8220",
-        "7064"
+        "10390",
+        "8656"
       ],
       "hindex": [
-        "44",
-        "42"
+        "50",
+        "48"
       ],
       "i10index": [
-        "100",
-        "94"
+        "118",
+        "112"
       ]
     },
     "year": "2014"
@@ -8820,29 +8849,30 @@ var data = [
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=IvE2zRgAAAAJ&citpid=17",
     "affiliation": "Principal Researcher, Tencent AI Lab",
     "keywords": [
+      "Large Language Models",
       "Natural Language Processing",
       "Machine Translation"
     ],
     "stats": {
       "citations": [
-        "7639",
-        "6598"
+        "9251",
+        "7453"
       ],
       "hindex": [
-        "43",
-        "41"
+        "47",
+        "44"
       ],
       "i10index": [
-        "102",
-        "94"
+        "117",
+        "107"
       ]
     },
-    "year": "2013"
+    "year": "2015"
   },
   {
     "name": "Shyam Upadhyay",
     "url": "https://scholar.google.com/citations?user=i7lw4LwAAAAJ",
-    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=i7lw4LwAAAAJ&citpid=1",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=i7lw4LwAAAAJ&citpid=4",
     "affiliation": "Staff Research Scientist, Google",
     "keywords": [
       "Natural Language Processing",
@@ -8850,19 +8880,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3190",
-        "2947"
+        "7468",
+        "7041"
       ],
       "hindex": [
-        "20",
-        "17"
+        "22",
+        "19"
       ],
       "i10index": [
-        "29",
-        "25"
+        "32",
+        "29"
       ]
     },
-    "year": "2015"
+    "year": "2016"
   },
   {
     "name": "Dmitry Ustalov",
@@ -8877,16 +8907,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "1044",
-        "635"
+        "1205",
+        "668"
       ],
       "hindex": [
-        "16",
-        "13"
+        "17",
+        "14"
       ],
       "i10index": [
-        "28",
-        "19"
+        "36",
+        "24"
       ]
     },
     "year": "2012"
@@ -8901,16 +8931,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2084",
-        "1472"
+        "2343",
+        "1498"
       ],
       "hindex": [
-        "21",
-        "17"
+        "22",
+        "19"
       ],
       "i10index": [
-        "29",
-        "24"
+        "30",
+        "25"
       ]
     },
     "year": "2012"
@@ -8927,16 +8957,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13704",
-        "9622"
+        "15180",
+        "9788"
       ],
       "hindex": [
-        "60",
+        "63",
         "48"
       ],
       "i10index": [
-        "164",
-        "131"
+        "180",
+        "136"
       ]
     },
     "year": "2009"
@@ -8954,16 +8984,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7653",
-        "2758"
+        "7962",
+        "2512"
       ],
       "hindex": [
-        "43",
+        "45",
         "23"
       ],
       "i10index": [
-        "200",
-        "67"
+        "205",
+        "62"
       ]
     },
     "year": "1999"
@@ -8978,16 +9008,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3800",
-        "2149"
+        "4102",
+        "2239"
       ],
       "hindex": [
         "24",
         "18"
       ],
       "i10index": [
-        "40",
-        "25"
+        "46",
+        "26"
       ]
     },
     "year": "2005"
@@ -9006,16 +9036,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11618",
-        "7143"
+        "12744",
+        "7073"
       ],
       "hindex": [
-        "50",
+        "51",
         "40"
       ],
       "i10index": [
-        "174",
-        "128"
+        "186",
+        "132"
       ]
     },
     "year": "2002"
@@ -9034,16 +9064,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "272514",
-        "231595"
+        "318075",
+        "248697"
       ],
       "hindex": [
-        "104",
-        "99"
+        "109",
+        "101"
       ],
       "i10index": [
-        "176",
-        "154"
+        "178",
+        "158"
       ]
     },
     "year": "2015"
@@ -9059,16 +9089,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "7721",
-        "6009"
+        "8991",
+        "6659"
       ],
       "hindex": [
-        "41",
-        "32"
+        "42",
+        "35"
       ],
       "i10index": [
-        "74",
-        "57"
+        "81",
+        "61"
       ]
     },
     "year": "2007"
@@ -9084,16 +9114,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10522",
-        "2782"
+        "10908",
+        "2639"
       ],
       "hindex": [
-        "53",
+        "54",
         "27"
       ],
       "i10index": [
-        "162",
-        "66"
+        "165",
+        "62"
       ]
     },
     "year": "2000"
@@ -9102,7 +9132,7 @@ var data = [
     "name": "Svitlana Volkova",
     "url": "https://scholar.google.com/citations?user=DwrriFYAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=DwrriFYAAAAJ&citpid=2",
-    "affiliation": "Chief AI Scientist, Office of Science and Technology, Aptima Inc.",
+    "affiliation": "Chief of AI, Office of Science and Technology, Aptima Inc.",
     "keywords": [
       "Artificial Intelligence",
       "Machine Learning",
@@ -9110,8 +9140,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4052",
-        "3166"
+        "4367",
+        "2998"
       ],
       "hindex": [
         "28",
@@ -9119,7 +9149,7 @@ var data = [
       ],
       "i10index": [
         "55",
-        "46"
+        "43"
       ]
     },
     "year": "2013"
@@ -9135,25 +9165,25 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3669",
-        "2644"
+        "3967",
+        "2562"
       ],
       "hindex": [
-        "28",
-        "23"
+        "29",
+        "21"
       ],
       "i10index": [
-        "49",
-        "35"
+        "50",
+        "34"
       ]
     },
-    "year": "1995"
+    "year": "2002"
   },
   {
     "name": "Ivan Vulić",
     "url": "https://scholar.google.com/citations?user=ZX8js60AAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZX8js60AAAAJ&citpid=14",
-    "affiliation": "Principal Research Associate, University of Cambridge & PolyAI",
+    "affiliation": "Google DeepMind & University of Cambridge",
     "keywords": [
       "Natural Language Processing",
       "Machine Learning",
@@ -9162,19 +9192,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11042",
-        "9745"
+        "12663",
+        "10491"
       ],
       "hindex": [
-        "54",
+        "57",
         "50"
       ],
       "i10index": [
-        "140",
-        "132"
+        "150",
+        "140"
       ]
     },
-    "year": "2013"
+    "year": "2014"
   },
   {
     "name": "Alex Waibel",
@@ -9189,16 +9219,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "41633",
-        "10136"
+        "41313",
+        "8566"
       ],
       "hindex": [
-        "98",
-        "43"
+        "97",
+        "42"
       ],
       "i10index": [
-        "484",
-        "164"
+        "500",
+        "160"
       ]
     },
     "year": "1989"
@@ -9216,19 +9246,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "32797",
-        "25806"
+        "36587",
+        "25365"
       ],
       "hindex": [
-        "54",
-        "48"
+        "57",
+        "50"
       ],
       "i10index": [
-        "122",
-        "111"
+        "131",
+        "115"
       ]
     },
-    "year": "2011"
+    "year": "2012"
   },
   {
     "name": "Marilyn Walker",
@@ -9244,16 +9274,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19730",
-        "6220"
+        "20403",
+        "5529"
       ],
       "hindex": [
-        "78",
-        "42"
+        "79",
+        "39"
       ],
       "i10index": [
-        "205",
-        "126"
+        "214",
+        "117"
       ]
     },
     "year": "1994"
@@ -9271,16 +9301,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17678",
-        "16606"
+        "22501",
+        "20314"
       ],
       "hindex": [
-        "64",
-        "60"
+        "72",
+        "69"
       ],
       "i10index": [
-        "189",
-        "178"
+        "227",
+        "214"
       ]
     },
     "year": "2013"
@@ -9297,8 +9327,8 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15419",
-        "3251"
+        "15867",
+        "3003"
       ],
       "hindex": [
         "60",
@@ -9306,10 +9336,10 @@ var data = [
       ],
       "i10index": [
         "180",
-        "65"
+        "58"
       ]
     },
-    "year": "1985"
+    "year": "1986"
   },
   {
     "name": "Furu Wei",
@@ -9318,26 +9348,26 @@ var data = [
     "affiliation": "Partner Research Manager, Microsoft Research",
     "keywords": [
       "Natural Language Processing",
-      "Foundation Models",
+      "Artificial Intelligence",
       "General AI",
       "Generative AI",
       "Multimodal AI"
     ],
     "stats": {
       "citations": [
-        "40241",
-        "34443"
+        "52046",
+        "43766"
       ],
       "hindex": [
-        "92",
-        "82"
+        "102",
+        "92"
       ],
       "i10index": [
-        "257",
-        "242"
+        "296",
+        "277"
       ]
     },
-    "year": "2011"
+    "year": "2012"
   },
   {
     "name": "Ralph Weischedel",
@@ -9350,16 +9380,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "14485",
-        "4381"
+        "14977",
+        "4257"
       ],
       "hindex": [
-        "51",
+        "52",
         "23"
       ],
       "i10index": [
         "93",
-        "44"
+        "38"
       ]
     },
     "year": "1986"
@@ -9378,16 +9408,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "123198",
-        "69632"
+        "130035",
+        "65017"
       ],
       "hindex": [
-        "116",
-        "93"
+        "121",
+        "92"
       ],
       "i10index": [
-        "252",
-        "219"
+        "260",
+        "217"
       ]
     },
     "year": "2003"
@@ -9406,19 +9436,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "28461",
-        "7940"
+        "29237",
+        "6869"
       ],
       "hindex": [
-        "61",
-        "34"
+        "62",
+        "31"
       ],
       "i10index": [
-        "116",
-        "69"
+        "115",
+        "59"
       ]
     },
-    "year": "1997"
+    "year": "1998"
   },
   {
     "name": "Yorick Wilks",
@@ -9432,19 +9462,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "26722",
-        "4116"
+        "27267",
+        "3740"
       ],
       "hindex": [
         "79",
-        "28"
+        "26"
       ],
       "i10index": [
-        "282",
-        "73"
+        "281",
+        "70"
       ]
     },
-    "year": "1985"
+    "year": "1986"
   },
   {
     "name": "Shuly Wintner",
@@ -9458,19 +9488,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "3123",
-        "1323"
+        "3294",
+        "1273"
       ],
       "hindex": [
-        "33",
+        "34",
         "18"
       ],
       "i10index": [
-        "69",
-        "35"
+        "70",
+        "30"
       ]
     },
-    "year": "1997"
+    "year": "1998"
   },
   {
     "name": "kam-Fai Wong",
@@ -9483,16 +9513,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11993",
-        "7064"
+        "13185",
+        "7287"
       ],
       "hindex": [
-        "45",
-        "29"
+        "47",
+        "30"
       ],
       "i10index": [
-        "165",
-        "78"
+        "177",
+        "88"
       ]
     },
     "year": "2000"
@@ -9511,16 +9541,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "6382",
-        "744"
+        "6430",
+        "653"
       ],
       "hindex": [
         "40",
-        "12"
+        "11"
       ],
       "i10index": [
-        "84",
-        "15"
+        "83",
+        "12"
       ]
     },
     "year": "1989"
@@ -9534,20 +9564,21 @@ var data = [
       "LLM/VLM",
       "Robotics",
       "Foundation Models",
-      "General-Purpose Agents"
+      "General-Purpose Agents",
+      "Embodied AI"
     ],
     "stats": {
       "citations": [
-        "13601",
-        "13538"
+        "24691",
+        "24481"
       ],
       "hindex": [
-        "36",
-        "36"
+        "42",
+        "41"
       ],
       "i10index": [
-        "48",
-        "48"
+        "57",
+        "56"
       ]
     },
     "year": "2019"
@@ -9566,19 +9597,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "41232",
-        "38213"
+        "51668",
+        "46055"
       ],
       "hindex": [
-        "93",
-        "93"
+        "103",
+        "101"
       ],
       "i10index": [
-        "269",
-        "256"
+        "304",
+        "291"
       ]
     },
-    "year": "2014"
+    "year": "2015"
   },
   {
     "name": "Wei Xu \"Coco\"",
@@ -9592,16 +9623,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4286",
-        "3221"
+        "4921",
+        "3514"
       ],
       "hindex": [
-        "28",
-        "25"
+        "30",
+        "26"
       ],
       "i10index": [
-        "50",
-        "44"
+        "59",
+        "51"
       ]
     },
     "year": "2008"
@@ -9618,19 +9649,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "10730",
-        "4843"
+        "11291",
+        "4466"
       ],
       "hindex": [
         "45",
-        "32"
+        "30"
       ],
       "i10index": [
-        "91",
-        "63"
+        "96",
+        "60"
       ]
     },
-    "year": "2002"
+    "year": "2004"
   },
   {
     "name": "Rui Yan",
@@ -9646,16 +9677,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "13153",
-        "11213"
+        "15699",
+        "12469"
       ],
       "hindex": [
-        "52",
-        "49"
+        "58",
+        "53"
       ],
       "i10index": [
-        "226",
-        "208"
+        "262",
+        "239"
       ]
     },
     "year": "2012"
@@ -9672,16 +9703,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "16210",
-        "13794"
+        "20477",
+        "16548"
       ],
       "hindex": [
-        "54",
-        "48"
+        "61",
+        "54"
       ],
       "i10index": [
-        "127",
-        "122"
+        "163",
+        "153"
       ]
     },
     "year": "2014"
@@ -9690,23 +9721,23 @@ var data = [
     "name": "Helen Yannakoudakis",
     "url": "https://scholar.google.com/citations?user=B3WGvRsAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=B3WGvRsAAAAJ&citpid=8",
-    "affiliation": "Lecturer, King’s College London",
+    "affiliation": "Senior Lecturer, King’s College London",
     "keywords": [
       "Machine learning",
       "natural language processing"
     ],
     "stats": {
       "citations": [
-        "2787",
-        "2240"
+        "3134",
+        "2282"
       ],
       "hindex": [
-        "25",
-        "24"
+        "27",
+        "25"
       ],
       "i10index": [
-        "39",
-        "36"
+        "41",
+        "37"
       ]
     },
     "year": "2012"
@@ -9719,16 +9750,16 @@ var data = [
     "keywords": [],
     "stats": {
       "citations": [
-        "18568",
-        "4332"
+        "18935",
+        "3794"
       ],
       "hindex": [
         "59",
-        "29"
+        "28"
       ],
       "i10index": [
-        "106",
-        "70"
+        "107",
+        "61"
       ]
     },
     "year": "1994"
@@ -9746,16 +9777,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "2922",
-        "1665"
+        "3318",
+        "1849"
       ],
       "hindex": [
-        "29",
-        "25"
+        "30",
+        "24"
       ],
       "i10index": [
-        "51",
-        "44"
+        "60",
+        "48"
       ]
     },
     "year": "2005"
@@ -9771,16 +9802,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "17411",
-        "14908"
+        "20753",
+        "17000"
       ],
       "hindex": [
-        "42",
-        "38"
+        "43",
+        "37"
       ],
       "i10index": [
-        "54",
-        "51"
+        "58",
+        "55"
       ]
     },
     "year": "2012"
@@ -9789,7 +9820,7 @@ var data = [
     "name": "Scott Wen-tau Yih",
     "url": "https://scholar.google.com/citations?user=8rDNIMsAAAAJ",
     "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=8rDNIMsAAAAJ&citpid=5",
-    "affiliation": "FAIR at Meta",
+    "affiliation": "Meta FAIR",
     "keywords": [
       "Natural Language Processing",
       "Machine Learning",
@@ -9797,16 +9828,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "32497",
-        "23527"
+        "40470",
+        "29107"
       ],
       "hindex": [
-        "73",
-        "55"
+        "78",
+        "62"
       ],
       "i10index": [
-        "140",
-        "122"
+        "152",
+        "128"
       ]
     },
     "year": "2005"
@@ -9823,16 +9854,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "63184",
-        "38291"
+        "68181",
+        "36045"
       ],
       "hindex": [
-        "92",
-        "73"
+        "96",
+        "71"
       ],
       "i10index": [
-        "346",
-        "275"
+        "373",
+        "285"
       ]
     },
     "year": "2009"
@@ -9850,16 +9881,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "4453",
-        "1839"
+        "4711",
+        "1749"
       ],
       "hindex": [
-        "35",
-        "26"
+        "36",
+        "23"
       ],
       "i10index": [
-        "69",
-        "53"
+        "79",
+        "59"
       ]
     },
     "year": "2007"
@@ -9877,19 +9908,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "104287",
-        "95863"
+        "128056",
+        "113815"
       ],
       "hindex": [
-        "108",
-        "100"
+        "121",
+        "109"
       ],
       "i10index": [
-        "246",
-        "227"
+        "263",
+        "241"
       ]
     },
-    "year": "2011"
+    "year": "2012"
   },
   {
     "name": "Qi Zhang",
@@ -9902,19 +9933,19 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9129",
-        "7153"
+        "12021",
+        "9402"
       ],
       "hindex": [
-        "47",
-        "42"
+        "52",
+        "46"
       ],
       "i10index": [
-        "154",
-        "129"
+        "193",
+        "160"
       ]
     },
-    "year": "2008"
+    "year": "2009"
   },
   {
     "name": "Yue Zhang",
@@ -9930,16 +9961,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19036",
-        "15505"
+        "23783",
+        "18636"
       ],
       "hindex": [
-        "73",
-        "66"
+        "80",
+        "71"
       ],
       "i10index": [
-        "220",
-        "203"
+        "247",
+        "225"
       ]
     },
     "year": "2011"
@@ -9957,19 +9988,45 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "12060",
-        "10323"
+        "13795",
+        "10957"
       ],
       "hindex": [
-        "53",
-        "50"
+        "55",
+        "52"
       ],
       "i10index": [
-        "169",
-        "151"
+        "182",
+        "155"
       ]
     },
     "year": "2012"
+  },
+  {
+    "name": "Victor Zhong",
+    "url": "https://scholar.google.com/citations?user=lT3YoNkAAAAJ",
+    "photo": "http://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=lT3YoNkAAAAJ&citpid=11",
+    "affiliation": "Assistant Professor at Cheriton School of Computer Science, University of Waterloo",
+    "keywords": [
+      "artificial intelligence",
+      "machine learning",
+      "natural language processing"
+    ],
+    "stats": {
+      "citations": [
+        "7580",
+        "5845"
+      ],
+      "hindex": [
+        "27",
+        "26"
+      ],
+      "i10index": [
+        "31",
+        "31"
+      ]
+    },
+    "year": "2015"
   },
   {
     "name": "Bowen Zhou",
@@ -9984,15 +10041,15 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "19139",
-        "14967"
+        "21033",
+        "14343"
       ],
       "hindex": [
-        "50",
-        "45"
+        "52",
+        "44"
       ],
       "i10index": [
-        "124",
+        "133",
         "92"
       ]
     },
@@ -10009,16 +10066,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "15091",
-        "7615"
+        "15990",
+        "7303"
       ],
       "hindex": [
-        "56",
+        "57",
         "43"
       ],
       "i10index": [
-        "233",
-        "145"
+        "240",
+        "138"
       ]
     },
     "year": "2004"
@@ -10033,16 +10090,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "51190",
-        "37618"
+        "57230",
+        "39217"
       ],
       "hindex": [
-        "113",
-        "95"
+        "115",
+        "91"
       ],
       "i10index": [
-        "361",
-        "282"
+        "374",
+        "284"
       ]
     },
     "year": "2006"
@@ -10059,16 +10116,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "11422",
-        "7992"
+        "12392",
+        "7602"
       ],
       "hindex": [
-        "42",
-        "36"
+        "44",
+        "35"
       ],
       "i10index": [
-        "87",
-        "75"
+        "95",
+        "83"
       ]
     },
     "year": "2008"
@@ -10085,16 +10142,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "9182",
-        "5777"
+        "10049",
+        "5881"
       ],
       "hindex": [
-        "43",
+        "45",
         "39"
       ],
       "i10index": [
-        "176",
-        "112"
+        "187",
+        "114"
       ]
     },
     "year": "2002"
@@ -10113,16 +10170,16 @@ var data = [
     ],
     "stats": {
       "citations": [
-        "8957",
-        "3231"
+        "9216",
+        "2940"
       ],
       "hindex": [
-        "47",
-        "26"
+        "46",
+        "24"
       ],
       "i10index": [
-        "191",
-        "78"
+        "192",
+        "68"
       ]
     },
     "year": "1995"
