@@ -29,6 +29,22 @@ var scrapeEntry = function(person, doneCallback) {
       }
 
       var rawStats = $('#gsc_rsb_st');
+      var rawYear = $('.gsc_md_hist_b');
+
+      var spanArray = rawYear.find('span');
+      var years = new Array();
+      for(var s=0;s<spanArray.length;s++){
+        years[s] = spanArray[s].children[0].data;
+      }
+
+      var citeyears = new Array();
+      var aArray = rawYear.find('a');
+      for(var s=0;s<aArray.length;s++){
+        citeyears[s] = parseInt(aArray[s].children[0].children[0].data);
+      }
+
+      var cites_by_year = {};
+      years.forEach((key, i) => cites_by_year[key] = citeyears[i]);
 
       var stats = {
         'citations' : [ rawStats[0].children[1].children[0].children[1].children[0].data,
@@ -36,10 +52,9 @@ var scrapeEntry = function(person, doneCallback) {
         'hindex'    : [ rawStats[0].children[1].children[1].children[1].children[0].data,
                         rawStats[0].children[1].children[1].children[2].children[0].data ],
         'i10index'  : [ rawStats[0].children[1].children[2].children[1].children[0].data,
-                        rawStats[0].children[1].children[2].children[2].children[0].data ]
+                        rawStats[0].children[1].children[2].children[2].children[0].data ],
+        'citations_by_year' : cites_by_year
       };
-
-      var rawYear = $('.gsc_md_hist_b');
 
       data = {
         'name' : person,
@@ -48,7 +63,7 @@ var scrapeEntry = function(person, doneCallback) {
         'affiliation' : affiliation,
         'keywords' : keywords,
         'stats' : stats,
-        'year' : rawYear[0].children[0].children[0].data
+        'year' : rawYear[0].children[0].children[0].data,
       };
 
     } catch (ex) {
